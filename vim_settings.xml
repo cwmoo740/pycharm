@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/python/cowlock/server.py" timestamp="1497489594334">
-        <mark key="[" line="1" column="21" />
+      <file name="$USER_HOME$/src/python/cowlock/server.py" timestamp="1497490308263">
+        <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="/Python Console" timestamp="1497490328958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1497490050376">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
