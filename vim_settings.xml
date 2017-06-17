@@ -31,10 +31,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497736463540">
-        <mark key="[" line="16" column="107" />
-        <mark key="]" line="16" column="107" />
-        <mark key="." line="16" column="107" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497737821969">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -46,37 +47,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IChmb3IgdGhlIHRlc3RzIHRvIHdvcmsuKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBHcmFwaCBpbXBvcnQgQmF5ZXNOZXQK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGdhZ2UnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIEJheWVzTm9kZSgwLCAyLCBuYW1lPSdnYXVnZScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZ2F1Z2UnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgJ3BibnQvY29tYmluZWQnIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmFwcGVuZCgncGJudC9jb21iaW5lZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGFsYXJtJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYoJ3BibnQvY29tYmluZWQnIG5vdCBpbiBzeXMucGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nYWxhcm0nKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLmFkZF91cmxfcnVsZSgnL2dyYXBocWwnLCB2aWV3X2Z1bmM9R3JhcGhRTFZpZXcuYXNfdmlldygnZ3JhcGhxbCcsIHNjaGVtYT1zY2hlbWEsIGdyYXBoaXFsPVRydWUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1dWlkIFVVSUQgTk9UIE5VTEwgVU5JUVVFLAo=</text>
+        <text encoding="base64">ZnJvbSBHcmFwaCBpbXBvcnQgQmF5ZXNOZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIFVTRVJTCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChmb3IgdGhlIHRlc3RzIHRvIHdvcmsuKQ==</text>
+        <text>Node</text>
       </register>
     </registers>
     <search>
