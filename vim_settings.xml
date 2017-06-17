@@ -31,11 +31,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497737821969">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497739532831">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -47,34 +47,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGdhZ2UnKSwK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24gICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJheWVzTm9kZSgwLCAyLCBuYW1lPSdnYXVnZScpLAo=</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZ2F1Z2UnKSwK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGdhZ2UnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGFsYXJtJyksCg==</text>
+        <text encoding="base64">ICAgIEJheWVzTm9kZSgwLCAyLCBuYW1lPSdnYXVnZScpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nYWxhcm0nKSwK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZ2F1Z2UnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGFsYXJtJyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBHcmFwaCBpbXBvcnQgQmF5ZXNOZXQK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nYWxhcm0nKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Node</text>
