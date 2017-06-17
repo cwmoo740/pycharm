@@ -31,11 +31,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497739532831">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497740877395">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="55" column="57" />
+        <mark key="." line="55" column="57" />
+        <mark key="^" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -46,38 +46,38 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnJvbSBleGFtcGxlaW5mZXJlbmNlIGltcG9ydCBpbmZlcmVuY2VFeGFtcGxlCgojIFNob3VsZCBvdXRwdXQ6CiMgKCdUaGUgbWFyZ2luYWwgcHJvYmFiaWxpdHkgb2Ygc3ByaW5rbGVyPWZhbHNlOicsIDAuODAxMDI5MjEpCiMgKCdUaGUgbWFyZ2luYWwgcHJvYmFiaWxpdHkgb2Ygd2V0Z3Jhc3M9ZmFsc2UgfCBjbG91ZHk9RmFsc2UsIHJhaW49VHJ1ZTonLCAwLjA1NSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      <register name="&quot;" type="4">
+        <text>T_node</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24gICAgCg==</text>
+        <text encoding="base64">aW5mZXJlbmNlRXhhbXBsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGdhZ2UnKSwK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24gICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJheWVzTm9kZSgwLCAyLCBuYW1lPSdnYXVnZScpLAo=</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0ndGVtcGVyYXR1cmUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZ2F1Z2UnKSwK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGdhZ2UnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGFsYXJtJyksCg==</text>
+        <text encoding="base64">ICAgIEJheWVzTm9kZSgwLCAyLCBuYW1lPSdnYXVnZScpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nYWxhcm0nKSwK</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZ2F1Z2UnKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXllc05vZGUoMCwgMiwgbmFtZT0nZmF1bHR5IGFsYXJtJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Node</text>
+        <text>T_node</text>
       </register>
     </registers>
     <search>
