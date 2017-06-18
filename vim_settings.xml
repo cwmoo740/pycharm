@@ -31,11 +31,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497819866325">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497822928082">
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="19" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -49,8 +49,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1. - p_temp</text>
       </register>
       <register name="2" type="4">
         <text>p_faulty_alarm = 0.15
@@ -83,7 +83,7 @@ p_temp = 0.2</text>
         <text encoding="base64">IGdhdWdlX2Rpc3RbMCw6XT1bMC4wNSwwLjk1XQogICAgZ2F1Z2VfZGlzdFsxLDpdPVsw</text>
       </register>
       <register name="-" type="4">
-        <text>nodes</text>
+        <text>1. - p_temp</text>
       </register>
     </registers>
     <search>
