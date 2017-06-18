@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1497490328958">
+      <file name="/Python Console" timestamp="1497819839744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -31,11 +31,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497818074960">
-        <mark key="[" line="93" column="94" />
-        <mark key="]" line="93" column="71" />
-        <mark key="." line="93" column="71" />
-        <mark key="^" line="93" column="71" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1497819866325">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -47,12 +47,25 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsYXJtID0gYmF5ZXNfbmV0LmdldF9ub2RlX2J5X25hbWUoImFsYXJtIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsYXJtID0gYmF5ZXNfbmV0LmdldF9ub2RlX2J5X25hbWUoImFsYXJtIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text>p_faulty_alarm = 0.15
+p_temp = 0.2</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5vZGVzID0gW2FsYXJtLCBmYXVsdHlfYWxhcm0sIGdhdWdlLCBmYXVsdHlfZ2F1Z2UsIHRlbXBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFsYXJtID0gYmF5ZXNfbmV0LmdldF9ub2RlX2J5X25hbWUoImFsYXJtIikK</text>
+      </register>
+      <register name="6" type="4">
         <text># probability of high temperature
     temp = bayes_net.get_node_by_name(&quot;temperature&quot;)
     temp_dist = DiscreteDistribution(temp)
@@ -60,31 +73,17 @@
     temp_dist[index] = [p_temp, 1. - p_temp]
     temp.set_dist(temp_dist)</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgXQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGdhdWdlX2Rpc3QgPSBucC56ZXJvcyhbZmF1bHR5X2dhdWdlLnNpemUoKSwgZ2F1Z2Uuc2l6ZSgpXSxkdHlwZT1ucC5mbG9hdDMyKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGdhdWdlX2Rpc3RbMCw6XT1bMC4wNSwwLjk1XQogICAgZ2F1Z2VfZGlzdFsxLDpdPVsw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text># probability of gauge
-    gauge = bayes_net.get_node_by_name(&quot;gauge&quot;)
-    gauge_dist = np.zeros([])</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogc2V0IHRoZSBwcm9iYWJpbGl0eSBkaXN0cmlidXRpb24gZm9yIGVhY2ggbm9kZQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>cold</text>
+        <text>nodes</text>
       </register>
     </registers>
     <search>
