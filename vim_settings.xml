@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1497825118276">
+      <file name="/Python Console" timestamp="1498100787499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,11 +20,10 @@
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498098712968">
-        <mark key="[" line="77" column="61" />
-        <mark key="]" line="77" column="60" />
-        <mark key="^" line="77" column="60" />
-        <mark key="." line="77" column="60" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498100828414">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -37,11 +36,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498098651885">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="116" column="18" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498101216327">
+        <mark key="[" line="150" column="30" />
+        <mark key="]" line="150" column="37" />
+        <mark key="." line="150" column="37" />
+        <mark key="^" line="150" column="37" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -53,38 +52,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZhdWx0eV9hbGFybSA9IGJheWVzX25ldC5nZXRfbm9kZV9ieV9uYW1lKCdmYXVsdHkgYWxhcm0nKQo=</text>
+        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtiYXllc19uZXQuZ2V0X25vZGVfYnlfbmFtZSgnYWxhcm0nKV0gPSBUcnVlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZhdWx0eV9hbGFybSA9IGJheWVzX25ldC5nZXRfbm9kZV9ieV9uYW1lKCdmYXVsdHkgYWxhcm0nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>alarm_rings</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZW1wX3Byb2IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXAgPSBiYXllc19uZXQuZ2V0Xwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFEgPSBlbmdpbmUubWFyZ2luYWwoZmF1bCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>p_faulty_alarm = 0.15
-p_temp = 0.2</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnYXVnZV9wcm9iID0gZ2V0X2dhdWdlX3Byb2IocG93ZXJfcGxhbnQsIFRydWUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBub3RfYWxhcm1fcHJvYiA9IGdldF9hbGFybV9wcm9iKHBvd2VyX3BsYW50LCBGYWxzZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZhdWx0eV9hbGFybSA9IGJheWVzX25ldC5nZXRfbm9kZV9ieV9uYW1lKCdmYXVsdHkgYWxhcm0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>alarm_prob</text>
+        <text>alarm_rings</text>
       </register>
     </registers>
     <search>
