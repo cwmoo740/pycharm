@@ -36,11 +36,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498101216327">
-        <mark key="[" line="150" column="30" />
-        <mark key="]" line="150" column="37" />
-        <mark key="." line="150" column="37" />
-        <mark key="^" line="150" column="37" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498326860583">
+        <mark key="[" line="164" column="48" />
+        <mark key="]" line="182" column="20" />
+        <mark key="^" line="182" column="20" />
+        <mark key="." line="182" column="20" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -51,38 +51,41 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text>BayesNode(0, 2, name='alarm')</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtiYXllc19uZXQuZ2V0X25vZGVfYnlfbmFtZSgnYWxhcm0nKV0gPSBUcnVlCg==</text>
+        <text encoding="base64">c2tpbGxfbGV2ZWxzID0gezAsMSwyLDN9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>alarm_rings</text>
+        <text>AvB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZW1wX3Byb2IK</text>
+        <text encoding="base64">b3V0Y29tZXMgPSB7MCwxLDJ9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmlsbCB0aGlzIG91dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtiYXllc19uZXQuZ2V0X25vZGVfYnlfbmFtZSgnYWxhcm0nKV0gPSBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnYXVnZV9wcm9iID0gZ2V0X2dhdWdlX3Byb2IocG93ZXJfcGxhbnQsIFRydWUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZW1wX3Byb2IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3RfYWxhcm1fcHJvYiA9IGdldF9hbGFybV9wcm9iKHBvd2VyX3BsYW50LCBGYWxzZSkK</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhdWx0eV9hbGFybSA9IGJheWVzX25ldC5nZXRfbm9kZV9ieV9uYW1lKCdmYXVsdHkgYWxhcm0nKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>alarm_rings</text>
+        <text>AvB</text>
       </register>
     </registers>
     <search>
