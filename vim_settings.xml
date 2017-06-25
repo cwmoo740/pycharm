@@ -41,11 +41,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498371725838">
-        <mark key="[" line="246" column="13" />
-        <mark key="]" line="246" column="29" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498372429387">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
         <mark key="^" line="246" column="29" />
-        <mark key="." line="246" column="29" />
+        <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -60,34 +60,34 @@
         <text>BayesNode(0, 2, name='alarm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IFswLCAwLCAwXQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>JunctionTreeEngine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpbmRleCA9IFEuZ2VuZXJhdGVfaW5kZXgoWzBdLCByYW5nZShRLm5EaW1zKSkKICAgIHBvc3RlcmlvclswXSA9IFFbaW5kZXhdCgogICAgaW5kZXggPSBRLmdlbmVyYXRlX2luZGV4KFsxXSwgcmFuZ2UoUS5uRGltcykpCiAgICBwb3N0ZXJpb3JbMV0gPSBRW2luZGV4XQoKICAgIGluZGV4ID0gUS5nZW5lcmF0ZV9pbmRleChbMl0sIHJhbmdlKFEubkRpbXMpKQogICAgcG9zdGVyaW9yWzJdID0gUVtpbmRleF0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IFswLCAwLCAwXQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBpbmRleCA9IFEuZ2VuZXJhdGVfaW5kZXgoWzBdLCByYW5nZShRLm5EaW1zKSkKICAgIHBvc3RlcmlvclswXSA9IFFbaW5kZXhdCgogICAgaW5kZXggPSBRLmdlbmVyYXRlX2luZGV4KFsxXSwgcmFuZ2UoUS5uRGltcykpCiAgICBwb3N0ZXJpb3JbMV0gPSBRW2luZGV4XQoKICAgIGluZGV4ID0gUS5nZW5lcmF0ZV9pbmRleChbMl0sIHJhbmdlKFEubkRpbXMpKQogICAgcG9zdGVyaW9yWzJdID0gUVtpbmRleF0=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">US5nZW5lcmF0ZV9pbmRleChbMCwxMF0scmFuZ2UoUS5uRGltcykpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFEgPSBRWzBdCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MSkKICAgIGRpc3RbMCwgMSwgOl0gPSBbMC4yLCAwLjEsIDAuNiwgMC43NV0KICAgICMgUChhIHdpbnMgfCBhPTEpCiAgICBkaXN0WzEsIDEsIDpdID0gWzAuNiwgMC4xLCAwLjIsIDAuMTVdCiAgICAjIFAoYSB0aWVzIHwgYT0xKQogICAgZGlzdFsxLCAxLCA6XSA9IFswLjIsIDAuOCwgMC4yLCAwLjFdCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MikKICAgIGRpc3RbMCwgMiwgOl0gPSBbMC4xNSwgMC4yLCAwLjEsIDAuNl0KICAgICMgUChhIHdpbnMgfCBhPTIpCiAgICBkaXN0WzEsIDIsIDpdID0gWzAuNzUsIDAuNiwgMC4xLCAwLjJdCiAgICAjIFAoYSB0aWVzIHwgYT0yKQogICAgZGlzdFsyLCAyLCA6XSA9IFswLjEsIDAuMiwgMC44LCAwLjJdCgogICAgIyBQKGEgbG9zZXMgfCBhPTMpCiAgICBkaXN0WzAsIDMsIDpdID0gWzAuMDUsIDAuMTUsIDAuMiwgMC4xXQogICAgIyBQKGEgd2lucyB8IGE9MykKICAgIGRpc3RbMSwgMywgOl0gPSBbMC45LCAwLjc1LCAwLjYsIDAuMV0KICAgICMgUChhIHRpZXMgfCBhPTMpCiAgICBkaXN0WzIsIDMsIDpdID0gWzAuMDUsIDAuMSwgMC4yLCAwLjhd</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgUChhIGxvc2VzIHwgYT0wKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
       </register>
       <register name="-" type="4">
         <text>JunctionTreeEngine</text>
