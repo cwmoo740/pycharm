@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498365716033">
+      <file name="/Python Console" timestamp="1498371775685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -17,10 +17,15 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/fragment.py" timestamp="1498371207441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498100828414">
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498371472843">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -36,11 +41,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498365706220">
-        <mark key="[" line="255" column="32" />
-        <mark key="]" line="201" column="71" />
-        <mark key="." line="201" column="71" />
-        <mark key="^" line="201" column="71" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498371725838">
+        <mark key="[" line="246" column="13" />
+        <mark key="]" line="246" column="29" />
+        <mark key="^" line="246" column="29" />
+        <mark key="." line="246" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -54,38 +59,38 @@
       <register name="0" type="4">
         <text>BayesNode(0, 2, name='alarm')</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MSkKICAgIGRpc3RbMCwgMSwgOl0gPSBbMC4yLCAwLjEsIDAuNiwgMC43NV0KICAgICMgUChhIHdpbnMgfCBhPTEpCiAgICBkaXN0WzEsIDEsIDpdID0gWzAuNiwgMC4xLCAwLjIsIDAuMTVdCiAgICAjIFAoYSB0aWVzIHwgYT0xKQogICAgZGlzdFsxLCAxLCA6XSA9IFswLjIsIDAuOCwgMC4yLCAwLjFdCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IFswLCAwLCAwXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JunctionTreeEngine</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBpbmRleCA9IFEuZ2VuZXJhdGVfaW5kZXgoWzBdLCByYW5nZShRLm5EaW1zKSkKICAgIHBvc3RlcmlvclswXSA9IFFbaW5kZXhdCgogICAgaW5kZXggPSBRLmdlbmVyYXRlX2luZGV4KFsxXSwgcmFuZ2UoUS5uRGltcykpCiAgICBwb3N0ZXJpb3JbMV0gPSBRW2luZGV4XQoKICAgIGluZGV4ID0gUS5nZW5lcmF0ZV9pbmRleChbMl0sIHJhbmdlKFEubkRpbXMpKQogICAgcG9zdGVyaW9yWzJdID0gUVtpbmRleF0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MikKICAgIGRpc3RbMCwgMiwgOl0gPSBbMC4xNSwgMC4yLCAwLjEsIDAuNl0KICAgICMgUChhIHdpbnMgfCBhPTIpCiAgICBkaXN0WzEsIDIsIDpdID0gWzAuNzUsIDAuNiwgMC4xLCAwLjJdCiAgICAjIFAoYSB0aWVzIHwgYT0yKQogICAgZGlzdFsyLCAyLCA6XSA9IFswLjEsIDAuMiwgMC44LCAwLjJdCgogICAgIyBQKGEgbG9zZXMgfCBhPTMpCiAgICBkaXN0WzAsIDMsIDpdID0gWzAuMDUsIDAuMTUsIDAuMiwgMC4xXQogICAgIyBQKGEgd2lucyB8IGE9MykKICAgIGRpc3RbMSwgMywgOl0gPSBbMC45LCAwLjc1LCAwLjYsIDAuMV0KICAgICMgUChhIHRpZXMgfCBhPTMpCiAgICBkaXN0WzIsIDMsIDpdID0gWzAuMDUsIDAuMSwgMC4yLCAwLjhd</text>
+      <register name="3" type="2">
+        <text encoding="base64">US5nZW5lcmF0ZV9pbmRleChbMCwxMF0scmFuZ2UoUS5uRGltcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgUChhIGxvc2VzIHwgYT0wKQo=</text>
+        <text encoding="base64">ICAgIFEgPSBRWzBdCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MSkKICAgIGRpc3RbMCwgMSwgOl0gPSBbMC4yLCAwLjEsIDAuNiwgMC43NV0KICAgICMgUChhIHdpbnMgfCBhPTEpCiAgICBkaXN0WzEsIDEsIDpdID0gWzAuNiwgMC4xLCAwLjIsIDAuMTVdCiAgICAjIFAoYSB0aWVzIHwgYT0xKQogICAgZGlzdFsxLCAxLCA6XSA9IFswLjIsIDAuOCwgMC4yLCAwLjFdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ2YyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGEgPSBiYXllc19uZXQuZ2V0Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAjIFAoYSBsb3NlcyB8IGE9MikKICAgIGRpc3RbMCwgMiwgOl0gPSBbMC4xNSwgMC4yLCAwLjEsIDAuNl0KICAgICMgUChhIHdpbnMgfCBhPTIpCiAgICBkaXN0WzEsIDIsIDpdID0gWzAuNzUsIDAuNiwgMC4xLCAwLjJdCiAgICAjIFAoYSB0aWVzIHwgYT0yKQogICAgZGlzdFsyLCAyLCA6XSA9IFswLjEsIDAuMiwgMC44LCAwLjJdCgogICAgIyBQKGEgbG9zZXMgfCBhPTMpCiAgICBkaXN0WzAsIDMsIDpdID0gWzAuMDUsIDAuMTUsIDAuMiwgMC4xXQogICAgIyBQKGEgd2lucyB8IGE9MykKICAgIGRpc3RbMSwgMywgOl0gPSBbMC45LCAwLjc1LCAwLjYsIDAuMV0KICAgICMgUChhIHRpZXMgfCBhPTMpCiAgICBkaXN0WzIsIDMsIDpdID0gWzAuMDUsIDAuMSwgMC4yLCAwLjhd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICMgUChhIGxvc2VzIHwgYT0wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24gICAgCg==</text>
+        <text encoding="base64">ICAgIG5vZGVzID0gW10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JunctionTreeEngine</text>
       </register>
     </registers>
     <search>
