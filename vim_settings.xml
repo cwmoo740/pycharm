@@ -9,13 +9,16 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498519524013">
+      <file name="/Python Console" timestamp="1498520490568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/fragment.py" timestamp="1498519839341">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
@@ -25,11 +28,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/alphabeta.py" timestamp="1498519520266">
-        <mark key="[" line="11" column="115" />
-        <mark key="]" line="11" column="75" />
-        <mark key="^" line="11" column="75" />
-        <mark key="." line="11" column="75" />
+      <file name="$USER_HOME$/src/python/ai_midterm/alphabeta.py" timestamp="1498520491480">
+        <mark key="[" line="99" column="84" />
+        <mark key="]" line="99" column="10" />
+        <mark key="^" line="99" column="10" />
+        <mark key="." line="99" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
