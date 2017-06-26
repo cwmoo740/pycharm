@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498450958527">
+      <file name="/Python Console" timestamp="1498455989818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -28,11 +28,11 @@
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498450604585">
-        <mark key="[" line="146" column="24" />
-        <mark key="]" line="145" column="15" />
-        <mark key="." line="145" column="15" />
-        <mark key="^" line="145" column="15" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498455283825">
+        <mark key="[" line="152" column="7" />
+        <mark key="]" line="151" column="7" />
+        <mark key="." line="151" column="7" />
+        <mark key="^" line="151" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -45,11 +45,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498450725710">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="347" column="6" />
-        <mark key="." line="345" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498456249232">
+        <mark key="[" line="375" column="11" />
+        <mark key="]" line="375" column="10" />
+        <mark key="^" line="375" column="10" />
+        <mark key="." line="375" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -60,41 +60,46 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>BayesNode(0, 2, name='alarm')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW25wLnJhbmRvbS5jaG9pY2UoNCwgcD1za2lsbF9kaXN0cmlidXRpb24pIGlmIGV2aWRlbmNlW2ldIGlzIE5vbmUgZWxzZSBldmlkZW5jZVtpXSBmb3IgaSBpbiByYW5nZSgzKV0gKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXMgPSBbJ0F2QicsICdCdkMnLCAnQ3ZBJ10K</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gdGVhbXMgKyBtYXRjaGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHUgPSAxLgo=</text>
+      <register name="4" type="4">
+        <text>[np.random.choice(4, p=skill_distribution) if evidence[i] is None else evidence[i] for i in range(3)] +
+            [np.random.choice(3, p=) if evidence[i + 3] is None else evidence[i + 3] for i in range(3)]
+        )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwX2N1cnJlbnQgPSBzdGF0ZV9wcm9iYWJpbGl0eShiYXllc19uZXQsIGluaXRpYWxfc3RhdGUpCg==</text>
+      <register name="5" type="4">
+        <text>state = list(state)
+            state[3] = 0
+            state[5] = 2
+            state = tuple(state)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5leHRfc3RhdGUgPSBtYWtlX3JhbmRvbV9zdGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSB0dXBsZShzdGF0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gdGVhbXMgKyBtYXRjaGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSBsaXN0KHN0YXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXMgPSBbJ0F2QicsICdCdkMnLCAnQ3ZBJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVbNV0gPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVbM10gPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gKG5wLm1heChtYXRjaGVzWzBdLmRpc3QudGFibGUpICoqIDMp</text>
+        <text encoding="base64">ICs=</text>
       </register>
     </registers>
     <search>
@@ -152,6 +157,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
