@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498440104411">
+      <file name="/Python Console" timestamp="1498442404615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,10 +20,10 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1498440128254">
+      <file name="/fragment.py" timestamp="1498442807166">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
@@ -45,11 +45,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498440215287">
-        <mark key="[" line="262" column="46" />
-        <mark key="]" line="304" column="0" />
-        <mark key="^" line="261" column="34" />
-        <mark key="." line="304" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498443778514">
+        <mark key="[" line="337" column="4" />
+        <mark key="]" line="334" column="40" />
+        <mark key="^" line="334" column="40" />
+        <mark key="." line="334" column="40" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -64,37 +64,37 @@
         <text>BayesNode(0, 2, name='alarm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tpbGw9aW5pdGlhbF9zdGF0ZVtpbmRdLAo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tpbGw9aW5pdGlhbF9zdGF0ZVtpbmRdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>sample</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ld192YWx1ZSA9IGluaXRpYWxfc3RhdGVbaW5kXQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHNhbXBsZSA9IHR1cGxlKGluaXRpYWxfc3RhdGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlYW1fdGFibGUgPSBBLmRpc3QudGFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RXZpZGVuY2UgPSBuYW1lZHR1cGxlKHR5cGVuYW1lPSdFdmlkZW5jZScsIGZpZWxkX25hbWVzPVsndmFsdWUnLCAnbm9kZSddKQo=</text>
+        <text encoding="base64">ICAgIG1hdGNoX3RhYmxlID0gQXZCLmRpc3QudGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEF2QiA9IGJheWVzX25ldC5nZXRfbm9kZV9ieV9uYW1lKCdBdkInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxLCAxLCAxLCAxLCAxLCAxCg==</text>
+        <text encoding="base64">ICAgIEEgPSBiYXllc19uZXQuZ2V0X25vZGVfYnlfbmFtZSgnQScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHVwbGUoW3ggaWYgaW5kZXggIT0gaW5kIGVsc2UgbWF0Y2hfdmFsdWUgZm9yIGluZGV4LCB4IGluIGVudW1lcmF0ZShpbml0aWFsX3N0YXRlKV0pCg==</text>
+        <text encoding="base64">ICAgIGlmIGluZCA+PSBsZW4obmFtZXMpIG9yIGluZCA8IDA6CiAgICAgICAgcHJpbnQoJ3doYXQgdGhlIGZ1Y2snKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWNvbmRfdGVhbV9za2lsbCA9IGluaXRpYWxfc3RhdGVbbmFtZXMuaW5kZXgobmFtZVsyXSldCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5ld192YWx1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>skill</text>
+        <text>sample</text>
       </register>
     </registers>
     <search>
