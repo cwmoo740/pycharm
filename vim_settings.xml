@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498455989818">
+      <file name="/Python Console" timestamp="1498457662880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -28,11 +28,11 @@
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498455283825">
-        <mark key="[" line="152" column="7" />
-        <mark key="]" line="151" column="7" />
-        <mark key="." line="151" column="7" />
-        <mark key="^" line="151" column="7" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
+        <mark key="[" line="168" column="110" />
+        <mark key="]" line="168" column="35" />
+        <mark key="." line="168" column="35" />
+        <mark key="^" line="168" column="35" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -45,11 +45,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498456249232">
-        <mark key="[" line="375" column="11" />
-        <mark key="]" line="375" column="10" />
-        <mark key="^" line="375" column="10" />
-        <mark key="." line="375" column="10" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
+        <mark key="[" line="363" column="75" />
+        <mark key="]" line="366" column="8" />
+        <mark key="^" line="366" column="8" />
+        <mark key="." line="366" column="8" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -61,45 +61,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW25wLnJhbmRvbS5jaG9pY2UoNCwgcD1za2lsbF9kaXN0cmlidXRpb24pIGlmIGV2aWRlbmNlW2ldIGlzIE5vbmUgZWxzZSBldmlkZW5jZVtpXSBmb3IgaSBpbiByYW5nZSgzKV0gKwo=</text>
+        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[np.random.choice(4, p=skill_distribution) if evidence[i] is None else evidence[i] for i in range(3)] +
-            [np.random.choice(3, p=) if evidence[i + 3] is None else evidence[i + 3] for i in range(3)]
-        )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
-      <register name="5" type="4">
-        <text>state = list(state)
-            state[3] = 0
-            state[5] = 2
-            state = tuple(state)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSB0dXBsZShzdGF0ZSkK</text>
+        <text encoding="base64">ICAgIGNvbnZlcmdlX2NvdW50ID0gMTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSBsaXN0KHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBucC5tZWFuKG5ld19wb3N0ZXJpb3ItcG9zdGVyaW9yKSA8IGRlbHRhOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVbNV0gPSAyCg==</text>
+        <text encoding="base64">ICAgIE1IX3JlamVjdGlvbl9jb3VudCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVbM10gPSAwCg==</text>
+        <text encoding="base64">ICAgIGFfc2tpbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
