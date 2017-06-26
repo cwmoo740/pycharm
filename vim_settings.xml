@@ -45,11 +45,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498445615164">
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="321" column="0" />
-        <mark key="^" line="322" column="54" />
-        <mark key="." line="321" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498448003445">
+        <mark key="[" line="324" column="8" />
+        <mark key="]" line="277" column="0" />
+        <mark key="^" line="277" column="9" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -70,12 +70,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGluZGV4Xwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHNraWxscyA9IHN0YXRlWzA6M10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRlID0gaW5pdGlhbF9zdGF0ZQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>def p_state(bayes_net, state):
     dist = bayes_net.get_node_by_name('AvB').dist.table
     probability_a = dist[:, skill_a, result_a]
@@ -84,20 +96,8 @@
     joint_distribution = joint_distribution / np.sum(joint_distribution)
     pass</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ld19zdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdHJlYXQgdGhpcyBhcyB0aGUgZXZpZGVuY2UgdmFyaWFibGUK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZCA9IG5wLnJhbmRvbS5yYW5kaW50KDAsIGxlbihpbml0aWFsX3N0YXRlKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBuYW1lc1tpbmRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,dist</text>
