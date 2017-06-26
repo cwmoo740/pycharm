@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498442404615">
+      <file name="/Python Console" timestamp="1498450958527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -28,7 +28,7 @@
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498435341000">
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498450604585">
         <mark key="[" line="146" column="24" />
         <mark key="]" line="145" column="15" />
         <mark key="." line="145" column="15" />
@@ -45,11 +45,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498448003445">
-        <mark key="[" line="324" column="8" />
-        <mark key="]" line="277" column="0" />
-        <mark key="^" line="277" column="9" />
-        <mark key="." line="277" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498450725710">
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="^" line="347" column="6" />
+        <mark key="." line="345" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -64,43 +64,37 @@
         <text>BayesNode(0, 2, name='alarm')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGluZGV4Xwo=</text>
+        <text encoding="base64">ICAgIG1hdGNoZXMgPSBbJ0F2QicsICdCdkMnLCAnQ3ZBJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNraWxscyA9IHN0YXRlWzA6M10K</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gdGVhbXMgKyBtYXRjaGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gaW5pdGlhbF9zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIHUgPSAxLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwX2N1cnJlbnQgPSBzdGF0ZV9wcm9iYWJpbGl0eShiYXllc19uZXQsIGluaXRpYWxfc3RhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5leHRfc3RhdGUgPSBtYWtlX3JhbmRvbV9zdGF0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gdGVhbXMgKyBtYXRjaGVzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def p_state(bayes_net, state):
-    dist = bayes_net.get_node_by_name('AvB').dist.table
-    probability_a = dist[:, skill_a, result_a]
-    probability_b = dist[:, skill_b, result_b]
-    joint_distribution = probability_a * probability_b
-    joint_distribution = joint_distribution / np.sum(joint_distribution)
-    pass</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hdGNoZXMgPSBbJ0F2QicsICdCdkMnLCAnQ3ZBJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlYW1zID0gWydBJywgJ0InLCAnQyddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,dist</text>
+        <text encoding="base64">IC8gKG5wLm1heChtYXRjaGVzWzBdLmRpc3QudGFibGUpICoqIDMp</text>
       </register>
     </registers>
     <search>
