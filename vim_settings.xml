@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498520490568">
+      <file name="/Python Console" timestamp="1498532596835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -17,7 +17,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1498519839341">
+      <file name="/fragment.py" timestamp="1498532054795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1497490050376">
@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498530915857">
-        <mark key="[" line="71" column="11" />
-        <mark key="]" line="71" column="11" />
-        <mark key="." line="71" column="11" />
-        <mark key="^" line="67" column="14" />
+      <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498532704390">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="87" column="20" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
@@ -67,50 +67,46 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZWRnZXMoc2VsZixub2RlOlVuaW9uW05vZGUsc3RyXSktPkl0ZXJhYmxlW0VkZ2VdOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.():</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2tleT0gbm9kZSBpZiBpc2luc3RhbmNlKHN0YXJ0LCBzdHIpIGVsc2Ugc3RhcnQua2V5Cg==</text>
+      <register name="2" type="4">
+        <text>path = []
+    node = goal
+    while node.key != root.key:
+        path.append(node)
+        node = node.parent
+
+    return path</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXJyZW50ID09IGdvYWwua2V5OgogICAgICAgICAgICBicmVhawo=</text>
       </register>
-      <register name="4" type="4">
-        <text>adjacency = {
-    'S': ['G', 'B'],
-    'G': ['S', 'B', 'E'],
-    'B': ['S', 'G', 'J'],
-    'E': ['G', 'A', 'Z'],
-    'J': ['B', 'C', 'P'],
-    'A': ['E', 'C', 'Z'],
-    'C': ['A', 'J', 'P'],
-    'P': ['J', 'C', 'Z'],
-    'Z': ['E', 'A', 'P']
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdpbiA9IG9yaWdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZS5rZXkgPT0gZ29hbC5rZXk6Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>s = Node(hz=1600, hs=0, key='S')
-    g = Node(hz=1180, hs=450, key='G')
-    b = Node(hz=1250, hs=400, key='B')
-    s.add_edges(Edge(s, g, cost=600), Edge(s, b, cost=550))</text>
+        <text encoding="base64">CgpjbGFzcyBFZGdlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5vZGU6IE5vZGUsIGNvc3Q6IGZsb2F0KToKICAgICAgICBzZWxmLm5vZGUgPSBub2RlCiAgICAgICAgc2VsZi5jb3N0ID0gY29zdA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lZGdlcyA9IGVkZ2VzCg==</text>
+      <register name="7" type="4">
+        <text>class Edge:
+    def __init__(self, node: Node, cost: float):
+        self.node = node
+        self.cost = cost</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHBhdGggPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmVkZ2VzOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZWRnZXMoc2VsZixub2RlOlVuaW9uW05vZGUsc3RyXSktPkl0ZXJhYmxlW0VkZ2VdOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.():</text>
+        <text encoding="base64">Z3JhcGgg</text>
       </register>
     </registers>
     <search>
