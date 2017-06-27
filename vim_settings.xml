@@ -46,11 +46,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/scratch.py" timestamp="1498537334371">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="14" />
+      <file name="$USER_HOME$/src/python/ai_midterm/scratch.py" timestamp="1498542221692">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498533534248">
         <mark key="[" line="102" column="102" />
@@ -77,16 +77,19 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW1wb3J0IG1hdGgKCgpkZWYgcChlOiBmbG9hdCwgZV9wcmltZTogZmxvYXQsIHQ6IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiBtYXRoLmV4cCgoZV9wcmltZSAtIGUpIC8gdCkKCgpwcmludChwKDE1MCwgOTAsIDI1MCkp</text>
       </register>
       <register name="&quot;" type="4">
-        <text>150</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgKCgpkZWYgcChlOiBmbG9hdCwgZV9wcmltZTogZmxvYXQsIHQ6IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiBtYXRoLmV4cCgoZV9wcmltZSAtIGUpIC8gdCkKCgpwcmludChwKDE1MCwgOTAsIDI1MCkp</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGlmIGVfcHJpbWUgPCBlOgogICAgICAgIHJldHVybiAxLgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>from typing import Dict
 
 
@@ -101,24 +104,21 @@ second_frontier = {'G': 300 + 450 + 350 + 450, 'P': 900 + 1570, 'C': 300 + 350 +
 print(find_min(frontier))
 print(find_min(second_frontier))</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Frontier = {Z: 600+350+980, C: 600+350+450+350, C: 550+1000+500, P: 550+1000+450}
 Explored = {S, B, G, E, A, J, Z}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">RW5xdWV1ZShFKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RW5xdWV1ZShFKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiB1bmlmb3JtX2Nvc3Rfc2VhcmNoKGdyYXBoOiBHcmFwaCwgcm9vdDogTm9kZSwgZ29hbDogTm9kZSkgLT4gSXRlcmFibGVbTm9kZV06CiAgICBzID0gc2V0KCkKICAgIHEgPSBkZXF1ZSgpCiAgICBzLmFkZChyb290LmtleSkKICAgIGluc29ydChxLCByb290KQogICAgd2hpbGUgcToKICAgICAgICBjdXJyZW50ID0gcS5wb3BsZWZ0KCkKICAgICAgICBmb3Igbm9kZSBpbiBncmFwaC5nZXRfbmVpZ2hib3JzKGN1cnJlbnQpOgogICAgICAgICAgICBpZiBub2RlLmtleSBub3QgaW4gczoKICAgICAgICAgICAgICAgIHMuYWRkKG5vZGUua2V5KQogICAgICAgICAgICAgICAgbm9kZS5hZGRfcGFyZW50KGdyYXBoLmdldF9ub2RlKGN1cnJlbnQpKQogICAgICAgICAgICAgICAgcS5hcHBlbmQobm9kZS5rZXkpCiAgICAgICAgICAgIGlmIG5vZGUua2V5ID09IGdvYWwua2V5OgogICAgICAgICAgICAgICAgcGF0aCA9IFtdCiAgICAgICAgICAgICAgICBub2RlID0gZ29hbAogICAgICAgICAgICAgICAgd2hpbGUgbm9kZS5rZXkgIT0gcm9vdC5rZXk6CiAgICAgICAgICAgICAgICAgICAgcGF0aC5hcHBlbmQobm9kZSkKICAgICAgICAgICAgICAgICAgICBub2RlID0gbm9kZS5wYXJlbnQKCiAgICAgICAgICAgICAgICByZXR1cm4gcGF0aA==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CmRlZiB1bmlmb3JtX2Nvc3Rfc2VhcmNoKGdyYXBoOiBHcmFwaCwgcm9vdDogTm9kZSwgZ29hbDogTm9kZSkgLT4gSXRlcmFibGVbTm9kZV06CiAgICBzID0gc2V0KCkKICAgIHEgPSBkZXF1ZSgpCiAgICBzLmFkZChyb290LmtleSkKICAgIGluc29ydChxLCByb290KQogICAgd2hpbGUgcToKICAgICAgICBjdXJyZW50ID0gcS5wb3BsZWZ0KCkKICAgICAgICBmb3Igbm9kZSBpbiBncmFwaC5nZXRfbmVpZ2hib3JzKGN1cnJlbnQpOgogICAgICAgICAgICBpZiBub2RlLmtleSBub3QgaW4gczoKICAgICAgICAgICAgICAgIHMuYWRkKG5vZGUua2V5KQogICAgICAgICAgICAgICAgbm9kZS5hZGRfcGFyZW50KGdyYXBoLmdldF9ub2RlKGN1cnJlbnQpKQogICAgICAgICAgICAgICAgcS5hcHBlbmQobm9kZS5rZXkpCiAgICAgICAgICAgIGlmIG5vZGUua2V5ID09IGdvYWwua2V5OgogICAgICAgICAgICAgICAgcGF0aCA9IFtdCiAgICAgICAgICAgICAgICBub2RlID0gZ29hbAogICAgICAgICAgICAgICAgd2hpbGUgbm9kZS5rZXkgIT0gcm9vdC5rZXk6CiAgICAgICAgICAgICAgICAgICAgcGF0aC5hcHBlbmQobm9kZSkKICAgICAgICAgICAgICAgICAgICBub2RlID0gbm9kZS5wYXJlbnQKCiAgICAgICAgICAgICAgICByZXR1cm4gcGF0aA==</text>
       </register>
       <register name="-" type="4">
         <text>150</text>
