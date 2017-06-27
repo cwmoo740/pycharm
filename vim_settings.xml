@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498528199470">
-        <mark key="[" line="31" column="71" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="69" />
-        <mark key="^" line="31" column="69" />
+      <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498530915857">
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
@@ -66,20 +66,19 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text>adjacency = {
-    'S': ['G', 'B'],
-    'G': ['S', 'B', 'E'],
-    'B': ['S', 'G', 'J'],
-    'E': ['G', 'A', 'Z'],
-    'J': ['B', 'C', 'P'],
-    'A': ['E', 'C', 'Z'],
-    'C': ['A', 'J', 'P'],
-    'P': ['J', 'C', 'Z'],
-    'Z': ['E', 'A', 'P']
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZWRnZXMoc2VsZixub2RlOlVuaW9uW05vZGUsc3RyXSktPkl0ZXJhYmxlW0VkZ2VdOgo=</text>
       </register>
       <register name="&quot;" type="4">
+        <text>.():</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBub2RlX2tleT0gbm9kZSBpZiBpc2luc3RhbmNlKHN0YXJ0LCBzdHIpIGVsc2Ugc3RhcnQua2V5Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>adjacency = {
     'S': ['G', 'B'],
     'G': ['S', 'B', 'E'],
@@ -92,37 +91,26 @@
     'Z': ['E', 'A', 'P']
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm9yaWdpbiA9IG9yaWdpbgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>s = Node(hz=1600, hs=0, key='S')
     g = Node(hz=1180, hs=450, key='G')
     b = Node(hz=1250, hs=400, key='B')
     s.add_edges(Edge(s, g, cost=600), Edge(s, b, cost=550))</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lZGdlcyA9IGVkZ2VzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLmVkZ2VzOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-    
-]</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZS5ldmlkZW5jZVtiYXllc19uZXQuZ2V0X25vZGVfYnlfbmFtZSgnYWxhcm0nKV0gPSBUcnVlCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.():</text>
       </register>
     </registers>
     <search>
