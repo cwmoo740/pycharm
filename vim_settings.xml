@@ -9,7 +9,10 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498532596835">
+      <file name="/Dummy.txt" timestamp="1498437255769">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1498457662880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -17,22 +20,19 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1498532054795">
+      <file name="/fragment.py" timestamp="1498442807166">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498100828414">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/alphabeta.py" timestamp="1498525275447">
-        <mark key="[" line="99" column="84" />
-        <mark key="]" line="99" column="10" />
-        <mark key="^" line="99" column="10" />
-        <mark key="." line="99" column="10" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
+        <mark key="[" line="168" column="110" />
+        <mark key="]" line="168" column="35" />
+        <mark key="." line="168" column="35" />
+        <mark key="^" line="168" column="35" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -40,33 +40,22 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/scratch.txt" timestamp="1498534233372">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/scratch.py" timestamp="1498543107619">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/graph_search.py" timestamp="1498533534248">
-        <mark key="[" line="102" column="102" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498101216327">
-        <mark key="[" line="150" column="30" />
-        <mark key="]" line="150" column="37" />
-        <mark key="." line="150" column="37" />
-        <mark key="^" line="150" column="37" />
+      <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
+        <mark key="[" line="363" column="75" />
+        <mark key="]" line="366" column="8" />
+        <mark key="^" line="366" column="8" />
+        <mark key="." line="366" column="8" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -77,51 +66,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">aW1wb3J0IG1hdGgKCgpkZWYgcChlOiBmbG9hdCwgZV9wcmltZTogZmxvYXQsIHQ6IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiBtYXRoLmV4cCgoZV9wcmltZSAtIGUpIC8gdCkKCgpwcmludChwKDE1MCwgOTAsIDI1MCkp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW1wb3J0IG1hdGgKCgpkZWYgcChlOiBmbG9hdCwgZV9wcmltZTogZmxvYXQsIHQ6IGZsb2F0KSAtPiBmbG9hdDoKICAgIHJldHVybiBtYXRoLmV4cCgoZV9wcmltZSAtIGUpIC8gdCkKCgpwcmludChwKDE1MCwgOTAsIDI1MCkp</text>
+        <text>vivial</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGVfcHJpbWUgPCBlOgogICAgICAgIHJldHVybiAxLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>from typing import Dict
-
-
-def find_min(d: Dict[str, float]):
-    return sorted(d.items(), key=lambda x: x[1])[0]
-
-
-explored = {'S', 'Z', 'A', 'E', 'G'}
-frontier = {'G': 600 + 1180, 'B': 550 + 1250}
-
-second_frontier = {'G': 300 + 450 + 350 + 450, 'P': 900 + 1570, 'C': 300 + 350 + 1430}
-print(find_min(frontier))
-print(find_min(second_frontier))</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
-      <register name="5" type="4">
-        <text>Frontier = {Z: 600+350+980, C: 600+350+450+350, C: 550+1000+500, P: 550+1000+450}
-Explored = {S, B, G, E, A, J, Z}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RW5xdWV1ZShFKQo=</text>
+        <text encoding="base64">ICAgIGNvbnZlcmdlX2NvdW50ID0gMTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBucC5tZWFuKG5ld19wb3N0ZXJpb3ItcG9zdGVyaW9yKSA8IGRlbHRhOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1IX3JlamVjdGlvbl9jb3VudCA9IDAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmRlZiB1bmlmb3JtX2Nvc3Rfc2VhcmNoKGdyYXBoOiBHcmFwaCwgcm9vdDogTm9kZSwgZ29hbDogTm9kZSkgLT4gSXRlcmFibGVbTm9kZV06CiAgICBzID0gc2V0KCkKICAgIHEgPSBkZXF1ZSgpCiAgICBzLmFkZChyb290LmtleSkKICAgIGluc29ydChxLCByb290KQogICAgd2hpbGUgcToKICAgICAgICBjdXJyZW50ID0gcS5wb3BsZWZ0KCkKICAgICAgICBmb3Igbm9kZSBpbiBncmFwaC5nZXRfbmVpZ2hib3JzKGN1cnJlbnQpOgogICAgICAgICAgICBpZiBub2RlLmtleSBub3QgaW4gczoKICAgICAgICAgICAgICAgIHMuYWRkKG5vZGUua2V5KQogICAgICAgICAgICAgICAgbm9kZS5hZGRfcGFyZW50KGdyYXBoLmdldF9ub2RlKGN1cnJlbnQpKQogICAgICAgICAgICAgICAgcS5hcHBlbmQobm9kZS5rZXkpCiAgICAgICAgICAgIGlmIG5vZGUua2V5ID09IGdvYWwua2V5OgogICAgICAgICAgICAgICAgcGF0aCA9IFtdCiAgICAgICAgICAgICAgICBub2RlID0gZ29hbAogICAgICAgICAgICAgICAgd2hpbGUgbm9kZS5rZXkgIT0gcm9vdC5rZXk6CiAgICAgICAgICAgICAgICAgICAgcGF0aC5hcHBlbmQobm9kZSkKICAgICAgICAgICAgICAgICAgICBub2RlID0gbm9kZS5wYXJlbnQKCiAgICAgICAgICAgICAgICByZXR1cm4gcGF0aA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFfc2tpbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>150</text>
+        <text>vivial</text>
       </register>
     </registers>
     <search>
@@ -179,6 +158,9 @@ Explored = {S, B, G, E, A, J, Z}</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
