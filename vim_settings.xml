@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499299805877">
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="92" column="27" />
-        <mark key="." line="92" column="27" />
-        <mark key="^" line="92" column="27" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499300469987">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -85,7 +85,7 @@
         <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>=None</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -112,7 +112,7 @@
         <text encoding="base64">ICAgIGFfc2tpbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>=None</text>
       </register>
     </registers>
     <search>
