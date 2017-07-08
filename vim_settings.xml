@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499548344478">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="113" column="71" />
-        <mark key="." line="113" column="71" />
-        <mark key="^" line="113" column="71" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499551105468">
+        <mark key="[" line="188" column="97" />
+        <mark key="]" line="188" column="97" />
+        <mark key="." line="188" column="97" />
+        <mark key="^" line="188" column="97" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -82,37 +82,37 @@
         <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZhbHNlX3Bvc2l0aXZlID0gc3VtKFt4IGFuZCBub3QgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRydWVfcG9zaXRpdmUgPSBzdW0oW3ggYW5kIHkgZm9yIHgsIHkgaW4gemlwKGNsYXNzaWZpZXJfb3V0cHV0LCB0cnVlX2xhYmVscyldKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRydWVfbmVnYXRpdmUgPSBzdW0oW25vdCB4IGFuZCBub3QgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZhbHNlX25lZ2F0aXZlID0gc3VtKFtub3QgeCBhbmQgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZhbHNlX3Bvc2l0aXZlID0gc3VtKFt4IGFuZCBub3QgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0PURlY2lzaW9uTm9kZShsZWZ0PU5vbmUscmlnaHQ9Tm9uZSxkZWNpc2lvbl9mdW5jdGlvbj1Ob25lLGNsYXNzX2xhYmVsPTApCg==</text>
+        <text encoding="base64">ICAgIHRydWVfcG9zaXRpdmUgPSBzdW0oW3ggYW5kIHkgZm9yIHgsIHkgaW4gemlwKGNsYXNzaWZpZXJfb3V0cHV0LCB0cnVlX2xhYmVscyldKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true_negative</text>
       </register>
     </registers>
     <search>
