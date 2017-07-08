@@ -40,11 +40,10 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499300469987">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499543473632">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -82,34 +81,34 @@
         <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0PURlY2lzaW9uTm9kZShsZWZ0PU5vbmUscmlnaHQ9Tm9uZSxkZWNpc2lvbl9mdW5jdGlvbj1Ob25lLGNsYXNzX2xhYmVsPTApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQ9RGVjaXNpb25Ob2RlKGxlZnQ9Tm9uZSwgcmlnaHQ9Tm9uZSwgZGVjaXNpb25fZnVuY3Rpb249Tm9uZSwgY2xhc3NfbGFiZWw9MSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcmdlX2NvdW50ID0gMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlY2lzaW9uX2Z1bmN0aW9uPWxhbWJkYSB4OiB4WzBdID09IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBucC5tZWFuKG5ld19wb3N0ZXJpb3ItcG9zdGVyaW9yKSA8IGRlbHRhOgo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1IX3JlamVjdGlvbl9jb3VudCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFfc2tpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=None</text>
