@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499564686047">
+      <file name="/Python Console" timestamp="1499576151200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -40,13 +40,13 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499564660100">
-        <mark key="[" line="281" column="15" />
-        <mark key="]" line="281" column="43" />
-        <mark key="." line="281" column="43" />
-        <mark key="^" line="281" column="43" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499576146065">
+        <mark key="[" line="265" column="48" />
+        <mark key="]" line="265" column="47" />
+        <mark key="." line="265" column="47" />
+        <mark key="^" line="265" column="47" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499563322818" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499576104382" />
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
@@ -86,34 +86,34 @@
         <text>[(sum(classes[j] == i for j in range(len(classes))) / len(classes)) ** 2 for i in (0, 1)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>class_labels</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZXZpb3VzX2NsYXNzZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGN1cnJlbnRfY2xhc3NlcykK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdpbmlfaW5kZXgocHJldmlvdXNfY2xhc3NlcykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZXZpb3VzX2NsYXNzZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSBbKHN1bShjbGFzc2VzW2pdID09IGkgZm9yIGogaW4gcmFuZ2UobGVuKGNsYXNzZXMpKSkgLyBsZW4oY2xhc3NlcykpICoqIDIgZm9yIGkgaW4gKDAsIDEpXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGN1cnJlbnRfY2xhc3NlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHggPSBbKChjbGFzc2VzID09IGkpIC8gbGVuKGNsYXNzZXMpKSAqKiAyIGZvciBpIGluICgwLCAxKV0K</text>
+        <text encoding="base64">ICAgIHByaW50KGdpbmlfaW5kZXgocHJldmlvdXNfY2xhc3NlcykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+        <text encoding="base64">ICAgIHggPSBbKHN1bShjbGFzc2VzW2pdID09IGkgZm9yIGogaW4gcmFuZ2UobGVuKGNsYXNzZXMpKSkgLyBsZW4oY2xhc3NlcykpICoqIDIgZm9yIGkgaW4gKDAsIDEpXQo=</text>
       </register>
       <register name="-" type="4">
         <text>class_labels</text>
