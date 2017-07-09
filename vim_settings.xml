@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499544245127">
+      <file name="/Python Console" timestamp="1499558213411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1498442807166">
+      <file name="/fragment.py" timestamp="1499558155037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499553449336">
-        <mark key="[" line="208" column="3" />
-        <mark key="]" line="208" column="4" />
-        <mark key="^" line="208" column="9" />
-        <mark key="." line="208" column="4" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499558198929">
+        <mark key="[" line="207" column="32" />
+        <mark key="]" line="208" column="39" />
+        <mark key="^" line="208" column="39" />
+        <mark key="." line="208" column="39" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -85,7 +85,7 @@
         <text encoding="base64">ICAgIHAwID0gMS4gLSBwMQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmFpc2Ug</text>
+        <text>float32</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHAxID0gZmxvYXQoc3VtKGNsYXNzX3ZlY3RvcikpIC8gbGVuKGNsYXNzX3ZlY3RvcikK</text>
@@ -112,7 +112,7 @@
         <text encoding="base64">ICAgIHRydWVfbmVnYXRpdmUgPSBzdW0oW25vdCB4IGFuZCBub3QgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmFpc2Ug</text>
+        <text>float32</text>
       </register>
     </registers>
     <search>
