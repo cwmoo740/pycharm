@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499558213411">
+      <file name="/Python Console" timestamp="1499563648997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1499558155037">
+      <file name="/fragment.py" timestamp="1499563632104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -40,17 +40,21 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499561244226">
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="208" column="0" />
-        <mark key="^" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499563788382">
+        <mark key="[" line="281" column="15" />
+        <mark key="]" line="281" column="43" />
+        <mark key="." line="281" column="43" />
+        <mark key="^" line="281" column="43" />
       </file>
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499563322818" />
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
@@ -78,41 +82,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
+      <register name="0" type="4">
+        <text>[(sum(classes[j] == i for j in range(len(classes))) / len(classes)) ** 2 for i in (0, 1)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAwID0gMS4gLSBwMQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>float32</text>
+        <text>class_labels</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAxID0gZmxvYXQoc3VtKGNsYXNzX3ZlY3RvcikpIC8gbGVuKGNsYXNzX3ZlY3RvcikK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2IgPSBbZmxvYXQoc3VtKGNsYXNzX3ZlY3RvcikpXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gc3VtKGNsYXNzX3ZlY3RvcikK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZXZpb3VzX2NsYXNzZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGN1cnJlbnRfY2xhc3NlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdpbmlfaW5kZXgocHJldmlvdXNfY2xhc3NlcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+        <text encoding="base64">ICAgIHggPSBbKHN1bShjbGFzc2VzW2pdID09IGkgZm9yIGogaW4gcmFuZ2UobGVuKGNsYXNzZXMpKSkgLyBsZW4oY2xhc3NlcykpICoqIDIgZm9yIGkgaW4gKDAsIDEpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIHggPSBbKChjbGFzc2VzID09IGkpIC8gbGVuKGNsYXNzZXMpKSAqKiAyIGZvciBpIGluICgwLCAxKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRydWVfbmVnYXRpdmUgPSBzdW0oW25vdCB4IGFuZCBub3QgeSBmb3IgeCwgeSBpbiB6aXAoY2xhc3NpZmllcl9vdXRwdXQsIHRydWVfbGFiZWxzKV0pCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>float32</text>
+        <text>class_labels</text>
       </register>
     </registers>
     <search>
