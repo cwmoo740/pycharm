@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499704865697">
-        <mark key="[" line="293" column="102" />
-        <mark key="]" line="293" column="33" />
-        <mark key="." line="293" column="33" />
-        <mark key="^" line="293" column="33" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499707079653">
+        <mark key="[" line="318" column="8" />
+        <mark key="]" line="318" column="7" />
+        <mark key="." line="318" column="7" />
+        <mark key="^" line="318" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -88,7 +88,7 @@
         <text encoding="base64">ICAgICAgICBsZWZ0LCByaWdodCwgc3BsaXRfaW5kaWNlcyA9IHNlbGYuc3BsaXQoZmVhdHVyZXNbOiwgYmVzdF9mZWF0dXJlXSwgc3BsaXRfcG9pbnQsIGNsYXNzZXMpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[features[i] for i in range(len(features)) if split_indices[i] == 0]</text>
+        <text>NotImplementedError('')</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfaW5kaWNlcyA9IHNlbGYuc3BsaXQoZmVhdHVyZXNbOiwgZmVhdHVyZV0sIG1lZGlhbikK</text>
@@ -115,7 +115,7 @@
         <text encoding="base64">LCBpbmRpY2VzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[features[i] for i in range(len(features)) if split_indices[i] == 0]</text>
+        <text>NotImplementedError('')</text>
       </register>
     </registers>
     <search>
