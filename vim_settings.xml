@@ -40,11 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499653148687">
-        <mark key="[" line="275" column="8" />
-        <mark key="]" line="275" column="7" />
-        <mark key="^" line="275" column="7" />
-        <mark key="." line="275" column="7" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499656571618">
+        <mark key="[" line="292" column="54" />
+        <mark key="]" line="292" column="73" />
+        <mark key="." line="292" column="73" />
+        <mark key="^" line="292" column="73" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499576104382" />
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
@@ -86,43 +86,41 @@
         <text>[(sum(classes[j] == i for j in range(len(classes))) / len(classes)) ** 2 for i in (0, 1)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERlY2lzaW9uTm9kZShsZWZ0PU5vbmUsIHJpZ2h0PU5vbmUsIGNsYXNzX2xhYmVsPW1vZGUoY2xhc3NlcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2NsYXNzZXMgPSBbXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>classes[0]</text>
+        <text>feature</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGRlcHRoID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmFsLCBOdW1iZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2NsYXNzZXMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERlY2lzaW9uTm9kZShsZWZ0PU5vbmUsIHJpZ2h0PU5vbmUsIGNsYXNzX2xhYmVsPW1vZGUoY2xhc3NlcykpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIGRlcHRoID09IDA6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmFsLCBOdW1iZXIpOgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>&quot;&quot;&quot;
     
     :param arr: np.array
     :return: 
     &quot;&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIG1vZGUoYSwgYXhpcz0wKToKICAgICIiIgogICAgUmV0dXJuIGFuIGFycmF5IG9mIHRoZSBtb2RhbCAobW9zdCBjb21tb24pIHZhbHVlIGluIHRoZSBwYXNzZWQgYXJyYXkuCiAgICBJZiB0aGVyZSBpcyBtb3JlIHRoYW4gb25lIHN1Y2ggdmFsdWUsIG9ubHkgdGhlIHNtYWxsZXN0IGlzIHJldHVybmVkLgogICAgVGhlIGJpbi1jb3VudCBmb3IgdGhlIG1vZGFsIGJpbnMgaXMgYWxzbyByZXR1cm5lZC4KICAgIFBhcmFtZXRlcnMKICAgIC0tLS0tLS0tLS0KICAgIGEgOiBhcnJheV9saWtlCiAgICAgICAgbi1kaW1lbnNpb25hbCBhcnJheSBvZiB3aGljaCB0byBmaW5kIG1vZGUocykuCiAgICBheGlzIDogaW50IG9yIE5vbmUsIG9wdGlvbmFsCiAgICAgICAgQXhpcyBhbG9uZyB3aGljaCB0byBvcGVyYXRlLiBEZWZhdWx0IGlzIDAuIElmIE5vbmUsIGNvbXB1dGUgb3ZlcgogICAgICAgIHRoZSB3aG9sZSBhcnJheSBgYWAuCiAgICBuYW5fcG9saWN5IDogeydwcm9wYWdhdGUnLCAncmFpc2UnLCAnb21pdCd9LCBvcHRpb25hbAogICAgICAgIERlZmluZXMgaG93IHRvIGhhbmRsZSB3aGVuIGlucHV0IGNvbnRhaW5zIG5hbi4gJ3Byb3BhZ2F0ZScgcmV0dXJucyBuYW4sCiAgICAgICAgJ3JhaXNlJyB0aHJvd3MgYW4gZXJyb3IsICdvbWl0JyBwZXJmb3JtcyB0aGUgY2FsY3VsYXRpb25zIGlnbm9yaW5nIG5hbgogICAgICAgIHZhbHVlcy4gRGVmYXVsdCBpcyAncHJvcGFnYXRlJy4KICAgIFJldHVybnMKICAgIC0tLS0tLS0KICAgIG1vZGUgOiBuZGFycmF5CiAgICAgICAgQXJyYXkgb2YgbW9kYWwgdmFsdWVzLgogICAgY291bnQgOiBuZGFycmF5CiAgICAgICAgQXJyYXkgb2YgY291bnRzIGZvciBlYWNoIG1vZGUuCiAgICBFeGFtcGxlcwogICAgLS0tLS0tLS0KICAgID4+PiBhID0gbnAuYXJyYXkoW1s2LCA4LCAzLCAwXSwKICAgIC4uLiAgICAgICAgICAgICAgIFszLCAyLCAxLCA3XSwKICAgIC4uLiAgICAgICAgICAgICAgIFs4LCAxLCA4LCA0XSwKICAgIC4uLiAgICAgICAgICAgICAgIFs1LCAzLCAwLCA1XSwKICAgIC4uLiAgICAgICAgICAgICAgIFs0LCA3LCA1LCA5XV0pCiAgICA+Pj4gZnJvbSBzY2lweSBpbXBvcnQgc3RhdHMKICAgID4+PiBzdGF0cy5tb2RlKGEpCiAgICAoYXJyYXkoW1szLCAxLCAwLCAwXV0pLCBhcnJheShbWzEsIDEsIDEsIDFdXSkpCiAgICBUbyBnZXQgbW9kZSBvZiB3aG9sZSBhcnJheSwgc3BlY2lmeSBgYGF4aXM9Tm9uZWBgOgogICAgPj4+IHN0YXRzLm1vZGUoYSwgYXhpcz1Ob25lKQogICAgKGFycmF5KFszXSksIGFycmF5KFszXSkpCiAgICAiIiIKICAgIGEsIGF4aXMgPSBfY2hrX2FzYXJyYXkoYSwgYXhpcykKICAgIGlmIGEuc2l6ZSA9PSAwOgogICAgICAgIHJldHVybiBNb2RlUmVzdWx0KG5wLmFycmF5KFtdKSwgbnAuYXJyYXkoW10pKQoKICAgIGNvbnRhaW5zX25hbiwgbmFuX3BvbGljeSA9IF9jb250YWluc19uYW4oYSwgbmFuX3BvbGljeSkKCiAgICBpZiBjb250YWluc19uYW4gYW5kIG5hbl9wb2xpY3kgPT0gJ29taXQnOgogICAgICAgIGEgPSBtYS5tYXNrZWRfaW52YWxpZChhKQogICAgICAgIHJldHVybiBtc3RhdHNfYmFzaWMubW9kZShhLCBheGlzKQoKICAgIHNjb3JlcyA9IG5wLnVuaXF1ZShucC5yYXZlbChhKSkgICAgICAgIyBnZXQgQUxMIHVuaXF1ZSB2YWx1ZXMKICAgIHRlc3RzaGFwZSA9IGxpc3QoYS5zaGFwZSkKICAgIHRlc3RzaGFwZVtheGlzXSA9IDEKICAgIG9sZG1vc3RmcmVxID0gbnAuemVyb3ModGVzdHNoYXBlLCBkdHlwZT1hLmR0eXBlKQogICAgb2xkY291bnRzID0gbnAuemVyb3ModGVzdHNoYXBlLCBkdHlwZT1pbnQpCiAgICBmb3Igc2NvcmUgaW4gc2NvcmVzOgogICAgICAgIHRlbXBsYXRlID0gKGEgPT0gc2NvcmUpCiAgICAgICAgY291bnRzID0gbnAuZXhwYW5kX2RpbXMobnAuc3VtKHRlbXBsYXRlLCBheGlzKSwgYXhpcykKICAgICAgICBtb3N0ZnJlcXVlbnQgPSBucC53aGVyZShjb3VudHMgPiBvbGRjb3VudHMsIHNjb3JlLCBvbGRtb3N0ZnJlcSkKICAgICAgICBvbGRjb3VudHMgPSBucC5tYXhpbXVtKGNvdW50cywgb2xkY291bnRzKQogICAgICAgIG9sZG1vc3RmcmVxID0gbW9zdGZyZXF1ZW50CgogICAgcmV0dXJuIE1vZGVSZXN1bHQobW9zdGZyZXF1ZW50LCBvbGRjb3VudHMpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>:param a: 
-    :param axis: 
-    :return:</text>
-      </register>
       <register name="-" type="4">
-        <text>classes[0]</text>
+        <text>feature</text>
       </register>
     </registers>
     <search>
