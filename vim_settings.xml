@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499713137663">
+      <file name="/Python Console" timestamp="1499715565309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -40,10 +40,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499714936249">
-        <mark key="[" line="335" column="29" />
-        <mark key="]" line="337" column="0" />
-        <mark key="." line="337" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499716414266">
+        <mark key="[" line="337" column="8" />
+        <mark key="]" line="337" column="8" />
+        <mark key="." line="337" column="8" />
+        <mark key="^" line="336" column="30" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -84,37 +85,37 @@
         <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfaW5kaWNlcyA9IFswIGlmIGZlYXR1cmVzW2ldW2ZlYXR1cmVdID49IG1lZGlhbiBlbHNlIDAgZm9yIGkgaW4gcmFuZ2UobGVuKGZlYXR1cmVzKSldCiAgICAgICAgICAgIGxlZnQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMF0KICAgICAgICAgICAgcmlnaHQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5yYW5kb20ucGVybXV0YXRpb24obGVuZ3RoKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>indices =</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gMAo=</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IHNhbXBsZXMuc2hhcGVbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfc2FtcGxlcyA9IHNhbXBsZXNbc3RhcnQ6XQo=</text>
+        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5yYW5kb20ucGVybXV0YXRpb24obGVuZ3RoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNhbXBsZXMsIGNsYXNzZXMgCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfY2xhc3NlcyA9IGNsYXNzZXNbaW5kaWNlc1tzdGFydDooc3RhcnQgKyBpbnQobGVuZ3RoIC8gaykpXV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXdfc2FtcGxlcyA9IHNhbXBsZXNbaW5kaWNlc1tzdGFydDooc3RhcnQgKyBpbnQobGVuZ3RoIC8gaykpXV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYXBwZW5kKChuZXdfc2FtcGxlcywgbmV3X2NsYXNzZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IFtdCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>indices =</text>
       </register>
     </registers>
     <search>
