@@ -12,15 +12,18 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499803320326">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1499812014766">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1499803325563">
+      <file name="/fragment.py" timestamp="1499811692927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -40,13 +43,18 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499803318440">
-        <mark key="[" line="576" column="15" />
-        <mark key="]" line="576" column="15" />
-        <mark key="." line="576" column="15" />
-        <mark key="^" line="575" column="63" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499812695663">
+        <mark key="[" line="376" column="8" />
+        <mark key="]" line="376" column="7" />
+        <mark key="." line="376" column="7" />
+        <mark key="^" line="376" column="7" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499803166458" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499812424183">
+        <mark key="[" line="282" column="18" />
+        <mark key="]" line="282" column="18" />
+        <mark key="." line="282" column="18" />
+        <mark key="^" line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
@@ -82,41 +90,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfaW5kaWNlcyA9IFswIGlmIGZlYXR1cmVzW2ldW2ZlYXR1cmVdID49IG1lZGlhbiBlbHNlIDAgZm9yIGkgaW4gcmFuZ2UobGVuKGZlYXR1cmVzKSldCiAgICAgICAgICAgIGxlZnQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMF0KICAgICAgICAgICAgcmlnaHQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMV0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgc2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQoKICAgICAgICBzZWxmLmRhdGFzZXQgPSBkdC5sb2FkX2NzdigncGFydDIzX2RhdGEuY3N2JykKICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzLCBzZWxmLnRyYWluX2NsYXNzZXMgPSBzZWxmLmRhdGFzZXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>list(zip(*np.unique(data, return_counts=True)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhlZCA9IG5wLm1heChhPXN1bW1lZCwgYXhpcz0wKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCA9IG5wLmFyZ21heChtYXhlZCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">c2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gbnAuYXJyYXkoWzEsIDEsIDEsIDEsIDIsIDMsIDMsIDUsIDUsIDVdLCBkdHlwZT1ucC5mbG9hdCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFjdGlvbiA9IGludChrIC8gbGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>list(zip(*np.unique(data, return_counts=True)))</text>
+        <text>DecisionTree</text>
       </register>
     </registers>
     <search>
