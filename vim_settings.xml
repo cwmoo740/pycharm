@@ -9,24 +9,21 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498437255769">
+      <file name="/Dummy.txt" timestamp="1499814881459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499812014766">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Python Console" timestamp="1499815178229">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1499811692927">
+      <file name="/fragment.py" timestamp="1499815196231">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
@@ -43,17 +40,17 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499812695663">
-        <mark key="[" line="376" column="8" />
-        <mark key="]" line="376" column="7" />
-        <mark key="." line="376" column="7" />
-        <mark key="^" line="376" column="7" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499815208769">
+        <mark key="[" line="385" column="78" />
+        <mark key="]" line="386" column="71" />
+        <mark key="." line="386" column="71" />
+        <mark key="^" line="386" column="71" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499812424183">
-        <mark key="[" line="282" column="18" />
-        <mark key="]" line="282" column="18" />
-        <mark key="." line="282" column="18" />
-        <mark key="^" line="282" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499815518329">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
+        <mark key="^" line="291" column="40" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -94,37 +91,37 @@
         <text encoding="base64">CiAgICAgICAgc2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQoKICAgICAgICBzZWxmLmRhdGFzZXQgPSBkdC5sb2FkX2NzdigncGFydDIzX2RhdGEuY3N2JykKICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzLCBzZWxmLnRyYWluX2NsYXNzZXMgPSBzZWxmLmRhdGFzZXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY21wKG91dHB1dCwgc2VsZi50cmFpbl9jbGFzc2VzKSA9PSAwCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY21wKG91dHB1dCwgc2VsZi50cmFpbl9jbGFzc2VzKSA9PSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJlZSxhdHRyX3NhbXBsZT1zZWxmLnRyZWVzW2ldCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBkZWYgY2xhc3NpZnlfcm93KHNlbGYsIHJvdyk6CiAgICAgICAgdm90ZXMgPSBbXQogICAgICAgIGZvciB0cmVlLCBhdHRyX2luZGljZXMgaW4gc2VsZi50cmVlczoKICAgICAgICAgICAgdm90ZXMuYXBwZW5kKHRyZWUuY2xhc3NpZnkoKSkKCiAgICAgICAgcmV0dXJuIDU=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">c2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gbnAuYXJyYXkoWzEsIDEsIDEsIDEsIDIsIDMsIDMsIDUsIDUsIDVdLCBkdHlwZT1ucC5mbG9hdCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">c2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>DecisionTree</text>
+        <text>dt.generate_k_folds(self.dataset, k=5)</text>
       </register>
     </registers>
     <search>
