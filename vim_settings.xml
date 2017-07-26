@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499799027210">
+      <file name="/Python Console" timestamp="1501065480058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1499798978681">
+      <file name="/fragment.py" timestamp="1501064756447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -46,11 +46,11 @@
         <mark key="." line="529" column="53" />
         <mark key="^" line="529" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501060576742">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501065022855">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -91,37 +91,37 @@
         <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfaW5kaWNlcyA9IFswIGlmIGZlYXR1cmVzW2ldW2ZlYXR1cmVdID49IG1lZGlhbiBlbHNlIDAgZm9yIGkgaW4gcmFuZ2UobGVuKGZlYXR1cmVzKSldCiAgICAgICAgICAgIGxlZnQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMF0KICAgICAgICAgICAgcmlnaHQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhlZCA9IG5wLm1heChhPXN1bW1lZCwgYXhpcz0wKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA1Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>maxed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiA1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCA9IG5wLmFyZ21heChtYXhlZCkK</text>
+        <text encoding="base64">ICAgIHggPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZCgpCg==</text>
+        <text encoding="base64">ICAgIGRpc3RhbmNlcyA9IFtucC5saW5hbGcubm9ybSh2YWx1ZXMgLSBtZWFuc1tpXSwgYXhpcz0yKSBmb3IgaSBpbiByYW5nZShtZWFucy5zaGFwZVswXSldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsX21lYW5zID0gbnAuYXJyYXkoW10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFjdGlvbiA9IGludChrIC8gbGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5yYW5kb20ucGVybXV0YXRpb24obGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXhlZCA9IG5wLm1heChhPXN1bW1lZCwgYXhpcz0wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlbmd0aCA9IHNhbXBsZXMuc2hhcGVbMF0K</text>
+        <text encoding="base64">ICAgICAgICBpbmRleCA9IG5wLmFyZ21heChtYXhlZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>maxed</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
