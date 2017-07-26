@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501068366316">
+      <file name="/Python Console" timestamp="1501070193766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1501066989826">
+      <file name="/fragment.py" timestamp="1501070166853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -46,11 +46,11 @@
         <mark key="." line="529" column="53" />
         <mark key="^" line="529" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501069099841">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="41" column="13" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="13" />
+      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501070908854">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -87,41 +87,47 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfaW5kaWNlcyA9IFswIGlmIGZlYXR1cmVzW2ldW2ZlYXR1cmVdID49IG1lZGlhbiBlbHNlIDAgZm9yIGkgaW4gcmFuZ2UobGVuKGZlYXR1cmVzKSldCiAgICAgICAgICAgIGxlZnQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMF0KICAgICAgICAgICAgcmlnaHQgPSBbY2xhc3Nlc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oY2xhc3NlcykpIGlmIHNwbGl0X2luZGljZXNbaV0gPT0gMV0K</text>
+      <register name="0" type="4">
+        <text>np.argmin(np.concatenate(
+        [np.expand_dims(np.linalg.norm(flattened - means[i], axis=1), axis=2) for i in range(means.shape[0])],
+        axis=1
+    ), axis=1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA1Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBpZiBpbml0aWFsX21lYW5zIGlzIE5vbmU6CiAgICAgICAgaW5pdGlhbF9tZWFucyA9IG5wLnJhbmRvbS5yYW5kaW50KGxvdz0wLCBoaWdoPWltYWdlX3ZhbHVlcy5zaGFwZVswXSAqIGltYWdlX3ZhbHVlcy5zaGFwZVsxXSwgc2l6ZT1rKQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">CiAgICBpZiBpbml0aWFsX21lYW5zIGlzIE5vbmU6CiAgICAgICAgaW5pdGlhbF9tZWFucyA9IG5wLnJhbmRvbS5yYW5kaW50KGxvdz0wLCBoaWdoPWltYWdlX3ZhbHVlcy5zaGFwZVswXSAqIGltYWdlX3ZhbHVlcy5zaGFwZVsxXSwgc2l6ZT1rKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHggPSAwCg==</text>
+      <register name="2" type="4">
+        <text>np.argmin(np.concatenate(
+        [np.expand_dims(np.linalg.norm(flattened - means[i], axis=1), axis=2) for i in range(means.shape[0])],
+        axis=1
+    ), axis=1)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3RhbmNlcyA9IFtucC5saW5hbGcubm9ybSh2YWx1ZXMgLSBtZWFuc1tpXSwgYXhpcz0yKSBmb3IgaSBpbiByYW5nZShtZWFucy5zaGFwZVswXSldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA1Cg==</text>
+        <text encoding="base64">ICAgIG1lYW5zID0gbnAuYXJyYXkoW25wLm1lYW4oZmxhdHRlbmVkW2NsdXN0ZXJzID09IGldLCBheGlzPTApIGZvciBpIGluIHJhbmdlKG1lYW5zLnNoYXBlWzBdKV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IGltYWdlX3ZhbHVlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsX21lYW5zID0gbnAuYXJyYXkoW10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlID0gRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhlZCA9IG5wLm1heChhPXN1bW1lZCwgYXhpcz0wKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBjbHVzdGVycyA9PSBuZXdfY2x1c3RlcnM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCA9IG5wLmFyZ21heChtYXhlZCkK</text>
+        <text encoding="base64">ICAgIHggPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>values</text>
       </register>
     </registers>
     <search>
