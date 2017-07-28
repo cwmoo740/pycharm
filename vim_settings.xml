@@ -57,6 +57,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501263506949">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -83,6 +86,9 @@
       <file name="/Dummy.txt" timestamp="1501259145347">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
         <mark key="]" line="168" column="35" />
@@ -99,6 +105,12 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264018001">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/src/python/cds-docs/anomalies/anomalies.py" timestamp="1501262116414">
         <mark key="[" line="61" column="0" />
@@ -126,6 +138,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -133,37 +151,37 @@
         <text encoding="base64">CiAgICAgICAgc2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQoKICAgICAgICBzZWxmLmRhdGFzZXQgPSBkdC5sb2FkX2NzdigncGFydDIzX2RhdGEuY3N2JykKICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzLCBzZWxmLnRyYWluX2NsYXNzZXMgPSBzZWxmLmRhdGFzZXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBudW1weS5jb3JlLm51bWVyaWN0eXBlcyBpbXBvcnQgbmRhcnJheQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ndarray</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyBkaXJlY3RvcnkgY29udGFpbnMgYSBbanVweXRlcl0oaHR0cDovL2p1cHl0ZXItbm90ZWJvb2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L25vdGVib29rLmh0bWwpIG5vdGVib29rcyB3cml0dGVuIGluIFB5dGhvbiAzLiAK</text>
+        <text encoding="base64">Y2xhc3MgQW5vbWFseU1vZGVsOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVkaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YHBpcDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0YAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5zdGFsbCBkZXBlbmRlbmNpZXMuCg==</text>
+        <text encoding="base64">VGhpcyBkaXJlY3RvcnkgY29udGFpbnMgYSBbanVweXRlcl0oaHR0cDovL2p1cHl0ZXItbm90ZWJvb2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L25vdGVib29rLmh0bWwpIG5vdGVib29rcyB3cml0dGVuIGluIFB5dGhvbiAzLiAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YHdoaWNoIHBpcDNgIFNob3VsZCBwb2ludCB0byBgLi4uL2Vudi9iaW4vcGlwM2AK</text>
+        <text encoding="base64">YHBpcDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0YAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>ndarray</text>
       </register>
     </registers>
     <search>
