@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1499814881459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499820455140">
+      <file name="/Python Console" timestamp="1499828403903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1499816266027">
+      <file name="/fragment.py" timestamp="1499828225775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -40,17 +40,17 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499819078912">
-        <mark key="[" line="379" column="35" />
-        <mark key="]" line="379" column="53" />
-        <mark key="." line="379" column="53" />
-        <mark key="^" line="379" column="53" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
+        <mark key="[" line="391" column="29" />
+        <mark key="]" line="391" column="29" />
+        <mark key="." line="391" column="29" />
+        <mark key="^" line="391" column="75" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499816921631">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
-        <mark key="^" line="291" column="40" />
+      <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499828310372">
+        <mark key="[" line="284" column="24" />
+        <mark key="]" line="284" column="24" />
+        <mark key="." line="284" column="24" />
+        <mark key="^" line="286" column="34" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -94,7 +94,7 @@
         <text encoding="base64">ICAgICAgICAjIHRyZWUuZml0KGZlYXR1cmVzPWZlYXR1cmVzLCBjbGFzc2VzPWNsYXNzZXMpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1.</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
         <text>np.sort(np.random.choice(
@@ -129,7 +129,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgdHJlZSBpbiBzZWxmLm51bV90cmVlczoK</text>
       </register>
       <register name="-" type="4">
-        <text>1.</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
