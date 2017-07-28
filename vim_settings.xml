@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501258284602">
+      <file name="/Python Console" timestamp="1501270940248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -98,11 +98,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1501265214050">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="6" column="61" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1501274311536">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="21" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -165,38 +165,44 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgc2VsZi5yZXN0YXVyYW50ID0geydyZXN0YXVyYW50cyc6IFswXSAqIDYgKyBbMV0gKiA2LAogICAgICAgICAgICAgICAgICAgICAgICAgICAnc3BsaXRfcGF0cm9ucyc6IFtbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsxLCAxLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEsIDEsIDAsIDAsIDAsIDBdXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NwbGl0X2Zvb2RfdHlwZSc6IFtbMCwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzAsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMCwgMSwgMV1dfQoKICAgICAgICBzZWxmLmRhdGFzZXQgPSBkdC5sb2FkX2NzdigncGFydDIzX2RhdGEuY3N2JykKICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzLCBzZWxmLnRyYWluX2NsYXNzZXMgPSBzZWxmLmRhdGFzZXQ=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ClJ1biB0aGUgbm90ZWJvb2sgc2VydmVyLgpgYGAKY2Qgbm90ZWJvb2tzCmp1cHl0ZXIgbm90ZWJvb2sKYGBg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gbwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>reques</text>
+        <text>{'what': 5}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgbmRhcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBudW1weS5jb3JlLm51bWVyaWN0eXBlcyBpbXBvcnQgbmRhcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gby5hc2RpY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG8sIFJlcXVlc3QpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQW5vbWFseU1vZGVsOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3d0ZicpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVkaQo=</text>
+      <register name="6" type="4">
+        <text>{
+                key: val.strftime(self._date_format)
+                if isinstance(val, datetime.date)
+                else val
+                for key, val in o
+            }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>for stuff in req:
+        print(stuff)</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhpcyBkaXJlY3RvcnkgY29udGFpbnMgYSBbanVweXRlcl0oaHR0cDovL2p1cHl0ZXItbm90ZWJvb2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L25vdGVib29rLmh0bWwpIG5vdGVib29rcyB3cml0dGVuIGluIFB5dGhvbiAzLiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>reques</text>
+        <text>{'what': 5}</text>
       </register>
     </registers>
     <search>
