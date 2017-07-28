@@ -25,6 +25,9 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,6 +63,12 @@
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/cds-data-fetcher/main.py" timestamp="1501256546790">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
         <mark key="[" line="4" column="0" />
