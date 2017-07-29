@@ -36,11 +36,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw5/mixture_tests.py" timestamp="1501297294851">
-        <mark key="[" line="126" column="8" />
-        <mark key="]" line="126" column="8" />
-        <mark key="^" line="126" column="9" />
-        <mark key="." line="126" column="8" />
+      <file name="$USER_HOME$/src/python/ai/hw5/mixture_tests.py" timestamp="1501315670696">
+        <mark key="[" line="202" column="5" />
+        <mark key="]" line="202" column="17" />
+        <mark key="^" line="202" column="17" />
+        <mark key="." line="202" column="17" />
       </file>
       <file name="$USER_HOME$/src/python/cds-docs/SETUP.md" timestamp="1501261972284">
         <mark key="[" line="3" column="61" />
@@ -119,11 +119,11 @@
         <mark key="." line="391" column="29" />
         <mark key="^" line="391" column="75" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501298934586">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="17" />
+      <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501315815183">
+        <mark key="[" line="353" column="4" />
+        <mark key="]" line="353" column="4" />
+        <mark key="." line="353" column="4" />
+        <mark key="^" line="353" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/cds-docs/environment.yml" timestamp="1501261441462">
         <mark key="[" line="91" column="0" />
@@ -175,12 +175,15 @@
         <text encoding="base64">bWVhbnMgPSBpbml0aWFsX21lYW5zCiAgICBmbGF0dGVuZWQgPSBmbGF0dGVuX2ltYWdlX21hdHJpeChpbWFnZV92YWx1ZXMpCiAgICBjbHVzdGVycyA9IG5wLmFycmF5KFtdKQogICAgY29udmVyZ2VkID0gRmFsc2UKICAgIHdoaWxlIG5vdCBjb252ZXJnZWQ6CiAgICAgICAgbmV3X2NsdXN0ZXJzID0gbnAuYXJnbWluKG5wLmNvbmNhdGVuYXRlKAogICAgICAgICAgICBbbnAuZXhwYW5kX2RpbXMobnAubGluYWxnLm5vcm0oZmxhdHRlbmVkIC0gbWVhbnNbaV0sIGF4aXM9MSksIGF4aXM9MikgZm9yIGkgaW4gcmFuZ2UobWVhbnMuc2hhcGVbMF0pXSwKICAgICAgICAgICAgYXhpcz0xCiAgICAgICAgKSwgYXhpcz0xKQogICAgICAgIGNvbnZlcmdlZCA9IG5wLmFycmF5X2VxdWFsKGNsdXN0ZXJzLCBuZXdfY2x1c3RlcnMpCiAgICAgICAgY2x1c3RlcnMgPSBuZXdfY2x1c3RlcnMKICAgICAgICBtZWFucyA9IG5wLmFycmF5KFtucC5tZWFuKGZsYXR0ZW5lZFtjbHVzdGVycyA9PSBpXSwgYXhpcz0wKSBmb3IgaSBpbiByYW5nZShtZWFucy5zaGFwZVswXSldKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogZmluaXNoIHRoaXMgZnVuY3Rpb24K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>raise NotImplementedError()</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if initial_means is None:
         initial_means = np.random.randint(low=0, high=image_values.shape[0] * image_values.shape[1], size=k)
 
@@ -197,29 +200,26 @@
         clusters = new_clusters
         means = np.array([np.mean(flattened[clusters == i], axis=0) for i in range(means.shape[0])])</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG1lYW5zID0gaW5pdGlhbF9tZWFucwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgpkZWYgcGVyY2VudF9kaWZmKHgsIHksIGRpZmY9MC4xKToKICAgICMgbm9pbnNwZWN0aW9uIFB5VHlwZUNoZWNrZXIKICAgIHJldHVybiBucC5hbnkoKG5wLmFicyh4IC0geSkgLyB5KSA8IGRpZmYpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3X2xpa2VsaWhvb2QgPSBzZWxmLmxpa2VsaWhvb2QoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmV2X2xpa2VsaWhvb2QgPSBzZWxmLmxpa2VsaWhvb2QoKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGZpbmlzaCB0aGlzIGZ1bmN0aW9uCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>np.random.ch</text>
+        <text>raise NotImplementedError()</text>
       </register>
     </registers>
     <search>
