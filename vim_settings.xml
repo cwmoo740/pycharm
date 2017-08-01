@@ -33,7 +33,6 @@
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/README.md" timestamp="1501586062798" />
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="4" column="10" />
@@ -63,6 +62,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501587724539">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -111,7 +115,6 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/setup.md" timestamp="1501585652620" />
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
         <mark key="]" line="168" column="35" />
@@ -180,52 +183,37 @@
         <text encoding="base64">ICAgIHJldHVybiBucC5sb2coZ21tLmltYWdlX21hdHJpeC5zaXplKSAqICgzICogZ21tLm51bV9jb21wb25lbnRzIC0gMSkgLSAyICogbnAubG9nKGdtbS5saWtlbGlob29kKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl9saWtlbGlob29kID0gbmV3X2xpa2VsaWhvb2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stats.norm.pdf(x=flattened, loc=self.means[i], scale=self.variances[i])</text>
+        <text>&quot;&quot;&quot;Letter Z&quot;&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZfY3RyPWNvdW50ZXIK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogY29tcGxldGUgdGhpcyBmdW5jdGlvbi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19saWtlbGlob29kPW5ld19saWtlbGlob29kLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldl9saWtlbGlob29kID0gbmV3X2xpa2VsaWhvb2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZfbGlrZWxpaG9vZD1wcmV2X2xpa2VsaWhvb2QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciwgY29udmVyZ2VkID0gY29udmVyZ2VuY2VfZnVuY3Rpb24oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZfY3RyPWNvdW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2xpa2VsaWhvb2QgPSBzZWxmLmxpa2VsaWhvb2QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19saWtlbGlob29kPW5ld19saWtlbGlob29kLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBub3QgY29udmVyZ2VkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZfbGlrZWxpaG9vZD1wcmV2X2xpa2VsaWhvb2QsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text># E step
-            responsibilities = np.array([
-                self.mixing_coefficients[i] * stats.norm.pdf(x=flattened, loc=self.means[i], scale=self.variances[i])
-                for i in range(self.num_components)
-            ])
-            responsibilities = responsibilities / np.sum(responsibilities, axis=0)
-            # M step
-            n_k = np.sum(responsibilities, axis=1)
-            prev_variables = [np.copy(self.means), np.copy(self.variances), np.copy(self.mixing_coefficients)]
-            self.means = 1. / n_k * np.sum(responsibilities * flattened, axis=1)
-            deviation = flattened[:, np.newaxis] - self.means
-            self.variances = 1. / n_k * np.sum(
-                responsibilities * np.apply_along_axis(lambda x: x.dot(x.transpose()), arr=deviation, axis=1),
-                axis=1
-            )
-            self.mixing_coefficients = n_k / flattened.size</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciwgY29udmVyZ2VkID0gY29udmVyZ2VuY2VfZnVuY3Rpb24oCg==</text>
       </register>
       <register name="-" type="4">
-        <text>stats.norm.pdf(x=flattened, loc=self.means[i], scale=self.variances[i])</text>
+        <text>&quot;&quot;&quot;Letter Z&quot;&quot;&quot;</text>
       </register>
     </registers>
     <search>
