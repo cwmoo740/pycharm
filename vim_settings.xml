@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501637916915">
+      <file name="/Python Console" timestamp="1501645834633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -63,11 +63,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501643578189">
-        <mark key="[" line="346" column="18" />
-        <mark key="]" line="346" column="18" />
-        <mark key="^" line="346" column="16" />
-        <mark key="." line="346" column="18" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501645766100">
+        <mark key="[" line="337" column="16" />
+        <mark key="]" line="337" column="25" />
+        <mark key="." line="337" column="25" />
+        <mark key="^" line="337" column="25" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -184,22 +184,22 @@
         <text encoding="base64">ICAgIHJldHVybiBucC5sb2coZ21tLmltYWdlX21hdHJpeC5zaXplKSAqICgzICogZ21tLm51bV9jb21wb25lbnRzIC0gMSkgLSAyICogbnAubG9nKGdtbS5saWtlbGlob29kKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWWzBdW3N0YXRlXSA9IHsncHJvYic6IHByaW9yX3Byb2JzW3N0YXRlXSAqIGVtaXNzaW9uX3Byb2JzW3N0YXRlXVtldmlkZW5jZV92ZWN0b3JbMF1dLCAncHJldic6IE5vbmV9Cg==</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlID0gW10K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0.0</text>
+        <text>state</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBzdGF0ZSBpbiBzdGF0ZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfc3RhdGUgPSB2Wy1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+        <text encoding="base64">ICAgIHdoaWxlIGVuZF9zdGF0ZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY29tcGxldGUgdGhpcyBmdW5jdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICBWWzBdW3N0YXRlXSA9IHsncHJvYic6IHByaW9yX3Byb2JzW3N0YXRlXSAqIGVtaXNzaW9uX3Byb2JzW3N0YXRlXVtldmlkZW5jZV92ZWN0b3JbMF1dLCAncHJldic6IE5vbmV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBzdGF0ZSBpbiBzdGF0ZXM6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
@@ -208,13 +208,13 @@
         <text encoding="base64">ICAgICMgVE9ETzogY29tcGxldGUgdGhpcyBmdW5jdGlvbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl9saWtlbGlob29kID0gbmV3X2xpa2VsaWhvb2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>0.0</text>
+        <text>state</text>
       </register>
     </registers>
     <search>
