@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501328472007">
+      <file name="/Python Console" timestamp="1501637916915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -63,11 +63,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501636847780">
-        <mark key="[" line="266" column="15" />
-        <mark key="]" line="266" column="14" />
-        <mark key="." line="266" column="14" />
-        <mark key="^" line="266" column="14" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501637909658">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="^" line="326" column="0" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -184,34 +184,34 @@
         <text encoding="base64">ICAgIHJldHVybiBucC5sb2coZ21tLmltYWdlX21hdHJpeC5zaXplKSAqICgzICogZ21tLm51bV9jb21wb25lbnRzIC0gMSkgLSAyICogbnAubG9nKGdtbS5saWtlbGlob29kKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>long</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogY29tcGxldGUgdGhpcyBmdW5jdGlvbi4K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl9saWtlbGlob29kID0gbmV3X2xpa2VsaWhvb2QK</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogY29tcGxldGUgdGhpcyBmdW5jdGlvbi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZfY3RyPWNvdW50ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldl9saWtlbGlob29kID0gbmV3X2xpa2VsaWhvb2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19saWtlbGlob29kPW5ld19saWtlbGlob29kLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXZfbGlrZWxpaG9vZD1wcmV2X2xpa2VsaWhvb2QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZfY3RyPWNvdW50ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciwgY29udmVyZ2VkID0gY29udmVyZ2VuY2VfZnVuY3Rpb24oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19saWtlbGlob29kPW5ld19saWtlbGlob29kLAo=</text>
       </register>
       <register name="-" type="4">
         <text>long</text>
