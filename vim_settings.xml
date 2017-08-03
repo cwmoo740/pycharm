@@ -60,11 +60,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501729019670">
-        <mark key="[" line="627" column="28" />
-        <mark key="]" line="589" column="14" />
-        <mark key="^" line="589" column="14" />
-        <mark key="." line="589" column="14" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501732162857">
+        <mark key="[" line="736" column="28" />
+        <mark key="]" line="736" column="28" />
+        <mark key="^" line="736" column="64" />
+        <mark key="." line="736" column="28" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -136,11 +136,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501677903769">
-        <mark key="[" line="174" column="12" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501731813943">
+        <mark key="[" line="317" column="15" />
+        <mark key="]" line="317" column="11" />
+        <mark key="^" line="317" column="11" />
+        <mark key="." line="317" column="74" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
@@ -184,40 +184,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC5sb2coZ21tLmltYWdlX21hdHJpeC5zaXplKSAqICgzICogZ21tLm51bV9jb21wb25lbnRzIC0gMSkgLSAyICogbnAubG9nKGdtbS5saWtlbGlob29kKCkpCg==</text>
+        <text encoding="base64">ZGVmIHZpdGVyYmkoZXZpZGVuY2VfdmVjdG9yLCBzdGF0ZXMsIHByaW9yX3Byb2JzLCB0cmFuc2l0aW9uX3Byb2JzLCBlbWlzc2lvbl9wcm9icyk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>None  # TODO</text>
+        <text>.replace('L1', '').replace('W1', ' ')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIEwxIHRvIFkxCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZSwgcHJvYmFiaWxpdHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2JhYmlsaXR5ID0gMS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlID0gJ0FZIEEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFcxIHRvIFcxCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFozIHRvIFo0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFk3IHRvIFk3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0KFtdKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpb3IgcHJvYmFiaWxpdHkgZm9yIFoxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>None  # TODO</text>
+        <text>.replace('L1', '').replace('W1', ' ')</text>
       </register>
     </registers>
     <search>
