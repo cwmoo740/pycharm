@@ -9,12 +9,15 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1501736336490">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1501327107370">
+      <file name="/fragment.py" timestamp="1501735080650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -60,11 +63,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501733701501">
-        <mark key="[" line="648" column="22" />
-        <mark key="]" line="648" column="21" />
-        <mark key="." line="648" column="21" />
-        <mark key="^" line="648" column="21" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501736319840">
+        <mark key="[" line="762" column="48" />
+        <mark key="]" line="762" column="48" />
+        <mark key="." line="762" column="48" />
+        <mark key="^" line="762" column="67" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -136,11 +139,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501733479006">
-        <mark key="[" line="579" column="103" />
-        <mark key="]" line="580" column="92" />
-        <mark key="^" line="580" column="92" />
-        <mark key="." line="580" column="92" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
+        <mark key="[" line="561" column="26" />
+        <mark key="]" line="561" column="26" />
+        <mark key="^" line="584" column="28" />
+        <mark key="." line="561" column="26" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
@@ -187,37 +190,37 @@
         <text encoding="base64">ZGVmIHZpdGVyYmkoZXZpZGVuY2VfdmVjdG9yLCBzdGF0ZXMsIHByaW9yX3Byb2JzLCB0cmFuc2l0aW9uX3Byb2JzLCBlbWlzc2lvbl9wcm9icyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBldmlkZW5jZSA9IFsxLCAxLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAxLCAxXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJycK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBldmlkZW5jZSA9IFsxLCAxLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAxLCAxXQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdvcmRzID0gW3dvcmQucmVwbGFjZSgnQTFBMicgKyAnQTMnICogMywgJ0EnKS5yZXBsYWNlKCdZMScgKiAzICsgJ1kyWTNZNCcgKyAnWTUnICogMyArICdZNicgKyAnWTcnICogMyldCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZWYgdml0ZXJiaShldmlkZW5jZV92ZWN0b3IsIHN0YXRlcywgcHJpb3JfcHJvYnMsIHRyYW5zaXRpb25fcHJvYnMsIGVtaXNzaW9uX3Byb2JzKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ1onCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ1knCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZSwgcHJvYmFiaWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ0EnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2JhYmlsaXR5ID0gMS4K</text>
+        <text encoding="base64">ICAgIHdvcmRzID0gW3Rva2VuaXplKGxldHRlcikgZm9yIHdvcmQgaW4gJycuam9pbihzZXF1ZW5jZSkuc3BsaXQoJ1cxJykgZm9yIGxldHRlciBpbiB3b3JkLnNwbGl0KCdMMScpXQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlID0gJ0FZIEEnCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgpkZWYgZ2V0X29yX2RlZmF1bHQoeCwga2V5LCBkZWZhdWx0PTAuKToKICAgIHRyeToKICAgICAgICByZXR1cm4geFtrZXldCiAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgcmV0dXJuIGRlZmF1bHQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3BhcnRfMmJfcmVhbChzZWxmKToKICAgICAgICAoYV9zdGF0ZXMsCiAgICAgICAgIGFfcHJpb3JfcHJvYnMsCiAgICAgICAgIGFfdHJhbnNpdGlvbl9wcm9icywKICAgICAgICAgYV9lbWlzc2lvbl9wcm9icywKICAgICAgICAgeV9zdGF0ZXMsCiAgICAgICAgIHlfcHJpb3JfcHJvYnMsCiAgICAgICAgIHlfdHJhbnNpdGlvbl9wcm9icywKICAgICAgICAgeV9lbWlzc2lvbl9wcm9icywKICAgICAgICAgel9zdGF0ZXMsCiAgICAgICAgIHpfcHJpb3JfcHJvYnMsCiAgICAgICAgIHpfdHJhbnNpdGlvbl9wcm9icywKICAgICAgICAgel9lbWlzc2lvbl9wcm9icywKICAgICAgICAgbGV0dGVyX3BhdXNlX3N0YXRlcywKICAgICAgICAgbGV0dGVyX3BhdXNlX3ByaW9yX3Byb2JzLAogICAgICAgICBsZXR0ZXJfcGF1c2VfdHJhbnNpdGlvbl9wcm9icywKICAgICAgICAgbGV0dGVyX3BhdXNlX2VtaXNzaW9uX3Byb2JzLAogICAgICAgICB3b3JkX3NwYWNlX3N0YXRlcywKICAgICAgICAgd29yZF9zcGFjZV9wcmlvcl9wcm9icywKICAgICAgICAgd29yZF9zcGFjZV90cmFuc2l0aW9uX3Byb2JzLAogICAgICAgICB3b3JkX3NwYWNlX2VtaXNzaW9uX3Byb2JzKSA9IHBhcnRfMl9hKCkKCiAgICAgICAgZXZpZGVuY2VfdmVjdG9yID0gWzEsIDEsIDEsIDAsIDEsIDEsIDEsIDAsIDEsIDAsIDEsIDAsIDAsIDAsIDAsIDAsIDAsIDAsIDEsIDEsIDEsIDAsIDEsIDAsIDEsIDEsIDEsIDAsIDEsIDEsIDFdCiAgICAgICAgc3RhdGVzID0gYV9zdGF0ZXMgKyB5X3N0YXRlcyArIHpfc3RhdGVzICsgbGV0dGVyX3BhdXNlX3N0YXRlcyArIHdvcmRfc3BhY2Vfc3RhdGVzCiAgICAgICAgcHJpb3JfcHJvYnMgPSBtZXJnZV9kaWN0cygKICAgICAgICAgICAgYV9wcmlvcl9wcm9icywgeV9wcmlvcl9wcm9icywgel9wcmlvcl9wcm9icywgbGV0dGVyX3BhdXNlX3ByaW9yX3Byb2JzLCB3b3JkX3NwYWNlX3ByaW9yX3Byb2JzCiAgICAgICAgKQogICAgICAgIHRyYW5zaXRpb25fcHJvYnMgPSBtZXJnZV9kaWN0cygKICAgICAgICAgICAgYV90cmFuc2l0aW9uX3Byb2JzLAogICAgICAgICAgICB5X3RyYW5zaXRpb25fcHJvYnMsCiAgICAgICAgICAgIHpfdHJhbnNpdGlvbl9wcm9icywKICAgICAgICAgICAgbGV0dGVyX3BhdXNlX3RyYW5zaXRpb25fcHJvYnMsCiAgICAgICAgICAgIHdvcmRfc3BhY2VfdHJhbnNpdGlvbl9wcm9icwogICAgICAgICkKICAgICAgICBlbWlzc2lvbl9wcm9icyA9IG1lcmdlX2RpY3RzKAogICAgICAgICAgICBhX2VtaXNzaW9uX3Byb2JzLAogICAgICAgICAgICB5X2VtaXNzaW9uX3Byb2JzLAogICAgICAgICAgICB6X2VtaXNzaW9uX3Byb2JzLAogICAgICAgICAgICBsZXR0ZXJfcGF1c2VfZW1pc3Npb25fcHJvYnMsCiAgICAgICAgICAgIHdvcmRfc3BhY2VfZW1pc3Npb25fcHJvYnMKICAgICAgICApCgogICAgICAgIHJlc3VsdCwgcHJvYiA9IHBhcnRfMl9iKGV2aWRlbmNlX3ZlY3Rvciwgc3RhdGVzLCBwcmlvcl9wcm9icywgdHJhbnNpdGlvbl9wcm9icywgZW1pc3Npb25fcHJvYnMpCiAgICAgICAgc2VsZi5hc3NlcnRMaXN0RXF1YWwoWydBJ10sIHJlc3VsdCwgbXNnPSdFeHBlY3RlZDoge31cblJlY2VpdmVkOnt9Jy5mb3JtYXQoWydBJ10sIHJlc3VsdCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0LAo=</text>
+        <text encoding="base64">ICAgICAgICBldmlkZW5jZSA9IFsxLCAxLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAxLCAxXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>word.split('L1')</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
