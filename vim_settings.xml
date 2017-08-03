@@ -60,11 +60,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501727944107">
-        <mark key="[" line="534" column="68" />
-        <mark key="]" line="534" column="11" />
-        <mark key="^" line="534" column="11" />
-        <mark key="." line="534" column="66" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501729019670">
+        <mark key="[" line="627" column="28" />
+        <mark key="]" line="589" column="14" />
+        <mark key="^" line="589" column="14" />
+        <mark key="." line="589" column="14" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -187,37 +187,37 @@
         <text encoding="base64">ICAgIHJldHVybiBucC5sb2coZ21tLmltYWdlX21hdHJpeC5zaXplKSAqICgzICogZ21tLm51bV9jb21wb25lbnRzIC0gMSkgLSAyICogbnAubG9nKGdtbS5saWtlbGlob29kKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1cxJzogMC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>None  # TODO</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0wxJzogMC4sCg==</text>
+        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIEwxIHRvIFkxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0EzJzogMC4sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0EyJzogMC4sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0ExJzogMC4sCg==</text>
+        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFcxIHRvIFcxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0EyJzogMC4sCg==</text>
+        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFozIHRvIFo0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0ExJzogMC4sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1cxJzogMC4K</text>
+        <text encoding="base64">ICAgICMgdHJhbnNpdGlvbiBwcm9iYWJpbGl0eSBmcm9tIFk3IHRvIFk3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0wxJzogMC4sCg==</text>
+        <text encoding="base64">ICAgICMgcHJpb3IgcHJvYmFiaWxpdHkgZm9yIFoxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>None  # TODO</text>
       </register>
     </registers>
     <search>
