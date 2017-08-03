@@ -60,11 +60,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501732162857">
-        <mark key="[" line="736" column="28" />
-        <mark key="]" line="736" column="28" />
-        <mark key="^" line="736" column="64" />
-        <mark key="." line="736" column="28" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501733701501">
+        <mark key="[" line="648" column="22" />
+        <mark key="]" line="648" column="21" />
+        <mark key="." line="648" column="21" />
+        <mark key="^" line="648" column="21" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -136,11 +136,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501731813943">
-        <mark key="[" line="317" column="15" />
-        <mark key="]" line="317" column="11" />
-        <mark key="^" line="317" column="11" />
-        <mark key="." line="317" column="74" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501733479006">
+        <mark key="[" line="579" column="103" />
+        <mark key="]" line="580" column="92" />
+        <mark key="^" line="580" column="92" />
+        <mark key="." line="580" column="92" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
@@ -187,37 +187,37 @@
         <text encoding="base64">ZGVmIHZpdGVyYmkoZXZpZGVuY2VfdmVjdG9yLCBzdGF0ZXMsIHByaW9yX3Byb2JzLCB0cmFuc2l0aW9uX3Byb2JzLCBlbWlzc2lvbl9wcm9icyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmlkZW5jZSA9IFsxLCAxLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAxLCAxXQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.replace('L1', '').replace('W1', ' ')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBldmlkZW5jZSA9IFsxLCAxLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAwLCAwLCAwLCAwLCAwLCAwLCAwLCAxLCAxLCAxLCAwLCAxLCAwLCAxLCAxLCAxLCAwLCAxLCAxLCAxXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZSwgcHJvYmFiaWxpdHkK</text>
+        <text encoding="base64">ICAgIHdvcmRzID0gW3dvcmQucmVwbGFjZSgnQTFBMicgKyAnQTMnICogMywgJ0EnKS5yZXBsYWNlKCdZMScgKiAzICsgJ1kyWTNZNCcgKyAnWTUnICogMyArICdZNicgKyAnWTcnICogMyldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2JhYmlsaXR5ID0gMS4K</text>
+        <text encoding="base64">IyBkZWYgdml0ZXJiaShldmlkZW5jZV92ZWN0b3IsIHN0YXRlcywgcHJpb3JfcHJvYnMsIHRyYW5zaXRpb25fcHJvYnMsIGVtaXNzaW9uX3Byb2JzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlID0gJ0FZIEEnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0LAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0KFtdKSwK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzZXF1ZW5jZSwgcHJvYmFiaWxpdHkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2JhYmlsaXR5ID0gMS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNlcXVlbmNlID0gJ0FZIEEnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgemVyb19kaWN0LAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>.replace('L1', '').replace('W1', ' ')</text>
+        <text>word.split('L1')</text>
       </register>
     </registers>
     <search>
