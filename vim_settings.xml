@@ -63,11 +63,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501678070849">
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="419" column="0" />
-        <mark key="^" line="350" column="22" />
-        <mark key="." line="419" column="0" />
+      <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501724598994">
+        <mark key="[" line="601" column="0" />
+        <mark key="]" line="596" column="14" />
+        <mark key="^" line="596" column="14" />
+        <mark key="." line="596" column="14" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/garbage.py" timestamp="1501264503402">
         <mark key="[" line="12" column="37" />
@@ -192,8 +192,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>333</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkKCkK</text>
@@ -220,7 +220,7 @@
         <text encoding="base64">ICAgIGZvciBzdGF0ZSBpbiBzdGF0ZXM6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3X3BhcnRfMWJfYW5zd2VyIA==</text>
+        <text>333</text>
       </register>
     </registers>
     <search>
