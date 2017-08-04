@@ -31,11 +31,6 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/cds-docs/anomalies/utils.py" timestamp="1501259007053">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1497490050376">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,12 +93,6 @@
         <mark key="^" line="366" column="8" />
         <mark key="." line="366" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/cds-docs/anomalies/test.py" timestamp="1501262087304">
-        <mark key="[" line="65" column="59" />
-        <mark key="]" line="65" column="33" />
-        <mark key="." line="65" column="33" />
-        <mark key="^" line="65" column="33" />
-      </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="10" column="36" />
@@ -140,10 +129,10 @@
         <mark key="." line="245" column="26" />
         <mark key="^" line="245" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/cds-docs/environment.yml" timestamp="1501261441462">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/src/python/cds-docs/environment.yml" timestamp="1501868771760">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
         <mark key="[" line="561" column="26" />
@@ -162,11 +151,6 @@
         <mark key="]" line="163" column="25" />
         <mark key="." line="163" column="25" />
         <mark key="^" line="163" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/python/cds-docs/anomalies/anomalies.py" timestamp="1501262116414">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -208,34 +192,34 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQo=</text>
+        <text encoding="base64">LSBwaXA6Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQo=</text>
+        <text encoding="base64">LSBwaXA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKicpCg==</text>
+        <text encoding="base64">ICAtIHByb21wdC10b29sa2l0PT0xLjAuMTQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV3YXJkcyA9IGRlZXBjb3B5KGdyaWQpCg==</text>
+        <text encoding="base64">ICAtIGp1cHl0ZXItY29yZT09NC4zLjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXhfc2NvcmUgPSBzY29yZQo=</text>
+        <text encoding="base64">ICAtIGp1cHl0ZXItY29uc29sZT09NS4xLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNjb3JlID4gbWF4X3Njb3JlOgo=</text>
+        <text encoding="base64">ICAtIGp1cHl0ZXItY2xpZW50PT01LjEuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19zdGF0ZSA9IChtaW4obWF4KG5ld19zdGF0ZVswXSwgMCksIG1heF9yb3dzKSwgbWluKG1heChuZXdfc3RhdGVbMV0sIDApLCBtYXhfY29scykpCg==</text>
+        <text encoding="base64">ICAtIGlweXRob24tZ2VudXRpbHM9PTAuMi4wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1heF9jb2xzID0gbGVuKG5ld19ncmlkWzBdKSAtIDEK</text>
+        <text encoding="base64">LSB6bGliPTEuMi44PTMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LSB6ZXJvbXE9NC4xLjU9MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgtMSwgMCk6ICgxLCAwKQo=</text>
+        <text encoding="base64">LSB4ej01LjIuMj0xCg==</text>
       </register>
       <register name="-" type="4">
         <text>new_state</text>
