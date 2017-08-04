@@ -22,6 +22,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/ai/hw6/value.py" timestamp="1501829069831">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,13 +207,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICgtMSwgMCk6ICgxLCAwKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">b3Bwb3NpdGVzID0gewo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIAogICAgIyBQKEh8Uik=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIAogICAgIyBQKEh8Uik=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>print(always(_robot=True) * helpful(_smart=True))
     print(always(_robot=True) * _not(helpful(_smart=True)))
     print('*************************')
@@ -231,34 +246,20 @@
     print(_not(always(_robot=False)) * _not(helpful(_smart=False)))
     print('*************************')</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KCcwLDAnKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAnUzYnOiBbMC4yLCAwLjhdLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAnUzcnOiBbMC45LCAwLjFdLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAnUzYnOiBtZXJnZV9kaWN0cygKICAgICAgICAgICAgemVyb19kaWN0KHN0YXRlcyksCiAgICAgICAgICAgIHsnUzYnOiAwLjY2NywgJ1M3JzogMC4zMzN9CiAgICAgICAgKSwKICAgICAgICAnUzcnOiBtZXJnZV9kaWN0cygKICAgICAgICAgICAgemVyb19kaWN0KHN0YXRlcyksCiAgICAgICAgICAgIHsnUzcnOiAwLjUsICdTZW5kJzogMC41fQogICAgICAgICks</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJy4K</text>
-      </register>
-      <register name="9" type="4">
-        <text>S2': 0.,
-            'S3': 0.,
-            'S4': 0.,
-            'S5': 0.,
-            'S6': 0.,
-            'S7': 0</text>
-      </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">d2FscGhhIA==</text>
       </register>
     </registers>
     <search>
