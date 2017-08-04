@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501825715458">
+      <file name="/Python Console" timestamp="1501831112217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -22,11 +22,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw6/value.py" timestamp="1501829069831">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/src/python/ai/hw6/value.py" timestamp="1501830779806">
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
@@ -208,58 +207,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgtMSwgMCk6ICgxLCAwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3Bwb3NpdGVzID0gewo=</text>
+        <text encoding="base64">cmV3YXJkcyA9IGRlZXBjb3B5KGdyaWQpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIAogICAgIyBQKEh8Uik=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXhfc2NvcmUgPSBzY29yZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>print(always(_robot=True) * helpful(_smart=True))
-    print(always(_robot=True) * _not(helpful(_smart=True)))
-    print('*************************')
-    print('skip this section - robot is always on')
-    print('*************************')
-    print(always(_robot=True) * helpful(_smart=False))
-    print(always(_robot=True) * _not(helpful(_smart=False)))
-    print('*************************')
-    print('skip this section - robot is always on')
-    print('*************************')
-    print(always(_robot=False) * helpful(_smart=True))
-    print(always(_robot=False) * _not(helpful(_smart=True)))
-    print('*************************')
-    print(_not(always(_robot=False)) * helpful(_smart=True))
-    print(_not(always(_robot=False)) * _not(helpful(_smart=True)))
-    print('*************************')
-    print(always(_robot=False) * helpful(_smart=False))
-    print(always(_robot=False) * _not(helpful(_smart=False)))
-    print('*************************')
-    print(_not(always(_robot=False)) * helpful(_smart=False))
-    print(_not(always(_robot=False)) * _not(helpful(_smart=False)))
-    print('*************************')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNjb3JlID4gbWF4X3Njb3JlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19zdGF0ZSA9IChtaW4obWF4KG5ld19zdGF0ZVswXSwgMCksIG1heF9yb3dzKSwgbWluKG1heChuZXdfc3RhdGVbMV0sIDApLCBtYXhfY29scykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcwLDAnKQo=</text>
+        <text encoding="base64">ICAgIG1heF9jb2xzID0gbGVuKG5ld19ncmlkWzBdKSAtIDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnUzYnOiBbMC4yLCAwLjhdLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnUzcnOiBbMC45LCAwLjFdLAo=</text>
+        <text encoding="base64">ICAgICgtMSwgMCk6ICgxLCAwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2FscGhhIA==</text>
+        <text>new_state</text>
       </register>
     </registers>
     <search>
