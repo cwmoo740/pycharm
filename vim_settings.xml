@@ -105,11 +105,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502119158297">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="45" />
-        <mark key="^" line="35" column="45" />
-        <mark key="." line="35" column="45" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502121003514">
+        <mark key="[" line="47" column="42" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -197,37 +197,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlZCA9IGpzb24uZHVtcHMocmVxLmFzX2RpY3QoKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.bucketName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZvcm1hdHRlZCwgdHlwZShmb3JtYXR0ZWQpKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCByZXN1bHQub2s6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlZCA9IGpzb24uZHVtcHMocmVxLmFzX2RpY3QoKSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmNsYXNzIFJlcXVlc3RFbmNvZGVyKGpzb24uSlNPTkVuY29kZXIpOgoKICAgIGRlZiBkZWZhdWx0KHNlbGYsIG8pOgogICAgICAgIHJldHVybiBvLmFzZGljdCgpIGlmIGlzaW5zdGFuY2UobywgUmVxdWVzdCkgZWxzZSBvCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGZvcm1hdHRlZCwgdHlwZShmb3JtYXR0ZWQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9kYXRlX2Zvcm1hdCA9ICclWS0lbS0lZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmNsYXNzIFJlcXVlc3RFbmNvZGVyKGpzb24uSlNPTkVuY29kZXIpOgoKICAgIGRlZiBkZWZhdWx0KHNlbGYsIG8pOgogICAgICAgIHJldHVybiBvLmFzZGljdCgpIGlmIGlzaW5zdGFuY2UobywgUmVxdWVzdCkgZWxzZSBvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvLmFzZGljdCgpLCB0eXBlKG8uYXNkaWN0KCkpKQo=</text>
+        <text encoding="base64">ICAgIF9kYXRlX2Zvcm1hdCA9ICclWS0lbS0lZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBzaXg9MS4xMC4wPXB5MzZfMAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBzZXR1cHRvb2xzPTI3LjIuMD1weTM2XzAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvLmFzZGljdCgpLCB0eXBlKG8uYXNkaWN0KCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.bucketName</text>
+        <text encoding="base64">cmFpc2Ug</text>
       </register>
     </registers>
     <search>
