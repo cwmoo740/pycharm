@@ -158,7 +158,6 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test.yml" timestamp="1502123252890" />
       <file name="$USER_HOME$/src/python/ai/hw6/wtf.py" timestamp="1501822067260">
         <mark key="[" line="173" column="40" />
         <mark key="]" line="163" column="25" />
@@ -192,11 +191,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502128444388">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-        <mark key="^" line="31" column="10" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502135161064">
+        <mark key="[" line="6" column="100" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -214,7 +213,7 @@
         <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return pd.DataFrame(data)</text>
+        <text>['http://dev-elastic-cm2-20{}.nyc.dev.yodle.com:9200'.format(i) for i in range(1, 4)],</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGpzb24uZHVtcHMoc2VhcmNoLnRvX2RpY3QoKSkK</text>
@@ -241,7 +240,7 @@
         <text encoding="base64">ZGV2X2Nvbm4gPSAnZGV2Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>return pd.DataFrame(data)</text>
+        <text>['http://dev-elastic-cm2-20{}.nyc.dev.yodle.com:9200'.format(i) for i in range(1, 4)],</text>
       </register>
     </registers>
     <search>
