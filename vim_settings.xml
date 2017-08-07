@@ -140,6 +140,11 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502115487445">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="52" />
@@ -192,34 +197,34 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBwaXA6Cg==</text>
+        <text encoding="base64">LSBzaXg9MS4xMC4wPXB5MzZfMAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBwaXA6Cg==</text>
+        <text encoding="base64">LSBzaXg9MS4xMC4wPXB5MzZfMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIHByb21wdC10b29sa2l0PT0xLjAuMTQK</text>
+        <text encoding="base64">LSBzZXR1cHRvb2xzPTI3LjIuMD1weTM2XzAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIGp1cHl0ZXItY29yZT09NC4zLjAK</text>
+        <text encoding="base64">LSB3aGVlbD0wLjI5LjA9cHkzNl8wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGp1cHl0ZXItY29uc29sZT09NS4xLjAK</text>
+        <text encoding="base64">LSBsaWJnZm9ydHJhbj0zLjAuMD0xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIGp1cHl0ZXItY2xpZW50PT01LjEuMAo=</text>
+        <text encoding="base64">LSBta2w9MjAxNy4wLjM9MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIGlweXRob24tZ2VudXRpbHM9PTAuMi4wCg==</text>
+        <text encoding="base64">LSBvcGVuc3NsPTEuMC4ybD0wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSB6bGliPTEuMi44PTMK</text>
+        <text encoding="base64">LSBweXRob24tZGF0ZXV0aWw9Mi42LjE9cHkzNl8wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSB6ZXJvbXE9NC4xLjU9MAo=</text>
+        <text encoding="base64">LSBweXR6PTIwMTcuMj1weTM2XzAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSB4ej01LjIuMj0xCg==</text>
+        <text encoding="base64">LSByZWFkbGluZT02LjI9Mgo=</text>
       </register>
       <register name="-" type="4">
         <text>new_state</text>
