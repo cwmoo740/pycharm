@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502117464939">
+      <file name="/Python Console" timestamp="1502118726948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -105,11 +105,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502117454251">
-        <mark key="[" line="35" column="97" />
-        <mark key="]" line="35" column="108" />
-        <mark key="^" line="35" column="108" />
-        <mark key="." line="35" column="108" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502119158297">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -200,7 +200,7 @@
         <text encoding="base64">ICAgIGZvcm1hdHRlZCA9IGpzb24uZHVtcHMocmVxLmFzX2RpY3QoKSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>asdf</text>
+        <text>.bucketName</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KGZvcm1hdHRlZCwgdHlwZShmb3JtYXR0ZWQpKQo=</text>
@@ -227,7 +227,7 @@
         <text encoding="base64">LSBzZXR1cHRvb2xzPTI3LjIuMD1weTM2XzAK</text>
       </register>
       <register name="-" type="4">
-        <text>asdf</text>
+        <text>.bucketName</text>
       </register>
     </registers>
     <search>
