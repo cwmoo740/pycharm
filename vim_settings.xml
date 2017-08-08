@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502204673145">
+      <file name="/Python Console" timestamp="1502207161205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -17,7 +17,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1502127369503">
+      <file name="/fragment.py" timestamp="1502207166678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -51,6 +51,11 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/common.py" timestamp="1502207461386">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499828310372">
         <mark key="[" line="284" column="24" />
@@ -111,11 +116,10 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502206237518">
-        <mark key="[" line="25" column="64" />
-        <mark key="]" line="25" column="84" />
-        <mark key="." line="25" column="84" />
-        <mark key="^" line="25" column="84" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502207700159">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -146,11 +150,11 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502205659957">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502207013007">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502123261030">
         <mark key="[" line="9" column="26" />
@@ -197,10 +201,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502205685922">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502207623686">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -215,37 +220,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVwbGUoc2VsZi5zbHVnKQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVwbGUoc2VsZi5zbHVnKQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZT1UcnVlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aG9tZSA9IFBhdGguaG9tZSgpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">bmV3X3NlYXJjaCA9IFNlYXJjaCgpIFwKICAgICAgICAuaW5kZXgoJ2xlYWQnKSBcCiAgICAgICAgLmZpbHRlcigndGVybXMnLCBvd25lcj1bJ3ljLmNsaWVudC4yMTA5MjMnXSkgXAogICAgICAgIC5maWx0ZXIoJ3JhbmdlJywKICAgICAgICAgICAgICAgIHRpbWVzdGFtcD17CiAgICAgICAgICAgICAgICAgICAgJ2Zyb20nOiBzdGFydC5zdHJmdGltZShfZGF0ZV9mb3JtYXQpLAogICAgICAgICAgICAgICAgICAgICd0byc6IGVuZC5zdHJmdGltZShfZGF0ZV9mb3JtYXQpLAogICAgICAgICAgICAgICAgICAgICdmb3JtYXQnOiAneXl5eS1NTS1kZCcsCiAgICAgICAgICAgICAgICAgICAgJ2luY2x1ZGVfbG93ZXInOiBUcnVlLAogICAgICAgICAgICAgICAgICAgICdpbmNsdWRlX3VwcGVyJzogVHJ1ZQogICAgICAgICAgICAgICAgfQogICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FjaGVfZGlyCg==</text>
+        <text encoding="base64">ICAgIG5ld19zZWFyY2guYWdncy5idWNrZXQoJ2RhdGUnLCdkYXRlX2hpc3RvZ3JhbScsZmllbGQ9J3RpbWVzdGFtcCcsaW50ZXJ2YWw9JzFNJyxtaW5fZG9jdF9jb3VudD0wLGZvcm1hdD0neXl5eS1NTS1kZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVwbGUoc2VsZi5zbHVnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZT1UcnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
