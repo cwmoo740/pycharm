@@ -9,9 +9,6 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502216631057">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -28,13 +25,7 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/cds-docs/anomalies/utils.py" timestamp="1502222808940" />
-      <file name="/a.dummy" timestamp="1497490050376">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="4" column="10" />
@@ -111,17 +102,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501259145347">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502222667392">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="17" />
-        <mark key="^" line="34" column="17" />
-        <mark key="." line="34" column="17" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502223678560">
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="71" column="33" />
+        <mark key="." line="71" column="33" />
+        <mark key="^" line="71" column="33" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -182,9 +167,6 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/cds-data-fetcher/main.py" timestamp="1501256546790">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="7" />
@@ -222,34 +204,38 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>not cache_file.is_file() or overwrite:</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBGaWxlTm90Rm91bmRFcnJvcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjYWNoZV9kaXIuaXNfZGlyKCk6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBGaWxlRXhpc3RzRXJyb3IK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2FjaGVfZm9sZGVyLmlzX2ZpbGUoKToK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWxlX3BhdGggaWYgZmlsZV9wYXRoLmlzX2ZpbGUoKSBlbHNlIE5vbmUK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>&quot;&quot;&quot;
+    interface {
+        [x:str]: str | str[]
+    }
+    &quot;&quot;&quot;</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBGaWxlTm90Rm91bmRFcnJvcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBjYWNoZV9kaXIuaXNfZGlyKCk6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBGaWxlRXhpc3RzRXJyb3IK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVsaWYgY2FjaGVfZm9sZGVyLmlzX2ZpbGUoKToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QG92ZXJsb2FkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>not cache_file.is_file() or overwrite:</text>
