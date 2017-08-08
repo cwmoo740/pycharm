@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502127747437">
+      <file name="/Python Console" timestamp="1502204673145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -111,11 +111,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502129028227">
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="50" column="9" />
-        <mark key="." line="50" column="9" />
-        <mark key="^" line="50" column="9" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502206237518">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="84" />
+        <mark key="." line="25" column="84" />
+        <mark key="^" line="25" column="84" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -146,11 +146,11 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502202385121">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502205659957">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502123261030">
         <mark key="[" line="9" column="26" />
@@ -197,11 +197,10 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502202367181">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502205685922">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -216,37 +215,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVwbGUoc2VsZi5zbHVnKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>['http://dev-elastic-cm2-20{}.nyc.dev.yodle.com:9200'.format(i) for i in range(1, 4)],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHVwbGUoc2VsZi5zbHVnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcHMoc2VhcmNoLnRvX2RpY3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZT1UcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IE5hbWVkVHVwbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUmFuZ2UoTmFtZWRUdXBsZSk6Cg==</text>
+        <text encoding="base64">aG9tZSA9IFBhdGguaG9tZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYWdncy5idWNrZXQoJ2RhdGUnLCAnZGF0ZV9oaXN0b2dyYW0nLCBmaWVsZD0ndGltZXN0YW1wJywgaW50ZXJ2YWw9JzFNJywgbWluX2RvY19jb3VudD0wLCBmb3JtYXQ9J3l5eXktTU0tZGQnKQo=</text>
+        <text encoding="base64">Y2FjaGVfZGlyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGV2X2Nvbm4gPSAnZGV2Jwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>['http://dev-elastic-cm2-20{}.nyc.dev.yodle.com:9200'.format(i) for i in range(1, 4)],</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
