@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502211892972">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="74" column="22" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502213193347">
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="12" />
+        <mark key="^" line="76" column="12" />
+        <mark key="." line="76" column="12" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -151,11 +151,11 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502207013007">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502213203287">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502123261030">
         <mark key="[" line="9" column="26" />
@@ -202,11 +202,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502207897672">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502213281673">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="36" column="79" />
+        <mark key="^" line="36" column="79" />
+        <mark key="." line="36" column="79" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -223,8 +223,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIFJlc3BvbnNlKHJlc3VsdC5qc29uKCkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlKHJlc3VsdC5qc29uKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXMg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJlc3VsdC5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
@@ -251,7 +251,7 @@
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">YXMg</text>
       </register>
     </registers>
     <search>
