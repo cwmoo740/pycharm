@@ -46,6 +46,12 @@
         <mark key="." line="221" column="16" />
         <mark key="^" line="284" column="18" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502296154867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/src/python/cds-docs/SETUP.md" timestamp="1501261972284">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="16" column="11" />
@@ -151,11 +157,11 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502292049154">
-        <mark key="[" line="70" column="70" />
-        <mark key="]" line="70" column="77" />
-        <mark key="^" line="70" column="77" />
-        <mark key="." line="70" column="77" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502296118570">
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="56" column="23" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502123261030">
         <mark key="[" line="9" column="26" />
@@ -224,7 +230,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FjaGUud3JpdGVfY2FjaGUoc2VsZiwgcmVzdWx0KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>datafetcher import cache</text>
+        <text>any</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpZiB1c2VfY2FjaGUgb3Igb3ZlcndyaXRlX2NhY2hlOgo=</text>
@@ -251,7 +257,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlZF9yZXN1bHQK</text>
       </register>
       <register name="-" type="4">
-        <text>datafetcher import cache</text>
+        <text>any</text>
       </register>
     </registers>
     <search>
