@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502303554514">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502304353259">
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="54" column="22" />
+        <mark key="^" line="54" column="22" />
+        <mark key="." line="54" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -217,11 +217,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502303326432">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502304330544">
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="67" column="22" />
+        <mark key="^" line="67" column="22" />
+        <mark key="." line="67" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -240,7 +240,7 @@
 from datafetcher import ers</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import what_the_hell, Cachable</text>
+        <text>import Cachable, what_the_hell</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -267,7 +267,7 @@ from datafetcher import ers</text>
         <text encoding="base64">aW1wb3J0IGRhdGFmZXRjaGVyLmVycyBhcyBlcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>import what_the_hell, Cachable</text>
+        <text>import Cachable, what_the_hell</text>
       </register>
     </registers>
     <search>
