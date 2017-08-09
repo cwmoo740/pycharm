@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502300484695">
+      <file name="/Python Console" timestamp="1502303368479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1501263109043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502300446194">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/ers.py" timestamp="1502303554514">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -166,7 +166,12 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502300478575" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/cache.py" timestamp="1502302935472">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="4" />
+        <mark key="^" line="77" column="42" />
+        <mark key="." line="73" column="4" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1502123261030">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="11" column="29" />
@@ -212,11 +217,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502300468268">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/elastic.py" timestamp="1502303326432">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/__init__.py" timestamp="1501263684470">
         <mark key="[" line="0" column="0" />
@@ -230,38 +235,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>from datafetcher import elastic
+from datafetcher import ers</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LiA=</text>
+        <text>import what_the_hell, Cachable</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICByZXEgPSBFUlNSZXF1ZXN0KAogICAgICAgIHN0YXJ0PWRhdGV0aW1lLmRhdGUoeWVhcj0yMDE3LCBtb250aD0yLCBkYXk9MSksCiAgICAgICAgZW5kPWRhdGV0aW1lLmRhdGUudG9kYXkoKSwKICAgICAgICBvd25lcnM9Wyd5Yy5jbGllbnQuMjEwOTIzJ10sCiAgICAgICAgc2x1Zz0ncHJpY2UtcGVyLWxlYWQnCiAgICApCiAgICByZXMgPSByZXEuZXhlY3V0ZSh1c2VfY2FjaGU9VHJ1ZSwgb3ZlcndyaXRlX2NhY2hlPVRydWUp</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjYWNoZQo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICByZXEgPSBFUlNSZXF1ZXN0KAogICAgICAgIHN0YXJ0PWRhdGV0aW1lLmRhdGUoeWVhcj0yMDE3LCBtb250aD0yLCBkYXk9MSksCiAgICAgICAgZW5kPWRhdGV0aW1lLmRhdGUudG9kYXkoKSwKICAgICAgICBvd25lcnM9Wyd5Yy5jbGllbnQuMjEwOTIzJ10sCiAgICAgICAgc2x1Zz0ncHJpY2UtcGVyLWxlYWQnCiAgICApCiAgICByZXMgPSByZXEuZXhlY3V0ZSh1c2VfY2FjaGU9VHJ1ZSwgb3ZlcndyaXRlX2NhY2hlPVRydWUp</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjYWNoZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBlbGFzdGljc2VhcmNoX2RzbC5yZXN1bHQgaW1wb3J0IFJlc3BvbnNlIGFzIEVsYXN0aWNSZXNwb25zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgcmVxdWVzdHMK</text>
+        <text encoding="base64">ZnJvbSBlbGFzdGljc2VhcmNoX2RzbC5yZXN1bHQgaW1wb3J0IFJlc3BvbnNlIGFzIEVsYXN0aWNSZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFmZXRjaGVyLmVycyBhcyBlcnMK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgcmVxdWVzdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBlcnMK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFmZXRjaGVyLmVycyBhcyBlcnMK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LiA=</text>
+        <text>import what_the_hell, Cachable</text>
       </register>
     </registers>
     <search>
