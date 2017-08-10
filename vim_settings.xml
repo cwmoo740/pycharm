@@ -96,11 +96,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1502380505696">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1502381121164">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="0" column="75" />
+        <mark key="^" line="0" column="75" />
+        <mark key="." line="0" column="75" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/SETUP.md" timestamp="1501264932815">
         <mark key="[" line="14" column="64" />
