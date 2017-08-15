@@ -181,6 +181,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/test.yml" timestamp="1502819592626" />
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_tests.py" timestamp="1501328202322">
         <mark key="[" line="221" column="16" />
         <mark key="]" line="221" column="16" />
@@ -249,6 +250,11 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/environment.yml" timestamp="1502819596676">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="52" />
@@ -280,34 +286,34 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSBkYXRhZmV0Y2hlciBtb2RlbHMgc2NyaXB0cyB0ZXN0IC4vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBzY2lweT0wLjE5LjE9bnAxMTNweTM2XzAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">LSB6bGliPTEuMi44PTMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyQK</text>
+        <text encoding="base64">LSB4ej01LjIuMj0xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSB3aGVlbD0wLjI5LjA9cHkzNl8wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCAtYyBcInNvdXJjZSBhY3RpdmF0ZSBhbm9tYWx5LWRldGVjdGlvbi1tb2RlbHNcIiAmJiAvYmluL2Jhc2giXQo=</text>
+        <text encoding="base64">LSB0az04LjUuMTg9MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBzcWxpdGU9My4xMy4wPTAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBzZXR1cHRvb2xzPTI3LjIuMD1weTM2XzAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXlweSAtcCBtb2RlbHMgJHtPUFRJT05TfTsgKCggRVhJVF9TVEFUVVMgPSBFWElUX1NUQVRVUyB8fCAkPyApKQo=</text>
+        <text encoding="base64">LSByZWFkbGluZT02LjI9Mgo=</text>
       </register>
       <register name="-" type="4">
         <text>str</text>
