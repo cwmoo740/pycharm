@@ -103,6 +103,12 @@
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/selecting.py" timestamp="1502830698752">
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="39" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501328465731">
         <mark key="[" line="245" column="35" />
         <mark key="]" line="245" column="26" />
@@ -217,11 +223,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502827021727">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502832623574">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -267,6 +273,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/.gitignore" timestamp="1502832737718">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/models/base.py" timestamp="1501264549155">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="52" />
@@ -285,10 +294,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/parser.py" timestamp="1502827213952">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/parser.py" timestamp="1502828973284">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/requirements.txt" timestamp="1499298116148">
         <mark key="[" line="2" column="16" />
@@ -303,37 +313,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmWydwcmljZSddID0gbnAucmFuZG9tLnJhbmQoZGYuc2hhcGVbMF0pKjEwMDAuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRmWydwcmljZSddID0gbnAucmFuZG9tLnJhbmQoZGYuc2hhcGVbMF0pKjEwMDAuCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmLnRvX2NzdignLi9kYXRhLmNzdicpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHhbJ3ByaWNlJywgJ3N0ZCddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIG5ld19kZiA9IGdyb3VwX2J5X3R5cGUoZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bjoK</text>
+        <text encoding="base64">ICAgIHByaW50KGdyb3VwX2J5X3R5cGUoZGF0YSlbJ3ByaWNlJ10ubWFwKGxhbWJkYSB4OiBucC5yb3VuZCh4KSkpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgpkZWYgdHlwZXMoZGYpOgogICAgIiIiCgogICAgOnBhcmFtIGRmOiBkYXRhZnJhbWUKICAgIDpyZXR1cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGdyb3VwX2J5X3R5cGUoZGF0YSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmLnRvX2NzdignLi9kYXRhLmNzdicsIGluZGV4PUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN1bV9ieV90eXBlKGRhdGEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRmID0gdG9fcGFuZGFzKCkK</text>
+        <text encoding="base64">ICAgIGdyb3VwZWQgPSBkZi5ncm91cGJ5KGJ5PSd0eXBlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdyb3VwZWQuc2l6ZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAnY2xpZW50X2lkJzogJ251bmlxdWUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text encoding="base64">PSA=</text>
       </register>
     </registers>
     <search>
