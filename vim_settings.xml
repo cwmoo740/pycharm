@@ -126,6 +126,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/data.json" timestamp="1502823377376">
+        <mark key="[" line="146496" column="3" />
+        <mark key="]" line="15427" column="0" />
+        <mark key="^" line="15427" column="0" />
+        <mark key="." line="15427" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck.sh" timestamp="1502379745027">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="11" column="0" />
@@ -168,7 +174,7 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502303368479">
+      <file name="/Python Console" timestamp="1502825329594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -250,7 +256,7 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/environment.yml" timestamp="1502819596676">
+      <file name="$USER_HOME$/src/python/pandas-tutorial/environment.yml" timestamp="1502823462378">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -273,6 +279,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/parser.py" timestamp="1502825356842">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw4/requirements.txt" timestamp="1499298116148">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="1" column="12" />
@@ -286,37 +298,45 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRmLmNvbHVtbnMudG9fc2VyaWVzKCkuZ3JvdXBieShkZi5kdHlwZXMpLmdyb3VwcykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRmLmNvbHVtbnMudG9fc2VyaWVzKCkuZ3JvdXBieShkZi5kdHlwZXMpLmdyb3VwcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBzY2lweT0wLjE5LjE9bnAxMTNweTM2XzAK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdF9kaWN0Wyd0eXBlJ10pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSB6bGliPTEuMi44PTMK</text>
+      <register name="3" type="4">
+        <text>v
+        'type': [None] * num_hits,
+        'callstatus': [None] * num_hits,
+        'primaryattribution': [None] * num_hits,
+        'quality_rating': np.empty(num_hits, dtype=np.int),
+        'paid': np.empty(num_hits, dtype=np.bool),
+        'contact_id': np.empty(num_hits, dtype=np.int),
+        'client_id': np.empty(num_hits, dtype=np.int),
+        'timestamp': np.empty(num_hits, dtype=pd.datetime)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSB4ej01LjIuMj0xCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSB3aGVlbD0wLjI5LjA9cHkzNl8wCg==</text>
+        <text encoding="base64">ICAgICAgICBwZC5TZXJpZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSB0az04LjUuMTg9MAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBzcWxpdGU9My4xMy4wPTAK</text>
+        <text encoding="base64">anNvbi5sb2FkKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBzZXR1cHRvb2xzPTI3LjIuMD1weTM2XzAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSByZWFkbGluZT02LjI9Mgo=</text>
+        <text encoding="base64">LSBzY2lweT0wLjE5LjE9bnAxMTNweTM2XzAK</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>df</text>
       </register>
     </registers>
     <search>
