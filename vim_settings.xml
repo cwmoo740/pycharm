@@ -68,6 +68,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/data.csv" timestamp="1502911857016" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/SETUP.md" timestamp="1501264932815">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="64" />
@@ -84,6 +85,12 @@
         <mark key="]" line="366" column="8" />
         <mark key="^" line="366" column="8" />
         <mark key="." line="366" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/python/pandas-tutorial/rolling.py" timestamp="1502913062430">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/converters.py" timestamp="1502227572545">
         <mark key="[" line="7" column="24" />
@@ -103,11 +110,10 @@
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/selecting.py" timestamp="1502894840560">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="7" />
-        <mark key="." line="47" column="7" />
-        <mark key="^" line="47" column="7" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/selecting.py" timestamp="1502912184818">
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501328465731">
         <mark key="[" line="245" column="35" />
@@ -180,7 +186,7 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502825329594">
+      <file name="/Python Console" timestamp="1502911170075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -222,11 +228,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502894810988">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502912908695">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -267,7 +273,7 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/environment.yml" timestamp="1502825468962">
+      <file name="$USER_HOME$/src/python/pandas-tutorial/environment.yml" timestamp="1502910699724">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -293,11 +299,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/parser.py" timestamp="1502894853404">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/parser.py" timestamp="1502911447738">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/requirements.txt" timestamp="1499298116148">
         <mark key="[" line="2" column="16" />
@@ -312,41 +317,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZltjb2xzXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdldF9wcmljZV9zdGF0aXN0aWNzKGRhdGEpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return pd.read_csv(file_name, parse_dates=['timestamp'])</text>
+        <text>(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkucmVuYW1lKGNvbHVtbnM9eyd0eXBlJzogJ2NvdW50J30pCg==</text>
+        <text encoding="base64">ICAgIG5wLm1lYW4oWzEsMiwzLDRdKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>return df.groupby(by='type').agg({
-        'price': np.mean,
-        'contact_id': 'nunique',
-        'type': 'count'
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxhbWJkYSB4OiB4Lm1vbnRoCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZltbJ3ByaWNlJywgJ3R5cGUnXV0uZ3JvdXBieShieT0ndHlwZScpLmRlc2NyaWJlKCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gZGY6CiAgICAgICAgaWYgcm93Wyd0eXBlJ10gPT0gJ2NhbGwnOgogICAgICAgICAgICBhcHBlbmQ=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
+        <text encoding="base64">ICAgIGRmLmlsb2NbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbHVtbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
+        <text encoding="base64">ICAgIGRmLnRvX2NzdigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHhbJ3ByaWNlJywgJ3N0ZCddKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZltjb2xzXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>return pd.read_csv(file_name, parse_dates=['timestamp'])</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
