@@ -211,7 +211,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502913646014" />
+      <file name="$USER_HOME$/src/python/pandas-tutorial/aggregations.py" timestamp="1502914011002">
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="10" column="36" />
