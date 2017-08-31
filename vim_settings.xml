@@ -68,7 +68,6 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/pandas-tutorial/data.csv" timestamp="1502911857016" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/SETUP.md" timestamp="1501264932815">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="64" />
@@ -121,6 +120,18 @@
         <mark key="^" line="584" column="28" />
         <mark key="." line="561" column="26" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps01/experiment.py" timestamp="1504139756530">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504139907243">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="29" />
+      </file>
       <file name="$USER_HOME$/src/python/pandas-tutorial/data.json" timestamp="1502823377376">
         <mark key="[" line="146496" column="3" />
         <mark key="]" line="15427" column="0" />
@@ -169,7 +180,7 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1502911170075">
+      <file name="/Python Console" timestamp="1504139851610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -177,7 +188,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1502298714759">
+      <file name="/fragment.py" timestamp="1504139192883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,6 +209,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/ps01/.gitignore" timestamp="1504140018032">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission_tests.py" timestamp="1499828310372">
         <mark key="[" line="284" column="24" />
@@ -293,37 +310,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdldF9wcmljZV9zdGF0aXN0aWNzKGRhdGEpKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5wLm1lYW4oWzEsMiwzLDRdKQo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhbWJkYSB4OiB4Lm1vbnRoCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5hcnJheSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGZvciByb3cgaW4gZGY6CiAgICAgICAgaWYgcm93Wyd0eXBlJ10gPT0gJ2NhbGwnOgogICAgICAgICAgICBhcHBlbmQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmLmlsb2NbXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGdldF9wcmljZV9zdGF0aXN0aWNzKGRhdGEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIG5wLm1lYW4oWzEsMiwzLDRdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbHVtbikK</text>
+        <text encoding="base64">ICAgIGxhbWJkYSB4OiB4Lm1vbnRoCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRmLnRvX2NzdigpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gZGY6CiAgICAgICAgaWYgcm93Wyd0eXBlJ10gPT0gJ2NhbGwnOgogICAgICAgICAgICBhcHBlbmQ=</text>
       </register>
       <register name="-" type="4">
-        <text>from __future__ import division, print_function</text>
+        <text>1</text>
       </register>
     </registers>
     <search>

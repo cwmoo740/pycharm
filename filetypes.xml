@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
