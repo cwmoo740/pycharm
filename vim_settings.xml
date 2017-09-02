@@ -126,11 +126,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504139907243">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="48" column="29" />
+      <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504374157989">
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/src/python/pandas-tutorial/data.json" timestamp="1502823377376">
         <mark key="[" line="146496" column="3" />
@@ -150,7 +150,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/experiments/sheets/data/input/external_thresholds.json" timestamp="1504298013266" />
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
@@ -304,6 +303,9 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps01/wtf_test.py" timestamp="1504374187942">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -313,8 +315,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      <register name="&quot;" type="4">
+        <text>src.shape[0]-shape[0]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
@@ -341,7 +343,7 @@
         <text encoding="base64">ICAgIGZvciByb3cgaW4gZGY6CiAgICAgICAgaWYgcm93Wyd0eXBlJ10gPT0gJ2NhbGwnOgogICAgICAgICAgICBhcHBlbmQ=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>src.shape[0]-shape[0]</text>
       </register>
     </registers>
     <search>
