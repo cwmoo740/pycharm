@@ -50,11 +50,10 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps01/report.tex" timestamp="1504423706623">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="15" />
+      <file name="$USER_HOME$/src/python/vision/ps01/report.tex" timestamp="1504466556644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cds-docs/notebooks/README.md" timestamp="1501261829701">
         <mark key="[" line="10" column="0" />
@@ -322,34 +321,34 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hvb3NlIGEgc2lnbWEgdmFsdWU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Address</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQ2hvb3NlIHRoZSBtb25vY2hyb21lIGltYWdlIGZvciBpbWcxLgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">JSBMYXRleCAvIEJlYW1lciB0ZW1wbGF0ZSBmb3IgdGhlIEdlb3JnaWEgVGVjaCdzIENTNjQ3NiBjbGFzcy4KJSBUaGlzIHRlbXBsYXRlIGlzIHNldCB0byByZW5kZXIgaW1hZ2VzIHRoYXQgYXJlIGxvY2F0ZWQgaW4gdGhlIG91dHB1dAolIGZvbGRlci4gVGhlIGZvbGxvd2luZyBkaXJlY3Rvcnkgc3RydWN0dXJlIGhhcyBiZWVuIGFzc3VtZWQ6CiUKJSBwc1hZLwolICAgICBvdXRwdXQvCiUgICAgICAgICBwc1gtYS1iLWMucG5nCiUgICAgICAgICBwc1gtZC1lLWYucG5nCiUgICAgICAgICAuLi4KJSAgICAgdGhpc19maWxlLnRleAolCiUgSWYgYSBkaWZmZXJlbnQgc3RydWN0dXJlIGlzIHVzZWQsIHRoZSBpbWFnZXMgcGF0aCBtdXN0IGJlIGNoYW5nZWQgaW4KJSBlYWNoIGNhbGwgb2YgXGJlZ2lue2ZpZ3VyZX0gLi4uIFxlbmR7ZmlndXJlfQolCiUgWW91ciBOYW1lIGFuZCBlbWFpbCBhZGRyZXNzIG11c3QgYmUgYWRkZWQgaW4gdGhlIFxhdXRob3IgZGVmaW5pdGlvbi4KJQolIFRoaXMgZmlsZSBpcyBzZXQgaW5pdGlhbGx5IGFzIGEgZHJhZnQgYXMgc2hvd2VkIGluIHRoZSBcZG9jdW1lbnRjbGFzcyBzdGF0ZW1lbnQuCiUgSW4gb3JkZXIgZm9yIHRoZSB5b3VyIGltYWdlcyB0byBzaG93LCB0aGUgJ2RyYWZ0JyBvcHRpb24gc2hvdWxkIGJlIHJlbW92ZWQgb3IKJSByZXBsYWNlZCBieSAnZmluYWwnLiBQbGVhc2Ugbm90ZSB0aGF0IG9uY2UgdGhpcyBmZWF0dXJlIGlzIGNoYW5nZWQsIHRoZXJlIHdpbGwgYmUKJSBjb21waWxhdGlvbiBlcnJvcnMgaWYgYW4gaW1hZ2UgY2Fubm90IGJlIGZvdW5kLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hvb3NlIGEgc2lnbWEgdmFsdWU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltZyAqPSBucC5kaXZpZGUoMjU1LiwgaW1nLm1heCgpKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hvb3NlIHRoZSBtb25vY2hyb21lIGltYWdlIGZvciBpbWcxLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZyAvPSBucC5tYXgobnAuYWJzKGltZyksYXhpcz0wKQo=</text>
+        <text encoding="base64">ICAgIGltZyAqPSBucC5kaXZpZGUoMjU1LiwgaW1nLm1heCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZCA9IG5wLnN0ZChjcC5mbGF0dGVuKCkpCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltZyAvPSBucC5tYXgobnAuYWJzKGltZyksYXhpcz0wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZCA9IG5wLnN0ZChjcC5mbGF0dGVuKCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Address</text>
