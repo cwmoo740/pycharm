@@ -186,6 +186,12 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505058931775">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="35" column="73" />
+        <mark key="." line="35" column="73" />
+        <mark key="^" line="35" column="73" />
+      </file>
       <file name="/Python Console" timestamp="1504974809077">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,35 +328,35 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogSW5zZXJ0IHlvdXIgaW1hZ2UgZmlsZSBwYXRocyBoZXJlOgo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogSW5zZXJ0IHlvdXIgaW1hZ2UgZmlsZSBwYXRocyBoZXJlOgo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICUgVE9ETwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogSW5zZXJ0IHlvdXIgaW1hZ2UgZmlsZSBwYXRocyBoZXJlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN2Mi5pbXdyaXRlKCdvdXRwdXQvcmVkMi5wbmcnLCBleHRyYWN0X3JlZChpbWcyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICUgVE9ETwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN2Mi5pbXdyaXRlKCdvdXRwdXQvYmx1ZTIucG5nJywgZXh0cmFjdF9ibHVlKGltZzIpKQo=</text>
+        <text encoding="base64">ICAgIGN2Mi5pbXdyaXRlKCdvdXRwdXQvcmVkMi5wbmcnLCBleHRyYWN0X3JlZChpbWcyKSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGN2Mi5pbXdyaXRlKCdvdXRwdXQvYmx1ZTIucG5nJywgZXh0cmFjdF9ibHVlKGltZzIpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGN2Mi5pbXdyaXRlKCdvdXRwdXQvZ3JlZW4yLnBuZycsIGV4dHJhY3RfZ3JlZW4oaW1nMikpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Your answer...
                 % TODO</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFxpdGVtIE1pbiwgbWF4LCBtZWFuLCBhbmQgc3RhbmRhcmQgZGV2aWF0aW9uCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJSBDaGFuZ2UgdGhlIGltYWdlIHNjYWxlIHRvIGZpdCB0aGUgY3VycmVudCBzbGlkZS4gRm9yIGV4YW1wbGU6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJSB3aWR0aD0wLjQ1XHRleHR3aWR0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJSBDaGFuZ2UgdGhlIGltYWdlIHNjYWxlIHRvIGZpdCB0aGUgY3VycmVudCBzbGlkZS4gRm9yIGV4YW1wbGU6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Your answer...</text>
