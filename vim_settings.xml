@@ -156,6 +156,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505619844294">
+        <mark key="[" line="59" column="77" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+      </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
@@ -186,10 +191,11 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505616469610">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505620496881">
+        <mark key="[" line="53" column="90" />
+        <mark key="]" line="48" column="41" />
+        <mark key="^" line="48" column="41" />
+        <mark key="." line="48" column="41" />
       </file>
       <file name="/Python Console" timestamp="1505615721331">
         <mark key="[" line="0" column="0" />
@@ -326,38 +332,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBjaXJjbGUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgInRsX2dyZWVuXzI5OV8yODdfYmxhbmsiOiB7IngiOiAyODcsICJ5IjogMjk5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAic3RhdGUiOiAiZ3JlZW4ifSwKICAgICAgICAgICAgICAgICAgICAgInRsX3JlZF8xOTlfMTM3X2JsYW5rIjogeyJ4IjogMTM3LCAieSI6IDE5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdGF0ZSI6ICJyZWQifSwKICAgICAgICAgICAgICAgICAgICAgInRsX3llbGxvd18xOTlfMjM3X2JsYW5rIjogeyJ4IjogMjM3LCAieSI6IDE5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdGF0ZSI6ICJ5ZWxsb3cifX0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBjaXJjbGUK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNpcmNsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtpbmcuYXBwZW5kKChkcCwgbWluZGlzdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNpcmNsZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5EaXN0PTIwCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW4gbWluZGlzdF92YWx1ZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkcD0sCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtMl92YWx1ZXMgPSByYW5nZSgxLCAxMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q9Y3YyLmN2LkNWX0hPVUdIX0dSQURJRU5ULAo=</text>
+        <text encoding="base64">ICAgIHBhcmFtMV92YWx1ZXMgPSByYW5nZSgxLCAxMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBncmF5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbkRpc3Q9MSwK</text>
       </register>
       <register name="-" type="4">
-        <text>plt</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
