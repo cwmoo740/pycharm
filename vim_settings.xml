@@ -192,13 +192,13 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505674420113">
-        <mark key="[" line="11" column="68" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505676590739">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1505659491159">
+      <file name="/Python Console" timestamp="1505676614404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -206,7 +206,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1505658258085">
+      <file name="/fragment.py" timestamp="1505676626230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -333,50 +333,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-                     &quot;tl_green_299_287_blank&quot;: {&quot;x&quot;: 287, &quot;y&quot;: 299,
-                                                &quot;state&quot;: &quot;green&quot;},
-                     &quot;tl_red_199_137_blank&quot;: {&quot;x&quot;: 137, &quot;y&quot;: 199,
-                                              &quot;state&quot;: &quot;red&quot;},
-                     &quot;tl_yellow_199_237_blank&quot;: {&quot;x&quot;: 237, &quot;y&quot;: 199,
-                                                 &quot;state&quot;: &quot;yellow&quot;}}</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>,
-                     &quot;tl_green_299_287_blank&quot;: {&quot;x&quot;: 287, &quot;y&quot;: 299,
-                                                &quot;state&quot;: &quot;green&quot;},
-                     &quot;tl_red_199_137_blank&quot;: {&quot;x&quot;: 137, &quot;y&quot;: 199,
-                                              &quot;state&quot;: &quot;red&quot;},
-                     &quot;tl_yellow_199_237_blank&quot;: {&quot;x&quot;: 237, &quot;y&quot;: 199,
-                                                 &quot;state&quot;: &quot;yellow&quot;}}</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYWRpaV9yYW5nZSkK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>img_transformed</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByaG89MTAsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRob2Q9Y3YyLmN2LkNWX0hPVUdIX1NUQU5EQVJELAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzdGF0ZSwgdGxfZGF0YVsic3RhdGUiXSwgIldyb25nIHN0YXRlIHZhbHVlLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlPW5wLmFycmF5KFtdKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tfcmVzdWx0KHRsLCBjb29yZHMsICh0bF9kYXRhWyJ4Il0sIHRsX2RhdGFbInkiXSksIDUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyYXkgPSBjdjIuY3Z0Q29sb3IoaW1nX2luLCBjdjIuQ09MT1JfUkdCMkdSQVkpCg==</text>
+      <register name="6" type="4">
+        <text>ax[0].imshow(img_transformed[:, :, 0], cmap='gray')
+    ax[0].set_title('B')
+    ax[1].imshow(img_transformed[:, :, 1], cmap='gray')
+    ax[1].set_title('G')
+    ax[2].imshow(img_transformed[:, :, 2], cmap='gray')
+    ax[2].set_title('R')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRwX3ZhbHVlcyA9IHJhbmdlKDEsIDEwMCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1pbmRpc3RfdmFsdWVzID0gcmFuZ2UoMSwgMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBucC5hcnJheQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmcgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGN2Mi5jdi5Ib3VnaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(5, 5)</text>
+        <text>img_transformed</text>
       </register>
     </registers>
     <search>
