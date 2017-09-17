@@ -192,13 +192,13 @@
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505676590739">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/src/python/vision/ps02/ps2.py" timestamp="1505686499856">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="16" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1505676614404">
+      <file name="/Python Console" timestamp="1505686505080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -334,42 +334,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA1MCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>img_transformed</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByaG89MTAsCg==</text>
+        <text encoding="base64">ICAgICAgICAxNTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q9Y3YyLmN2LkNWX0hPVUdIX1NUQU5EQVJELAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlPW5wLmFycmF5KFtdKSwK</text>
+        <text encoding="base64">ICAgICAgICBhcGVydHVyZVNpemU9Mwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeTEgPSBpbnQoeTAgKyAxMDAgKiBhKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ax[0].imshow(img_transformed[:, :, 0], cmap='gray')
-    ax[0].set_title('B')
-    ax[1].imshow(img_transformed[:, :, 1], cmap='gray')
-    ax[1].set_title('G')
-    ax[2].imshow(img_transformed[:, :, 2], cmap='gray')
-    ax[2].set_title('R')</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByaG89MTAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBucC5hcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2Q9Y3YyLmN2LkNWX0hPVUdIX1NUQU5EQVJELAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN2Mi5jdi5Ib3VnaAo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlPW5wLmFycmF5KFtdKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>img_transformed</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
