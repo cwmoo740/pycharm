@@ -198,7 +198,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506652715509">
+      <file name="/Python Console" timestamp="1506654555482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -278,11 +278,11 @@
       <file name="/Dummy.txt" timestamp="1505697632302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506652949044">
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="54" column="25" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506654537786">
+        <mark key="[" line="53" column="85" />
+        <mark key="]" line="53" column="85" />
+        <mark key="." line="53" column="85" />
+        <mark key="^" line="55" column="38" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -349,7 +349,7 @@
         <text encoding="base64">ICAgIGN2Mi50aHJlc2hvbGQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>threshold</text>
+        <text>BORDER_REFLECT</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGN2Mi5uYW1lZFdpbmRvdygiY29ybmVycyIpCg==</text>
@@ -376,7 +376,7 @@
         <text encoding="base64">ICAgICAgICAxNTAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>threshold</text>
+        <text>BORDER_REFLECT</text>
       </register>
     </registers>
     <search>
