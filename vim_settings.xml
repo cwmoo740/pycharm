@@ -198,7 +198,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506649148090">
+      <file name="/Python Console" timestamp="1506651692008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -257,11 +257,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506650304991">
-        <mark key="[" line="106" column="50" />
-        <mark key="]" line="107" column="7" />
-        <mark key="^" line="107" column="7" />
-        <mark key="." line="107" column="7" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506651675021">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="103" column="7" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -278,11 +278,11 @@
       <file name="/Dummy.txt" timestamp="1505697632302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506650456983">
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506651659581">
         <mark key="[" line="51" column="65" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+        <mark key="]" line="52" column="99" />
+        <mark key="^" line="52" column="99" />
+        <mark key="." line="52" column="99" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -346,38 +346,38 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NpbXBsZV9yZWN0YW5nbGVfbm9pc3kucG5nJywK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>raise NotImplementedError</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3NpbXBsZV9yZWN0YW5nbGVfbm9pc3kucG5nJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBucC56ZXJvc19saWtlKGltZ19pbiksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBucC56ZXJvc19saWtlKGltZ19pbiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcGVydHVyZVNpemU9Mwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAxNTAsCg==</text>
+        <text encoding="base64">ICAgICAgICBhcGVydHVyZVNpemU9Mwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAxNTAsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA1MCwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;simple_tl_test&quot;: {&quot;x&quot;: 45, &quot;y&quot;: 120, &quot;state&quot;: &quot;green&quot;},
                      &quot;tl_green_299_287_blank&quot;: {&quot;x&quot;: 287, &quot;y&quot;: 299,
                                                 &quot;state&quot;: &quot;green&quot;},
                      &quot;tl_red_199_137_blank&quot;: {&quot;x&quot;: 137, &quot;y&quot;: 199,
                                               &quot;state&quot;: &quot;red&quot;},</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA1MCwK</text>
       </register>
       <register name="-" type="4">
         <text>raise NotImplementedError</text>
