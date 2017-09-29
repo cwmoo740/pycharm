@@ -257,6 +257,12 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506650304991">
+        <mark key="[" line="106" column="50" />
+        <mark key="]" line="107" column="7" />
+        <mark key="^" line="107" column="7" />
+        <mark key="." line="107" column="7" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -272,11 +278,11 @@
       <file name="/Dummy.txt" timestamp="1505697632302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506649664444">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="93" />
-        <mark key="^" line="33" column="93" />
-        <mark key="." line="33" column="93" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506650456983">
+        <mark key="[" line="51" column="65" />
+        <mark key="]" line="53" column="41" />
+        <mark key="^" line="53" column="41" />
+        <mark key="." line="53" column="41" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
