@@ -97,6 +97,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps03/kmeans.py" timestamp="1506794041983">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1502375083228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="10" />
@@ -198,7 +204,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506654555482">
+      <file name="/Python Console" timestamp="1506794253985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -206,7 +212,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1506652775538">
+      <file name="/fragment.py" timestamp="1506793275564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,14 +281,14 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505697632302">
+      <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506654537786">
-        <mark key="[" line="53" column="85" />
-        <mark key="]" line="53" column="85" />
-        <mark key="." line="53" column="85" />
-        <mark key="^" line="55" column="38" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506794246458">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="34" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -346,37 +352,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN2Mi50aHJlc2hvbGQK</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3codGhyZXNob2xkLCBjbWFwPSdncmF5JykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BORDER_REFLECT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsdC5pbXNob3codGhyZXNob2xkLCBjbWFwPSdncmF5JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN2Mi5uYW1lZFdpbmRvdygiY29ybmVycyIpCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NpbXBsZV9yZWN0YW5nbGVfbm9pc3kucG5nJywK</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3coaW1hZ2UsIGNtYXA9J2dyYXknKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgIGdyYXlfc2NhbGVbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN2Mi50aHJlc2hvbGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBucC56ZXJvc19saWtlKGltZ19pbiksCg==</text>
+        <text encoding="base64">ICAgIGN2Mi5uYW1lZFdpbmRvdygiY29ybmVycyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NpbXBsZV9yZWN0YW5nbGVfbm9pc3kucG5nJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcGVydHVyZVNpemU9Mwo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxNTAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BORDER_REFLECT</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
