@@ -266,11 +266,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506893086854">
-        <mark key="[" line="176" column="11" />
-        <mark key="]" line="176" column="22" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506894046563">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
         <mark key="^" line="176" column="22" />
-        <mark key="." line="176" column="22" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -323,19 +323,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciB4LHkgaW4gCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5zdGFjaygKICAgICAgICAobnAuYXJyYXkodHggLyB0eiwgZHR5cGU9bnAuaW50KSwgbnAuYXJyYXkodHkgLyB0eiwgZHR5cGU9bnAuaW50KSksCiAgICAgICAgYXhpcz0xCiAgICApCiAgICBvbGRfaW5kaWNlcyA9IG9sZF9pbmRpY2VzWyhpbmRpY2VzWzosIDBdID49IDApICYgKGluZGljZXNbOiwgMV0gPj0gMCksIDpdCiAgICBpbmRpY2VzID0gaW5kaWNlc1sKICAgICAgICAgICAgICAoaW5kaWNlc1s6LCAwXSA+PSAwKSAmCiAgICAgICAgICAgICAgKGluZGljZXNbOiwgMV0gPj0gMCkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDBdIDwgaW1hZ2VfYS5zaGFwZVsxXSkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDFdIDwgaW1hZ2VfYS5zaGFwZVswXSksCiAgICAgICAgICAgICAgOl0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnAud2hlcmUoKGluZGljZXNbOiwgMF0gPj0gMCkgJiAoaW5kaWNlc1s6LCAxXSA+PSAwKSwgaW1hZ2VfcmVzdWx0LCBpbWFnZV9iKQ==</text>
+        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5zdGFjaygKICAgICAgICAobnAuYXJyYXkodHggLyB0eiwgZHR5cGU9bnAuaW50KSwgbnAuYXJyYXkodHkgLyB0eiwgZHR5cGU9bnAuaW50KSksCiAgICAgICAgYXhpcz0xCiAgICApCiAgICBvbGRfaW5kaWNlcyA9IG9sZF9pbmRpY2VzWyhpbmRpY2VzWzosIDBdID49IDApICYgKGluZGljZXNbOiwgMV0gPj0gMCksIDpdCiAgICBpbmRpY2VzID0gaW5kaWNlc1sKICAgICAgICAgICAgICAoaW5kaWNlc1s6LCAwXSA+PSAwKSAmCiAgICAgICAgICAgICAgKGluZGljZXNbOiwgMV0gPj0gMCkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDBdIDwgaW1hZ2VfYS5zaGFwZVsxXSkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDFdIDwgaW1hZ2VfYS5zaGFwZVswXSksCiAgICAgICAgICAgICAgOl0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBmb3IgaSBpbiByYW5nZShpbmRpY2VzLnNoYXBlWzBdKToKICAgICAgICBvbGRfeCwgb2xkX3kgPSBvbGRfaW5kaWNlc1tpXQogICAgICAgIG5ld194LCBuZXdfeSA9IGluZGljZXNbaV0KICAgICAgICBpbWFnZV9yZXN1bHRbb2xkX3ksIG9sZF94XSA9IGltYWdlX2FbbmV3X3ksIG5ld194XQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHR4ID0gaF9pWzAsIDBdICogeCArIGhfaVswLCAxXSAqIHkgKyBoX2lbMCwgMl0KICAgIHR5ID0gaF9pWzEsIDBdICogeCArIGhfaVsxLCAxXSAqIHkgKyBoX2lbMSwgMl0KICAgIHR6ID0gaF9pWzIsIDBdICogeCArIGhfaVsyLCAxXSAqIHkgKyBoX2lbMiwgMl0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciB4LHkgaW4gCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGluZGljZXMgPSBpbmRpY2VzW25wLndoZXJlKGluZGljZXNbXSldCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5wLmFycmF5KHR4IC8gdHosIGR0eXBlPW5wLmludCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>x_coords, y_coords = [
         np.reshape(arr, -1) for arr in
         np.meshgrid(np.arange(image_b.shape[1]), np.arange(image_b.shape[0]), indexing='ij')
@@ -348,21 +363,6 @@
     dst[:, 1] /= dst[:, 2]
 
     image_result = dst[:, :2]</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRzdCA9IG5wLmRvdChzcmMudHJhbnNwb3NlKCksIGhvbW9ncmFwaHkudHJhbnNwb3NlKCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvb3JkcyA9IG5wLnN0YWNrKCh4X2Nvb3Jkcy5yZXNoYXBlKC0xKSwgeV9jb29yZHMucmVzaGFwZSgtMSkpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdCA9IG5wLnplcm9zX2xpa2UoaW1hZ2VfYikK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1hZ2VfcmVzdWx0X3ggPSAoaG9tb2dyYXBoeVswLCAwXSAqIGltYWdlX2FbOiwgMV0gKyBob21vZ3JhcGh5WzAsIDFdICogaW1hZ2VfYVs6LCAwXSArIGhvbW9ncmFwaHlbMCwgMl0pIC8gXAogICAgICAgICAgICAgICAgICAgICAoaG9tb2dyYXBoeVsyLCAwXSAqIGltYWdlX2FbOiwgMV0gKyBob21vZ3JhcGh5WzIsIDFdICogaW1hZ2VfYVs6LCAwXSArIGhvbW9ncmFwaHlbMiwgMl0pCgogICAgaW1hZ2VfcmVzdWx0X3kgPSAoaG9tb2dyYXBoeVsxLCAwXSAqIGltYWdlX2FbOiwgMV0gKyBob21vZ3JhcGh5WzEsIDFdICogaW1hZ2VfYVs6LCAwXSArIGhvbW9ncmFwaHlbMSwgMl0pIC8gXAogICAgICAgICAgICAgICAgICAgICAoaG9tb2dyYXBoeVsyLCAwXSAqIGltYWdlX2FbOiwgMV0gKyBob21vZ3JhcGh5WzIsIDFdICogaW1hZ2VfYVs6LCAwXSArIGhvbW9ncmFwaHlbMiwgMl0pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bnAud2hlcmUoKGluZGljZXNbOiwgMF0gPj0gMCkgJiAoaW5kaWNlc1s6LCAxXSA+PSAwKSwgaW1hZ2VfcmVzdWx0LCBpbWFnZV9iKQ==</text>
