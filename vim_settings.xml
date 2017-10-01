@@ -210,7 +210,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506815855347">
+      <file name="/Python Console" timestamp="1506820704545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -269,11 +269,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506815631492">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="103" column="7" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506873743055">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="179" column="11" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -290,11 +290,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506816126906">
-        <mark key="[" line="114" column="33" />
-        <mark key="]" line="114" column="32" />
-        <mark key="." line="114" column="32" />
-        <mark key="^" line="114" column="32" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506873576129">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="73" column="19" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -358,46 +358,37 @@
         <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3cocmVzY2FsZV9hcnJheShjb3JuZXJfaGFycmlzKSwgY21hcD0nZ3JheScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>00</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3codGhyZXNob2xkLCBjbWFwPSdncmF5JykK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IGN2Mi5pbXJlYWQoImlucHV0X2ltYWdlcy90ZW1wbGF0ZS5qcGciKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5zY2F0dGVyKHg9Y2VudGVyc1s6LCAxXSwgeT1jZW50ZXJzWzosIDBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICB0aHJlc2ggPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZW1wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>corners_list = get_corners_list(image)
-    distances = [
-        [euclidean_distance(corner, circle_center) for corner in corners_list]
-        for circle_center in circle_centers
-    ]
-    distances = [distance_score.index(min(distance_score)) for distance_score in distances]
-    sorted_circle_centers = [
-        circle_centers[y] for y in range(len(circle_centers))
-    ]
-    return sorted_circle_centers</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFjdF9wdCwgcmV0X3B0IGluIHppcChtYXJrZXJzX3BvcywgcmV0X21hcmtlcnMpOgogICAgICAgICAgICAgICAgeF9kaXN0X3Rlc3QgPSBhYnMocmV0X3B0WzBdIC0gYWN0X3B0WzBdKSA8PSB0aHJlc2gKICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh4X2Rpc3RfdGVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9J1ggcG9pbnQgaXMgdG9vIGZhciBmcm9tIHJlZmVyZW5jZS4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRXhwZWN0ZWQ6IHt9LiBSZXR1cm5lZDoge30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcnLmZvcm1hdChyZXRfcHRbMF0sIGFjdF9wdFswXSkpCgogICAgICAgICAgICAgICAgeV9kaXN0X3Rlc3QgPSBhYnMocmV0X3B0WzFdIC0gYWN0X3B0WzFdKSA8PSB0aHJlc2gKICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh5X2Rpc3RfdGVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9J1kgcG9pbnQgaXMgdG9vIGZhciBmcm9tIHJlZmVyZW5jZS4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRXhwZWN0ZWQ6IHt9LiBSZXR1cm5lZDoge30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcnLmZvcm1hdChyZXRfcHRbMV0sIGFjdF9wdFsxXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvcm5lcnMgPSBnZXRfY29ybmVyc19saXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0X21hcmtlcnMgPSBwczMuZmluZF9tYXJrZXJzKHRlc3RfaW1hZ2UsIHRlbXBsYXRlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>12</text>
       </register>
     </registers>
     <search>
