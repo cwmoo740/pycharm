@@ -210,7 +210,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506876575636">
+      <file name="/Python Console" timestamp="1506880890140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -269,11 +269,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506875499917">
-        <mark key="[" line="186" column="70" />
-        <mark key="]" line="190" column="32" />
-        <mark key="." line="190" column="32" />
-        <mark key="^" line="190" column="32" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506881140922">
+        <mark key="[" line="250" column="21" />
+        <mark key="]" line="250" column="29" />
+        <mark key="^" line="250" column="29" />
+        <mark key="." line="250" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -290,11 +290,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506876676264">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="134" column="30" />
-        <mark key="^" line="134" column="30" />
-        <mark key="." line="134" column="30" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506881373831">
+        <mark key="[" line="151" column="53" />
+        <mark key="]" line="151" column="53" />
+        <mark key="^" line="151" column="37" />
+        <mark key="." line="151" column="53" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -358,37 +358,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>imageB</text>
+        <text>=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZSB5b3VyIGZpbmRfbWFya2VycyBtZXRob2QgdG8gZmluZCB0aGUgY29ybmVycy4K</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3coaW1hZ2VfcmVzdWx0LCBjbWFwPSdncmF5JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVG9kbzogQ2xvc2UgdmlkZW8gKHJlbGVhc2UpIGFuZCB5aWVsZCBhICdOb25lJyB2YWx1ZS4gKGFkZCAyIGxpbmVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgIFVzZSB5b3VyIGZpbmRfbWFya2VycyBtZXRob2QgdG8gZmluZCB0aGUgY29ybmVycy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVG9kbzogT3BlbiBmaWxlIHdpdGggVmlkZW9DYXB0dXJlIGFuZCBzZXQgcmVzdWx0IHRvICd2aWRlbycuIFJlcGxhY2UgTm9uZQo=</text>
+        <text encoding="base64">ICAgICMgVG9kbzogQ2xvc2UgdmlkZW8gKHJlbGVhc2UpIGFuZCB5aWVsZCBhICdOb25lJyB2YWx1ZS4gKGFkZCAyIGxpbmVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5pbXNob3cob3V0cHV0X2ltYWdlLCBjbWFwPSdncmF5JykK</text>
+        <text encoding="base64">ICAgICMgVG9kbzogT3BlbiBmaWxlIHdpdGggVmlkZW9DYXB0dXJlIGFuZCBzZXQgcmVzdWx0IHRvICd2aWRlbycuIFJlcGxhY2UgTm9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IAo=</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3cob3V0cHV0X2ltYWdlLCBjbWFwPSdncmF5JykK</text>
       </register>
       <register name="-" type="4">
-        <text>imageB</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
