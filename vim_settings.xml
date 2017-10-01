@@ -195,14 +195,14 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506893071909">
+      <file name="/Python Console" timestamp="1506899711225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1506892907469">
+      <file name="/fragment.py" timestamp="1506899877367">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_tests.py" timestamp="1501328202322">
         <mark key="[" line="221" column="16" />
@@ -245,11 +245,10 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506881140922">
-        <mark key="[" line="250" column="21" />
-        <mark key="]" line="250" column="29" />
-        <mark key="^" line="250" column="29" />
-        <mark key="." line="250" column="29" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506899232391">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -266,11 +265,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506894046563">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="176" column="22" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506900344515">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="139" column="18" />
+        <mark key="^" line="139" column="18" />
+        <mark key="." line="139" column="18" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -323,49 +322,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5zdGFjaygKICAgICAgICAobnAuYXJyYXkodHggLyB0eiwgZHR5cGU9bnAuaW50KSwgbnAuYXJyYXkodHkgLyB0eiwgZHR5cGU9bnAuaW50KSksCiAgICAgICAgYXhpcz0xCiAgICApCiAgICBvbGRfaW5kaWNlcyA9IG9sZF9pbmRpY2VzWyhpbmRpY2VzWzosIDBdID49IDApICYgKGluZGljZXNbOiwgMV0gPj0gMCksIDpdCiAgICBpbmRpY2VzID0gaW5kaWNlc1sKICAgICAgICAgICAgICAoaW5kaWNlc1s6LCAwXSA+PSAwKSAmCiAgICAgICAgICAgICAgKGluZGljZXNbOiwgMV0gPj0gMCkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDBdIDwgaW1hZ2VfYS5zaGFwZVsxXSkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDFdIDwgaW1hZ2VfYS5zaGFwZVswXSksCiAgICAgICAgICAgICAgOl0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGluZGljZXMgPSBucC5zdGFjaygKICAgICAgICAobnAuYXJyYXkodHggLyB0eiwgZHR5cGU9bnAuaW50KSwgbnAuYXJyYXkodHkgLyB0eiwgZHR5cGU9bnAuaW50KSksCiAgICAgICAgYXhpcz0xCiAgICApCiAgICBvbGRfaW5kaWNlcyA9IG9sZF9pbmRpY2VzWyhpbmRpY2VzWzosIDBdID49IDApICYgKGluZGljZXNbOiwgMV0gPj0gMCksIDpdCiAgICBpbmRpY2VzID0gaW5kaWNlc1sKICAgICAgICAgICAgICAoaW5kaWNlc1s6LCAwXSA+PSAwKSAmCiAgICAgICAgICAgICAgKGluZGljZXNbOiwgMV0gPj0gMCkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDBdIDwgaW1hZ2VfYS5zaGFwZVsxXSkgJgogICAgICAgICAgICAgIChpbmRpY2VzWzosIDFdIDwgaW1hZ2VfYS5zaGFwZVswXSksCiAgICAgICAgICAgICAgOl0=</text>
+        <text encoding="base64">aF9pIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdFsKICAgICAgICBucC5hcnJheSh0cmFuc2Zvcm1lZFs6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBdID0gaW1hZ2VfYVsKICAgICAgICBucC5hcnJheShjb29yZGluYXRlc1s6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBd</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBmb3IgaSBpbiByYW5nZShpbmRpY2VzLnNoYXBlWzBdKToKICAgICAgICBvbGRfeCwgb2xkX3kgPSBvbGRfaW5kaWNlc1tpXQogICAgICAgIG5ld194LCBuZXdfeSA9IGluZGljZXNbaV0KICAgICAgICBpbWFnZV9yZXN1bHRbb2xkX3ksIG9sZF94XSA9IGltYWdlX2FbbmV3X3ksIG5ld194XQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdF9hY3R1YWwgPSBjdjIud2FycFBlcnNwZWN0aXZlKGltYWdlX2EsIGhvbW9ncmFwaHksIChpbWFnZV9iLnNoYXBlWzFdLCBpbWFnZV9iLnNoYXBlWzBdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdjIud2FpdEtleSgzMCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHR4ID0gaF9pWzAsIDBdICogeCArIGhfaVswLCAxXSAqIHkgKyBoX2lbMCwgMl0KICAgIHR5ID0gaF9pWzEsIDBdICogeCArIGhfaVsxLCAxXSAqIHkgKyBoX2lbMSwgMl0KICAgIHR6ID0gaF9pWzIsIDBdICogeCArIGhfaVsyLCAxXSAqIHkgKyBoX2lbMiwgMl0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB5ID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciB4LHkgaW4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluZGljZXMgPSBpbmRpY2VzW25wLndoZXJlKGluZGljZXNbXSldCg==</text>
+        <text encoding="base64">ICAgIHd0ZjIgPSB3dGYucmVzaGFwZSgtMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5wLmFycmF5KHR4IC8gdHosIGR0eXBlPW5wLmludCkK</text>
+        <text encoding="base64">ICAgIHd0ZjMgPSB3dGYyLnJlc2hhcGUoLTEpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>x_coords, y_coords = [
-        np.reshape(arr, -1) for arr in
-        np.meshgrid(np.arange(image_b.shape[1]), np.arange(image_b.shape[0]), indexing='ij')
-    ]
-
-    src = np.vstack((x_coords, y_coords, np.ones_like(x_coords)))
-    dst = np.dot(src.transpose(), homography.transpose())
-
-    dst[:, 0] /= dst[:, 2]
-    dst[:, 1] /= dst[:, 2]
-
-    image_result = dst[:, :2]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOl0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnAud2hlcmUoKGluZGljZXNbOiwgMF0gPj0gMCkgJiAoaW5kaWNlc1s6LCAxXSA+PSAwKSwgaW1hZ2VfcmVzdWx0LCBpbWFnZV9iKQ==</text>
+        <text encoding="base64">aF9pIA==</text>
       </register>
     </registers>
     <search>
