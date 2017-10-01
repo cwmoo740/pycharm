@@ -210,7 +210,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506820704545">
+      <file name="/Python Console" timestamp="1506875872069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -218,7 +218,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1506815548043">
+      <file name="/fragment.py" timestamp="1506874883441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,11 +269,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506873743055">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="179" column="11" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3_tests.py" timestamp="1506875499917">
+        <mark key="[" line="186" column="70" />
+        <mark key="]" line="190" column="32" />
+        <mark key="." line="190" column="32" />
+        <mark key="^" line="190" column="32" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -290,11 +290,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506873576129">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="73" column="19" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506875861306">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="^" line="196" column="13" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -355,40 +355,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9ub3QoYWx3YXlzKF9yb2JvdD1GYWxzZSkpICogaGVscGZ1bChfc21hcnQ9VHJ1ZSkpCiAgICBwcmludChfbm90KGFsd2F5cyhfcm9ib3Q9RmFsc2UpKSAqIF9ub3QoaGVscGZ1bChfc21hcnQ9VHJ1ZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVG9kbzogQ2xvc2UgdmlkZW8gKHJlbGVhc2UpIGFuZCB5aWVsZCBhICdOb25lJyB2YWx1ZS4gKGFkZCAyIGxpbmVzKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVG9kbzogQ2xvc2UgdmlkZW8gKHJlbGVhc2UpIGFuZCB5aWVsZCBhICdOb25lJyB2YWx1ZS4gKGFkZCAyIGxpbmVzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IGN2Mi5pbXJlYWQoImlucHV0X2ltYWdlcy90ZW1wbGF0ZS5qcGciKQo=</text>
+        <text encoding="base64">ICAgICMgVG9kbzogT3BlbiBmaWxlIHdpdGggVmlkZW9DYXB0dXJlIGFuZCBzZXQgcmVzdWx0IHRvICd2aWRlbycuIFJlcGxhY2UgTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlc2ggPSAxCg==</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3cob3V0cHV0X2ltYWdlLCBjbWFwPSdncmF5JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFjdF9wdCwgcmV0X3B0IGluIHppcChtYXJrZXJzX3BvcywgcmV0X21hcmtlcnMpOgogICAgICAgICAgICAgICAgeF9kaXN0X3Rlc3QgPSBhYnMocmV0X3B0WzBdIC0gYWN0X3B0WzBdKSA8PSB0aHJlc2gKICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh4X2Rpc3RfdGVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9J1ggcG9pbnQgaXMgdG9vIGZhciBmcm9tIHJlZmVyZW5jZS4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRXhwZWN0ZWQ6IHt9LiBSZXR1cm5lZDoge30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcnLmZvcm1hdChyZXRfcHRbMF0sIGFjdF9wdFswXSkpCgogICAgICAgICAgICAgICAgeV9kaXN0X3Rlc3QgPSBhYnMocmV0X3B0WzFdIC0gYWN0X3B0WzFdKSA8PSB0aHJlc2gKICAgICAgICAgICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZSh5X2Rpc3RfdGVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9J1kgcG9pbnQgaXMgdG9vIGZhciBmcm9tIHJlZmVyZW5jZS4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRXhwZWN0ZWQ6IHt9LiBSZXR1cm5lZDoge30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcnLmZvcm1hdChyZXRfcHRbMV0sIGFjdF9wdFsxXSkpCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICdyZWN0YW5nbGVfd2FsbC5wbmcnLAogICAgICAgICAgICAncmVjdGFuZ2xlX3dhbGxfbm9pc3kucG5nJywKICAgICAgICAgICAgJ3JlY3RhbmdsZV93YWxsX25vaXN5X2dhdXNzaWFuLnBuZyc=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0X21hcmtlcnMgPSBwczMuZmluZF9tYXJrZXJzKHRlc3RfaW1hZ2UsIHRlbXBsYXRlKQo=</text>
+        <text encoding="base64">ICAgIHB0cyA9IHB0cy5yZXNoYXBlKCgtMSwgMSwgMikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>None</text>
       </register>
     </registers>
     <search>
