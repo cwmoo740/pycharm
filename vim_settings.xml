@@ -195,10 +195,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506899711225">
+      <file name="/Python Console" timestamp="1506903738142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1506899877367">
+      <file name="/fragment.py" timestamp="1506903703417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -265,11 +265,11 @@
       <file name="/Dummy.txt" timestamp="1506792815659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506900344515">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="139" column="18" />
-        <mark key="^" line="139" column="18" />
-        <mark key="." line="139" column="18" />
+      <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506903754984">
+        <mark key="[" line="226" column="4" />
+        <mark key="]" line="226" column="10" />
+        <mark key="^" line="226" column="10" />
+        <mark key="." line="226" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -323,37 +323,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aF9pIA==</text>
+        <text encoding="base64">PSA=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdFsKICAgICAgICBucC5hcnJheSh0cmFuc2Zvcm1lZFs6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBdID0gaW1hZ2VfYVsKICAgICAgICBucC5hcnJheShjb29yZGluYXRlc1s6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBd</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBucC5vbmVzKHNoYXBlPSgzLCAzKSwgZHR5cGU9bnAuZmxvYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdF9hY3R1YWwgPSBjdjIud2FycFBlcnNwZWN0aXZlKGltYWdlX2EsIGhvbW9ncmFwaHksIChpbWFnZV9iLnNoYXBlWzFdLCBpbWFnZV9iLnNoYXBlWzBdKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5vbmVzKHNoYXBlPSgzLCAzKSwgZHR5cGU9bnAuZmxvYXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIud2FpdEtleSgzMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWRzdF9wb2ludHNbaV1bMV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWRzdF9wb2ludHNbaV1bMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWRzdF9wb2ludHNbaV1bMV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHd0ZjIgPSB3dGYucmVzaGFwZSgtMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWRzdF9wb2ludHNbaV1bMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHd0ZjMgPSB3dGYyLnJlc2hhcGUoLTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOl0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGltYWdlX3Jlc3VsdFsKICAgICAgICBucC5hcnJheSh0cmFuc2Zvcm1lZFs6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBdID0gaW1hZ2VfYVsKICAgICAgICBucC5hcnJheShjb29yZGluYXRlc1s6LCA6Oi0xXSwgZHR5cGU9bnAuaW50MzIpCiAgICBd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aF9pIA==</text>
+        <text encoding="base64">PSA=</text>
       </register>
     </registers>
     <search>
