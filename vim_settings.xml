@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1498437255769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1498457662880">
+      <file name="/Python Console" timestamp="1506988579855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -39,6 +39,11 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/python/ai_midterm/scratch.py" timestamp="1506988587414">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -70,37 +75,37 @@
         <text encoding="base64">ICAgIHBvc3RlcmlvciA9IG5wLmFycmF5KFsxLiwgMC4sIDAuXSkKICAgIG5ld19wb3N0ZXJpb3IgPSBucC5hcnJheShbMC4sIDAuLCAwLl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
+        <text encoding="base64">ICAgIDc3ODU0NTY4OiAnRlVDS0lORyBHQVJCQUdFJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>vivial</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IG1ha2VfcmFuZG9tX3N0YXRlKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcmdlX2NvdW50ID0gMTAK</text>
+        <text encoding="base64">ICAgIGdpYmJzX2RlbHRhID0gMTAwMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBucC5tZWFuKG5ld19wb3N0ZXJpb3ItcG9zdGVyaW9yKSA8IGRlbHRhOgo=</text>
+        <text encoding="base64">ICAgIGNvbnZlcmdlX2NvdW50ID0gMTAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1IX3JlamVjdGlvbl9jb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBucC5tZWFuKG5ld19wb3N0ZXJpb3ItcG9zdGVyaW9yKSA8IGRlbHRhOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFfc2tpbAo=</text>
+        <text encoding="base64">ICAgIE1IX3JlamVjdGlvbl9jb3VudCA9IDAK</text>
       </register>
       <register name="-" type="4">
-        <text>vivial</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
