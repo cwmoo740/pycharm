@@ -33,6 +33,12 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1507681730013">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -75,16 +81,16 @@
         <mark key="." line="14" column="64" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
         <mark key="]" line="366" column="8" />
         <mark key="^" line="366" column="8" />
         <mark key="." line="366" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/test/main.py" timestamp="1506989711117">
         <mark key="[" line="5" column="40" />
@@ -346,37 +352,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjW2Ffb3V0ZXIsIGJfaW5uZXJdID0gYWNjdW11bGF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjW2Ffb3V0ZXIsIGJfaW5uZXJdID0gYWNjdW11bGF0b3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxLAo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2NvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAxLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZV9pZCA9IGZyYW1lX2lkc1sob3V0cHV0X2NvdW50ZXIgLSAxKSAlIDNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2NvdW50ZXIgKz0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9jb3VudGVyID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZV9pZCA9IGZyYW1lX2lkc1sob3V0cHV0X2NvdW50ZXIgLSAxKSAlIDNdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dF92aWRlbyA9IG1wNF92aWRlb193cml0ZXIoInBzMy02LmF2aSIsICgpKQo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9jb3VudGVyID0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>NotImplementedError</text>
       </register>
     </registers>
     <search>
