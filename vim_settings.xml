@@ -161,6 +161,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/environment.yml" timestamp="1507909504563">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/docker-entrypoint" timestamp="1502383749380">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="3" column="0" />
@@ -181,6 +187,12 @@
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507909628219">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/bayes.py" timestamp="1501825339866">
         <mark key="[" line="61" column="16" />
@@ -203,6 +215,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/environment_test.yml" timestamp="1507909313999" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -352,37 +365,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjW2Ffb3V0ZXIsIGJfaW5uZXJdID0gYWNjdW11bGF0b3IK</text>
+        <text encoding="base64">Y2xhc3MgU3Rhc2g6Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAxLAo=</text>
+        <text encoding="base64">ICAtIHJlcXVlc3RzPT0yLjE4LjQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2NvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">LSBjYS1jZXJ0aWZpY2F0ZXM9MjAxNy43LjI3LjE9MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZV9pZCA9IGZyYW1lX2lkc1sob3V0cHV0X2NvdW50ZXIgLSAxKSAlIDNdCg==</text>
+        <text encoding="base64">LSBjZXJ0aWZpPTIwMTcuNy4yNy4xPXB5MzZfMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9jb3VudGVyID0gMQo=</text>
+        <text encoding="base64">LSBuY3Vyc2VzPTUuOT0xMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>NotImplementedError</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
     </registers>
     <search>
