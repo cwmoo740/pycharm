@@ -188,11 +188,10 @@
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507917481496">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="35" />
-        <mark key="." line="22" column="35" />
-        <mark key="^" line="22" column="35" />
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507922600985">
+        <mark key="]" line="46" column="49" />
+        <mark key="." line="46" column="49" />
+        <mark key="^" line="46" column="49" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/bayes.py" timestamp="1501825339866">
         <mark key="[" line="61" column="16" />
@@ -215,7 +214,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/docs-server/environment_test.yml" timestamp="1507909313999" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,37 +363,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOiAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>pass</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTGluayhOYW1lZFR1cGxlKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwcm9qKQo=</text>
+        <text encoding="base64">Y2xhc3MgTGluayhOYW1lZFR1cGxlKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKCkgYXMgc2Vzc2lvbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwcm9qKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>pass</text>
       </register>
     </registers>
     <search>
