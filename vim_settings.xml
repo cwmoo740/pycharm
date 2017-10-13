@@ -188,11 +188,11 @@
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507909628219">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507917481496">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/bayes.py" timestamp="1501825339866">
         <mark key="[" line="61" column="16" />
@@ -293,7 +293,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506792815659">
+      <file name="/Dummy.txt" timestamp="1507915587073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506915625223">
@@ -365,37 +365,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU3Rhc2g6Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHJlcXVlc3RzPT0yLjE4LjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBjYS1jZXJ0aWZpY2F0ZXM9MjAxNy43LjI3LjE9MAo=</text>
+        <text encoding="base64">Y2xhc3MgTGluayhOYW1lZFR1cGxlKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBjZXJ0aWZpPTIwMTcuNy4yNy4xPXB5MzZfMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwcm9qKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuY3Vyc2VzPTUuOT0xMAo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKCkgYXMgc2Vzc2lvbjoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
