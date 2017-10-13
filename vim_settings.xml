@@ -9,6 +9,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/repository.py" timestamp="1507925662913">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.dockerignore" timestamp="1502382095380">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="3" />
@@ -32,6 +38,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash/project.py" timestamp="1507925040318">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1507681730013">
         <mark key="[" line="50" column="5" />
@@ -110,6 +122,7 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/stash.py" timestamp="1507925241888" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1502375083228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="10" />
@@ -188,10 +201,11 @@
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507922600985">
-        <mark key="]" line="46" column="49" />
-        <mark key="." line="46" column="49" />
-        <mark key="^" line="46" column="49" />
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507924977375">
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="^" line="52" column="37" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/bayes.py" timestamp="1501825339866">
         <mark key="[" line="61" column="16" />
@@ -267,6 +281,12 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/classes.py" timestamp="1507925715776">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="10" column="36" />
@@ -278,6 +298,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="150" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/mypy.ini" timestamp="1502375271083">
         <mark key="[" line="1" column="0" />
@@ -300,6 +326,13 @@
         <mark key="^" line="91" column="29" />
         <mark key="." line="91" column="29" />
       </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash/stash.py" timestamp="1507925028026" />
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
         <mark key="]" line="391" column="29" />
@@ -363,22 +396,23 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiAK</text>
+        <text encoding="base64">ZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>for proj in json['values']:
+                        yield Project(proj)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRlOiAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -387,13 +421,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgTGluayhOYW1lZFR1cGxlKToK</text>
+        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwcm9qKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text encoding="base64">cHJvamVjdCA=</text>
       </register>
     </registers>
     <search>
