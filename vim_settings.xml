@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508002096047">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508003754695">
+        <mark key="[" line="157" column="7" />
+        <mark key="]" line="157" column="7" />
+        <mark key="^" line="156" column="9" />
+        <mark key="." line="157" column="7" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -236,7 +236,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1506920173276">
+      <file name="/Python Console" timestamp="1508003754059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -244,7 +244,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1506911511984">
+      <file name="/fragment.py" timestamp="1508003939114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -394,38 +394,38 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzb2JlbAo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzb2JlbAo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzb2JlbAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>for proj in json['values']:
                         yield Project(proj)</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOiAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
