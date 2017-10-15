@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508100669593">
-        <mark key="[" line="309" column="51" />
-        <mark key="]" line="309" column="49" />
-        <mark key="." line="309" column="49" />
-        <mark key="^" line="309" column="49" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508110038603">
+        <mark key="[" line="310" column="83" />
+        <mark key="]" line="310" column="78" />
+        <mark key="." line="310" column="78" />
+        <mark key="^" line="310" column="78" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -244,7 +244,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1508100361448">
+      <file name="/fragment.py" timestamp="1508109921622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -402,8 +402,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>image</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIG1hcDEsIG1hcDIgPSBjdjIuY29udmVydE1hcHMobWFwMT1VLCBtYXAyPVYsIGRzdG1hcDF0eXBlPWN2Mi5DVl8xNlNDMikK</text>
@@ -438,7 +438,7 @@
         <text encoding="base64">ICAgIGZpbHRlcmVkID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>image</text>
       </register>
     </registers>
     <search>
