@@ -45,10 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508009273530">
-        <mark key="[" line="118" column="27" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508029245603">
+        <mark key="[" line="185" column="37" />
+        <mark key="]" line="180" column="42" />
+        <mark key="." line="180" column="42" />
+        <mark key="^" line="180" column="42" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -235,7 +236,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508007914377">
+      <file name="/Python Console" timestamp="1508029290684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -243,7 +244,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1508007923258">
+      <file name="/fragment.py" timestamp="1508029142909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -399,35 +400,37 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlfdCA9IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZhaWwpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlfdCA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBhc3NlcnQgaW1nX2Euc2hhcGUgPT0gaW1nX2Iuc2hhcGUKICAgIElfeCA9IG5wLnplcm9zKGltZ19hLnNoYXBlKQogICAgSV95ID0gbnAuemVyb3MoaW1nX2Euc2hhcGUpCiAgICBJX3QgPSBucC56ZXJvcyhpbWdfYS5zaGFwZSkKICAgIElfeFsxOi0xLCAxOi0xXSA9IChpbWdfYVsxOi0xLCAyOl0gLSBpbWdfYVsxOi0xLCA6LTJdKSAvIDIKICAgIElfeVsxOi0xLCAxOi0xXSA9IChpbWdfYVsyOiwgMTotMV0gLSBpbWdfYVs6LTIsIDE6LTFdKSAvIDIKICAgIElfdFsxOi0xLCAxOi0xXSA9IGltZ19hWzE6LTEsIDE6LTFdIC0gaW1nX2JbMTotMSwgMTotMV0KICAgIHBhcmFtcyA9IG5wLnplcm9zKGltZ19hLnNoYXBlICsgKDUsKSkgICMgSXgyLCBJeTIsIEl4eSwgSXh0LCBJeXQKICAgIHBhcmFtc1suLi4sIDBdID0gSV94ICogSV94ICAjIElfeDIKICAgIHBhcmFtc1suLi4sIDFdID0gSV95ICogSV95ICAjIElfeTIKICAgIHBhcmFtc1suLi4sIDJdID0gSV94ICogSV95ICAjIElfeHkKICAgIHBhcmFtc1suLi4sIDNdID0gSV94ICogSV90ICAjIElfeHQKICAgIHBhcmFtc1suLi4sIDRdID0gSV95ICogSV90ICAjIElfeXQKICAgIGRlbCBJX3gsIElfeSwgSV90CiAgICBjdW1fcGFyYW1zID0gbnAuY3Vtc3VtKG5wLmN1bXN1bShwYXJhbXMsIGF4aXM9MCksIGF4aXM9MSkKICAgIGRlbCBwYXJhbXMKICAgIHdpbl9wYXJhbXMgPSAoY3VtX3BhcmFtc1syICoga19zaXplICsgMTosIDIgKiBrX3NpemUgKyAxOl0gLQogICAgICAgICAgICAgICAgICBjdW1fcGFyYW1zWzIgKiBrX3NpemUgKyAxOiwgOi0xIC0gMiAqIGtfc2l6ZV0gLQogICAgICAgICAgICAgICAgICBjdW1fcGFyYW1zWzotMSAtIDIgKiBrX3NpemUsIDIgKiBrX3NpemUgKyAxOl0gKwogICAgICAgICAgICAgICAgICBjdW1fcGFyYW1zWzotMSAtIDIgKiBrX3NpemUsIDotMSAtIDIgKiBrX3NpemVdKQogICAgZGVsIGN1bV9wYXJhbXMKICAgIG9wX2Zsb3cgPSBucC56ZXJvcyhpbWdfYS5zaGFwZSArICgyLCkpCiAgICBkZXQgPSB3aW5fcGFyYW1zWy4uLiwgMF0gKiB3aW5fcGFyYW1zWy4uLiwgMV0gLSB3aW5fcGFyYW1zWy4uLiwgMl0gKiogMgogICAgb3BfZmxvd194ID0gbnAud2hlcmUoZGV0ICE9IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAod2luX3BhcmFtc1suLi4sIDFdICogd2luX3BhcmFtc1suLi4sIDNdIC0KICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5fcGFyYW1zWy4uLiwgMl0gKiB3aW5fcGFyYW1zWy4uLiwgNF0pIC8gZGV0LAogICAgICAgICAgICAgICAgICAgICAgICAgMCkKICAgIG9wX2Zsb3dfeSA9IG5wLndoZXJlKGRldCAhPSAwLAogICAgICAgICAgICAgICAgICAgICAgICAgKHdpbl9wYXJhbXNbLi4uLCAwXSAqIHdpbl9wYXJhbXNbLi4uLCA0XSAtCiAgICAgICAgICAgICAgICAgICAgICAgICAgd2luX3BhcmFtc1suLi4sIDJdICogd2luX3BhcmFtc1suLi4sIDNdKSAvIGRldCwKICAgICAgICAgICAgICAgICAgICAgICAgIDApCiAgICBvcF9mbG93W2tfc2l6ZSArIDE6IC0xIC0ga19zaXplLCBrX3NpemUgKyAxOiAtMSAtIGtfc2l6ZSwgMF0gPSBvcF9mbG93X3hbOi0xLCA6LTFdCiAgICBvcF9mbG93W2tfc2l6ZSArIDE6IC0xIC0ga19zaXplLCBrX3NpemUgKyAxOiAtMSAtIGtfc2l6ZSwgMV0gPSBvcF9mbG93X3lbOi0xLCA6LTFd</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGtlcm5lbCA9IG5wLmZ1bGwoKGtfc2l6ZSwga19zaXplKSwgMS4gLyBrX3NpemUgKiogMiwgZHR5cGU9bnAuZmxvYXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF4W10K</text>
+        <text encoding="base64">ICAgIGFbbSxuXSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgIG0sbiA9IGltZ19hLnNoYXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzb2JlbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAucmVwb3NpdG9yeSBpbXBvcnQgUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIGF4WzIsIDBdLmltc2hvdyhucC5zdWJ0cmFjdChpbWdfYSwgaW1nX2IpLCBjbWFwPSdncmF5JykK</text>
       </register>
-      <register name="7" type="4">
-        <text>for proj in json['values']:
-                        yield Project(proj)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlfdFsxOi0xLCAxOi0xXSA9IGltZ19hWzE6LTEsIDE6LTFdIC0gaW1nX2JbMTotMSwgMTotMV0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
+      <register name="8" type="4">
+        <text># assert img_a.shape == img_b.shape
+    # I_x = np.zeros(img_a.shape)
+    # I_y = np.zeros(img_a.shape)
+    # I_t = np.zeros(img_a.shape)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnB1YmxpYyA9IGpzb25bJ3B1YmxpYyddCg==</text>
+        <text encoding="base64">ICAgIGlfdCA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
