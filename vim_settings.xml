@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508087117841">
-        <mark key="[" line="282" column="118" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508089449204">
+        <mark key="[" line="318" column="32" />
+        <mark key="]" line="318" column="31" />
+        <mark key="." line="318" column="31" />
+        <mark key="^" line="318" column="31" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -236,6 +236,9 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="/Python Console" timestamp="1508089452770">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -396,35 +399,43 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MikgPSBwbHQuc3VicGxvdHMobnJvd3M9MikKICAgIGF4MS5pbXNob3coaW1hZ2UsIGNtYXA9J2dyYXknKQogICAgYXgyLmltc2hvdyhvdXRwdXQsIGNtYXA9J2dyYXknKQogICAgcGx0LnNob3coKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MiwgYXgzKSA9IHBsdC5zdWJwbG90cyhucm93cz0zKQogICAgYXgxLmltc2hvdyhpbWFnZSwgY21hcD0nZ3JheScpCiAgICBheDIuaW1zaG93KG91dHB1dCwgY21hcD0nZ3JheScpCiAgICBheDMuaW1zaG93KGZpbHRlcmVkLCBjbWFwPSdncmF5JykKICAgIHBsdC5zaG93KCkK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkID0gCg==</text>
+        <text encoding="base64">ICAgIG1hcDEsIG1hcDIgPSBjdjIuY29udmVydE1hcHMobWFwMT1VLCBtYXAyPVYsIGRzdG1hcDF0eXBlPWN2Mi5DVl8xNlNDMikK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MikgPSBwbHQuc3VicGxvdHMobnJvd3M9MikKICAgIGF4MS5pbXNob3coaW1hZ2UsIGNtYXA9J2dyYXknKQogICAgYXgyLmltc2hvdyhvdXRwdXQsIGNtYXA9J2dyYXknKQogICAgcGx0LnNob3coKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KFUuZHR5cGUsIFYuZHR5cGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxldmVscyk6Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdC5pbnNlcnQoMCwgbnAuY29weShnX3B5clstMV0pCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>)
+
+    fig, ax = plt.subplots(nrows=len(g_pyr), ncols=2)
+    for i in range(len(g_pyr)):
+        ax[i, 0].imshow(g_pyr[i], cmap='gray')
+        ax[i, 1].imshow(result[i], cmap='gray')
+    print(len(result))
+    print(len(g_pyr))
+    plt.show()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5pbnNlcnQK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBmaWcsIChheDAsIGF4MSwgYXgyKSA9IHBsdC5zdWJwbG90cyhucm93cz0zKQogICAgYXgwLmltc2hvdyhpbWFnZSwgY21hcD0nZ3JheScpCiAgICBheDEuaW1zaG93KGZpbHRlcmVkLCBjbWFwPSdncmF5JykKICAgIGF4Mi5pbXNob3coZmlsdGVyZWRbOjoyLCA6OjJdLCBjbWFwPSdncmF5JykKICAgIHBsdC5zaG93KCk=</text>
+        <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MiwgYXgzKSA9IHBsdC5zdWJwbG90cyhucm93cz0zKQogICAgYXgxLmltc2hvdyhpbWFnZSwgY21hcD0nZ3JheScpCiAgICBheDIuaW1zaG93KG91dHB1dCwgY21hcD0nZ3JheScpCiAgICBheDMuaW1zaG93KGZpbHRlcmVkLCBjbWFwPSdncmF5JykKICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBBc3NpZ25tZW50IGNvZGUK</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkID0gCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
