@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508029245603">
-        <mark key="[" line="185" column="37" />
-        <mark key="]" line="180" column="42" />
-        <mark key="." line="180" column="42" />
-        <mark key="^" line="180" column="42" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508030099392">
+        <mark key="[" line="133" column="27" />
+        <mark key="]" line="134" column="11" />
+        <mark key="." line="134" column="11" />
+        <mark key="^" line="134" column="11" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -236,7 +236,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508029290684">
+      <file name="/Python Console" timestamp="1508030103819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -331,11 +331,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508007046946">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="25" column="7" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="25" column="7" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508030084242">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="48" column="62" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -403,7 +403,7 @@
         <text encoding="base64">ICAgIHByaW50KGZhaWwpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>op_flow_x, op_flow_y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGtlcm5lbCA9IG5wLmZ1bGwoKGtfc2l6ZSwga19zaXplKSwgMS4gLyBrX3NpemUgKiogMiwgZHR5cGU9bnAuZmxvYXQpCg==</text>
@@ -433,7 +433,7 @@
         <text encoding="base64">ICAgIGlfdCA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>op_flow_x, op_flow_y</text>
       </register>
     </registers>
     <search>
