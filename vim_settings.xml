@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508032510101">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="119" column="33" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508043359022">
+        <mark key="[" line="234" column="93" />
+        <mark key="]" line="234" column="89" />
+        <mark key="^" line="234" column="89" />
+        <mark key="." line="234" column="89" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -236,7 +236,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508031808848">
+      <file name="/Python Console" timestamp="1508042155850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -331,11 +331,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508031728317">
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="27" column="7" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="48" column="62" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508043321768">
+        <mark key="[" line="134" column="7" />
+        <mark key="]" line="134" column="11" />
+        <mark key="^" line="134" column="11" />
+        <mark key="." line="134" column="11" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -400,18 +400,27 @@
         <text encoding="base64">ICAgICAgICBtYXJrZXJzX3BvcyA9IFsoMTk3LCAyODgpLCAoMjgzLCA2NDApLCAoOTc5LCA5OSksICgxMDYyLCA0NjUpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBBc3NpZ25tZW50IGNvZGUK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxldmVscyk6Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBBc3NpZ25tZW50IGNvZGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBmaWcsIChheDAsIGF4MSwgYXgyKSA9IHBsdC5zdWJwbG90cyhucm93cz0zKQogICAgYXgwLmltc2hvdyhpbWFnZSwgY21hcD0nZ3JheScpCiAgICBheDEuaW1zaG93KGZpbHRlcmVkLCBjbWFwPSdncmF5JykKICAgIGF4Mi5pbXNob3coZmlsdGVyZWRbOjoyLCA6OjJdLCBjbWFwPSdncmF5JykKICAgIHBsdC5zaG93KCk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBBc3NpZ25tZW50IGNvZGUK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyBVdGlsaXR5IGZ1bmN0aW9uCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZ0LnNob3coKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>ig, ax = plt.subplots(nrows=3, ncols=3)
     ax[0, 0].imshow(img_a, cmap='gray')
     ax[1, 0].imshow(img_b, cmap='gray')
@@ -422,23 +431,14 @@
     ax[1, 2].imshow(x[:, :, 1], cmap='gray')
     pl</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICMgSV94WzE6LTEsIDE6LTFdID0gKGltZ19hWzE6LTEsIDI6XSAtIGltZ19hWzE6LTEsIDotMl0pIC8gMgogICAgIyBJX3lbMTotMSwgMTotMV0gPSAoaW1nX2FbMjosIDE6LTFdIC0gaW1nX2FbOi0yLCAxOi0xXSkgLyAyCiAgICAjIElfdFsxOi0xLCAxOi0xXSA9IGltZ19hWzE6LTEsIDE6LTFdIC0gaW1nX2JbMTotMSwgMTotMV0KICAgICMgcGFyYW1zID0gbnAuemVyb3MoaW1nX2Euc2hhcGUgKyAoNSwpKSAgIyBJeDIsIEl5MiwgSXh5LCBJeHQsIEl5dAogICAgIyBwYXJhbXNbLi4uLCAwXSA9IElfeCAqIElfeCAgIyBJX3gyCiAgICAjIHBhcmFtc1suLi4sIDFdID0gSV95ICogSV95ICAjIElfeTIKICAgICMgcGFyYW1zWy4uLiwgMl0gPSBJX3ggKiBJX3kgICMgSV94eQogICAgIyBwYXJhbXNbLi4uLCAzXSA9IElfeCAqIElfdCAgIyBJX3h0CiAgICAjIHBhcmFtc1suLi4sIDRdID0gSV95ICogSV90ICAjIElfeXQKICAgICMgZGVsIElfeCwgSV95LCBJX3QKICAgICMgY3VtX3BhcmFtcyA9IG5wLmN1bXN1bShucC5jdW1zdW0ocGFyYW1zLCBheGlzPTApLCBheGlzPTEpCiAgICAjIGRlbCBwYXJhbXMKICAgICMgd2luX3BhcmFtcyA9IChjdW1fcGFyYW1zWzIgKiBrX3NpemUgKyAxOiwgMiAqIGtfc2l6ZSArIDE6XSAtCiAgICAjICAgICAgICAgICAgICAgY3VtX3BhcmFtc1syICoga19zaXplICsgMTosIDotMSAtIDIgKiBrX3NpemVdIC0KICAgICMgICAgICAgICAgICAgICBjdW1fcGFyYW1zWzotMSAtIDIgKiBrX3NpemUsIDIgKiBrX3NpemUgKyAxOl0gKwogICAgIyAgICAgICAgICAgICAgIGN1bV9wYXJhbXNbOi0xIC0gMiAqIGtfc2l6ZSwgOi0xIC0gMiAqIGtfc2l6ZV0pCiAgICAjIGRlbCBjdW1fcGFyYW1zCiAgICAjIG9wX2Zsb3cgPSBucC56ZXJvcyhpbWdfYS5zaGFwZSArICgyLCkpCiAgICAjIGRldCA9IHdpbl9wYXJhbXNbLi4uLCAwXSAqIHdpbl9wYXJhbXNbLi4uLCAxXSAtIHdpbl9wYXJhbXNbLi4uLCAyXSAqKiAyCiAgICAjIG9wX2Zsb3dfeCA9IG5wLndoZXJlKGRldCAhPSAwLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAod2luX3BhcmFtc1suLi4sIDFdICogd2luX3BhcmFtc1suLi4sIDNdIC0KICAgICMgICAgICAgICAgICAgICAgICAgICAgIHdpbl9wYXJhbXNbLi4uLCAyXSAqIHdpbl9wYXJhbXNbLi4uLCA0XSkgLyBkZXQsCiAgICAjICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAjIG9wX2Zsb3dfeSA9IG5wLndoZXJlKGRldCAhPSAwLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAod2luX3BhcmFtc1suLi4sIDBdICogd2luX3BhcmFtc1suLi4sIDRdIC0KICAgICMgICAgICAgICAgICAgICAgICAgICAgIHdpbl9wYXJhbXNbLi4uLCAyXSAqIHdpbl9wYXJhbXNbLi4uLCAzXSkgLyBkZXQsCiAgICAjICAgICAgICAgICAgICAgICAgICAgIDApCiAgICAjIG9wX2Zsb3dba19zaXplICsgMTogLTEgLSBrX3NpemUsIGtfc2l6ZSArIDE6IC0xIC0ga19zaXplLCAwXSA9IG9wX2Zsb3dfeFs6LTEsIDotMV0KICAgICMgb3BfZmxvd1trX3NpemUgKyAxOiAtMSAtIGtfc2l6ZSwga19zaXplICsgMTogLTEgLSBrX3NpemUsIDFdID0gb3BfZmxvd195WzotMSwgOi0xXQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHggPSBucC56ZXJvcygobSwgbiwgMiksIGR0eXBlPW5wLmZsb2F0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZhaWwpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGtlcm5lbCA9IG5wLmZ1bGwoKGtfc2l6ZSwga19zaXplKSwgMS4gLyBrX3NpemUgKiogMiwgZHR5cGU9bnAuZmxvYXQpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>img_b</text>
+        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
       </register>
     </registers>
     <search>
