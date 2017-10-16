@@ -33,10 +33,11 @@
       <file name="/a.dummy" timestamp="1508182502435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508188229004">
-        <mark key="[" line="136" column="9" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508189491108">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="141" column="24" />
+        <mark key="^" line="141" column="24" />
+        <mark key="." line="141" column="24" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -434,37 +435,37 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvX3BhdGggPSBkaXJfcGF0aCAvIHNlbGYucHJvamVjdC5rZXkgLyBzZWxmLnNsdWcK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'**/*.md'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwcm9qZWN0KHNlbGYsIGtleTogc3RyKToK</text>
+        <text encoding="base64">ICAgICAgICByZXBvX3BhdGggPSBzZWxmLmhvc3QudGVtcF9kaXIgLyBzZWxmLnByb2plY3Qua2V5IC8gc2VsZi5zbHVnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlfcGF0aCA9ICcvcHJvamVjdHMve30nLmZvcm1hdChrZXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBnZXRfbGlzdChzZWxmLCBhcGlfcGF0aDogc3RyKToKICAgICAgICByZXFfcGF0aCA9IHNlbGYucm91dGUoYXBpX3BhdGgpCiAgICAgICAgbGltaXQgPSAyNQogICAgICAgIHN0YXJ0ID0gMAogICAgICAgIGFzeW5jIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKGhlYWRlcnM9eyoqc2VsZi5hdXRofSkgYXMgc2Vzc2lvbjoKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQoJ3t9P2xpbWl0PXt9JnN0YXJ0PXt9Jy5mb3JtYXQocmVxX3BhdGgsIGxpbWl0LCBzdGFydCkpIGFzIHJlc3BvbnNlOgogICAgICAgICAgICAgICAgICAgIGpzb24gPSBhd2FpdCByZXNwb25zZS5qc29uKCkKICAgICAgICAgICAgICAgICAgICBmb3IgdmFsdWUgaW4ganNvblsndmFsdWVzJ106CiAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHZhbHVlCiAgICAgICAgICAgICAgICAgICAgaWYganNvblsnaXNMYXN0UGFnZSddOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgIHN0YXJ0ID0ganNvblsnbmV4dFBhZ2VTdGFydCdd</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlyX3BhdGggPSBzZWxmLmhvc3QudGVtcF9kaXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWlvaHR0cC5CYXNpY0F1dGguZW5jb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkaXJfcGF0aCBpcyBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcV9wYXRoID0gc2VsZi5yb3V0ZShhcGlfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9kaXI6IE9wdGlvbmFsW3N0cl0K</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwcm9qZWN0KHNlbGYsIGtleTogc3RyKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iLmdsb2IoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcGlfcGF0aCA9ICcvcHJvamVjdHMve30nLmZvcm1hdChrZXkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXJfcGF0aCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBnZXRfbGlzdChzZWxmLCBhcGlfcGF0aDogc3RyKToKICAgICAgICByZXFfcGF0aCA9IHNlbGYucm91dGUoYXBpX3BhdGgpCiAgICAgICAgbGltaXQgPSAyNQogICAgICAgIHN0YXJ0ID0gMAogICAgICAgIGFzeW5jIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKGhlYWRlcnM9eyoqc2VsZi5hdXRofSkgYXMgc2Vzc2lvbjoKICAgICAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQoJ3t9P2xpbWl0PXt9JnN0YXJ0PXt9Jy5mb3JtYXQocmVxX3BhdGgsIGxpbWl0LCBzdGFydCkpIGFzIHJlc3BvbnNlOgogICAgICAgICAgICAgICAgICAgIGpzb24gPSBhd2FpdCByZXNwb25zZS5qc29uKCkKICAgICAgICAgICAgICAgICAgICBmb3IgdmFsdWUgaW4ganNvblsndmFsdWVzJ106CiAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIHZhbHVlCiAgICAgICAgICAgICAgICAgICAgaWYganNvblsnaXNMYXN0UGFnZSddOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgIHN0YXJ0ID0ganNvblsnbmV4dFBhZ2VTdGFydCdd</text>
       </register>
       <register name="-" type="4">
-        <text>api_path</text>
+        <text>'**/*.md'</text>
       </register>
     </registers>
     <search>
