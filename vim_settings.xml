@@ -45,10 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508130238583">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="." line="380" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508137021525">
+        <mark key="[" line="396" column="27" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="248" column="11" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -235,7 +236,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508130018874">
+      <file name="/Python Console" timestamp="1508136631021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -243,7 +244,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1508130050045">
+      <file name="/fragment.py" timestamp="1508136591577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -279,11 +280,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508130809392">
-        <mark key="[" line="269" column="12" />
-        <mark key="]" line="269" column="12" />
-        <mark key="^" line="269" column="12" />
-        <mark key="." line="283" column="58" />
+      <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="312" column="12" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/classes.py" timestamp="1507925715776">
         <mark key="[" line="13" column="33" />
@@ -407,50 +408,47 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpX3h4LGlfeXksaV94eSxpX3h0LGlfeXQgPSB0dXBsZShjdjIuYm94RmlsdGVyKHgsZGRlcHRoPS0xLGtzaXplPShrX3NpemUsa19zaXplKSxub3JtYWxpemU9RmFsc2UsYm9yZGVyVHlwZT1jdjIuQk9SREVSX0RFRkFVTFQpZm9yIHggaW4gcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name="2" type="4">
-        <text>fig, ax = plt.subplots(nrows=3)
-        ax[0].imshow(b_levels[l], cmap='gray')
-        ax[1].imshow(warped, cmap='gray')
-        ax[2].imshow(a_levels[l], cmap='gray')
-        plt.show()</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KG5wLmVxdWFsKGltYWdlc1swXSwgaW1hZ2VzWzFdKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5wLmVxdWFsKGltYWdlc1swXSxpbWFnZXNbMV0pCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzNC53YXJwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbWE9MTAsCg==</text>
       </register>
       <register name="5" type="4">
-        <text>(
-                    img1,
-                    u,
-                    v,
-                    interpolation=cv2.INTER_CUBIC,
-                    border_mode=cv2.BORDER_REFLECT101),
-                cmap='gray'</text>
+        <text>&quot;&quot;&quot;Frame interpolation
+
+    Follow the instructions in the problem set instructions.
+
+    Place all your work in this file and this section.
+    &quot;&quot;&quot;
+
+    raise NotImplementedError</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgIHd0ZiA9IFtucC5tYXgoaW1hZ2UgLSBpbWdfMCkgZm9yIGltYWdlIGluIGltYWdlc10K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgb3B0aWNfZmxvd19saygKICAgICAgICAgICAgICAgICAgICBpbWdfYT1hX2xldmVsc1tsXSwKICAgICAgICAgICAgICAgICAgICBpbWdfYj13YXJwZWQsCiAgICAgICAgICAgICAgICAgICAga19zaXplPWtfc2l6ZSwKICAgICAgICAgICAgICAgICAgICBrX3R5cGU9a190eXBlLAogICAgICAgICAgICAgICAgICAgIHNpZ21hPXNpZ21hCiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsID4gMDoKICAgICAgICAgICAgd2FycGVkID0gd2FycChiX2xldmVsc1tsIC0gMV0sIHUsIHYsIGludGVycG9sYXRpb249aW50ZXJwb2xhdGlvbiwgYm9yZGVyX21vZGU9Ym9yZGVyX21vZGUpCg==</text>
+        <text encoding="base64">ICAgICh5LCB4KSA9IGltZ18wLnNoYXBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
