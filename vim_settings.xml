@@ -45,11 +45,10 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508115776650">
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="359" column="7" />
-        <mark key="." line="359" column="7" />
-        <mark key="^" line="359" column="7" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4.py" timestamp="1508130238583">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
+        <mark key="." line="380" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -236,7 +235,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508115246084">
+      <file name="/Python Console" timestamp="1508130018874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -244,7 +243,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1508111168029">
+      <file name="/fragment.py" timestamp="1508130050045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -279,6 +278,12 @@
         <mark key="]" line="12" column="45" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508130809392">
+        <mark key="[" line="269" column="12" />
+        <mark key="]" line="269" column="12" />
+        <mark key="^" line="269" column="12" />
+        <mark key="." line="283" column="58" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/classes.py" timestamp="1507925715776">
         <mark key="[" line="13" column="33" />
@@ -331,11 +336,16 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508115444313">
-        <mark key="[" line="199" column="28" />
-        <mark key="]" line="199" column="66" />
-        <mark key="^" line="199" column="66" />
-        <mark key="." line="199" column="66" />
+      <file name="$USER_HOME$/src/python/vision/ps04/tuning.py" timestamp="1508125980618">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="17" />
+        <mark key="." line="86" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508130167483">
+        <mark key="[" line="309" column="15" />
+        <mark key="]" line="309" column="15" />
+        <mark key="^" line="309" column="15" />
+        <mark key="." line="309" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -396,41 +406,51 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MikgPSBwbHQuc3VicGxvdHMobnJvd3M9MikKICAgIGF4MS5pbXNob3coaW1hZ2UsIGNtYXA9J2dyYXknKQogICAgYXgyLmltc2hvdyhvdXRwdXQsIGNtYXA9J2dyYXknKQogICAgcGx0LnNob3coKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpX3h4LGlfeXksaV94eSxpX3h0LGlfeXQgPSB0dXBsZShjdjIuYm94RmlsdGVyKHgsZGRlcHRoPS0xLGtzaXplPShrX3NpemUsa19zaXplKSxub3JtYWxpemU9RmFsc2UsYm9yZGVyVHlwZT1jdjIuQk9SREVSX0RFRkFVTFQpZm9yIHggaW4gcGFyYW1zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdW0oW2ltZy5zaGFwZVswXSBmb3IgaW1nIGluIGltZ19saXN0XSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>raise NotImplementedError</text>
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>fig, ax = plt.subplots(nrows=3)
+        ax[0].imshow(b_levels[l], cmap='gray')
+        ax[1].imshow(warped, cmap='gray')
+        ax[2].imshow(a_levels[l], cmap='gray')
+        plt.show()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsID0gNAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxmLmFzc2VydFRydWUoY29ycmVjdCwgZXJyb3JfbXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzNC53YXJwCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Zm9yIGwgaW4gcmFuZ2UobGVuKGdfcHlyKSk6CiAgICAgICAgICAgIGNvcnJlY3QgPSBucC5hbGxjbG9zZShnX3B5cltsXSwgZ19weXJfcmVmW2xdLCBhdG9sPTAuMSkKCiAgICAgICAgICAgIGVycm9yX21zZyA9ICJWYWx1ZSBhdCBsZXZlbCB7fSBkb2VzIG5vdCBtYXRjaCB0aGUgYW5zd2VyLiIgXAogICAgICAgICAgICAgICAgICAgICAgICAiIi5mb3JtYXQobCkKCiAgICAgICAgIA==</text>
+        <text>(
+                    img1,
+                    u,
+                    v,
+                    interpolation=cv2.INTER_CUBIC,
+                    border_mode=cv2.BORDER_REFLECT101),
+                cmap='gray'</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnX3B5ciA9IHBzNC5nYXVzc2lhbl9weXJhbWlkKHRlc3RfYXJyYXkuY29weSgpLCBsZXZlbHM9bCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgb3B0aWNfZmxvd19saygKICAgICAgICAgICAgICAgICAgICBpbWdfYT1hX2xldmVsc1tsXSwKICAgICAgICAgICAgICAgICAgICBpbWdfYj13YXJwZWQsCiAgICAgICAgICAgICAgICAgICAga19zaXplPWtfc2l6ZSwKICAgICAgICAgICAgICAgICAgICBrX3R5cGU9a190eXBlLAogICAgICAgICAgICAgICAgICAgIHNpZ21hPXNpZ21hCiAgICAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0X2FycmF5ID0gbnAubG9hZChJTlBVVF9ESVIgKyBmMSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsID4gMDoKICAgICAgICAgICAgd2FycGVkID0gd2FycChiX2xldmVsc1tsIC0gMV0sIHUsIHYsIGludGVycG9sYXRpb249aW50ZXJwb2xhdGlvbiwgYm9yZGVyX21vZGU9Ym9yZGVyX21vZGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise NotImplementedError</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
