@@ -30,14 +30,14 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1506876844791">
+      <file name="/a.dummy" timestamp="1508172877150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508171282432">
-        <mark key="[" line="93" column="13" />
-        <mark key="]" line="93" column="18" />
-        <mark key="." line="93" column="18" />
-        <mark key="^" line="93" column="18" />
+      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508174384102">
+        <mark key="[" line="110" column="38" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -111,6 +111,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/stash.py" timestamp="1508166960248" />
+      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/__init__.py" timestamp="1508174134102">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/src/python/test/main.py" timestamp="1506989711117">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="42" />
@@ -254,6 +260,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/src/python/docs-server/environment.yml" timestamp="1508174362138">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="/fragment.py" timestamp="1508136591577">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -314,6 +326,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="150" column="13" />
       </file>
+      <file name="$USER_HOME$/src/python/docs-server/environment.test.yml" timestamp="1508173632122" />
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="22" />
@@ -421,37 +434,37 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGZvciBwcm9qZWN0IGluIEhvc3QucHJvamVjdHMoKToK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiBPcHRpb25hbFtzdHJdCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2NtSWQg</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXNoX2hvc3QgPSBIb3N0KCkK</text>
+        <text encoding="base64">ICAgIHVzZXI6IE9wdGlvbmFsW3N0cl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2plY3Q6IFByb2plY3QK</text>
+        <text encoding="base64">ICAgIGhvc3RfdXJsOiBzdHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIGZvciBwcm9qZWN0IGluIEhvc3QucHJvamVjdHMoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXNoX2hvc3QgPSBIb3N0KCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgphc3luYyBkZWYgZmV0Y2hfbGlzdChwYXRoOiBzdHIsIGhlYWRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBzdHJdXSA9IE5vbmUpOgogICAgcGFzcw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2plY3Q6IFByb2plY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ID0ganNvblsnbmV4dFBhZ2VTdGFydCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIGFpb2h0dHAuQ2xpZW50U2Vzc2lvbigpIGFzIHNlc3Npb246CiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICByZXNwb25zZSA9IGF3YWl0IHNlc3Npb24uZ2V0KHNlbGYudXJsICsgJz9saW1pdD17fSZzdGFydD17fScuZm9ybWF0KGxpbWl0LCBzdGFydCkpCiAgICAgICAgICAgICAgICBqc29uID0gYXdhaXQgcmVzcG9uc2UuanNvbigpCiAgICAgICAgICAgICAgICBmb3IgcmVwbyBpbiBqc29uWyd2YWx1ZXMnXToKICAgICAgICAgICAgICAgICAgICB5aWVsZCByZXBvCiAgICAgICAgICAgICAgICBpZiBqc29uWydpc0xhc3RQYWdlJ106CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIHN0YXJ0</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IDAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cgphc3luYyBkZWYgZmV0Y2hfbGlzdChwYXRoOiBzdHIsIGhlYWRlcnM6IE9wdGlvbmFsW0RpY3Rbc3RyLCBzdHJdXSA9IE5vbmUpOgogICAgcGFzcw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NtSWQg</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
     </registers>
     <search>
