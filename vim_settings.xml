@@ -33,11 +33,11 @@
       <file name="/a.dummy" timestamp="1508182502435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508182650330">
-        <mark key="[" line="128" column="83" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="127" column="40" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/classes.py" timestamp="1508186397811">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -110,7 +110,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/src/host/stash/stash.py" timestamp="1508166960248" />
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/__init__.py" timestamp="1508174134102">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="26" />
@@ -255,7 +254,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508182043127">
+      <file name="/Python Console" timestamp="1508185428753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -329,7 +328,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="150" column="13" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/environment.test.yml" timestamp="1508173632122" />
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="22" />
@@ -437,37 +435,37 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXJfcGF0aCkK</text>
+        <text encoding="base64">ICAgIHJlcV9wYXRoID0gc2VsZi5yb3V0ZShhcGlfcGF0aCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXJfcGF0aCkK</text>
+        <text encoding="base64">ICAgIHJlcV9wYXRoID0gc2VsZi5yb3V0ZShhcGlfcGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF0aCh0ZW1wZmlsZS5ta2R0ZW1wKCkpCg==</text>
+        <text encoding="base64">ICAgIF9kaXI6IE9wdGlvbmFsW3N0cl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBnbG9iLmdsb2IoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXJfcGF0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF0aCh0ZW1wZmlsZS5ta2R0ZW1wKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJpdmF0ZSBkaXJlY3RvcnkgdG8gY2xvbmUgdG8K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJlcG8pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiBPcHRpb25hbFtzdHJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IE9wdGlvbmFsW3N0cl0K</text>
+        <text encoding="base64">ICAgICMgcHJpdmF0ZSBkaXJlY3RvcnkgdG8gY2xvbmUgdG8K</text>
       </register>
       <register name="-" type="4">
-        <text>Path(tempfile.mkdtemp())</text>
+        <text encoding="base64">IC0+IE5vbmU=</text>
       </register>
     </registers>
     <search>
