@@ -331,11 +331,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508112647906">
-        <mark key="[" line="222" column="38" />
-        <mark key="]" line="222" column="15" />
-        <mark key="^" line="222" column="15" />
-        <mark key="." line="222" column="15" />
+      <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508114085574">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="201" column="33" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw4/decision_trees_submission.py" timestamp="1499828397807">
         <mark key="[" line="391" column="29" />
@@ -400,40 +400,40 @@
         <text encoding="base64">CiAgICBmaWcsIChheDEsIGF4MikgPSBwbHQuc3VicGxvdHMobnJvd3M9MikKICAgIGF4MS5pbXNob3coaW1hZ2UsIGNtYXA9J2dyYXknKQogICAgYXgyLmltc2hvdyhvdXRwdXQsIGNtYXA9J2dyYXknKQogICAgcGx0LnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsID0gbGV2ZWxzW2ldCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sum</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsID0gbGV2ZWxzW2ldCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>fig, (ax1, ax2) = plt.subplots(nrows=2)
-    ax1.imshow(image, cmap='gray')
-    ax2.imshow(ret, cmap='gray')
-    plt.sho</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmMiA9IHJlZl9pbWdzW2ldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZWZfaW1ncyAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>= [
+            'test_gauss2_pyr_ref.npy',
+            'test_gauss3_pyr_ref.npy'
+        ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcDEsIG1hcDIgPSBjdjIuY29udmVydE1hcHMobWFwMT1VLCBtYXAyPVYsIGRzdG1hcDF0eXBlPWN2Mi5DVl8xNlNDMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3RfZ2F1c3MxX3B5cl9yZWYubnB5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KFUuZHR5cGUsIFYuZHR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3RfZ2F1c3MzX3B5ci5ucHknCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3RfZ2F1c3MyX3B5ci5ucHknLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5pbnNlcnQoMCwgbnAuY29weShnX3B5clstMV0pCg==</text>
+        <text encoding="base64">ICAgIHcoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>input_imgs[i]</text>
       </register>
     </registers>
     <search>
