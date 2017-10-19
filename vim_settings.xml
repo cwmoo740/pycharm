@@ -197,10 +197,11 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="76" />
       </file>
-      <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508426548157">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
@@ -430,38 +431,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">QSBzZXJ2aWNlIHRoYXQgaXRlcmF0ZXMgdGhyb3VnaCBhbGwgcmVwb3NpdG9yaWVzIGluIHN0YXNoIGFuZCBleHRyYWN0cyBzb21lIGZvcm0gb2YgZG9jdW1lbnRhdGlvbi4gSXQgd2lsbCB0aGVuIHB1Ymxpc2gKdGhlIGRvY3VtZW50YXRpb24gZm9yIGVhY2ggcmVwb3NpdG9yeSBhcyBhIHNlYXJjaGFibGUgc3RhdGljIHNpdGUuIFNldmVyYWwgZm9ybWF0cyB3aWxsIGhvcGVmdWxseSBiZSBzdXBwb3J0ZWQ6Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QSBzZXJ2aWNlIHRoYXQgaXRlcmF0ZXMgdGhyb3VnaCBhbGwgcmVwb3NpdG9yaWVzIGluIHN0YXNoIGFuZCBleHRyYWN0cyBzb21lIGZvcm0gb2YgZG9jdW1lbnRhdGlvbi4gSXQgd2lsbCB0aGVuIHB1Ymxpc2gKdGhlIGRvY3VtZW50YXRpb24gZm9yIGVhY2ggcmVwb3NpdG9yeSBhcyBhIHNlYXJjaGFibGUgc3RhdGljIHNpdGUuIFNldmVyYWwgZm9ybWF0cyB3aWxsIGhvcGVmdWxseSBiZSBzdXBwb3J0ZWQ6Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>s
+
+This is somewhat overlapping with [team configuration ui](http://teamconfigurationui.services.yodle.com/). That already
+watches for ownership of projects by specific teams. Should we link to team configuration ui for each project?
+
+We will have to engage developers to get them to update READMEs and javadoc comments. Maybe an automated wall of shame
+for whichever project has the lowest ratio of documentati</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChyZXBvKQo=</text>
+        <text encoding="base64">VGhpcyB3aWxsIG1vc3QgbGlrZWx5IHVwZGF0ZSBvbmNlIHBlciBkYXkuCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlcG8ubmFtZSA9PSAnYm9vdHN0cmFwJzoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">QSBzZXJ2aWNlIHRoYXQgaXRlcmF0ZXMgdGhyb3VnaCBhbGwgcmVwb3NpdG9yaWVzIGluIHN0YXNoIGFuZCBleHRyYWN0cyBzb21lIGZvcm0gb2YgZG9jdW1lbnRhdGlvbi4gSXQgd2lsbCB0aGVuIHB1Ymxpc2gKdGhlIGRvY3VtZW50YXRpb24gZm9yIGVhY2ggcmVwb3NpdG9yeSBhcyBhIHNlYXJjaGFibGUgc3RhdGljIHNpdGUuIFNldmVyYWwgZm9ybWF0cyB3aWxsIGhvcGVmdWxseSBiZSBzdXBwb3J0ZWQ6Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGZpbGVzID0gUGF0aCgnL2hvbWUvY293bW9vL2dpdF9kaXIvWUIvYm9vdHN0cmFwJykuZ2xvYignKiovKi5tZCcpCiAgICBvdXRfZGlyID0gUGF0aCgnL2hvbWUvY293bW9vL3NyYy9weXRob24vZG9jcy1zZXJ2ZXIvZG9jcycpCiAgICBzaHV0aWwucm10cmVlKHN0cihvdXRfZGlyLnJlc29sdmUoKSkpCiAgICBvdXRfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSkKICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIHByaW50KGZpbGUpCiAgICAgICAgc2h1dGlsLmNvcHkoZmlsZSwgc3RyKG91dF9kaXIpKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChyZXBvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvdXRfZGlyLmlzX2RpcigpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlcG8ubmFtZSA9PSAnYm9vdHN0cmFwJzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvX3BhdGggPSBkaXJfcGF0aCAvIHNlbGYucHJvamVjdC5rZXkgLyBzZWxmLnNsdWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvX3BhdGggPSBzZWxmLmhvc3QudGVtcF9kaXIgLyBzZWxmLnByb2plY3Qua2V5IC8gc2VsZi5zbHVnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGZpbGVzID0gUGF0aCgnL2hvbWUvY293bW9vL2dpdF9kaXIvWUIvYm9vdHN0cmFwJykuZ2xvYignKiovKi5tZCcpCiAgICBvdXRfZGlyID0gUGF0aCgnL2hvbWUvY293bW9vL3NyYy9weXRob24vZG9jcy1zZXJ2ZXIvZG9jcycpCiAgICBzaHV0aWwucm10cmVlKHN0cihvdXRfZGlyLnJlc29sdmUoKSkpCiAgICBvdXRfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSkKICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIHByaW50KGZpbGUpCiAgICAgICAgc2h1dGlsLmNvcHkoZmlsZSwgc3RyKG91dF9kaXIpKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
