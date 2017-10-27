@@ -122,6 +122,9 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps05/.gitignore" timestamp="1509142148468">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/converters.py" timestamp="1502227572545">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="26" />
@@ -289,7 +292,12 @@
         <mark key="." line="221" column="16" />
         <mark key="^" line="284" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/input_images/README.md" timestamp="1509141306156" />
+      <file name="$USER_HOME$/src/python/vision/ps05/input_images/README.md" timestamp="1509142227048">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/types.py" timestamp="1502913757966">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="44" />
