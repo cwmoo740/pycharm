@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1508182502435">
+      <file name="/a.dummy" timestamp="1509141422856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
@@ -164,6 +164,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509140850497">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
         <mark key="]" line="200" column="63" />
@@ -283,6 +289,7 @@
         <mark key="." line="221" column="16" />
         <mark key="^" line="284" column="18" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/ps05/input_images/README.md" timestamp="1509141306156" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/types.py" timestamp="1502913757966">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="44" />
@@ -307,11 +314,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1508816365846">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509141533702">
+        <mark key="[" line="140" column="13" />
+        <mark key="]" line="140" column="13" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="140" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -444,12 +451,15 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Y3YyLkthbG1hbkZpbHRlciAK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>_</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>s
 
 This is somewhat overlapping with [team configuration ui](http://teamconfigurationui.services.yodle.com/). That already
@@ -458,29 +468,26 @@ watches for ownership of projects by specific teams. Should we link to team conf
 We will have to engage developers to get them to update READMEs and javadoc comments. Maybe an automated wall of shame
 for whichever project has the lowest ratio of documentati</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">VGhpcyB3aWxsIG1vc3QgbGlrZWx5IHVwZGF0ZSBvbmNlIHBlciBkYXkuCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">QSBzZXJ2aWNlIHRoYXQgaXRlcmF0ZXMgdGhyb3VnaCBhbGwgcmVwb3NpdG9yaWVzIGluIHN0YXNoIGFuZCBleHRyYWN0cyBzb21lIGZvcm0gb2YgZG9jdW1lbnRhdGlvbi4gSXQgd2lsbCB0aGVuIHB1Ymxpc2gKdGhlIGRvY3VtZW50YXRpb24gZm9yIGVhY2ggcmVwb3NpdG9yeSBhcyBhIHNlYXJjaGFibGUgc3RhdGljIHNpdGUuIFNldmVyYWwgZm9ybWF0cyB3aWxsIGhvcGVmdWxseSBiZSBzdXBwb3J0ZWQ6Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChyZXBvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlcG8ubmFtZSA9PSAnYm9vdHN0cmFwJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChyZXBvKQo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlcG8ubmFtZSA9PSAnYm9vdHN0cmFwJzoK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGZpbGVzID0gUGF0aCgnL2hvbWUvY293bW9vL2dpdF9kaXIvWUIvYm9vdHN0cmFwJykuZ2xvYignKiovKi5tZCcpCiAgICBvdXRfZGlyID0gUGF0aCgnL2hvbWUvY293bW9vL3NyYy9weXRob24vZG9jcy1zZXJ2ZXIvZG9jcycpCiAgICBzaHV0aWwucm10cmVlKHN0cihvdXRfZGlyLnJlc29sdmUoKSkpCiAgICBvdXRfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSkKICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIHByaW50KGZpbGUpCiAgICAgICAgc2h1dGlsLmNvcHkoZmlsZSwgc3RyKG91dF9kaXIpKQ==</text>
-      </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
