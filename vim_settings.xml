@@ -260,10 +260,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/experiment.py" timestamp="1509153312625">
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="117" column="26" />
-        <mark key="." line="117" column="26" />
+      <file name="$USER_HOME$/src/python/vision/ps05/experiment.py" timestamp="1509155465036">
+        <mark key="[" line="173" column="4" />
+        <mark key="]" line="173" column="4" />
+        <mark key="." line="173" column="4" />
+        <mark key="^" line="173" column="4" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -464,27 +465,33 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZyYW1lID0gTm9uZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>R</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9nIGlzIE5vbmU6Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgZnJhbWUgPSBOb25lCiAgICB0ZW1wbGF0ZSA9IE5vbmU=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9nIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3YyLkthbG1hbkZpbHRlciAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y3YyLkthbG1hbkZpbHRlciAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>s
 
 This is somewhat overlapping with [team configuration ui](http://teamconfigurationui.services.yodle.com/). That already
@@ -493,14 +500,8 @@ watches for ownership of projects by specific teams. Should we link to team conf
 We will have to engage developers to get them to update READMEs and javadoc comments. Maybe an automated wall of shame
 for whichever project has the lowest ratio of documentati</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">VGhpcyB3aWxsIG1vc3QgbGlrZWx5IHVwZGF0ZSBvbmNlIHBlciBkYXkuCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">QSBzZXJ2aWNlIHRoYXQgaXRlcmF0ZXMgdGhyb3VnaCBhbGwgcmVwb3NpdG9yaWVzIGluIHN0YXNoIGFuZCBleHRyYWN0cyBzb21lIGZvcm0gb2YgZG9jdW1lbnRhdGlvbi4gSXQgd2lsbCB0aGVuIHB1Ymxpc2gKdGhlIGRvY3VtZW50YXRpb24gZm9yIGVhY2ggcmVwb3NpdG9yeSBhcyBhIHNlYXJjaGFibGUgc3RhdGljIHNpdGUuIFNldmVyYWwgZm9ybWF0cyB3aWxsIGhvcGVmdWxseSBiZSBzdXBwb3J0ZWQ6Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>R</text>
       </register>
     </registers>
     <search>
