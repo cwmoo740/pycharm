@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509215540851">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="14" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509218006395">
+        <mark key="[" line="120" column="48" />
+        <mark key="]" line="121" column="38" />
+        <mark key="^" line="121" column="38" />
+        <mark key="." line="121" column="38" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509211301005">
+      <file name="/Python Console" timestamp="1509216490174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -283,7 +283,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1509164685356">
+      <file name="/fragment.py" timestamp="1509216509871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -328,7 +328,7 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509163683311">
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509216086311">
         <mark key="[" line="155" column="19" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="0" />
@@ -465,37 +465,37 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnAgPSBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnAgPSBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc29tZV9wYXJhbWV0ZXJfbmFtZSA9IGt3YXJncy5nZXQoJ3BhcmFtZXRlcl9uYW1lJywgZGVmYXVsdF92YWx1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSB3YXkgdG8gZG8gaXQgaXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWVhc195OiAK</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWVhc194OiAK</text>
+        <text encoding="base64">ICAgICAgICAjIHlvdXIgdGVzdCBkb2Vzbid0IGZhaWwgdGhlIGF1dG9ncmFkZXIgYmVjYXVzZSBvZiBhbiB1bmtub3duIG9yIE5vbmUgdmFsdWUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnAgPSBwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIElmIHlvdSB3YW50IHRvIGFkZCBtb3JlIHBhcmFtZXRlcnMsIG1ha2Ugc3VyZSB5b3Ugc2V0IGEgZGVmYXVsdCB2YWx1ZSBzbyB0aGF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnAgPSBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X3N0YXRlID0gZiAqIHN0YXRlICsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCB0aGUgaGVsbCcsIGluaXRfeCwgaW5pdF95LCBRLCBSKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cCA=</text>
+        <text encoding="base64">ICAjIHJlcXVpcmVkIGJ5IHRoZSBhdXRvZ3JhZGVy</text>
       </register>
     </registers>
     <search>
