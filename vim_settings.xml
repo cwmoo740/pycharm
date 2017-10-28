@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509140850497">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509162034036">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="67" column="17" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1508185428753">
+      <file name="/Python Console" timestamp="1509158707109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
@@ -328,11 +328,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509156279517">
-        <mark key="[" line="156" column="19" />
-        <mark key="]" line="115" column="45" />
-        <mark key="^" line="115" column="45" />
-        <mark key="." line="115" column="45" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509162075015">
+        <mark key="[" line="155" column="19" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+        <mark key="." line="21" column="66" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -465,43 +465,42 @@
         <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyYW1lID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IAogICAgZnJhbWUgPSBOb25lCiAgICB0ZW1wbGF0ZSA9IE5vbmU=</text>
+        <text>&quot;&quot;&quot;predict the next state
+        x_k = F_k*x_(k-1) + B_k*u_k
+        P_k = F_k*P_(k-1)*Ft_k  + Q_k
+        &quot;&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9nIGlzIE5vbmU6Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;&quot;&quot;add measurements
+
+        &quot;&quot;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3YyLkthbG1hbkZpbHRlciAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWVhc195OiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgSXNzdWVvbi9jb2RlPyAK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbWVhc194OiAK</text>
       </register>
-      <register name="9" type="4">
-        <text>s
-
-This is somewhat overlapping with [team configuration ui](http://teamconfigurationui.services.yodle.com/). That already
-watches for ownership of projects by specific teams. Should we link to team configuration ui for each project?
-
-We will have to engage developers to get them to update READMEs and javadoc comments. Maybe an automated wall of shame
-for whichever project has the lowest ratio of documentati</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
