@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509299057425">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="191" column="53" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509301158028">
+        <mark key="[" line="211" column="34" />
+        <mark key="]" line="210" column="51" />
+        <mark key="." line="210" column="51" />
+        <mark key="^" line="210" column="51" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509297879648">
+      <file name="/Python Console" timestamp="1509300660981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -329,11 +329,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509216086311">
-        <mark key="[" line="155" column="19" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="0" />
-        <mark key="." line="21" column="66" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509300700339">
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="12" />
+        <mark key="^" line="63" column="12" />
+        <mark key="." line="63" column="12" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -466,37 +466,37 @@
         <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kKHNoYXBlPSgxLDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgZGV2aWF0aW9uIGNpcmNsZQo=</text>
+        <text encoding="base64">ICAgICMgVXNpbmcgcG5nIGZpbGVzIHRvIGltcHJvdmUgcmVzb2x1dGlvbgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgZGV2aWF0aW9uIGNpcmNsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>F</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgYm91bmRpbmcgcmVjdGFuZ2xlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgdGhlIHBhcnRpY2xlcyAtIGNhbiB0aGlzIGJlIG1lYW5pbmdmdWxseSB2ZWN0b3JpemVkPwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnN0YW50cyAtIHdoZXJlIGlzIHRoZSBiZXN0IHBsYWNlIHRvIHN0b3JlIHRoZXNlPyBDbGFzcyBsZXZlbD8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaWdtYSA9IDEwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtLG4gPSB0ZW1wbGF0ZS5zaGFwZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuZXhwKC1tc2UgLyAyICogKDEwLiAqKiAyKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgZGV2aWF0aW9uIGNpcmNsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgYm91bmRpbmcgcmVjdGFuZ2xlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgdGhlIHBhcnRpY2xlcyAtIGNhbiB0aGlzIGJlIG1lYW5pbmdmdWxseSB2ZWN0b3JpemVkPwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnN0YW50cyAtIHdoZXJlIGlzIHRoZSBiZXN0IHBsYWNlIHRvIHN0b3JlIHRoZXNlPyBDbGFzcyBsZXZlbD8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEluaXRpYWxpemUgYW55IG90aGVyIGNvbXBvbmVudHMgeW91IG1heSBuZWVkIHdoZW4gZGVzaWduaW5nIHlvdXIgZmlsdGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBzaWdtYSA9IDEwCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHBlbHM=</text>
+        <text>F</text>
       </register>
     </registers>
     <search>
