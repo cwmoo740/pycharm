@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509221962106">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="144" column="32" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509295844663">
+        <mark key="[" line="174" column="28" />
+        <mark key="]" line="167" column="25" />
+        <mark key="^" line="166" column="16" />
+        <mark key="." line="167" column="25" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -467,8 +467,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
@@ -495,7 +495,7 @@
         <text encoding="base64">ICAgICAgICAjIElmIHlvdSB3YW50IHRvIGFkZCBtb3JlIHBhcmFtZXRlcnMsIG1ha2Ugc3VyZSB5b3Ugc2V0IGEgZGVmYXVsdCB2YWx1ZSBzbyB0aGF0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, dtype=np.int)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
