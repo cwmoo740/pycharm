@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509298239339">
-        <mark key="[" line="191" column="15" />
-        <mark key="]" line="191" column="53" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509299057425">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
         <mark key="^" line="191" column="53" />
-        <mark key="." line="191" column="53" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -466,37 +466,37 @@
         <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kKHNoYXBlPSgxLDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWdtYSA9IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgZGV2aWF0aW9uIGNpcmNsZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>np.array([])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgZGV2aWF0aW9uIGNpcmNsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtLG4gPSB0ZW1wbGF0ZS5zaGFwZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgYm91bmRpbmcgcmVjdGFuZ2xlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgdGhlIHBhcnRpY2xlcyAtIGNhbiB0aGlzIGJlIG1lYW5pbmdmdWxseSB2ZWN0b3JpemVkPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnN0YW50cyAtIHdoZXJlIGlzIHRoZSBiZXN0IHBsYWNlIHRvIHN0b3JlIHRoZXNlPyBDbGFzcyBsZXZlbD8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIEluaXRpYWxpemUgYW55IG90aGVyIGNvbXBvbmVudHMgeW91IG1heSBuZWVkIHdoZW4gZGVzaWduaW5nIHlvdXIgZmlsdGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBzaWdtYSA9IDEwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtLG4gPSB0ZW1wbGF0ZS5zaGFwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc29tZV9wYXJhbWV0ZXJfbmFtZSA9IGt3YXJncy5nZXQoJ3BhcmFtZXRlcl9uYW1lJywgZGVmYXVsdF92YWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSB3YXkgdG8gZG8gaXQgaXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEluaXRpYWxpemUgYW55IG90aGVyIGNvbXBvbmVudHMgeW91IG1heSBuZWVkIHdoZW4gZGVzaWduaW5nIHlvdXIgZmlsdGVyLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>np.array([])</text>
+        <text encoding="base64">ICAjIHBlbHM=</text>
       </register>
     </registers>
     <search>
