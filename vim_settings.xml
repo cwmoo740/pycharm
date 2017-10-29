@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509296976832">
-        <mark key="[" line="175" column="31" />
-        <mark key="]" line="175" column="39" />
-        <mark key="^" line="175" column="39" />
-        <mark key="." line="175" column="39" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509298239339">
+        <mark key="[" line="191" column="15" />
+        <mark key="]" line="191" column="53" />
+        <mark key="^" line="191" column="53" />
+        <mark key="." line="191" column="53" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,8 +275,9 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509293808982">
+      <file name="/Python Console" timestamp="1509297879648">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
@@ -462,13 +463,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltZ18wPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihpbnB1dF9kaXIsICdUZXN0U2VxJywgJ1NoaWZ0MC5wbmcnKSwgMCkgLyAyNTUuCg==</text>
+        <text encoding="base64">eCA9IG5wLnJhbmRvbS5yYW5kKHNoYXBlPSgxLDMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaWdtYSA9IDEwCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sigma</text>
+        <text>np.array([])</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtLG4gPSB0ZW1wbGF0ZS5zaGFwZQo=</text>
@@ -495,7 +496,7 @@
         <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sigma</text>
+        <text>np.array([])</text>
       </register>
     </registers>
     <search>
