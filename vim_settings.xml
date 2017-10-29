@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509317668340">
-        <mark key="[" line="140" column="39" />
-        <mark key="]" line="140" column="59" />
-        <mark key="." line="140" column="59" />
-        <mark key="^" line="140" column="59" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509318400350">
+        <mark key="[" line="186" column="8" />
+        <mark key="]" line="186" column="11" />
+        <mark key="." line="186" column="11" />
+        <mark key="^" line="186" column="11" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509317480174">
+      <file name="/Python Console" timestamp="1509318263167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -469,7 +469,7 @@
         <text encoding="base64">IAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>frame_cutout</text>
+        <text>y</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICBmcmFtZV9jdXRvdXQgPSBzZWxmLmZyYW1lWwogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQobnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG5wLmNsaXAocGFydGljbGVzW2ksIDBdICsgc2VsZi50ZW1wbGF0ZV9yZWN0WydoJ10gLyAyLCAwLCBzZWxmLmZyYW1lLnNoYXBlWzBdKSksCgogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQobnAuY2xpcChwYXJ0aWNsZXNbaSwgMV0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ3cnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMV0pKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG5wLmNsaXAocGFydGljbGVzW2ksIDFdICsgc2VsZi50ZW1wbGF0ZV9yZWN0Wyd3J10gLyAyLCAwLCBzZWxmLmZyYW1lLnNoYXBlWzFdKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
@@ -496,7 +496,7 @@
         <text encoding="base64">ICAgICAgICBlcnIgPSBucC5tZWFuKChzZWxmLnRlbXBsYXRlIC0gZnJhbWVfY3V0b3V0KSAqKiAyLCBheGlzPU5vbmUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>frame_cutout</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
