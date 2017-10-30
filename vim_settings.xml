@@ -170,11 +170,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509339429427">
-        <mark key="[" line="378" column="8" />
-        <mark key="]" line="378" column="8" />
-        <mark key="." line="378" column="8" />
-        <mark key="^" line="216" column="52" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509344228391">
+        <mark key="[" line="373" column="40" />
+        <mark key="]" line="373" column="40" />
+        <mark key="." line="373" column="40" />
+        <mark key="^" line="367" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -278,7 +278,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509335557946">
+      <file name="/Python Console" timestamp="1509343287484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -287,7 +287,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1509335573643">
+      <file name="/fragment.py" timestamp="1509343293583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -474,37 +474,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZngnLCBmeCwgJ2Z5JywgZnkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90ZW1wbGF0ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdmeCcsIGZ4LCAnZnknLCBmeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXRvdXQgPSBzZWxmLmdldF9jdXRvdXQoYmVzdF9wYXJ0aWNsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIubmFtZWRXaW5kb3coJ2ZyYW1lJywpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlbXBsYXRlID0gc2VsZi5hbHBoYSAqIGN1dG91dCArICgxIC0gc2VsZi5hbHBoYSkgKiBzZWxmLnRlbXBsYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53ZWlnaHRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiZXN0X3BhcnRpY2xlID0gc2VsZi5wYXJ0aWNsZXNbbnAuYXJnbWF4KHNlbGYud2VpZ2h0cyldCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAudGFrZShzZWxmLnBhcnRpY2xlcywgc2FtcGxlLCBheGlzPTApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
