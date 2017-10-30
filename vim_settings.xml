@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509318400350">
-        <mark key="[" line="186" column="8" />
-        <mark key="]" line="186" column="11" />
-        <mark key="." line="186" column="11" />
-        <mark key="^" line="186" column="11" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509322272932">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="210" column="56" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509318263167">
+      <file name="/Python Console" timestamp="1509322069563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -284,7 +284,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1509317496956">
+      <file name="/fragment.py" timestamp="1509321763984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -292,6 +292,11 @@
       </file>
       <file name="$USER_HOME$/src/python/docs-server/.gitignore" timestamp="1508426505389">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/ps05/.editorconfig" timestamp="1509320084847">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_tests.py" timestamp="1501328202322">
         <mark key="[" line="221" column="16" />
@@ -329,11 +334,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509300700339">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="12" />
-        <mark key="^" line="63" column="12" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509322248938">
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -465,38 +470,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X2NlbnRlcihwYXJ0aWNsZXMsIHdlaWdodHMpOgogICAgICAgIHJldHVybiBucC5zdW0ocGFydGljbGVzICogd2VpZ2h0cywgYXhpcz0wKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>blank</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICBmcmFtZV9jdXRvdXQgPSBzZWxmLmZyYW1lWwogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQobnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG5wLmNsaXAocGFydGljbGVzW2ksIDBdICsgc2VsZi50ZW1wbGF0ZV9yZWN0WydoJ10gLyAyLCAwLCBzZWxmLmZyYW1lLnNoYXBlWzBdKSksCgogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQobnAuY2xpcChwYXJ0aWNsZXNbaSwgMV0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ3cnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMV0pKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50KG5wLmNsaXAocGFydGljbGVzW2ksIDFdICsgc2VsZi50ZW1wbGF0ZV9yZWN0Wyd3J10gLyAyLCAwLCBzZWxmLmZyYW1lLnNoYXBlWzFdKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJlc2hhcGUoKHNlbGYubnVtX3BhcnRpY2xlcywgMSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXRvdXRfY29vcmRpbmF0ZXMgPSBucC53aGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGFydGljbGVzKS5hc3R5cGUobnAuaW50KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZV9zZWN0aW9uID0gbnAud2hlcmUK</text>
+        <text encoding="base64">ICAgICAgICB4X3dlaWdodGVkX21lYW4sIHlfd2VpZ2h0ZWRfbWVhbiA9IG1lYW5zID0gbnAuZG90KHNlbGYud2VpZ2h0cy50cmFuc3Bvc2UoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VpZ2h0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBAZm9ybWF0dGVyOm9mZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXRvdXRfY29vcmRpbmF0ZXMgPSBucAo=</text>
+        <text encoding="base64">ICAgICAgICBjZW50ZXIgPSBucC5hcnJheShbMTAwLCAyODBdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZV9wYXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9ICd3aGF0IHRoZSBmdWNrJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcnIgPSBucC5tZWFuKChzZWxmLnRlbXBsYXRlIC0gZnJhbWVfY3V0b3V0KSAqKiAyLCBheGlzPU5vbmUpCg==</text>
+        <text encoding="base64">Y29udGludWF0aW9uX2luZGVudF9zaXplPTgK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>blank</text>
       </register>
     </registers>
     <search>
