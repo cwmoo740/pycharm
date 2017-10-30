@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509328627401">
-        <mark key="[" line="141" column="12" />
-        <mark key="]" line="141" column="12" />
-        <mark key="." line="141" column="12" />
-        <mark key="^" line="141" column="17" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509335796998">
+        <mark key="[" line="212" column="39" />
+        <mark key="]" line="212" column="40" />
+        <mark key="." line="212" column="40" />
+        <mark key="^" line="212" column="40" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -275,7 +275,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1509328118620">
+      <file name="/Python Console" timestamp="1509335557946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -284,7 +284,7 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1509328585147">
+      <file name="/fragment.py" timestamp="1509335573643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -334,11 +334,10 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509327454238">
-        <mark key="[" line="135" column="45" />
-        <mark key="]" line="135" column="43" />
-        <mark key="^" line="135" column="43" />
-        <mark key="." line="135" column="43" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509333979015">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -470,39 +469,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>np.random.randint(0, frame.shape[1], size=(self.n, 1))
-        y = n</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiAxIC8gZXJyCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p.random.randint(0, frame.shape[0], size=(self.n, 1))</text>
+        <text encoding="base64">c2lnbWFfZXhwIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSBucC5hcnJheShbaW5pdF94LCBpbml0X3ksIDAuLCAwLl0sIGR0eXBlPW5wLmZsb2F0KS5yZXNoYXBlKCg0LCAxKSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLnBhcnRpY2xlcy5zaGFwZVsxXSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2ltCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBudW0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZWFuID0gbnAuYXZlcmFnZShzZWxmLnBhcnRpY2xlcywgYXhpcz0wLHdlaWdodHM9c2VsZi53ZWlnaHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZW50ZXIsIHNpbSkK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X2NlbnRlcihwYXJ0aWNsZXMsIHdlaWdodHMpOgogICAgICAgIHJldHVybiBucC5zdW0ocGFydGljbGVzICogd2VpZ2h0cywgYXhpcz0wKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZSA9IHNlbGYuZnJhbWUuY29weSgpCiAgICAgICAgY3YyLnJlY3RhbmdsZSgKICAgICAgICAgICAgZnJhbWUsCiAgICAgICAgICAgIHB0MT0oY3V0b3V0X3JhbmdlX3hbMF0sIGN1dG91dF9yYW5nZV95WzBdKSwKICAgICAgICAgICAgcHQyPShjdXRvdXRfcmFuZ2VfeFsxXSwgY3V0b3V0X3JhbmdlX3lbMV0pLAogICAgICAgICAgICBjb2xvcj0oMjU1LCAwLCAwKQogICAgICAgICkKICAgICAgICBpZiBzZWxmLmNvdW50ID4gMToKICAgICAgICAgICAgY3YyLm5hbWVkV2luZG93KCdmcmFtZScsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCdmcmFtZScsIDgwMCwgODAwKQogICAgICAgICAgICBjdjIubmFtZWRXaW5kb3coJ2ZyYW1lX2N1dG91dCcsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCdmcmFtZV9jdXRvdXQnLCA4MDAsIDgwMCkKICAgICAgICAgICAgY3YyLm5hbWVkV2luZG93KCd0ZW1wbGF0ZScsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCd0ZW1wbGF0ZScsIDgwMCwgODAwKQogICAgICAgICAgICBjdjIuaW1zaG93KCdmcmFtZScsIGZyYW1lKQogICAgICAgICAgICBjdjIuaW1zaG93KCdmcmFtZV9jdXRvdXQnLCBmcmFtZV9jdXRvdXQpCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3RlbXBsYXRlJywgc2VsZi50ZW1wbGF0ZSkKICAgICAgICAgICAgY3YyLndhaXRLZXkoMCk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlc2hhcGUoKHNlbGYubnVtX3BhcnRpY2xlcywgMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucGFydGljbGVzKS5hc3R5cGUobnAuaW50KQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9zaW1pbGFyaXR5KAogICAgICAgICAgICBucC5hcnJheSgKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICBzZWxmLnRlbXBsYXRlX3JlY3RbJ3knXSArIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwKICAgICAgICAgICAgICAgICAgICBzZWxmLnRlbXBsYXRlX3JlY3RbJ3gnXSArIHNlbGYudGVtcGxhdGVfcmVjdFsndyddIC8gMgogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGR0eXBlPW5wLmludAogICAgICAgICAgICApCiAgICAgICAgKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4X3dlaWdodGVkX21lYW4sIHlfd2VpZ2h0ZWRfbWVhbiA9IG1lYW5zID0gbnAuZG90KHNlbGYud2VpZ2h0cy50cmFuc3Bvc2UoKSwK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucGFydGljbGVzID0gbnAuc3RhY2sobnAubWVzaGdyaWQobnAuYXJhbmdlKDMwMCksIG5wLmFyYW5nZSgzMDApKSwgYXhpcz0tMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>p.random.randint(0, frame.shape[0], size=(self.n, 1))</text>
+        <text encoding="base64">c2lnbWFfZXhwIA==</text>
       </register>
     </registers>
     <search>
