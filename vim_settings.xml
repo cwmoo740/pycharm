@@ -122,8 +122,11 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/.gitignore" timestamp="1509142148468">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps05/.gitignore" timestamp="1509339080417">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/converters.py" timestamp="1502227572545">
         <mark key="[" line="7" column="24" />
@@ -167,11 +170,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="98" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509335796998">
-        <mark key="[" line="212" column="39" />
-        <mark key="]" line="212" column="40" />
-        <mark key="." line="212" column="40" />
-        <mark key="^" line="212" column="40" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5.py" timestamp="1509339429427">
+        <mark key="[" line="378" column="8" />
+        <mark key="]" line="378" column="8" />
+        <mark key="." line="378" column="8" />
+        <mark key="^" line="216" column="52" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/ps1.py" timestamp="1504422008570">
         <mark key="[" line="200" column="60" />
@@ -260,11 +263,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/experiment.py" timestamp="1509155975950">
-        <mark key="[" line="184" column="22" />
-        <mark key="]" line="191" column="3" />
-        <mark key="." line="191" column="3" />
-        <mark key="^" line="191" column="3" />
+      <file name="$USER_HOME$/src/python/vision/ps05/experiment.py" timestamp="1509340692819">
+        <mark key="[" line="145" column="11" />
+        <mark key="]" line="145" column="15" />
+        <mark key="^" line="145" column="15" />
+        <mark key="." line="145" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -334,10 +337,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509333979015">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509338493768">
+        <mark key="[" line="137" column="15" />
+        <mark key="]" line="137" column="19" />
+        <mark key="." line="137" column="19" />
+        <mark key="^" line="137" column="19" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/experiment.py" timestamp="1508136661320">
         <mark key="[" line="312" column="0" />
@@ -470,37 +474,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiAxIC8gZXJyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWcpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2lnbWFfZXhwIA==</text>
+        <text>True</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLnBhcnRpY2xlcy5zaGFwZVsxXSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2ltCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWcpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZW50ZXIsIHNpbSkK</text>
+        <text encoding="base64">ICAgICAgICBjdjIubmFtZWRXaW5kb3coJ2ZyYW1lJywpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBmcmFtZSA9IHNlbGYuZnJhbWUuY29weSgpCiAgICAgICAgY3YyLnJlY3RhbmdsZSgKICAgICAgICAgICAgZnJhbWUsCiAgICAgICAgICAgIHB0MT0oY3V0b3V0X3JhbmdlX3hbMF0sIGN1dG91dF9yYW5nZV95WzBdKSwKICAgICAgICAgICAgcHQyPShjdXRvdXRfcmFuZ2VfeFsxXSwgY3V0b3V0X3JhbmdlX3lbMV0pLAogICAgICAgICAgICBjb2xvcj0oMjU1LCAwLCAwKQogICAgICAgICkKICAgICAgICBpZiBzZWxmLmNvdW50ID4gMToKICAgICAgICAgICAgY3YyLm5hbWVkV2luZG93KCdmcmFtZScsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCdmcmFtZScsIDgwMCwgODAwKQogICAgICAgICAgICBjdjIubmFtZWRXaW5kb3coJ2ZyYW1lX2N1dG91dCcsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCdmcmFtZV9jdXRvdXQnLCA4MDAsIDgwMCkKICAgICAgICAgICAgY3YyLm5hbWVkV2luZG93KCd0ZW1wbGF0ZScsIGN2Mi5XSU5ET1dfTk9STUFMKQogICAgICAgICAgICBjdjIucmVzaXplV2luZG93KCd0ZW1wbGF0ZScsIDgwMCwgODAwKQogICAgICAgICAgICBjdjIuaW1zaG93KCdmcmFtZScsIGZyYW1lKQogICAgICAgICAgICBjdjIuaW1zaG93KCdmcmFtZV9jdXRvdXQnLCBmcmFtZV9jdXRvdXQpCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3RlbXBsYXRlJywgc2VsZi50ZW1wbGF0ZSkKICAgICAgICAgICAgY3YyLndhaXRLZXkoMCk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9zaW1pbGFyaXR5KAogICAgICAgICAgICBucC5hcnJheSgKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICBzZWxmLnRlbXBsYXRlX3JlY3RbJ3knXSArIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwKICAgICAgICAgICAgICAgICAgICBzZWxmLnRlbXBsYXRlX3JlY3RbJ3gnXSArIHNlbGYudGVtcGxhdGVfcmVjdFsndyddIC8gMgogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGR0eXBlPW5wLmludAogICAgICAgICAgICApCiAgICAgICAgKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucGFydGljbGVzID0gbnAuc3RhY2sobnAubWVzaGdyaWQobnAuYXJhbmdlKDMwMCksIG5wLmFyYW5nZSgzMDApKSwgYXhpcz0tMSkK</text>
+        <text encoding="base64">ICAgICAgICBiZXN0X3BhcnRpY2xlID0gc2VsZi5wYXJ0aWNsZXNbbnAuYXJnbWF4KHNlbGYud2VpZ2h0cyldCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2lnbWFfZXhwIA==</text>
+        <text>True</text>
       </register>
     </registers>
     <search>
