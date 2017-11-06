@@ -93,11 +93,11 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/datafetcher/ers.py" timestamp="1509986877388">
-        <mark key="[" line="91" column="17" />
-        <mark key="]" line="91" column="3" />
-        <mark key="^" line="91" column="3" />
-        <mark key="." line="91" column="3" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/datafetcher/ers.py" timestamp="1509991104775">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="103" column="49" />
+        <mark key="^" line="103" column="49" />
+        <mark key="." line="103" column="49" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1502383907161">
         <mark key="[" line="10" column="0" />
@@ -121,6 +121,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/datafetcher/types.py" timestamp="1509990889356">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/__init__.py" timestamp="1508174134102">
         <mark key="[" line="0" column="21" />
@@ -491,6 +497,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/datafetcher/elastic.py" timestamp="1509990637565">
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="79" column="4" />
+        <mark key="^" line="84" column="20" />
+        <mark key="." line="79" column="4" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw4/requirements.txt" timestamp="1499298116148">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="1" column="12" />
@@ -512,16 +524,25 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PT0g</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgZGVmIF9fc3RyX18oc2VsZikgLT4gc3RyOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3I=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBjYWNoZV9hc3luYwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>&quot;&quot;&quot;
 Args:
     filepath: path to store csv
@@ -532,27 +553,14 @@ Returns:
     csv
 &quot;&quot;&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">RVhJVF9TVEFUVVM9MAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>cd anomaly_detection_models
-for MODULE in &quot;datafetcher&quot; &quot;models&quot; &quot;experiments&quot;
-do
-    mypy -p ${MODULE} ${OPTIONS}; (( EXIT_STATUS = EXIT_STATUS || $? ))
-done</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHg6IHN0ciA9IDUK</text>
+        <text encoding="base64">RVhJVF9TVEFUVVM9MAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>Request</text>
       </register>
     </registers>
     <search>
