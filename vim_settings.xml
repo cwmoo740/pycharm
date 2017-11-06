@@ -233,6 +233,12 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="76" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/outlier_locations_by_week.py" timestamp="1509984015721">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+      </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -492,34 +498,45 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKFRydWUsIG1zZz0nd2hhdCB0aGUgaGVsbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZngnLCBmeCwgJ2Z5JywgZnkpCg==</text>
+      <register name="2" type="4">
+        <text>matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90ZW1wbGF0ZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdmeCcsIGZ4LCAnZnknLCBmeSkK</text>
+      <register name="4" type="4">
+        <text>&quot;&quot;&quot;
+Args:
+    requests: The `reportRequests` body required to make the bulk request, containing an entry for every slug
+    owners: a list of clients 
+    slugs: report slugs
+    clf: A classifier model
+    
+Returns:
+    tuple: A tuple containing the pandas DataFrame of the executed reports, and a dictionary of series 
+           for each slug which are masked by the output of the classifier model
+&quot;&quot;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXRvdXQgPSBzZWxmLmdldF9jdXRvdXQoYmVzdF9wYXJ0aWNsZSkK</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlbXBsYXRlID0gc2VsZi5hbHBoYSAqIGN1dG91dCArICgxIC0gc2VsZi5hbHBoYSkgKiBzZWxmLnRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKFRydWUsIG1zZz0nd2hhdCB0aGUgaGVsbCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53ZWlnaHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZngnLCBmeCwgJ2Z5JywgZnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90ZW1wbGF0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdmeCcsIGZ4LCAnZnknLCBmeSkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
