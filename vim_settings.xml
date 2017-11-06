@@ -134,6 +134,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/activity_by_location.py" timestamp="1509997337886">
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="118" column="12" />
+        <mark key="^" line="118" column="12" />
+        <mark key="." line="118" column="12" />
+      </file>
       <file name="$USER_HOME$/src/python/test/main.py" timestamp="1506989711117">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="5" column="42" />
@@ -251,11 +257,11 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="76" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/outlier_locations_by_week.py" timestamp="1509988884716">
-        <mark key="[" line="95" column="51" />
-        <mark key="]" line="95" column="53" />
-        <mark key="." line="95" column="53" />
-        <mark key="^" line="95" column="53" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/outlier_locations_by_week.py" timestamp="1509997598738">
+        <mark key="[" line="93" column="14" />
+        <mark key="]" line="93" column="21" />
+        <mark key="." line="93" column="21" />
+        <mark key="^" line="93" column="21" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
@@ -427,7 +433,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507915587073">
+      <file name="/Dummy.txt" timestamp="1509997278740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506915625223">
@@ -447,11 +453,11 @@
         <mark key="]" line="86" column="17" />
         <mark key="." line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/utils/ers_dao.py" timestamp="1509996687976">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/utils/ers_dao.py" timestamp="1509997262889">
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508130167483">
         <mark key="[" line="309" column="15" />
@@ -531,7 +537,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, fma_id = None</text>
+        <text>bulk.execute()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpZgo=</text>
@@ -566,7 +572,7 @@ Returns:
 &quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, fma_id = None</text>
+        <text>bulk.execute()</text>
       </register>
     </registers>
     <search>
