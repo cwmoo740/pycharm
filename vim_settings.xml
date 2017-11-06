@@ -63,12 +63,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck" timestamp="1509986000806">
-        <mark key="y" line="6" column="49" />
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="6" column="50" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck" timestamp="1509988667737">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/src/python/cds-docs/SETUP.md" timestamp="1501261972284">
         <mark key="[" line="3" column="61" />
@@ -246,11 +245,11 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="76" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/outlier_locations_by_week.py" timestamp="1509984015721">
-        <mark key="[" line="46" column="39" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="35" />
-        <mark key="^" line="46" column="35" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/sheets/outlier_locations_by_week.py" timestamp="1509988884716">
+        <mark key="[" line="95" column="51" />
+        <mark key="]" line="95" column="53" />
+        <mark key="." line="95" column="53" />
+        <mark key="^" line="95" column="53" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
@@ -514,45 +513,46 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PT0g</text>
       </register>
-      <register name="2" type="4">
-        <text>matplotlib.use('TkAgg')
-import matplotlib.pyplot as plt</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
         <text>&quot;&quot;&quot;
 Args:
-    requests: The `reportRequests` body required to make the bulk request, containing an entry for every slug
-    owners: a list of clients 
-    slugs: report slugs
-    clf: A classifier model
+    filepath: path to store csv
+    owners: list of clients
+    results: a reverse mapping of owners and the weeks classified as outliers
     
 Returns:
-    tuple: A tuple containing the pandas DataFrame of the executed reports, and a dictionary of series 
-           for each slug which are masked by the output of the classifier model
+    csv
 &quot;&quot;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
+        <text encoding="base64">RVhJVF9TVEFUVVM9MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKFRydWUsIG1zZz0nd2hhdCB0aGUgaGVsbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnZngnLCBmeCwgJ2Z5JywgZnkpCg==</text>
+      <register name="7" type="4">
+        <text>cd anomaly_detection_models
+for MODULE in &quot;datafetcher&quot; &quot;models&quot; &quot;experiments&quot;
+do
+    mypy -p ${MODULE} ${OPTIONS}; (( EXIT_STATUS = EXIT_STATUS || $? ))
+done</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90ZW1wbGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIHg6IHN0ciA9IDUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdmeCcsIGZ4LCAnZnknLCBmeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PT0g</text>
       </register>
     </registers>
     <search>
