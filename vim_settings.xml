@@ -63,6 +63,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck" timestamp="1509984809569">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="6" column="50" />
+      </file>
       <file name="$USER_HOME$/src/python/cds-docs/SETUP.md" timestamp="1501261972284">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="16" column="11" />
@@ -500,8 +506,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICJleHBlcmltZW50cy9zaGVldHMi</text>
       </register>
       <register name="2" type="4">
         <text>matplotlib.use('TkAgg')
@@ -539,7 +545,7 @@ Returns:
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdmeCcsIGZ4LCAnZnknLCBmeSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICJleHBlcmltZW50cy9zaGVldHMi</text>
       </register>
     </registers>
     <search>
