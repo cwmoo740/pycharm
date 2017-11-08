@@ -128,11 +128,11 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/whatever.py" timestamp="1510156700549">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="21" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/whatever.py" timestamp="1510158634186">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/__init__.py" timestamp="1508174134102">
         <mark key="[" line="0" column="21" />
@@ -535,37 +535,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhbJ2lkJ10pLCB0eXBlKHhbJ2NvbnRhY3RfaWQnXSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x['_id'])</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhbJ2lkJ10pLCB0eXBlKHhbJ2NvbnRhY3RfaWQnXSkpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">U2VhcmNoKCkgXAogICAgICAgIC5pbmRleCgnd2ViZm9ybV92NicpIFwKICAgICAgICAuZmlsdGVyKCd0ZXJtcycsIG93bmVyPVsneWMuY2xpZW50LjIwMDc3MTUnLCAneWMuY2xpZW50LjIwMDc3MTgnXSkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciB4IGluIHlpZWxkX2NvdW50KHNlYXJjaCwgMTAwMCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAudHlwZXMgaW1wb3J0IFJlc3VsdCwgUmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgIGFjdGlvbnMgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuY2FjaGUgaW1wb3J0IGNhY2hlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZPVU5EJywgeFsnaWQnXSwgeFsnY29udGFjdF9pZCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB4WydpZCddICE9IHhbJ2NvbnRhY3RfaWQnXSAtIDE6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4WydjbGllbnRfaWQnXSwgeFsnY29udGFjdF9pZCddLCB4WydpZCddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">ICAgICAgICAucXVlcnkoJ3dpbGRjYXJkJywgb3duZXI9J3ljLmNsaWVudC4qJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="-" type="4">
-        <text>x['_id'])</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
