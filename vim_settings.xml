@@ -99,11 +99,11 @@
         <mark key="." line="178" column="23" />
         <mark key="^" line="177" column="38" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1502383907161">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1510114742207">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/SETUP.md" timestamp="1501264932815">
         <mark key="[" line="14" column="64" />
@@ -515,7 +515,6 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/datafetcher/elastic.py" timestamp="1510087327861" />
       <file name="$USER_HOME$/src/python/ai/hw4/requirements.txt" timestamp="1499298116148">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="1" column="12" />
@@ -535,37 +534,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbMTA6MjBdCg==</text>
+        <text encoding="base64">Q09QWSBhbm9tYWx5X2RldGVjdGlvbl9tb2RlbHMvZXhwZXJpbWVudHMgLi9hbm9tYWx5X2RldGVjdGlvbl9tb2RlbHMvZXhwZXJpbWVudHMK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{'size':10}</text>
+        <text>/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Q09QWSBhbm9tYWx5X2RldGVjdGlvbl9tb2RlbHMvbW9kZWxzIC4vYW5vbWFseV9kZXRlY3Rpb25fbW9kZWxzL21vZGVscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFtoaXRbJ19pZCddIGZvciBoaXQgaW4gcmVzcG9uc2UuaGl0cy5oaXRzXSkK</text>
+        <text encoding="base64">ICAgICAgICBbMTA6MjBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhlY3V0ZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdDogUmVzcG9uc2UgPSBzZWFyY2guZXhlY3V0ZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFtoaXRbJ19pZCddIGZvciBoaXQgaW4gcmVzcG9uc2UuaGl0cy5oaXRzXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5leGVjdXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAuZXhlY3V0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdDogUmVzcG9uc2UgPSBzZWFyY2guZXhlY3V0ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC5leGVjdXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>{'size':10}</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
