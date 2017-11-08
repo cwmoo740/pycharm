@@ -318,10 +318,11 @@
         <mark key="^" line="145" column="15" />
         <mark key="." line="145" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510175292703">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510179334734">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -519,37 +520,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
+        <text encoding="base64">Y2QgLi9leHBlcmltZW50cwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>bash</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIoZG9jKSwgdHlwZShkb2MubWV0YS5pZCkpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoZG9jKSwgdHlwZShkb2MubWV0YS5pZCkpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhbJ2lkJ10pLCB0eXBlKHhbJ2NvbnRhY3RfaWQnXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhbJ2lkJ10pLCB0eXBlKHhbJ2NvbnRhY3RfaWQnXSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciB4IGluIHlpZWxkX2NvdW50KHNlYXJjaCwgMTAwMCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhbJ2lkJ10pLCB0eXBlKHhbJ2NvbnRhY3RfaWQnXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnMgPQo=</text>
+        <text encoding="base64">ICAgIGZvciB4IGluIHlpZWxkX2NvdW50KHNlYXJjaCwgMTAwMCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZPVU5EJywgeFsnaWQnXSwgeFsnY29udGFjdF9pZCddKQo=</text>
+        <text encoding="base64">ICAgIGFjdGlvbnMgPQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>bash</text>
       </register>
     </registers>
     <search>
