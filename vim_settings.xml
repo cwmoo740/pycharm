@@ -123,11 +123,11 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/whatever.py" timestamp="1510171974309">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/whatever.py" timestamp="1510174136448">
         <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="15" column="25" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/__init__.py" timestamp="1508174134102">
         <mark key="[" line="0" column="21" />
