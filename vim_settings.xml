@@ -318,6 +318,11 @@
         <mark key="^" line="145" column="15" />
         <mark key="." line="145" column="15" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510175292703">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -517,7 +522,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
@@ -544,7 +549,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZPVU5EJywgeFsnaWQnXSwgeFsnY29udGFjdF9pZCddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
