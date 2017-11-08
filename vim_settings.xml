@@ -406,6 +406,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="150" column="13" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/activity_by_location.py" timestamp="1510174917996">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="22" />
@@ -512,7 +517,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>webform</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
@@ -539,7 +544,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZPVU5EJywgeFsnaWQnXSwgeFsnY29udGFjdF9pZCddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>webform</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
