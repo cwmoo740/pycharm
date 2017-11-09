@@ -33,10 +33,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510246315516">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510248620941">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="219" column="45" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -49,11 +50,6 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/setup.py" timestamp="1510247399457">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/report.tex" timestamp="1504486554612">
         <mark key="[" line="210" column="24" />
@@ -160,7 +156,7 @@
         <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1510244201221">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1510248208212">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
@@ -183,11 +179,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510179334734">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510248873178">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -431,6 +427,12 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/columns.py" timestamp="1510248162410">
+        <mark key="[" line="158" column="4" />
+        <mark key="]" line="158" column="7" />
+        <mark key="^" line="158" column="7" />
+        <mark key="." line="158" column="7" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
       </file>
@@ -460,6 +462,12 @@
         <mark key="]" line="145" column="15" />
         <mark key="^" line="145" column="15" />
         <mark key="." line="145" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/data_processing.py" timestamp="1510248043575">
+        <mark key="[" line="61" column="118" />
+        <mark key="]" line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+        <mark key="." line="62" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/.gitignore" timestamp="1508426505389">
         <mark key="[" line="2" column="0" />
@@ -558,39 +566,39 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>~/miniconda3/envs/anomaly-detection-models/bin/python3.6</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;&quot;
-
-&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IFBZVEhPTlBBVEg9IiQocHdkKS8uLiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG93bmVycyA9IHt9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lcnNfanNvbi5jbG9zZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">YWJzX3ByZWZpeF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IiIK</text>
+      </register>
+      <register name="7" type="4">
+        <text>&quot;&quot;&quot;
+
+&quot;</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2QgLi9leHBlcmltZW50cwo=</text>
+        <text encoding="base64">ZXhwb3J0IFBZVEhPTlBBVEg9IiQocHdkKS8uLiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChfaWQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>~/miniconda3/envs/anomaly-detection-models/bin/python3.6</text>
       </register>
     </registers>
     <search>
