@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510256607702">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-        <mark key="^" line="202" column="15" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510258551901">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="170" column="3" />
+        <mark key="." line="170" column="3" />
+        <mark key="^" line="170" column="3" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -528,13 +528,19 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="150" column="13" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/cache.py" timestamp="1510258160858">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/test/test_datafetcher.py" timestamp="1502379792881">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510255833656">
+      <file name="/Dummy.txt" timestamp="1510258186956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -592,37 +598,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eDpzdHIgPSAyCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Dict[str, Union[str, float]]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Dict[str, Union[str, float]]</text>
       </register>
     </registers>
     <search>
