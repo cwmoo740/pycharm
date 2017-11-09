@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510253091734">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="219" column="45" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510256607702">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="202" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -116,6 +116,12 @@
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/postprocessing/data_processing.py" timestamp="1510256691165">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.gitignore" timestamp="1502375083228">
         <mark key="[" line="3" column="0" />
@@ -453,12 +459,6 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/columns.py" timestamp="1510250023941">
-        <mark key="[" line="158" column="4" />
-        <mark key="]" line="158" column="7" />
-        <mark key="^" line="158" column="7" />
-        <mark key="." line="158" column="7" />
-      </file>
       <file name="$USER_HOME$/src/python/ai/hw4/.gitignore" timestamp="1499562998035">
         <mark key="[" line="0" column="0" />
       </file>
@@ -534,7 +534,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510246634547">
+      <file name="/Dummy.txt" timestamp="1510255833656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -594,35 +594,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
       </register>
       <register name="-" type="4">
-        <text>anomaly-detection-models</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
