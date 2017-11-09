@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/models/__init__.py" timestamp="1510250157165">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/.dockerignore" timestamp="1502382095380">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="3" />
@@ -20,6 +26,12 @@
       </file>
       <file name="/a.dummy" timestamp="1509141422856">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/__init__.py" timestamp="1510250249553">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -69,11 +81,17 @@
         <mark key="." line="178" column="23" />
         <mark key="^" line="177" column="38" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1510114742207">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="29" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1510252358092">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/types.py" timestamp="1510252180264">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="19" column="54" />
+        <mark key="." line="19" column="54" />
+        <mark key="^" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/SETUP.md" timestamp="1501264932815">
         <mark key="[" line="14" column="64" />
@@ -161,6 +179,12 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/__init__.py" timestamp="1510250240129">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/src/python/what/what.py" timestamp="1498762070350">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="30" />
@@ -180,10 +204,9 @@
         <mark key="^" line="49" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/run_location_activity_report.sh" timestamp="1510248873178">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-        <mark key="^" line="5" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -233,6 +256,9 @@
         <mark key="]" line="12" column="45" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/experiments/__init__.py" timestamp="1510250174353">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/dao.py" timestamp="1497583294901">
         <mark key="[" line="7" column="22" />
@@ -320,11 +346,11 @@
         <mark key="^" line="248" column="11" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck" timestamp="1509988667737">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck" timestamp="1510249832755">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501736319840">
         <mark key="[" line="762" column="48" />
@@ -427,7 +453,7 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/columns.py" timestamp="1510248162410">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/columns.py" timestamp="1510250023941">
         <mark key="[" line="158" column="4" />
         <mark key="]" line="158" column="7" />
         <mark key="^" line="158" column="7" />
@@ -523,11 +549,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510246426627">
-        <mark key="[" line="0" column="62" />
-        <mark key="]" line="0" column="61" />
-        <mark key="^" line="0" column="61" />
-        <mark key="." line="0" column="61" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/wtf.py" timestamp="1501822067260">
         <mark key="[" line="173" column="40" />
@@ -566,39 +592,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>~/miniconda3/envs/anomaly-detection-models/bin/python3.6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWJzX3ByZWZpeF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;&quot;
-
-&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IFBZVEhPTlBBVEg9IiQocHdkKS8uLiIK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">YWJzX3ByZWZpeF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>~/miniconda3/envs/anomaly-detection-models/bin/python3.6</text>
+        <text>anomaly_detection_models</text>
       </register>
     </registers>
     <search>
