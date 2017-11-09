@@ -45,11 +45,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510258551901">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="170" column="3" />
-        <mark key="." line="170" column="3" />
-        <mark key="^" line="170" column="3" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510259322397">
+        <mark key="[" line="169" column="23" />
+        <mark key="]" line="169" column="39" />
+        <mark key="." line="169" column="39" />
+        <mark key="^" line="169" column="39" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -322,6 +322,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/temp.yml" timestamp="1510259546358" />
       <file name="$USER_HOME$/src/python/vision/ps01/wtf_test.py" timestamp="1504421459154">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="53" column="31" />
@@ -435,11 +436,10 @@
         <mark key="^" line="15427" column="0" />
         <mark key="." line="15427" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1510245199319">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1510259568906">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck.sh" timestamp="1502379745027">
         <mark key="[" line="3" column="0" />
@@ -598,37 +598,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eDpzdHIgPSAyCg==</text>
+        <text encoding="base64">LSBweXRlc3Q9My4yLjE9cHkzNmgxMWFkM2JiXzEK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Dict[str, Union[str, float]]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBweXRlc3Q9My4yLjE9cHkzNmgxMWFkM2JiXzEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eDpzdHIgPSAyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Dict[str, Union[str, float]]</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
