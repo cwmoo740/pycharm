@@ -144,10 +144,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/docker-entrypoint" timestamp="1502383749380">
-        <mark key="[" line="2" column="40" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/docker-entrypoint" timestamp="1510255006902">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps06/helper_classes.py" timestamp="1509916326030">
@@ -592,37 +592,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
+        <text encoding="base64">Q09QWSB0ZXN0IC4vdGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIEl0IGlzIGVzc2VudGlhbGx5IGEgcmVkdWN0aW9uIG9wZXJhdG9yIHRoYXQgbWFwcyBhIChOX293bmVycyB4IE5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
+        <text encoding="base64">c291cmNlIGFjdGl2YXRlIGFub21hbHktZGV0ZWN0aW9uLW1vZGVscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5tYWtlZGlycyhvdXRwdXRfZGlyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZGlyKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWJzX3ByZWZpeF9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGFfZGlyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>anomaly_detection_models</text>
+        <text>anomaly-detection-models</text>
       </register>
     </registers>
     <search>
