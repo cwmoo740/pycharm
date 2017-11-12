@@ -162,11 +162,11 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510419094905">
-        <mark key="[" line="105" column="4" />
-        <mark key="]" line="105" column="4" />
-        <mark key="^" line="104" column="0" />
-        <mark key="." line="105" column="4" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510448578405">
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="26" />
+        <mark key="^" line="106" column="26" />
+        <mark key="." line="106" column="26" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -223,11 +223,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1510373483289">
+      <file name="/Python Console" timestamp="1510447995681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1510365065495">
+      <file name="/fragment.py" timestamp="1510448052457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -600,7 +600,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>raise NotImplementedError</text>
+        <text>deviations</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IG1hdGgK</text>
@@ -627,7 +627,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise NotImplementedError</text>
+        <text>deviations</text>
       </register>
     </registers>
     <search>
