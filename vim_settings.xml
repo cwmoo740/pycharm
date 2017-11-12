@@ -162,11 +162,11 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510455126148">
-        <mark key="[" line="109" column="35" />
-        <mark key="]" line="109" column="35" />
-        <mark key="." line="109" column="35" />
-        <mark key="^" line="108" column="16" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510501959851">
+        <mark key="[" line="110" column="11" />
+        <mark key="]" line="110" column="13" />
+        <mark key="." line="110" column="13" />
+        <mark key="^" line="110" column="13" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -592,16 +592,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvcnRfaW5kaWNlcyA9IG5wLmFyZ3NvcnQodmFsdWVzKVstMTotay0xOi0xXQo=</text>
+        <text encoding="base64">ICAgIGMgPSAxLiAvICh4LnNoYXBlWzBdIC0gMSkgKiBucC5vdXRlcihiLlQsIGIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>vectors[:, -1:-k - 1:-1], values[-1:-k - 1:-1]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbF9tZWFucyA9IG5wLm1lYW4oeCwgYXhpcz0wKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvcnRfaW5kaWNlcyA9IG5wLmFyZ3NvcnQodmFsdWVzKVstMTotay0xOi0xXQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -616,13 +616,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnd3RmJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>vectors[:, -1:-k - 1:-1], values[-1:-k - 1:-1]</text>
       </register>
     </registers>
     <search>
