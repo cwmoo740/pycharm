@@ -162,11 +162,11 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510450890155">
-        <mark key="[" line="109" column="58" />
-        <mark key="]" line="105" column="10" />
-        <mark key="^" line="105" column="10" />
-        <mark key="." line="105" column="10" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510452561773">
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="16" />
+        <mark key="." line="108" column="16" />
+        <mark key="^" line="108" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -218,11 +218,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1510449733252">
+      <file name="/Python Console" timestamp="1510452564183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1510448052457">
+      <file name="/fragment.py" timestamp="1510452637551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -441,11 +441,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510451000859">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510451757766">
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="81" column="11" />
+        <mark key="^" line="81" column="11" />
+        <mark key="." line="81" column="11" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
@@ -592,37 +592,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnd3RmJwo=</text>
+        <text encoding="base64">ICAgIHNvcnRfaW5kaWNlcyA9IG5wLmFyZ3NvcnQodmFsdWVzKVstMTotay0xOi0xXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWVzW3NvcnRfaW5kaWNlc10sIA==</text>
+        <text>1. / (x.shape[0] - 1) * np.outer(b.T, b)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBhc3NpZ25tZW50IGNvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBpbWFnZXNfbmFtZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBweXRlc3Q9My4yLjE9cHkzNmgxMWFkM2JiXzEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eDpzdHIgPSAyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnd3RmJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWVzW3NvcnRfaW5kaWNlc10sIA==</text>
+        <text>1. / (x.shape[0] - 1) * np.outer(b.T, b)</text>
       </register>
     </registers>
     <search>
