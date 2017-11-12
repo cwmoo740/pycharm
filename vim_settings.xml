@@ -162,10 +162,10 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510452561773">
-        <mark key="[" line="108" column="8" />
-        <mark key="]" line="108" column="16" />
-        <mark key="." line="108" column="16" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510455126148">
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="109" column="35" />
+        <mark key="." line="109" column="35" />
         <mark key="^" line="108" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
@@ -595,7 +595,7 @@
         <text encoding="base64">ICAgIHNvcnRfaW5kaWNlcyA9IG5wLmFyZ3NvcnQodmFsdWVzKVstMTotay0xOi0xXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1. / (x.shape[0] - 1) * np.outer(b.T, b)</text>
+        <text>h</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -622,7 +622,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1. / (x.shape[0] - 1) * np.outer(b.T, b)</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
