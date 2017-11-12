@@ -162,11 +162,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510514019225">
-        <mark key="[" line="157" column="31" />
-        <mark key="]" line="157" column="24" />
-        <mark key="." line="157" column="24" />
-        <mark key="^" line="157" column="24" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510515441703">
+        <mark key="[" line="160" column="21" />
+        <mark key="]" line="161" column="18" />
+        <mark key="." line="161" column="18" />
+        <mark key="^" line="161" column="18" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -595,7 +595,7 @@
         <text encoding="base64">ICAgICAgICAjIC0tIHByaW50IHNlbGYuZmVhdHVyZSwgc2VsZi50aHJlc2hvbGQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">d2hhdGV2ZXIg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -622,7 +622,7 @@
         <text encoding="base64">ICAgIGMgPSAxLiAvICh4LnNoYXBlWzBdIC0gMSkgKiBucC5vdXRlcihiLlQsIGIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">d2hhdGV2ZXIg</text>
       </register>
     </registers>
     <search>
