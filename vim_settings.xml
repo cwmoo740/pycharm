@@ -162,11 +162,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510517885235">
-        <mark key="[" line="304" column="48" />
-        <mark key="]" line="140" column="41" />
-        <mark key="." line="140" column="41" />
-        <mark key="^" line="140" column="41" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510527660984">
+        <mark key="[" line="223" column="18" />
+        <mark key="]" line="223" column="18" />
+        <mark key="." line="223" column="18" />
+        <mark key="^" line="222" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -592,19 +592,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQgPSAK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZSA9IAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,dtype=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53ZWFrQ2xhc3NpZmllcnMuYXBwZW5kKGNsYXNzaWZpZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hbHBoYXMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0tIHByaW50IHNlbGYuZmVhdHVyZSwgc2VsZi50aHJlc2hvbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -613,16 +613,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJJbXBsZW1lbnQgdGhlIGZvciBsb29wIHNob3duIGluIHRoZSBwcm9ibGVtIHNldCBpbnN0cnVjdGlvbnMuIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQgPSAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBYdHJhaW4oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYueF90cmFpbgogICAgQHByb3BlcnR5CiAgICBkZWYgeXRyYQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53ZWFrQ2xhc3NpZmllcnMuYXBwZW5kKGNsYXNzaWZpZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIFJ1bnRpbWVXYXJuaW5nKHguc2hhcGUsIHZlY3RvcnMuc2hhcGUsIGspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hbHBoYXMgPSBbXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,dtype=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
