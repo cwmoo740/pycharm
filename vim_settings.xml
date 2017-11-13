@@ -156,17 +156,17 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/helper_classes.py" timestamp="1510558273612">
+      <file name="$USER_HOME$/src/python/vision/ps06/helper_classes.py" timestamp="1510561611895">
         <mark key="[" line="33" column="42" />
-        <mark key="]" line="33" column="42" />
-        <mark key="^" line="99" column="15" />
-        <mark key="." line="33" column="42" />
+        <mark key="]" line="133" column="35" />
+        <mark key="^" line="133" column="35" />
+        <mark key="." line="133" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510559068526">
-        <mark key="[" line="198" column="64" />
-        <mark key="]" line="153" column="52" />
-        <mark key="." line="153" column="52" />
-        <mark key="^" line="198" column="63" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510564877829">
+        <mark key="[" line="601" column="66" />
+        <mark key="]" line="601" column="72" />
+        <mark key="." line="601" column="72" />
+        <mark key="^" line="601" column="72" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -218,11 +218,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1510558880098">
+      <file name="/Python Console" timestamp="1510564885139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1510557255042">
+      <file name="/fragment.py" timestamp="1510564011216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -401,11 +401,11 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/experiment.py" timestamp="1510559471584">
-        <mark key="[" line="90" column="10" />
-        <mark key="]" line="90" column="10" />
-        <mark key="." line="90" column="10" />
-        <mark key="^" line="255" column="10" />
+      <file name="$USER_HOME$/src/python/vision/ps06/experiment.py" timestamp="1510565032049">
+        <mark key="[" line="249" column="40" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="247" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_tests.py" timestamp="1498457202180">
         <mark key="[" line="168" column="110" />
@@ -604,37 +604,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHIgPSBpbnQocikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAociwgYywgaSArIDEpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBBcHBlbmQgdGhlIHJlc3VsdHMgZm9yIGVhY2ggcm93IGluICdzY29yZXMnLiBUaGlzIHZhbHVlIGlzIG9idGFpbmVkCiAgICAgICAgIyB1c2luZyB0aGUgZXF1YXRpb24gZm9yIHRoZSBzdHJvbmcgY2xhc3NpZmllciBIKHgpLg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBQb3B1bGF0ZSB0aGUgc2NvcmUgbG9jYXRpb24gZm9yIGVhY2ggY2xhc3NpZmllciAnY2xmJyBpbgogICAgICAgICMgc2VsZi5jbGFzc2lmaWVycy4KCiAgICAgICAgIyBPYnRhaW4gdGhlIEhhYXIgZmVhdHVyZSBpZCBmcm9tIGNsZi5mZWF0dXJlCgogICAgICAgICMgVXNlIHRoaXMgaWQgdG8gc2VsZWN0IHRoZSByZXNwZWN0aXZlIGZlYXR1cmUgb2JqZWN0IGZyb20KICAgICAgICAjIHNlbGYuaGFhcl9mZWF0dXJlcwoKICAgICAgICAjIEFkZCB0aGUgc2NvcmUgdmFsdWUgdG8gc2NvcmVbeCwgZmVhdHVyZSBpZF0gY2FsbGluZyB0aGUgZmVhdHVyZSdzCiAgICAgICAgIyBldmFsdWF0ZSBmdW5jdGlvbi4gJ3gnIGlzIGVhY2ggaW1hZ2UgaW4gJ2lpJwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      <register name="&quot;" type="4">
+        <text>ibmg_copy</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHIgPSBpbnQocikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAociwgYywgaSArIDEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBBcHBlbmQgdGhlIHJlc3VsdHMgZm9yIGVhY2ggcm93IGluICdzY29yZXMnLiBUaGlzIHZhbHVlIGlzIG9idGFpbmVkCiAgICAgICAgIyB1c2luZyB0aGUgZXF1YXRpb24gZm9yIHRoZSBzdHJvbmcgY2xhc3NpZmllciBIKHgpLg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBQb3B1bGF0ZSB0aGUgc2NvcmUgbG9jYXRpb24gZm9yIGVhY2ggY2xhc3NpZmllciAnY2xmJyBpbgogICAgICAgICMgc2VsZi5jbGFzc2lmaWVycy4KCiAgICAgICAgIyBPYnRhaW4gdGhlIEhhYXIgZmVhdHVyZSBpZCBmcm9tIGNsZi5mZWF0dXJlCgogICAgICAgICMgVXNlIHRoaXMgaWQgdG8gc2VsZWN0IHRoZSByZXNwZWN0aXZlIGZlYXR1cmUgb2JqZWN0IGZyb20KICAgICAgICAjIHNlbGYuaGFhcl9mZWF0dXJlcwoKICAgICAgICAjIEFkZCB0aGUgc2NvcmUgdmFsdWUgdG8gc2NvcmVbeCwgZmVhdHVyZSBpZF0gY2FsbGluZyB0aGUgZmVhdHVyZSdzCiAgICAgICAgIyBldmFsdWF0ZSBmdW5jdGlvbi4gJ3gnIGlzIGVhY2ggaW1hZ2UgaW4gJ2lpJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>ibmg_copy</text>
       </register>
     </registers>
     <search>
