@@ -162,11 +162,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510529033765">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
-        <mark key="^" line="281" column="24" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510531819203">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="316" column="85" />
+        <mark key="." line="316" column="85" />
+        <mark key="^" line="316" column="85" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -218,11 +218,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1510527978511">
+      <file name="/Python Console" timestamp="1510531622484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1510508080174">
+      <file name="/fragment.py" timestamp="1510530484987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -441,11 +441,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510527975874">
-        <mark key="[" line="138" column="15" />
-        <mark key="]" line="111" column="9" />
-        <mark key="^" line="111" column="9" />
-        <mark key="." line="111" column="9" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510531461101">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="228" column="16" />
+        <mark key="." line="228" column="16" />
+        <mark key="^" line="216" column="26" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
@@ -592,37 +592,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlyZHMgPSB3aWR0aCAvLyAzCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>height</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gc2VlIHRoZSByZWZlcmVuY2UgaW1hZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kW3Jvdzpyb3cgKyBoZWlnaHQsIGNvbDpjb2wgKyB3aWR0aF0gPSBzZWxmLndoaXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kID0gbnAuemVyb3Moc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ycmVjdCA9IG5wLmFsbGNsb3NlKGhmX2ltZywgcmVmX2ltZykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrY2dyb3VuZAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICMgVW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHNlZSB0aGUgcmVmZXJlbmNlIGltYWdlCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3JlZl9pbWcnLCByZWZfaW1nLmFzdHlwZSgndWludDgnKSkKICAgICAgICAgICAgY3YyLmltc2hvdygncmV0dXJuZWQnLCApCiAgICAgICAgICAgIGN2Mi53YWl0S2V5KDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kID0gbnAuemVyb3Moc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltc2hvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kW3Jvdzpyb3cgKyBoZWlnaHQsIGNvbDpjb2wgKyB3aWR0aF0gPSBzZWxmLndoaXRlCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>255.</text>
+        <text>height</text>
       </register>
     </registers>
     <search>
