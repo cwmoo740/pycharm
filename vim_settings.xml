@@ -162,11 +162,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510534682069">
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
-        <mark key="^" line="393" column="66" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510535591737">
+        <mark key="[" line="382" column="48" />
+        <mark key="]" line="351" column="0" />
+        <mark key="^" line="351" column="0" />
+        <mark key="." line="351" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -441,8 +441,8 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510533835266">
-        <mark key="[" line="229" column="0" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510535826464">
+        <mark key="[" line="281" column="12" />
         <mark key="]" line="233" column="19" />
         <mark key="." line="233" column="19" />
         <mark key="^" line="233" column="19" />
@@ -591,38 +591,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgZmlsZW5hbWUgPSAnb3V0cHV0L3t9X2ZlYXR1cmUucG5nJy5mb3JtYXQoc2VsZi5mZWF0X3R5cGUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZmlsZW5hbWUgPSAnb3V0cHV0L3t9LnBuZycuZm9ybWF0KGZpbGVuYW1lKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgZmlsZW5hbWUgPSAnb3V0cHV0L3t9X2ZlYXR1cmUucG5nJy5mb3JtYXQoc2VsZi5mZWF0X3R5cGUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZmlsZW5hbWUgPSAnb3V0cHV0L3t9LnBuZycuZm9ybWF0KGZpbGVuYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBpbWFnZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoIm91dHB1dC97fS5wbmciLmZvcm1hdChmaWxlbmFtZSksIHgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChucC5jdW1zdW0obnAuY3Vtc3VtKGltYWdlLCBheGlzPTApLCBheGlzPTEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoIm91dHB1dC97fV9mZWF0dXJlLnBuZyIuZm9ybWF0KHNlbGYuZmVhdF90eXBlKSwgeCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlyZHMgPSB3aWR0aCAvLyAzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaWxlbmFtZSBpcyBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gc2VlIHRoZSByZWZlcmVuY2UgaW1hZ2UK</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBpbWFnZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycmVjdCA9IG5wLmFsbGNsb3NlKGhmX2ltZywgcmVmX2ltZykK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChucC5jdW1zdW0obnAuY3Vtc3VtKGltYWdlLCBheGlzPTApLCBheGlzPTEpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICMgVW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHNlZSB0aGUgcmVmZXJlbmNlIGltYWdlCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3JlZl9pbWcnLCByZWZfaW1nLmFzdHlwZSgndWludDgnKSkKICAgICAgICAgICAgY3YyLmltc2hvdygncmV0dXJuZWQnLCApCiAgICAgICAgICAgIGN2Mi53YWl0S2V5KDApCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChOb25lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self.feat_type</text>
       </register>
     </registers>
     <search>
