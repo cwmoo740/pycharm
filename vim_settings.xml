@@ -162,11 +162,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510532324473">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="379" column="10" />
-        <mark key="." line="379" column="10" />
-        <mark key="^" line="379" column="10" />
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6.py" timestamp="1510534682069">
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="." line="393" column="0" />
+        <mark key="^" line="393" column="66" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps02/ps2_tests.py" timestamp="1505688262369">
         <mark key="[" line="61" column="21" />
@@ -218,7 +218,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1510531622484">
+      <file name="/Python Console" timestamp="1510533508926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -441,11 +441,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510531461101">
+      <file name="$USER_HOME$/src/python/vision/ps06/ps6_tests.py" timestamp="1510533835266">
         <mark key="[" line="229" column="0" />
-        <mark key="]" line="228" column="16" />
-        <mark key="." line="228" column="16" />
-        <mark key="^" line="216" column="26" />
+        <mark key="]" line="233" column="19" />
+        <mark key="." line="233" column="19" />
+        <mark key="^" line="233" column="19" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/README.md" timestamp="1508428565951">
         <mark key="[" line="30" column="0" />
@@ -592,37 +592,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlyZHMgPSB3aWR0aCAvLyAzCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>height</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gc2VlIHRoZSByZWZlcmVuY2UgaW1hZ2UK</text>
+        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBpbWFnZXM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChucC5jdW1zdW0obnAuY3Vtc3VtKGltYWdlLCBheGlzPTApLCBheGlzPTEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ycmVjdCA9IG5wLmFsbGNsb3NlKGhmX2ltZywgcmVmX2ltZykK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChOb25lKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICMgVW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHNlZSB0aGUgcmVmZXJlbmNlIGltYWdlCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3JlZl9pbWcnLCByZWZfaW1nLmFzdHlwZSgndWludDgnKSkKICAgICAgICAgICAgY3YyLmltc2hvdygncmV0dXJuZWQnLCApCiAgICAgICAgICAgIGN2Mi53YWl0S2V5KDApCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlyZHMgPSB3aWR0aCAvLyAzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltc2hvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBVbmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gc2VlIHRoZSByZWZlcmVuY2UgaW1hZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ycmVjdCA9IG5wLmFsbGNsb3NlKGhmX2ltZywgcmVmX2ltZykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICMgVW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHNlZSB0aGUgcmVmZXJlbmNlIGltYWdlCiAgICAgICAgICAgIGN2Mi5pbXNob3coJ3JlZl9pbWcnLCByZWZfaW1nLmFzdHlwZSgndWludDgnKSkKICAgICAgICAgICAgY3YyLmltc2hvdygncmV0dXJuZWQnLCApCiAgICAgICAgICAgIGN2Mi53YWl0S2V5KDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
