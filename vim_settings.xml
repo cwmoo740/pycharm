@@ -33,8 +33,11 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1510621594351">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1510630265897">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -610,7 +613,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ibmg_copy</text>
+        <text>import pathlib</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
@@ -637,7 +640,7 @@
         <text encoding="base64">CiAgICAgICAgIyBQb3B1bGF0ZSB0aGUgc2NvcmUgbG9jYXRpb24gZm9yIGVhY2ggY2xhc3NpZmllciAnY2xmJyBpbgogICAgICAgICMgc2VsZi5jbGFzc2lmaWVycy4KCiAgICAgICAgIyBPYnRhaW4gdGhlIEhhYXIgZmVhdHVyZSBpZCBmcm9tIGNsZi5mZWF0dXJlCgogICAgICAgICMgVXNlIHRoaXMgaWQgdG8gc2VsZWN0IHRoZSByZXNwZWN0aXZlIGZlYXR1cmUgb2JqZWN0IGZyb20KICAgICAgICAjIHNlbGYuaGFhcl9mZWF0dXJlcwoKICAgICAgICAjIEFkZCB0aGUgc2NvcmUgdmFsdWUgdG8gc2NvcmVbeCwgZmVhdHVyZSBpZF0gY2FsbGluZyB0aGUgZmVhdHVyZSdzCiAgICAgICAgIyBldmFsdWF0ZSBmdW5jdGlvbi4gJ3gnIGlzIGVhY2ggaW1hZ2UgaW4gJ2lpJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ibmg_copy</text>
+        <text>import pathlib</text>
       </register>
     </registers>
     <search>
