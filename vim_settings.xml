@@ -33,11 +33,10 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1510631698170">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1510671957716">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
@@ -610,34 +609,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5lYWdlciBhcyB0ZmUK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>import pathlib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5lYWdlciBhcyB0ZmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
+        <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
+        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHIgPSBpbnQocikK</text>
+        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAociwgYywgaSArIDEpCg==</text>
+        <text encoding="base64">ICAgIHIgPSBpbnQocikK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAociwgYywgaSArIDEpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmb3Igcm93IGluCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBBcHBlbmQgdGhlIHJlc3VsdHMgZm9yIGVhY2ggcm93IGluICdzY29yZXMnLiBUaGlzIHZhbHVlIGlzIG9idGFpbmVkCiAgICAgICAgIyB1c2luZyB0aGUgZXF1YXRpb24gZm9yIHRoZSBzdHJvbmcgY2xhc3NpZmllciBIKHgpLg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBQb3B1bGF0ZSB0aGUgc2NvcmUgbG9jYXRpb24gZm9yIGVhY2ggY2xhc3NpZmllciAnY2xmJyBpbgogICAgICAgICMgc2VsZi5jbGFzc2lmaWVycy4KCiAgICAgICAgIyBPYnRhaW4gdGhlIEhhYXIgZmVhdHVyZSBpZCBmcm9tIGNsZi5mZWF0dXJlCgogICAgICAgICMgVXNlIHRoaXMgaWQgdG8gc2VsZWN0IHRoZSByZXNwZWN0aXZlIGZlYXR1cmUgb2JqZWN0IGZyb20KICAgICAgICAjIHNlbGYuaGFhcl9mZWF0dXJlcwoKICAgICAgICAjIEFkZCB0aGUgc2NvcmUgdmFsdWUgdG8gc2NvcmVbeCwgZmVhdHVyZSBpZF0gY2FsbGluZyB0aGUgZmVhdHVyZSdzCiAgICAgICAgIyBldmFsdWF0ZSBmdW5jdGlvbi4gJ3gnIGlzIGVhY2ggaW1hZ2UgaW4gJ2lpJwo=</text>
+        <text encoding="base64">CiAgICAgICAgIyBBcHBlbmQgdGhlIHJlc3VsdHMgZm9yIGVhY2ggcm93IGluICdzY29yZXMnLiBUaGlzIHZhbHVlIGlzIG9idGFpbmVkCiAgICAgICAgIyB1c2luZyB0aGUgZXF1YXRpb24gZm9yIHRoZSBzdHJvbmcgY2xhc3NpZmllciBIKHgpLg==</text>
       </register>
       <register name="-" type="4">
         <text>import pathlib</text>
