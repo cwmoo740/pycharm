@@ -50,11 +50,10 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1510259322397">
-        <mark key="[" line="169" column="23" />
-        <mark key="]" line="169" column="39" />
-        <mark key="." line="169" column="39" />
-        <mark key="^" line="169" column="39" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1511814791575">
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -201,6 +200,12 @@
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1511815046069">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/repository/stash.py" timestamp="1507924977375">
         <mark key="[" line="51" column="36" />
@@ -609,34 +614,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuY2xpcChwYXJ0aWNsZXNbaSwgMF0gLSBzZWxmLnRlbXBsYXRlX3JlY3RbJ2gnXSAvIDIsIDAsIHNlbGYuZnJhbWUuc2hhcGVbMF0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICBucC5jbGlwKHBhcnRpY2xlc1tpLCAwXSAtIHNlbGYudGVtcGxhdGVfcmVjdFsnaCddIC8gMiwgMCwgc2VsZi5mcmFtZS5zaGFwZVswXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5lYWdlciBhcyB0ZmUK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihrZXl3b3JkX2RhdGFzZXQuZGF0YSkgPT0gMCBvciBncm91cGluZy5wcm9kdWN0X2luZm9bb3duZXJdW1NJWFRZX0RBWVNfU0VNXToK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5lYWdlciBhcyB0ZmUK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihrZXl3b3JkX2RhdGFzZXQuZGF0YSkgPT0gMCBvciBncm91cGluZy5wcm9kdWN0X2luZm9bb3duZXJdW1NJWFRZX0RBWVNfU0VNXToK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNsaWVudHNfcHJvZHVjdF9pbmZvID0ge2NsaWVudDogcHJvZHVjdF9pbmZvW2NsaWVudF0gZm9yIGNsaWVudCBpbiBzZWdtZW50X2NsaWVudHN9CgogICAgZ3JvdXBpbmcgPSBHcm91cGluZyhyZXBvcnRfcmVzdWx0cz1idWxrX3Jlc3VsdHMsIHByb2R1Y3RfaW5mbz1jbGllbnRzX3Byb2R1Y3RfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgb3duZXJzPWxpc3Qoc2VnbWVudF9jbGllbnRzLmtleXMoKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
+        <text encoding="base64">ZnJvbSBvcmFjbGUucHJlcHJvY2Vzc2luZy5vd25lcnNfd2l0aF9zZW0gaW1wb3J0IHBvcHVsYXRlX3Byb2R1Y3RfaW5mbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5lYWdlciBhcyB0ZmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHIgPSBpbnQocikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAociwgYywgaSArIDEpCg==</text>
+        <text encoding="base64">ICAgIG51bV9pdGVyID0gNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluCg==</text>
+        <text encoding="base64">ICAgIHIgPSBucC5jZWlsKG5wLnNxcnQobGVuKGVpZ192ZWNzKSkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBBcHBlbmQgdGhlIHJlc3VsdHMgZm9yIGVhY2ggcm93IGluICdzY29yZXMnLiBUaGlzIHZhbHVlIGlzIG9idGFpbmVkCiAgICAgICAgIyB1c2luZyB0aGUgZXF1YXRpb24gZm9yIHRoZSBzdHJvbmcgY2xhc3NpZmllciBIKHgpLg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGMgPSBpbnQobnAuY2VpbChsZW4oZWlnX3ZlY3MpIC8gcikpCg==</text>
       </register>
       <register name="-" type="4">
         <text>import pathlib</text>
