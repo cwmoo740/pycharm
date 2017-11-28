@@ -157,12 +157,12 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511890434594">
-        <mark key="'" line="21" column="24" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
-        <mark key="^" line="44" column="4" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511891165212">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="9" column="60" />
       </file>
       <file name="/" timestamp="1506812976818">
         <mark key="[" line="0" column="0" />
@@ -658,7 +658,7 @@
         <text encoding="base64">ICAgIHByaW50KGltZ19wYXRoKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'PPL Sig Movement Threshold': 2.0, 'PPL Sig Movement': False}</text>
+        <text>i + 2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">SU1HX1VSTD0naHR0cHM6Ly9pLnJlZGQuaXQvamNhMGVuOXFocDAwMS5qcGcnCg==</text>
@@ -685,7 +685,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'PPL Sig Movement Threshold': 2.0, 'PPL Sig Movement': False}</text>
+        <text>i + 2</text>
       </register>
     </registers>
     <search>
