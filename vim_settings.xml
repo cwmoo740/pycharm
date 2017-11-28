@@ -155,12 +155,11 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511892284115">
-        <mark key="'" line="19" column="24" />
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-        <mark key="^" line="52" column="67" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511896643698">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="77" />
+        <mark key="." line="21" column="53" />
       </file>
       <file name="/" timestamp="1506812976818">
         <mark key="[" line="0" column="0" />
@@ -236,6 +235,12 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1511896596567">
+        <mark key="[" line="79" column="47" />
+        <mark key="]" line="79" column="63" />
+        <mark key="." line="79" column="63" />
+        <mark key="^" line="79" column="63" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -245,7 +250,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511895266131">
+      <file name="/Python Console" timestamp="1511896104738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -653,37 +658,37 @@
         <text>Callable[[Dict[str, ERSBulkResult]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdmdW5jdGlvbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoYXRldmVyID0geV8yICsgMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLndoYXRldmVyX2xvbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyb3VwaW5nLnJlcG9ydF9yZXN1bHRzLgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIG1ha2Vfa2V5d29yZF9yYW5rX3Jlc3VsdHMoY2xpZW50czogTGlzdFtzdHJdLCBvbmVfY291bnQ9MCkgLT4gRGljdFtzdHIsIEVSU0J1bGtSZXN1bHRdOgogICAgcmVwb3J0X25hbWVzID0gWwogICAgICAgICdrZXl3b3JkLXJhbmstYnktbG9jYXRpb25fa2V5d29yZF9yZXBvcnRfd2VlaycsCiAgICAgICAgJ2tleXdvcmQtcmFuay1ieS1sb2NhdGlvbl9rZXl3b3JkX2xhc3Rfd2VlaycsCiAgICAgICAgJ2tleXdvcmQtcmFuay1ieS1sb2NhdGlvbl9rZXl3b3JkX2xhc3RfbW9udGgnCiAgICBdCiAgICBuYW1lcyA9IFsneW9sb3N3YWc5MDAwJywgJ2Jhc2VkZ29kJywgJ2l0JywgJ2lzJywgJ3dlZG5lc2RheScsICdteScsICdkdWRlcyddCiAgICBlcnNfYnVsa19yZXN1bHQgPSBFUlNCdWxrUmVzdWx0KAogICAgICAgIHsKICAgICAgICAgICAgcmVwb3J0X25hbWU6IHsKICAgICAgICAgICAgICAgICdkYXRhJzogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2J1Y2tldE5hbWUnOiBjbGllbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICoqe25hbWU6IDUgaWYgaSA+PSBvbmVfY291bnQgZWxzZSAxIGZvciBpLCBuYW1lIGluIGVudW1lcmF0ZShuYW1lcyl9CiAgICAgICAgICAgICAgICAgICAgfSBmb3IgY2xpZW50IGluIGNsaWVudHMKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnZGF0YXNldE5hbWVzJzogbmFtZXMKICAgICAgICAgICAgfSBmb3IgcmVwb3J0X25hbWUgaW4gcmVwb3J0X25hbWVzCiAgICAgICAgfQogICAgKQogICAgcmV0dXJuIHtjbGllbnQ6IGVyc19idWxrX3Jlc3VsdCBmb3IgY2xpZW50IGluIGNsaWVudHN9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltZ19wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBsaXN0KHNvcnRlZChhY3R1YWwua2V5cygpKSkgPT0gWycjIG9mIEtXcyBrYXBwYSBrYXBwYSddCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">SU1HX1VSTD0naHR0cHM6Ly9pLnJlZGQuaXQvamNhMGVuOXFocDAwMS5qcGcnCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBrZXl3b3JkX3JhbmtfcmVzdWx0cyA9IG1ha2Vfa2V5d29yZF9yYW5rX3Jlc3VsdHMoY2xpZW50cywgb25lX2NvdW50PTMpCiAgICBncm91cGluZyA9IG1ha2VfZ3JvdXBpbmcoa2V5d29yZF9yYW5rX3Jlc3VsdHMpCiAgICBhY3R1YWwgPSBrZXl3b3JkcyhjbGllbnRzWzBdLCBncm91cGluZykKICAgIGFzc2VydCBhY3R1YWwgPT0gewogICAgICAgICcjIG9mIEtXcyBUcnlpbmcgdG8gUmFuayBGb3InOiA3LAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSc6IDMsCiAgICAgICAgJyUgb2YgS1dzIEN1cnJlbnRseSBSYW5raW5nIEZvcic6IDEwMCAqIDMgLyA3LAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSBDaGFuZ2UgdnMgTGFzdCA3IERheXMnOiAwLAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSBDaGFuZ2UgdnMgTGFzdCAzMCBEYXlzJzogMAogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CkBweXRlc3QuZml4dHVyZQpkZWYgaW1nX3VybCgpIC0+IHN0cjo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdmdW5jdGlvbicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweS5taXNjIGltcG9ydCBpbXJlYWQK</text>
+        <text encoding="base64">ICAgIHdoYXRldmVyID0geV8yICsgMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjaXB5Lm1pc2MuaW1yZWFkCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLndoYXRldmVyX2xvbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
