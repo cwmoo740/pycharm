@@ -250,7 +250,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511896104738">
+      <file name="/Python Console" timestamp="1511899608676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -612,6 +612,12 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1511899571707">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
@@ -661,7 +667,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>train_data = load_train_data()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -688,7 +694,7 @@
         <text encoding="base64">QHB5dGVzdC5tYXJrLndoYXRldmVyX2xvbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>train_data = load_train_data()</text>
       </register>
     </registers>
     <search>
