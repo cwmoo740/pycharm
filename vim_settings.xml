@@ -157,12 +157,12 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511891165212">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511892284115">
         <mark key="'" line="19" column="24" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="9" column="60" />
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+        <mark key="^" line="52" column="67" />
       </file>
       <file name="/" timestamp="1506812976818">
         <mark key="[" line="0" column="0" />
@@ -247,7 +247,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511890531519">
+      <file name="/Python Console" timestamp="1511892298394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -655,37 +655,37 @@
         <text>Callable[[Dict[str, ERSBulkResult]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltZ19wYXRoKQo=</text>
+        <text encoding="base64">ICAgIGdyb3VwaW5nLnJlcG9ydF9yZXN1bHRzLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>i + 2</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KGltZ19wYXRoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">SU1HX1VSTD0naHR0cHM6Ly9pLnJlZGQuaXQvamNhMGVuOXFocDAwMS5qcGcnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CkBweXRlc3QuZml4dHVyZQpkZWYgaW1nX3VybCgpIC0+IHN0cjo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSBzY2lweS5taXNjIGltcG9ydCBpbXJlYWQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNjaXB5Lm1pc2MuaW1yZWFkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFRFU1RfSU1BR0VfRElSLmdsb2IoJyonKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKFRFU1RfSU1BR0VfRElSKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCBURVNUX0lNQUdFX0RJUiAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="-" type="4">
-        <text>i + 2</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
