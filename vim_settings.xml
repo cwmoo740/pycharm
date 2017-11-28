@@ -157,8 +157,12 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511883689573">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511890434594">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
+        <mark key="^" line="44" column="4" />
       </file>
       <file name="/" timestamp="1506812976818">
         <mark key="[" line="0" column="0" />
@@ -243,7 +247,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511889102543">
+      <file name="/Python Console" timestamp="1511890531519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -450,7 +454,7 @@
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1510246579695">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1511890246607">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="63" />
@@ -644,6 +648,7 @@
     </filemarks>
     <jumps>
       <jump line="20" column="15" filename="$USER_HOME$/src/python/pytest-example/test/conftest.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -653,7 +658,7 @@
         <text encoding="base64">ICAgIHByaW50KGltZ19wYXRoKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>'PPL Sig Movement Threshold': 2.0, 'PPL Sig Movement': False}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">SU1HX1VSTD0naHR0cHM6Ly9pLnJlZGQuaXQvamNhMGVuOXFocDAwMS5qcGcnCg==</text>
@@ -680,7 +685,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'PPL Sig Movement Threshold': 2.0, 'PPL Sig Movement': False}</text>
       </register>
     </registers>
     <search>
