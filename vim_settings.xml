@@ -145,10 +145,8 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511819530750">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511883689573">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="/" timestamp="1506812976818">
         <mark key="[" line="0" column="0" />
@@ -223,12 +221,6 @@
         <mark key="]" line="49" column="10" />
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1511819314608">
-        <mark key="[" line="37" column="68" />
-        <mark key="]" line="37" column="102" />
-        <mark key="." line="45" column="72" />
-        <mark key="^" line="45" column="72" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
