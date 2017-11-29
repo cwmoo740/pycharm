@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511885542385">
+      <file name="/a.dummy" timestamp="1511931644783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/__init__.py" timestamp="1510250249553">
@@ -161,7 +161,7 @@
         <mark key="^" line="21" column="77" />
         <mark key="." line="21" column="53" />
       </file>
-      <file name="/" timestamp="1506812976818">
+      <file name="/" timestamp="1511931615074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/environment.yml" timestamp="1507909504563">
@@ -250,11 +250,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511929637542">
+      <file name="/Python Console" timestamp="1511931618778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1511929371318">
+      <file name="/fragment.py" timestamp="1511929743850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -310,11 +310,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511929628385">
-        <mark key="[" line="95" column="49" />
-        <mark key="]" line="95" column="54" />
-        <mark key="^" line="95" column="54" />
-        <mark key="." line="95" column="54" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511931652570">
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="75" column="36" />
+        <mark key="." line="75" column="36" />
+        <mark key="^" line="75" column="36" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -609,7 +609,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510364941525">
+      <file name="/Dummy.txt" timestamp="1511929783817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -676,37 +676,37 @@
         <text>Callable[[Dict[str, ERSBulkResult]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdoYXQpCg==</text>
+        <text encoding="base64">ICAgIG1ldGEgPSBkaWdpdF9zdHJ1Y3RbJ2RpZ2l0U3RydWN0J11bJ2Jib3gnXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>len(self.digitStructBbox)</text>
+        <text>h5py.File(train_dir / 'digitStruct.mat')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoYXQgPSBkaWdpdF9zdHJ1Y3QuZ2V0X2Jib3goNSkK</text>
+        <text encoding="base64">ICAgIG5hbWVzID0gZGlnaXRfc3RydWN0WydkaWdpdFN0cnVjdCddWyduYW1lJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBuIGluIHJhbmdlKCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiB1bnBhY2soc2VsZik6CiAgICAgICAgIiIiUmV0dXJucyBhIGxpc3Qgb2YgZGljdHMgY29udGFpbmluZyBhbGwgdGhlIGJvdW5kaW5nIGJveGVzIiIiCiAgICAgICAgcmV0dXJuIFtzZWxmLmdldF9pdGVtKGkpIGZvciBpIGluIHJhbmdlKGxlbihzZWxmLmRpZ2l0U3RydWN0TmFtZSkpXQoKICAgIGRlZiB1bnBhY2tfYWxsKHNlbGYpOgogICAgICAgIHBpY3RfZGF0ID0gc2VsZi51bnBhY2soKQogICAgICAgIHJlc3VsdCA9IFtdCiAgICAgICAgc3RydWN0X2NudCA9IDEKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocGljdF9kYXQpKToKICAgICAgICAgICAgaXRlbSA9IHsnZmlsZW5hbWUnOiBwaWN0X2RhdFtpXVsibmFtZSJdfQogICAgICAgICAgICBmaWd1cmVzID0gW10KICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHBpY3RfZGF0W2ldWydoZWlnaHQnXSkpOgogICAgICAgICAgICAgICAgZmlndXJlID0gewogICAgICAgICAgICAgICAgICAgICdoZWlnaHQnOiBwaWN0X2RhdFtpXVsnaGVpZ2h0J11bal0sCiAgICAgICAgICAgICAgICAgICAgJ2xhYmVsJzogcGljdF9kYXRbaV1bJ2xhYmVsJ11bal0sCiAgICAgICAgICAgICAgICAgICAgJ2xlZnQnOiBwaWN0X2RhdFtpXVsnbGVmdCddW2pdLAogICAgICAgICAgICAgICAgICAgICd0b3AnOiBwaWN0X2RhdFtpXVsndG9wJ11bal0sCiAgICAgICAgICAgICAgICAgICAgJ3dpZHRoJzogcGljdF9kYXRbaV1bJ3dpZHRoJ11bal0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGZpZ3VyZXMuYXBwZW5kKGZpZ3VyZSkKICAgICAgICAgICAgc3RydWN0X2NudCArPSAxCiAgICAgICAgICAgIGl0ZW1bJ2JveGVzJ10gPSBmaWd1cmVzCiAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoaXRlbSkKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHdoYXQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdoYXQgPSBkaWdpdF9zdHJ1Y3QuZ2V0X2Jib3goNSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBkZWYgdW5wYWNrX2FsbChzZWxmKToKICAgICAgICBwaWN0X2RhdCA9IHNlbGYudW5wYWNrKCkKICAgICAgICByZXN1bHQgPSBbXQogICAgICAgIHN0cnVjdF9jbnQgPSAxCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHBpY3RfZGF0KSk6CiAgICAgICAgICAgIGl0ZW0gPSB7J2ZpbGVuYW1lJzogcGljdF9kYXRbaV1bIm5hbWUiXX0KICAgICAgICAgICAgZmlndXJlcyA9IFtdCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihwaWN0X2RhdFtpXVsnaGVpZ2h0J10pKToKICAgICAgICAgICAgICAgIGZpZ3VyZSA9IHsKICAgICAgICAgICAgICAgICAgICAnaGVpZ2h0JzogcGljdF9kYXRbaV1bJ2hlaWdodCddW2pdLAogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6IHBpY3RfZGF0W2ldWydsYWJlbCddW2pdLAogICAgICAgICAgICAgICAgICAgICdsZWZ0JzogcGljdF9kYXRbaV1bJ2xlZnQnXVtqXSwKICAgICAgICAgICAgICAgICAgICAndG9wJzogcGljdF9kYXRbaV1bJ3RvcCddW2pdLAogICAgICAgICAgICAgICAgICAgICd3aWR0aCc6IHBpY3RfZGF0W2ldWyd3aWR0aCddW2pdCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBmaWd1cmVzLmFwcGVuZChmaWd1cmUpCiAgICAgICAgICAgIHN0cnVjdF9jbnQgKz0gMQogICAgICAgICAgICBpdGVtWydib3hlcyddID0gZmlndXJlcwogICAgICAgICAgICByZXN1bHQuYXBwZW5kKGl0ZW0pCiAgICAgICAgcmV0dXJuIHJlc3VsdA==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlZiB1bnBhY2soc2VsZik6CiAgICAgICAgIiIiUmV0dXJucyBhIGxpc3Qgb2YgZGljdHMgY29udGFpbmluZyBhbGwgdGhlIGJvdW5kaW5nIGJveGVzIiIiCiAgICAgICAgcmV0dXJuIFtzZWxmLmdldF9pdGVtKGkpIGZvciBpIGluIHJhbmdlKGxlbihzZWxmLmRpZ2l0U3RydWN0TmFtZSkpXQoKICAgIGRlZiB1bnBhY2tfYWxsKHNlbGYpOgogICAgICAgIHBpY3RfZGF0ID0gc2VsZi51bnBhY2soKQogICAgICAgIHJlc3VsdCA9IFtdCiAgICAgICAgc3RydWN0X2NudCA9IDEKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocGljdF9kYXQpKToKICAgICAgICAgICAgaXRlbSA9IHsnZmlsZW5hbWUnOiBwaWN0X2RhdFtpXVsibmFtZSJdfQogICAgICAgICAgICBmaWd1cmVzID0gW10KICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuKHBpY3RfZGF0W2ldWydoZWlnaHQnXSkpOgogICAgICAgICAgICAgICAgZmlndXJlID0gewogICAgICAgICAgICAgICAgICAgICdoZWlnaHQnOiBwaWN0X2RhdFtpXVsnaGVpZ2h0J11bal0sCiAgICAgICAgICAgICAgICAgICAgJ2xhYmVsJzogcGljdF9kYXRbaV1bJ2xhYmVsJ11bal0sCiAgICAgICAgICAgICAgICAgICAgJ2xlZnQnOiBwaWN0X2RhdFtpXVsnbGVmdCddW2pdLAogICAgICAgICAgICAgICAgICAgICd0b3AnOiBwaWN0X2RhdFtpXVsndG9wJ11bal0sCiAgICAgICAgICAgICAgICAgICAgJ3dpZHRoJzogcGljdF9kYXRbaV1bJ3dpZHRoJ11bal0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGZpZ3VyZXMuYXBwZW5kKGZpZ3VyZSkKICAgICAgICAgICAgc3RydWN0X2NudCArPSAxCiAgICAgICAgICAgIGl0ZW1bJ2JveGVzJ10gPSBmaWd1cmVzCiAgICAgICAgICAgIHJlc3VsdC5hcHBlbmQoaXRlbSkKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBkZWYgdW5wYWNrKHNlbGYpOgogICAgICAgICIiIlJldHVybnMgYSBsaXN0IG9mIGRpY3RzIGNvbnRhaW5pbmcgYWxsIHRoZSBib3VuZGluZyBib3hlcyIiIgogICAgICAgIHJldHVybiBbc2VsZi5nZXRfaXRlbShpKSBmb3IgaSBpbiByYW5nZShsZW4oc2VsZi5kaWdpdFN0cnVjdE5hbWUpKV0K</text>
-      </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2l0ZW0oc2VsZiwgbik6CiAgICAgICAgIiIiUmV0dXJuIHRoZSBuYW1lIGFuZCBib3VuZGluZyBib3hlcyBvZiBhIHNpbmdsZSBpbWFnZSIiIgogICAgICAgIHMgPSBzZWxmLmdldF9iYm94KG4pCiAgICAgICAgc1snbmFtZSddID0gc2VsZi5nZXRfbmFtZShuKQogICAgICAgIHJldHVybiBz</text>
       </register>
       <register name="-" type="4">
-        <text>len(self.digitStructBbox)</text>
+        <text>h5py.File(train_dir / 'digitStruct.mat')</text>
       </register>
     </registers>
     <search>
