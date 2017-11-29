@@ -250,11 +250,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511903228269">
+      <file name="/Python Console" timestamp="1511925354652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1511888456014">
+      <file name="/fragment.py" timestamp="1511925689874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -310,11 +310,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511915680576">
-        <mark key="[" line="127" column="58" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511925971175">
+        <mark key="[" line="122" column="40" />
+        <mark key="]" line="123" column="27" />
+        <mark key="." line="123" column="27" />
+        <mark key="^" line="123" column="27" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -670,16 +670,16 @@
         <text>Callable[[Dict[str, ERSBulkResult]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1hdHMpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'train'</text>
+        <text>Dataframe</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgpkZWYgbG9hZF90cmFpbl9kYXRhKHBhdGg6IFBhdGggPSBEQVRBX1BBVEggLyAncGFuZGFzX3RyYWluLmg1JykgLT4gcGQuRGF0YUZyYW1lOgogICAgd2l0aCBwZC5IREZTdG9yZShwYXRoKSBhcyBkZl9maWxlOgogICAgICAgIHJldHVybiBkZl9maWxlLmdldCgnZGZfbWFpbicp</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgpkZWYgbG9hZF90cmFpbl9kYXRhKHBhdGg6IFBhdGggPSBEQVRBX1BBVEggLyAncGFuZGFzX3RyYWluLmg1JykgLT4gcGQuRGF0YUZyYW1lOgogICAgd2l0aCBwZC5IREZTdG9yZShwYXRoKSBhcyBkZl9maWxlOgogICAgICAgIHJldHVybiBkZl9maWxlLmdldCgnZGZfbWFpbicp</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -688,10 +688,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -700,7 +700,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'train'</text>
+        <text>Dataframe</text>
       </register>
     </registers>
     <search>
