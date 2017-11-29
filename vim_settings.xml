@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511931644783">
+      <file name="/a.dummy" timestamp="1511933697704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/__init__.py" timestamp="1510250249553">
@@ -316,11 +316,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511932393624">
-        <mark key="[" line="85" column="27" />
-        <mark key="]" line="85" column="38" />
-        <mark key="." line="85" column="38" />
-        <mark key="^" line="85" column="38" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511933991755">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="48" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -682,37 +682,37 @@
         <text>Callable[[Dict[str, ERSBulkResult]]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmWzA6Ml0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyY2hpdmUud3JpdGUocmVzcG9uc2UuY29udGVudCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FILE_NAMES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyY2hpdmUud3JpdGUocmVzcG9uc2UuY29udGVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmID0gZGlnaXRfc3RydWN0LnRvX3BhbmRhcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKGZ1bGxfZmlsZV9uYW1lLCAnd2InKSBhcyBhcmNoaXZlX2ZpbGU6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpZ2l0X3N0cnVjdCA9IERpZ2l0U3RydWN0V3JhcHBlcihEQVRBX1BBVEggLyBGSUxFX05BTUVTLyAnZGlnaXRTdHJ1Y3QubWF0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VFJBSU5fRk9MREVSID0gJ3RyYWluJwo=</text>
+        <text encoding="base64">ICAgICAgICBmdWxsX2ZpbGVfbmFtZSA9IG91dHB1dF9kaXIgLyBmaWxlX25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ldGEgPSBkaWdpdF9zdHJ1Y3RbJ2RpZ2l0U3RydWN0J11bJ2Jib3gnXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnVsbF9maWxlX25hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWVzID0gZGlnaXRfc3RydWN0WydkaWdpdFN0cnVjdCddWyduYW1lJ10K</text>
+        <text encoding="base64">ICAgIGVuc3VyZV9kaXIob3V0cHV0X2RpcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBuIGluIHJhbmdlKCkK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyOiBQYXRoID0gREFUQV9QQVRICg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWU6IHN0ciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdoYXQpCg==</text>
+        <text encoding="base64">REFUQV9QQVRIID0gUGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKS5wYXJlbnQgLyAnZGF0YScK</text>
       </register>
       <register name="-" type="4">
-        <text>FILE_NAMES</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
