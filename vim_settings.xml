@@ -310,6 +310,12 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511915680576">
+        <mark key="[" line="127" column="58" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="22" />
@@ -667,34 +673,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>train_data = load_train_data()</text>
+        <text>'train'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpkZWYgbG9hZF90cmFpbl9kYXRhKHBhdGg6IFBhdGggPSBEQVRBX1BBVEggLyAncGFuZGFzX3RyYWluLmg1JykgLT4gcGQuRGF0YUZyYW1lOgogICAgd2l0aCBwZC5IREZTdG9yZShwYXRoKSBhcyBkZl9maWxlOgogICAgICAgIHJldHVybiBkZl9maWxlLmdldCgnZGZfbWFpbicp</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIG1ha2Vfa2V5d29yZF9yYW5rX3Jlc3VsdHMoY2xpZW50czogTGlzdFtzdHJdLCBvbmVfY291bnQ9MCkgLT4gRGljdFtzdHIsIEVSU0J1bGtSZXN1bHRdOgogICAgcmVwb3J0X25hbWVzID0gWwogICAgICAgICdrZXl3b3JkLXJhbmstYnktbG9jYXRpb25fa2V5d29yZF9yZXBvcnRfd2VlaycsCiAgICAgICAgJ2tleXdvcmQtcmFuay1ieS1sb2NhdGlvbl9rZXl3b3JkX2xhc3Rfd2VlaycsCiAgICAgICAgJ2tleXdvcmQtcmFuay1ieS1sb2NhdGlvbl9rZXl3b3JkX2xhc3RfbW9udGgnCiAgICBdCiAgICBuYW1lcyA9IFsneW9sb3N3YWc5MDAwJywgJ2Jhc2VkZ29kJywgJ2l0JywgJ2lzJywgJ3dlZG5lc2RheScsICdteScsICdkdWRlcyddCiAgICBlcnNfYnVsa19yZXN1bHQgPSBFUlNCdWxrUmVzdWx0KAogICAgICAgIHsKICAgICAgICAgICAgcmVwb3J0X25hbWU6IHsKICAgICAgICAgICAgICAgICdkYXRhJzogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ2J1Y2tldE5hbWUnOiBjbGllbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICoqe25hbWU6IDUgaWYgaSA+PSBvbmVfY291bnQgZWxzZSAxIGZvciBpLCBuYW1lIGluIGVudW1lcmF0ZShuYW1lcyl9CiAgICAgICAgICAgICAgICAgICAgfSBmb3IgY2xpZW50IGluIGNsaWVudHMKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnZGF0YXNldE5hbWVzJzogbmFtZXMKICAgICAgICAgICAgfSBmb3IgcmVwb3J0X25hbWUgaW4gcmVwb3J0X25hbWVzCiAgICAgICAgfQogICAgKQogICAgcmV0dXJuIHtjbGllbnQ6IGVyc19idWxrX3Jlc3VsdCBmb3IgY2xpZW50IGluIGNsaWVudHN9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsaXN0KHNvcnRlZChhY3R1YWwua2V5cygpKSkgPT0gWycjIG9mIEtXcyBrYXBwYSBrYXBwYSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBrZXl3b3JkX3JhbmtfcmVzdWx0cyA9IG1ha2Vfa2V5d29yZF9yYW5rX3Jlc3VsdHMoY2xpZW50cywgb25lX2NvdW50PTMpCiAgICBncm91cGluZyA9IG1ha2VfZ3JvdXBpbmcoa2V5d29yZF9yYW5rX3Jlc3VsdHMpCiAgICBhY3R1YWwgPSBrZXl3b3JkcyhjbGllbnRzWzBdLCBncm91cGluZykKICAgIGFzc2VydCBhY3R1YWwgPT0gewogICAgICAgICcjIG9mIEtXcyBUcnlpbmcgdG8gUmFuayBGb3InOiA3LAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSc6IDMsCiAgICAgICAgJyUgb2YgS1dzIEN1cnJlbnRseSBSYW5raW5nIEZvcic6IDEwMCAqIDMgLyA3LAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSBDaGFuZ2UgdnMgTGFzdCA3IERheXMnOiAwLAogICAgICAgICcjIG9mIEtXcyBSYW5raW5nIG9uIHRoZSAxc3QgUGFnZSBDaGFuZ2UgdnMgTGFzdCAzMCBEYXlzJzogMAogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSdmdW5jdGlvbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoYXRldmVyID0geV8yICsgMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLndoYXRldmVyX2xvbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>train_data = load_train_data()</text>
+        <text>'train'</text>
       </register>
     </registers>
     <search>
