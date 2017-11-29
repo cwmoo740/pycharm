@@ -250,7 +250,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511929242862">
+      <file name="/Python Console" timestamp="1511929637542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -310,11 +310,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511929248232">
-        <mark key="[" line="107" column="83" />
-        <mark key="]" line="97" column="27" />
-        <mark key="^" line="97" column="27" />
-        <mark key="." line="97" column="27" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511929628385">
+        <mark key="[" line="95" column="49" />
+        <mark key="]" line="95" column="54" />
+        <mark key="^" line="95" column="54" />
+        <mark key="." line="95" column="54" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -679,7 +679,7 @@
         <text encoding="base64">ICAgIHByaW50KHdoYXQpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>750m</text>
+        <text>len(self.digitStructBbox)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHdoYXQgPSBkaWdpdF9zdHJ1Y3QuZ2V0X2Jib3goNSkK</text>
@@ -706,7 +706,7 @@
         <text encoding="base64">CiAgICBkZWYgZ2V0X2l0ZW0oc2VsZiwgbik6CiAgICAgICAgIiIiUmV0dXJuIHRoZSBuYW1lIGFuZCBib3VuZGluZyBib3hlcyBvZiBhIHNpbmdsZSBpbWFnZSIiIgogICAgICAgIHMgPSBzZWxmLmdldF9iYm94KG4pCiAgICAgICAgc1snbmFtZSddID0gc2VsZi5nZXRfbmFtZShuKQogICAgICAgIHJldHVybiBz</text>
       </register>
       <register name="-" type="4">
-        <text>750m</text>
+        <text>len(self.digitStructBbox)</text>
       </register>
     </registers>
     <search>
