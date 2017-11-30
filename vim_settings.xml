@@ -161,10 +161,11 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1512062595821">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1512067863480">
+        <mark key="[" line="40" column="10" />
+        <mark key="]" line="40" column="85" />
+        <mark key="." line="40" column="85" />
+        <mark key="^" line="40" column="85" />
       </file>
       <file name="/" timestamp="1511931615074">
         <mark key="[" line="0" column="0" />
@@ -222,7 +223,7 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1511815046069">
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512066424686">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="5" column="59" />
@@ -240,11 +241,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512062802276">
-        <mark key="[" line="74" column="40" />
-        <mark key="]" line="75" column="49" />
-        <mark key="." line="75" column="49" />
-        <mark key="^" line="75" column="49" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512066411679">
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="49" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -255,11 +256,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512062275513">
+      <file name="/Python Console" timestamp="1512067868715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1512017943708">
+      <file name="/fragment.py" timestamp="1512066701741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -474,11 +475,11 @@
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512064215446">
-        <mark key="[" line="110" column="62" />
-        <mark key="]" line="110" column="62" />
-        <mark key="." line="110" column="62" />
-        <mark key="^" line="110" column="62" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512066338220">
+        <mark key="[" line="115" column="62" />
+        <mark key="]" line="116" column="24" />
+        <mark key="." line="116" column="24" />
+        <mark key="^" line="116" column="24" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501328465731">
         <mark key="[" line="245" column="35" />
@@ -619,7 +620,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512003182976">
+      <file name="/Dummy.txt" timestamp="1512066721836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -691,68 +692,47 @@
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnMXN0IFBhZ2UgUmFua2luZyBCZWxvdyBUYXJnZXQnOiAnWWVzJywK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3duZXIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnMXN0IFBhZ2UgUmFua2luZyBCZWxvdyBUYXJnZXQnOiAnWWVzJywK</text>
       </register>
       <register name="2" type="4">
-        <text>columns = {
-        'price-per-lead_PPL': 
-    }</text>
+        <text encoding="base64">CiAgICAgICAgJyUgb2YgS1dzIEN1cnJlbnRseSBSYW5raW5nIEZvcic6IDE1CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBlcmZvcm1faGVhbHRoX2NoZWNrcygpCg==</text>
+        <text encoding="base64">QHB5dGUK</text>
       </register>
       <register name="4" type="4">
-        <text>'PPL Above Expected Goal': 'Yes',
-        ''</text>
+        <text>st.mark.parametrize(
+    'c'
+)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG90aGVyLCBFUlNCdWxrUmVzdWx0KToK</text>
       </register>
-      <register name="6" type="4">
-        <text>train_dir = DATA_PATH / FOLDER_NAMES[0]
-    names = []
-    images = []
-    labels = []
-    indices = []
-    with h5py.File(train_dir / 'digitStruct.mat') as h5:
-        name_struct = h5['digitStruct']['name']
-        bb = h5['digitStruct']['bbox']
-
-        for i in range(len(h5['digitStruct']['name'])):
-            name = ''.join([chr(c[0]) for c in h5[name_struct[i][0]].value])
-            index = int(re.search(r'(\d+)\.png', name).group(1))
-            img = cv2.imread(str(DATA_PATH / FOLDER_NAMES[0] / name)).astype(np.uint8)
-            label = get_attribute(h5, h5[bb[i].item()]['label'])
-            label = np.pad(label, pad_width=(0, LABELS_LENGTH - len(label)), mode='constant', constant_values=-1)
-            label = label.astype(np.int)
-
-            names.append(name)
-            images.append(img)
-            labels.append(label)
-            indices.append(index)
-
-    return pd.DataFrame(
-        data={
-            'image': images,
-            'label': labels
-        },
-        index=np.array(indices, dtype=np.int)
-    )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+            key: ERSResult(
+                names=cast(List[str], result['datasetNames']),
+                data=cast(List[Dict[str, Union[float, str]]], result['data']),
+                # For some ERS results, there is no 'overall' key
+                overall=cast(Dict[str, float], result['overall']) if 'overall' in result.keys() else {}
+            )
+            for key, result in results.items()
+        }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNsYXNzIERpZ2l0U3RydWN0V3JhcHBlcjoKICAgICIiIgogICAgV3JhcHBlciBmb3IgdGhlIEg1UFkgZGlnaXRTdHJ1Y3QgZmlsZXMgZnJvbSB0aGUgU1ZITiBkYXRhc2V0CgogICAgQ3JlYXRlcyBhbiBhcnJheSBvZiBkaWN0aW9uYXJpZXMgY29udGFpbmluZyB0aGUgZmlsZW5hbWUgYW5kIGJvdW5kaW5nIGJveGVzIGZvciBldmVyeSBkaWdpdCBpbiB0aGUgaW1hZ2UuCgogICAgQWRhcHRlZCBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9oYW5neWFvCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5mOiBQYXRoKToKICAgICAgICBzZWxmLmluZiA9IGg1cHkuRmlsZShpbmYsICdyJykKICAgICAgICBzZWxmLmRpZ2l0X3N0cnVjdF9uYW1lID0gc2VsZi5pbmZbJ2RpZ2l0U3RydWN0J11bJ25hbWUnXQogICAgICAgIHNlbGYuZGlnaXRfc3RydWN0X2Jib3ggPSBzZWxmLmluZlsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgZGVmIGdldF9sYWJlbChzZWxmLCBuKToKICAgICAgICBiYiA9IHNlbGYuaW5mWydkaWdpdFN0cnVjdCddWydiYm94J11bbl0uaXRlbSgpCiAgICAgICAgbGFiZWwgPSBzZWxmLmdldF9hdHRyaWJ1dGUoc2VsZi5pbmZbYmJdWydsYWJlbCddKQogICAgICAgIHJldHVybiBucC5wYWQobGFiZWwsICgwLCBMQUJFTFNfTEVOR1RIIC0gbGVuKGxhYmVsKSksICdjb25zdGFudCcsIGNvbnN0YW50X3ZhbHVlcz0tMSkuYXN0eXBlKG5wLmludCkKCiAgICBkZWYgZ2V0X2ltYWdlKHNlbGYsIG46IGludCkgLT4gbnAuYXJyYXk6CiAgICAgICAgbmFtZSA9IHNlbGYuZ2V0X25hbWUobikKICAgICAgICBwYXRoID0gREFUQV9QQVRIIC8gRk9MREVSX05BTUVTWzBdIC8gJ3t9LnBuZycuZm9ybWF0KG5hbWUpCiAgICAgICAgcmV0dXJuIGN2Mi5pbXJlYWQoc3RyKHBhdGgpKS5hc3R5cGUoJ2Zsb2F0MzInKQoKICAgIGRlZiBnZXRfbmFtZShzZWxmLCBuOiBpbnQpIC0+IGludDoKICAgICAgICAiIiJSZXR1cm4gdGhlIG5hbWUgb2YgdGhlIG4odGgpIGRpZ2l0IHN0cnVjdCIiIgogICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gc2VsZi5pbmZbc2VsZi5kaWdpdF9zdHJ1Y3RfbmFtZVtuXVswXV0udmFsdWVdKQogICAgICAgIG1hdGNoID0gcmUubWF0Y2gocicoXGQrKVwucG5nJywgbmFtZSkKCiAgICAgICAgaWYgbWF0Y2ggaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd3aGF0IHRoZSBoZWNrJykKCiAgICAgICAgcmV0dXJuIGludChtYXRjaC5ncm91cCgxKSkKCiAgICBkZWYgZ2V0X2F0dHJpYnV0ZShzZWxmLCBhdHRyKToKICAgICAgICAiIiJIZWxwZXIgZnVuY3Rpb24gZm9yIGRlYWxpbmcgd2l0aCBvbmUgdnMuIG11bHRpcGxlIGJvdW5kaW5nIGJveGVzIiIiCiAgICAgICAgaWYgbGVuKGF0dHIpID4gMToKICAgICAgICAgICAgcmV0dXJuIFtzZWxmLmluZlthdHRyLnZhbHVlW2pdLml0ZW0oKV0udmFsdWVbMF1bMF0gZm9yIGogaW4gcmFuZ2UobGVuKGF0dHIpKV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gW2F0dHIudmFsdWVbMF1bMF1dCgogICAgZGVmIHRvX3BhbmRhcyhzZWxmKSAtPiBwZC5EYXRhRnJhbWU6CiAgICAgICAgbGVuZ3RoID0gbGVuKHNlbGYuZGlnaXRfc3RydWN0X25hbWUpCiAgICAgICAgbGFiZWxzID0gW3NlbGYuZ2V0X2xhYmVsKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgaW1hZ2VzID0gW3NlbGYuZ2V0X2ltYWdlKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgbmFtZXMgPSBbc2VsZi5nZXRfbmFtZShpKSBmb3IgaSBpbiByYW5nZShsZW5ndGgpXQogICAgICAgIHJldHVybiBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGRhdGE9ewogICAgICAgICAgICAgICAgJ2xhYmVsJzogbGFiZWxzLAogICAgICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGluZGV4PW5hbWVzCiAgICAgICAgKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3duZXIg</text>
+        <text>expected_kws</text>
       </register>
     </registers>
     <search>
