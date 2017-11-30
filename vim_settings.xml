@@ -474,11 +474,11 @@
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512062917745">
-        <mark key="[" line="108" column="65" />
-        <mark key="]" line="90" column="63" />
-        <mark key="." line="90" column="63" />
-        <mark key="^" line="90" column="63" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512064215446">
+        <mark key="[" line="110" column="62" />
+        <mark key="]" line="110" column="62" />
+        <mark key="." line="110" column="62" />
+        <mark key="^" line="110" column="62" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501328465731">
         <mark key="[" line="245" column="35" />
@@ -694,7 +694,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">b3duZXIg</text>
       </register>
       <register name="2" type="4">
         <text>columns = {
@@ -752,7 +752,7 @@
         <text encoding="base64">CmNsYXNzIERpZ2l0U3RydWN0V3JhcHBlcjoKICAgICIiIgogICAgV3JhcHBlciBmb3IgdGhlIEg1UFkgZGlnaXRTdHJ1Y3QgZmlsZXMgZnJvbSB0aGUgU1ZITiBkYXRhc2V0CgogICAgQ3JlYXRlcyBhbiBhcnJheSBvZiBkaWN0aW9uYXJpZXMgY29udGFpbmluZyB0aGUgZmlsZW5hbWUgYW5kIGJvdW5kaW5nIGJveGVzIGZvciBldmVyeSBkaWdpdCBpbiB0aGUgaW1hZ2UuCgogICAgQWRhcHRlZCBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9oYW5neWFvCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5mOiBQYXRoKToKICAgICAgICBzZWxmLmluZiA9IGg1cHkuRmlsZShpbmYsICdyJykKICAgICAgICBzZWxmLmRpZ2l0X3N0cnVjdF9uYW1lID0gc2VsZi5pbmZbJ2RpZ2l0U3RydWN0J11bJ25hbWUnXQogICAgICAgIHNlbGYuZGlnaXRfc3RydWN0X2Jib3ggPSBzZWxmLmluZlsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgZGVmIGdldF9sYWJlbChzZWxmLCBuKToKICAgICAgICBiYiA9IHNlbGYuaW5mWydkaWdpdFN0cnVjdCddWydiYm94J11bbl0uaXRlbSgpCiAgICAgICAgbGFiZWwgPSBzZWxmLmdldF9hdHRyaWJ1dGUoc2VsZi5pbmZbYmJdWydsYWJlbCddKQogICAgICAgIHJldHVybiBucC5wYWQobGFiZWwsICgwLCBMQUJFTFNfTEVOR1RIIC0gbGVuKGxhYmVsKSksICdjb25zdGFudCcsIGNvbnN0YW50X3ZhbHVlcz0tMSkuYXN0eXBlKG5wLmludCkKCiAgICBkZWYgZ2V0X2ltYWdlKHNlbGYsIG46IGludCkgLT4gbnAuYXJyYXk6CiAgICAgICAgbmFtZSA9IHNlbGYuZ2V0X25hbWUobikKICAgICAgICBwYXRoID0gREFUQV9QQVRIIC8gRk9MREVSX05BTUVTWzBdIC8gJ3t9LnBuZycuZm9ybWF0KG5hbWUpCiAgICAgICAgcmV0dXJuIGN2Mi5pbXJlYWQoc3RyKHBhdGgpKS5hc3R5cGUoJ2Zsb2F0MzInKQoKICAgIGRlZiBnZXRfbmFtZShzZWxmLCBuOiBpbnQpIC0+IGludDoKICAgICAgICAiIiJSZXR1cm4gdGhlIG5hbWUgb2YgdGhlIG4odGgpIGRpZ2l0IHN0cnVjdCIiIgogICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gc2VsZi5pbmZbc2VsZi5kaWdpdF9zdHJ1Y3RfbmFtZVtuXVswXV0udmFsdWVdKQogICAgICAgIG1hdGNoID0gcmUubWF0Y2gocicoXGQrKVwucG5nJywgbmFtZSkKCiAgICAgICAgaWYgbWF0Y2ggaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd3aGF0IHRoZSBoZWNrJykKCiAgICAgICAgcmV0dXJuIGludChtYXRjaC5ncm91cCgxKSkKCiAgICBkZWYgZ2V0X2F0dHJpYnV0ZShzZWxmLCBhdHRyKToKICAgICAgICAiIiJIZWxwZXIgZnVuY3Rpb24gZm9yIGRlYWxpbmcgd2l0aCBvbmUgdnMuIG11bHRpcGxlIGJvdW5kaW5nIGJveGVzIiIiCiAgICAgICAgaWYgbGVuKGF0dHIpID4gMToKICAgICAgICAgICAgcmV0dXJuIFtzZWxmLmluZlthdHRyLnZhbHVlW2pdLml0ZW0oKV0udmFsdWVbMF1bMF0gZm9yIGogaW4gcmFuZ2UobGVuKGF0dHIpKV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gW2F0dHIudmFsdWVbMF1bMF1dCgogICAgZGVmIHRvX3BhbmRhcyhzZWxmKSAtPiBwZC5EYXRhRnJhbWU6CiAgICAgICAgbGVuZ3RoID0gbGVuKHNlbGYuZGlnaXRfc3RydWN0X25hbWUpCiAgICAgICAgbGFiZWxzID0gW3NlbGYuZ2V0X2xhYmVsKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgaW1hZ2VzID0gW3NlbGYuZ2V0X2ltYWdlKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgbmFtZXMgPSBbc2VsZi5nZXRfbmFtZShpKSBmb3IgaSBpbiByYW5nZShsZW5ndGgpXQogICAgICAgIHJldHVybiBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGRhdGE9ewogICAgICAgICAgICAgICAgJ2xhYmVsJzogbGFiZWxzLAogICAgICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGluZGV4PW5hbWVzCiAgICAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">b3duZXIg</text>
       </register>
     </registers>
     <search>
