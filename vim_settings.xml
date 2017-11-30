@@ -316,11 +316,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512077785973">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="63" column="63" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512085161772">
+        <mark key="[" line="96" column="3" />
+        <mark key="]" line="96" column="3" />
+        <mark key="^" line="43" column="45" />
+        <mark key="." line="96" column="3" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -691,37 +691,37 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGZvciBmaWxlX25hbWUgaW4gRklMRV9OQU1FUzoKICAgICAgICBhcmNoaXZlX3BhdGggPSBkb3dubG9hZF9maWxlKGZpbGVfbmFtZSkKICAgICAgICB3aXRoIHRhcmZpbGUub3BlbihhcmNoaXZlX3BhdGgpIGFzIGFyY2hpdmU6CiAgICAgICAgICAgIGFyY2hpdmUuZXh0cmFjdGFsbChwYXRoPWFyY2hpdmVfcGF0aC5wYXJlbnQp</text>
       </register>
       <register name="&quot;" type="4">
-        <text>32</text>
+        <text encoding="base64">IGZvciBmaWxlX25hbWUgaW4gRklMRV9OQU1FUzoKICAgICAgICBhcmNoaXZlX3BhdGggPSBkb3dubG9hZF9maWxlKGZpbGVfbmFtZSkKICAgICAgICB3aXRoIHRhcmZpbGUub3BlbihhcmNoaXZlX3BhdGgpIGFzIGFyY2hpdmU6CiAgICAgICAgICAgIGFyY2hpdmUuZXh0cmFjdGFsbChwYXRoPWFyY2hpdmVfcGF0aC5wYXJlbnQp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRyYWluKCk6Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIHRyYWluKCk6Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnMXN0IFBhZ2UgUmFua2luZyBCZWxvdyBUYXJnZXQnOiAnWWVzJywK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgJyUgb2YgS1dzIEN1cnJlbnRseSBSYW5raW5nIEZvcic6IDE1CiAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QHB5dGUK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>st.mark.parametrize(
     'c'
 )</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG90aGVyLCBFUlNCdWxrUmVzdWx0KToK</text>
       </register>
       <register name="-" type="4">
         <text>32</text>
