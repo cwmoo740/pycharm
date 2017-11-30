@@ -256,7 +256,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512068242238">
+      <file name="/Python Console" timestamp="1512075778623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -640,8 +640,8 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512073961988">
-        <mark key="[" line="45" column="37" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512075661873">
+        <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="20" />
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
