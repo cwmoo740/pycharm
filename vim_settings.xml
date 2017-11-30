@@ -256,7 +256,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512067868715">
+      <file name="/Python Console" timestamp="1512068242238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -640,11 +640,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512020288491">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512072133850">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -694,8 +694,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnMXN0IFBhZ2UgUmFua2luZyBCZWxvdyBUYXJnZXQnOiAnWWVzJywK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnMXN0IFBhZ2UgUmFua2luZyBCZWxvdyBUYXJnZXQnOiAnWWVzJywK</text>
+      <register name="&quot;" type="4">
+        <text>Dense</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgJyUgb2YgS1dzIEN1cnJlbnRseSBSYW5raW5nIEZvcic6IDE1CiAgICB9</text>
@@ -732,7 +732,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>expected_kws</text>
+        <text>Dense</text>
       </register>
     </registers>
     <search>
