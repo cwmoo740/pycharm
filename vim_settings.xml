@@ -161,11 +161,11 @@
         <mark key="." line="373" column="40" />
         <mark key="^" line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1511896643698">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="77" />
-        <mark key="." line="21" column="53" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" timestamp="1512060774016">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="40" column="3" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/" timestamp="1511931615074">
         <mark key="[" line="0" column="0" />
@@ -241,11 +241,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512057414242">
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="83" column="24" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="24" />
+      <file name="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512059791021">
+        <mark key="[" line="66" column="54" />
+        <mark key="]" line="79" column="72" />
+        <mark key="." line="79" column="72" />
+        <mark key="^" line="79" column="72" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/domain.py" timestamp="1502298155357">
         <mark key="[" line="0" column="0" />
@@ -256,7 +256,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512017579889">
+      <file name="/Python Console" timestamp="1512059968243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
@@ -690,7 +690,13 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="2" type="4">
         <text>train_dir = DATA_PATH / FOLDER_NAMES[0]
     names = []
     images = []
@@ -721,39 +727,33 @@
         index=np.array(indices, dtype=np.int)
     )</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>load_train_data()</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CmNsYXNzIERpZ2l0U3RydWN0V3JhcHBlcjoKICAgICIiIgogICAgV3JhcHBlciBmb3IgdGhlIEg1UFkgZGlnaXRTdHJ1Y3QgZmlsZXMgZnJvbSB0aGUgU1ZITiBkYXRhc2V0CgogICAgQ3JlYXRlcyBhbiBhcnJheSBvZiBkaWN0aW9uYXJpZXMgY29udGFpbmluZyB0aGUgZmlsZW5hbWUgYW5kIGJvdW5kaW5nIGJveGVzIGZvciBldmVyeSBkaWdpdCBpbiB0aGUgaW1hZ2UuCgogICAgQWRhcHRlZCBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9oYW5neWFvCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5mOiBQYXRoKToKICAgICAgICBzZWxmLmluZiA9IGg1cHkuRmlsZShpbmYsICdyJykKICAgICAgICBzZWxmLmRpZ2l0X3N0cnVjdF9uYW1lID0gc2VsZi5pbmZbJ2RpZ2l0U3RydWN0J11bJ25hbWUnXQogICAgICAgIHNlbGYuZGlnaXRfc3RydWN0X2Jib3ggPSBzZWxmLmluZlsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgZGVmIGdldF9sYWJlbChzZWxmLCBuKToKICAgICAgICBiYiA9IHNlbGYuaW5mWydkaWdpdFN0cnVjdCddWydiYm94J11bbl0uaXRlbSgpCiAgICAgICAgbGFiZWwgPSBzZWxmLmdldF9hdHRyaWJ1dGUoc2VsZi5pbmZbYmJdWydsYWJlbCddKQogICAgICAgIHJldHVybiBucC5wYWQobGFiZWwsICgwLCBMQUJFTFNfTEVOR1RIIC0gbGVuKGxhYmVsKSksICdjb25zdGFudCcsIGNvbnN0YW50X3ZhbHVlcz0tMSkuYXN0eXBlKG5wLmludCkKCiAgICBkZWYgZ2V0X2ltYWdlKHNlbGYsIG46IGludCkgLT4gbnAuYXJyYXk6CiAgICAgICAgbmFtZSA9IHNlbGYuZ2V0X25hbWUobikKICAgICAgICBwYXRoID0gREFUQV9QQVRIIC8gRk9MREVSX05BTUVTWzBdIC8gJ3t9LnBuZycuZm9ybWF0KG5hbWUpCiAgICAgICAgcmV0dXJuIGN2Mi5pbXJlYWQoc3RyKHBhdGgpKS5hc3R5cGUoJ2Zsb2F0MzInKQoKICAgIGRlZiBnZXRfbmFtZShzZWxmLCBuOiBpbnQpIC0+IGludDoKICAgICAgICAiIiJSZXR1cm4gdGhlIG5hbWUgb2YgdGhlIG4odGgpIGRpZ2l0IHN0cnVjdCIiIgogICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gc2VsZi5pbmZbc2VsZi5kaWdpdF9zdHJ1Y3RfbmFtZVtuXVswXV0udmFsdWVdKQogICAgICAgIG1hdGNoID0gcmUubWF0Y2gocicoXGQrKVwucG5nJywgbmFtZSkKCiAgICAgICAgaWYgbWF0Y2ggaXMgTm9uZToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd3aGF0IHRoZSBoZWNrJykKCiAgICAgICAgcmV0dXJuIGludChtYXRjaC5ncm91cCgxKSkKCiAgICBkZWYgZ2V0X2F0dHJpYnV0ZShzZWxmLCBhdHRyKToKICAgICAgICAiIiJIZWxwZXIgZnVuY3Rpb24gZm9yIGRlYWxpbmcgd2l0aCBvbmUgdnMuIG11bHRpcGxlIGJvdW5kaW5nIGJveGVzIiIiCiAgICAgICAgaWYgbGVuKGF0dHIpID4gMToKICAgICAgICAgICAgcmV0dXJuIFtzZWxmLmluZlthdHRyLnZhbHVlW2pdLml0ZW0oKV0udmFsdWVbMF1bMF0gZm9yIGogaW4gcmFuZ2UobGVuKGF0dHIpKV0KICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gW2F0dHIudmFsdWVbMF1bMF1dCgogICAgZGVmIHRvX3BhbmRhcyhzZWxmKSAtPiBwZC5EYXRhRnJhbWU6CiAgICAgICAgbGVuZ3RoID0gbGVuKHNlbGYuZGlnaXRfc3RydWN0X25hbWUpCiAgICAgICAgbGFiZWxzID0gW3NlbGYuZ2V0X2xhYmVsKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgaW1hZ2VzID0gW3NlbGYuZ2V0X2ltYWdlKGkpIGZvciBpIGluIHJhbmdlKGxlbmd0aCldCiAgICAgICAgbmFtZXMgPSBbc2VsZi5nZXRfbmFtZShpKSBmb3IgaSBpbiByYW5nZShsZW5ndGgpXQogICAgICAgIHJldHVybiBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGRhdGE9ewogICAgICAgICAgICAgICAgJ2xhYmVsJzogbGFiZWxzLAogICAgICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGluZGV4PW5hbWVzCiAgICAgICAgKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiBuYW1lcywK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>np.concatenate([
                 h5[l].value[0]
                 for k in h5[bb[i][0]]['label']
                 for l in k
             ])</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>load_train_data()</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
