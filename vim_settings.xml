@@ -639,11 +639,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1511899571707">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512020288491">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -722,35 +722,7 @@
     )</text>
       </register>
       <register name="&quot;" type="4">
-        <text>train_dir = DATA_PATH / FOLDER_NAMES[0]
-    names = []
-    images = []
-    labels = []
-    indices = []
-    with h5py.File(train_dir / 'digitStruct.mat') as h5:
-        name_struct = h5['digitStruct']['name']
-        bb = h5['digitStruct']['bbox']
-
-        for i in range(len(h5['digitStruct']['name'])):
-            name = ''.join([chr(c[0]) for c in h5[name_struct[i][0]].value])
-            index = int(re.search(r'(\d+)\.png', name).group(1))
-            img = cv2.imread(str(DATA_PATH / FOLDER_NAMES[0] / name)).astype(np.uint8)
-            label = get_attribute(h5, h5[bb[i].item()]['label'])
-            label = np.pad(label, pad_width=(0, LABELS_LENGTH - len(label)), mode='constant', constant_values=-1)
-            label = label.astype(np.int)
-
-            names.append(name)
-            images.append(img)
-            labels.append(label)
-            indices.append(index)
-
-    return pd.DataFrame(
-        data={
-            'image': images,
-            'label': labels
-        },
-        index=np.array(indices, dtype=np.int)
-    )</text>
+        <text>load_train_data()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -781,7 +753,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>load_train_data()</text>
       </register>
     </registers>
     <search>
