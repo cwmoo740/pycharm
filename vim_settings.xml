@@ -256,11 +256,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512007560349">
+      <file name="/Python Console" timestamp="1512013221995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1512001640368">
+      <file name="/fragment.py" timestamp="1512013491210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -316,11 +316,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512011235135">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="111" column="24" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512013932344">
+        <mark key="[" line="70" column="93" />
+        <mark key="]" line="70" column="107" />
+        <mark key="^" line="70" column="107" />
+        <mark key="." line="70" column="107" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -693,8 +693,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsZW5ndGggPSAzCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZW5ndGggPSAzCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiBuYW1lcwo=</text>
@@ -726,7 +726,7 @@
         <text encoding="base64">CgpkZWYgc2FicmVfZW50cnlfcG9pbnQoKToKICAgIGFjdGl2aXR5X2pvYiA9IExvY2F0aW9uQWN0aXZpdHlKb2IoKQogICAgYWN0aXZpdHlfam9iX2NvbmZpZyA9IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uKGFjdGl2aXR5X2pvYiwgJ0NlbnRlcm1hcmtBbm9tYWx5RGV0ZWN0aW9uU2FicmVKb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9fYXBwX25hbWVfXywgX19IV19DUk9OX0VYUFJFU1NJT05fXywgX19NQVhfRkFJTFVSRVNfXywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX01BWF9FWEVDVVRJT05fVElNRV9fLCBfX1JFVFJZX0lOVEVSVkFMX1NFQ09ORFNfXykKCiAgICBzdGFydF9zYWJyZV9jbGllbnQoW2FjdGl2aXR5X2pvYl9jb25maWddLCBfX2FwcF9uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>return pd.read_hdf(train_data)</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
