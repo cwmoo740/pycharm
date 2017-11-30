@@ -256,11 +256,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1511931618778">
+      <file name="/Python Console" timestamp="1512001266343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/fragment.py" timestamp="1511929743850">
+      <file name="/fragment.py" timestamp="1512001640368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -316,11 +316,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1511933991755">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512002112513">
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="22" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="119" column="22" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -619,7 +619,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511929783817">
+      <file name="/Dummy.txt" timestamp="1511999389388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -690,22 +690,28 @@
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBvcmFjbGUuam9icyBpbXBvcnQgcnVuX2xvY2F0aW9uX2FjdGl2aXR5Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpkZWYgc2FicmVfZW50cnlfcG9pbnQoKToKICAgIGFjdGl2aXR5X2pvYiA9IExvY2F0aW9uQWN0aXZpdHlKb2IoKQogICAgYWN0aXZpdHlfam9iX2NvbmZpZyA9IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uKGFjdGl2aXR5X2pvYiwgJ0NlbnRlcm1hcmtBbm9tYWx5RGV0ZWN0aW9uU2FicmVKb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9fYXBwX25hbWVfXywgX19IV19DUk9OX0VYUFJFU1NJT05fXywgX19NQVhfRkFJTFVSRVNfXywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX01BWF9FWEVDVVRJT05fVElNRV9fLCBfX1JFVFJZX0lOVEVSVkFMX1NFQ09ORFNfXykKCiAgICBzdGFydF9zYWJyZV9jbGllbnQoW2FjdGl2aXR5X2pvYl9jb25maWddLCBfX2FwcF9uYW1lX18pCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RhdGEudG9faGRmKERBVEFfUEFUSCAvICd0cmFpbi5oNScsICdkYXRhJykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgpkZWYgc2FicmVfZW50cnlfcG9pbnQoKToKICAgIGFjdGl2aXR5X2pvYiA9IExvY2F0aW9uQWN0aXZpdHlKb2IoKQogICAgYWN0aXZpdHlfam9iX2NvbmZpZyA9IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uKGFjdGl2aXR5X2pvYiwgJ0NlbnRlcm1hcmtBbm9tYWx5RGV0ZWN0aW9uU2FicmVKb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9fYXBwX25hbWVfXywgX19IV19DUk9OX0VYUFJFU1NJT05fXywgX19NQVhfRkFJTFVSRVNfXywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX01BWF9FWEVDVVRJT05fVElNRV9fLCBfX1JFVFJZX0lOVEVSVkFMX1NFQ09ORFNfXykKCiAgICBzdGFydF9zYWJyZV9jbGllbnQoW2FjdGl2aXR5X2pvYl9jb25maWddLCBfX2FwcF9uYW1lX18pCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RhdGEudG9faGRmKERBVEFfUEFUSCAvICd0cmFpbi5oNScsICdkYXRhJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXR0cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuc2FicmVfdXRpbHMuc2FicmVfc2V0dXAgaW1wb3J0IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uLCBzdGFydF9zYWJyZV9jbGllbnQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpkZWYgc2FicmVfZW50cnlfcG9pbnQoKToKICAgIGFjdGl2aXR5X2pvYiA9IExvY2F0aW9uQWN0aXZpdHlKb2IoKQogICAgYWN0aXZpdHlfam9iX2NvbmZpZyA9IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uKGFjdGl2aXR5X2pvYiwgJ0NlbnRlcm1hcmtBbm9tYWx5RGV0ZWN0aW9uU2FicmVKb2InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9fYXBwX25hbWVfXywgX19IV19DUk9OX0VYUFJFU1NJT05fXywgX19NQVhfRkFJTFVSRVNfXywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX01BWF9FWEVDVVRJT05fVElNRV9fLCBfX1JFVFJZX0lOVEVSVkFMX1NFQ09ORFNfXykKCiAgICBzdGFydF9zYWJyZV9jbGllbnQoW2FjdGl2aXR5X2pvYl9jb25maWddLCBfX2FwcF9uYW1lX18pCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBzcmMuc2FicmVfdXRpbHMuc2FicmVfc2V0dXAgaW1wb3J0IGNyZWF0ZV9jcm9uX2pvYl9jb25maWd1cmF0aW9uLCBzdGFydF9zYWJyZV9jbGllbnQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBzcmMuam9icy5sb2NhdGlvbl9hY3Rpdml0eSBpbXBvcnQgTG9jYXRpb25BY3Rpdml0eUpvYgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>logger.info(&quot;Starting -- {} --&quot;.format(__app_name__))
     app = Flask(__app_name__)
     app.debug = False
@@ -719,10 +725,10 @@
     logger.info(&quot;Starting WSGI Server On %s&quot;, str(__PORT__))
     start_server(app, __PORT__)</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJTdGFydGluZyAtLSB7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>} --&quot;.format(__app_name__))
     app = Flask(__app_name__)
     app.debug = False
@@ -736,14 +742,8 @@
     logger.info(&quot;Starting WSGI Server On %s&quot;, str(__PORT__))
     start_server(app, __PORT__)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyY2hpdmUud3JpdGUocmVzcG9uc2UuY29udGVudCkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKGZ1bGxfZmlsZV9uYW1lLCAnd2InKSBhcyBhcmNoaXZlX2ZpbGU6Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
