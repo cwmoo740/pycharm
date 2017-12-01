@@ -33,11 +33,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1510671957716">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="4" column="10" />
@@ -49,11 +44,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1511814791575">
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="0" />
-        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/pytest-example/test/test_integration.py" timestamp="1511895231946">
         <mark key="[" line="11" column="15" />
@@ -206,11 +196,6 @@
         <mark key="." line="93" column="21" />
         <mark key="^" line="93" column="21" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1510248208212">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/__init__.py" timestamp="1510250240129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
@@ -303,11 +288,6 @@
         <mark key="]" line="10" column="36" />
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/anomaly_detection_models/experiments/activity_by_location.py" timestamp="1510174917996">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
       </file>
       <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512106795837">
         <mark key="[" line="23" column="0" />
@@ -491,11 +471,6 @@
         <mark key="^" line="15427" column="0" />
         <mark key="." line="15427" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/environment.yml" timestamp="1510259568906">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/scripts/typecheck.sh" timestamp="1502379745027">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="11" column="0" />
@@ -596,7 +571,7 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/src/python/centermark-data-science-jobs/src/jobs/location_activity.py" timestamp="1511990261975">
+      <file name="$USER_HOME$/src/python/centermark-data-science-jobs/src/jobs/location_activity.py" timestamp="1512145434118">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="45" />
       </file>
@@ -615,10 +590,11 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/centermark-data-science-jobs/src/service.py" timestamp="1511991520736">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/python/centermark-data-science-jobs/src/service.py" timestamp="1512145465046">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508130167483">
         <mark key="[" line="309" column="15" />
@@ -680,8 +656,19 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm1hX25hbWU9J1Rlc3QgRk1BJywK</text>
+      <register name="&quot;" type="4">
+        <text>logger.info(&quot;Starting -- {} --&quot;.format(__app_name__))
+    app = Flask(__app_name__)
+    app.debug = False
+    configure_logging()
+
+    #Add JetPack endpoints
+    fyghter_pylot.file_flight_plan(app, __app_name__)
+
+    start_sabre(__app_name__, sabre_entry_point)
+
+    logger.info(&quot;Starting WSGI Server On %s&quot;, str(__PORT__))
+    start_server(app, __PORT__)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bGFiZWxzIA==</text>
@@ -689,32 +676,43 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm1hX25hbWU9J1Rlc3QgRk1BJywK</text>
+      <register name="1" type="4">
+        <text>logger.info(&quot;Starting -- {} --&quot;.format(__app_name__))
+    app = Flask(__app_name__)
+    app.debug = False
+    configure_logging()
+
+    #Add JetPack endpoints
+    fyghter_pylot.file_flight_plan(app, __app_name__)
+
+    start_sabre(__app_name__, sabre_entry_point)
+
+    logger.info(&quot;Starting WSGI Server On %s&quot;, str(__PORT__))
+    start_server(app, __PORT__)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm1hX2lkPScxOTYxNjInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm1hX25hbWU9J1Rlc3QgRk1BJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxhYmVscy5pbG9jWzA6NV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm1hX2lkPScxOTYxNjInLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxhYmVscy5pbG9jWzA6NV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcGFkZGVkID0gbGFiZWxzLmFwcGx5KGxhbWJkYSB4OiBucC5wYWQoeCwgcGFkX3dpZHRoPSgwLCBsZW5ndGggLSBsZW4oeCkpLCBjb25zdGFudF92YWx1ZXM9MTApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxlbmd0aCA9IGxhYmVscy5hcHBseShsYW1iZGEgeDogbGVuKHgpKS5tYXgoKQo=</text>
+        <text encoding="base64">ICAgICMgcGFkZGVkID0gbGFiZWxzLmFwcGx5KGxhbWJkYSB4OiBucC5wYWQoeCwgcGFkX3dpZHRoPSgwLCBsZW5ndGggLSBsZW4oeCkpLCBjb25zdGFudF92YWx1ZXM9MTApKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlCg==</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IGxhYmVscy5hcHBseShsYW1iZGEgeDogbGVuKHgpKS5tYXgoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUFYX09VVFBVVF9ESUdJVFMgPSA2Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TlVNX0NMQVNTRVMgPSAxMQo=</text>
+        <text encoding="base64">TUFYX09VVFBVVF9ESUdJVFMgPSA2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
