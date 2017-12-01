@@ -599,11 +599,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512155251776">
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512156022399">
         <mark key="[" line="83" column="30" />
-        <mark key="]" line="83" column="11" />
-        <mark key="." line="83" column="11" />
-        <mark key="^" line="83" column="11" />
+        <mark key="]" line="83" column="10" />
+        <mark key="." line="83" column="10" />
+        <mark key="^" line="83" column="10" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
