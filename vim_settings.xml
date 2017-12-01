@@ -256,9 +256,8 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512102738937">
+      <file name="/Python Console" timestamp="1512107860432">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
       </file>
       <file name="/fragment.py" timestamp="1512102869136">
         <mark key="[" line="0" column="0" />
@@ -322,11 +321,11 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512103080356">
-        <mark key="[" line="70" column="110" />
-        <mark key="]" line="70" column="111" />
-        <mark key="." line="70" column="111" />
-        <mark key="^" line="70" column="111" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512106795837">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="67" column="85" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -620,7 +619,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512102917813">
+      <file name="/Dummy.txt" timestamp="1512107870899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -640,10 +639,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512102783224">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512107917424">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -693,44 +693,41 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxhYmVscy5pbG9jWzA6NV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">bGFiZWxzIA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUFYXwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxhYmVscy5pbG9jWzA6NV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TlVNX0NMQVNTRVMgPSAxMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU1HX1NIQVBFID0gKDY0LCA2NCkK</text>
+        <text encoding="base64">ICAgICMgcGFkZGVkID0gbGFiZWxzLmFwcGx5KGxhbWJkYSB4OiBucC5wYWQoeCwgcGFkX3dpZHRoPSgwLCBsZW5ndGggLSBsZW4oeCkpLCBjb25zdGFudF92YWx1ZXM9MTApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RhdGEgPSByZXNpemVfaW1hZ2VzKHRyYWluX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IGxhYmVscy5hcHBseShsYW1iZGEgeDogbGVuKHgpKS5tYXgoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR1cGxlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmRlZiByZXNpemVfaW1hZ2VzKGRhdGFfZnJhbWU6IHBkLkRhdGFGcmFtZSkgLT4gcGQuRGF0YUZyYW1lOgogICAgZGF0YV9mcmFtZVsnaW1hZ2UnXSA9IGRhdGFfZnJhbWVbJ2ltYWdlJ10uYXBwbHkobGFtYmRhIGltZzogY3YyLnJlc2l6ZShpbWcsIChJTUdfU0hBUEVbMF0sIElNR19TSEFQRVsxXSkpKQogICAgcmV0dXJuIGRhdGFfZnJhbWUKCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">TUFYX09VVFBVVF9ESUdJVFMgPSA2Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>model.fit(
-        x=train_data['images'],
-        y=train_data['labels']
-    )</text>
+      <register name="7" type="2">
+        <text encoding="base64">TlVNX0NMQVNTRVMgPSAxMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TEFCRUxTX0xFTkdUSCA9IDYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBsYWJlbC5hc3R5cGUobnAuaW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
