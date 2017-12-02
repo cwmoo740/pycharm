@@ -229,12 +229,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/Python Console" timestamp="1512181073425">
+      <file name="/Python Console" timestamp="1512183189664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512102869136">
@@ -399,11 +394,6 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/cowlock/schema.sql" timestamp="1497584363232">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
         <mark key="]" line="366" column="8" />
@@ -527,10 +517,10 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/gpu.yml" timestamp="1512181576506">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/gpu.yml" timestamp="1512182687695">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/api.py" timestamp="1508169571524">
         <mark key="[" line="0" column="0" />
@@ -648,11 +638,6 @@
         <mark key="]" line="255" column="0" />
         <mark key="." line="255" column="0" />
         <mark key="^" line="270" column="89" />
-      </file>
-      <file name="$USER_HOME$/src/python/ai_midterm/scratch.py" timestamp="1506988587414">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/cds-data-fetcher/main.py" timestamp="1501256546790">
         <mark key="[" line="4" column="4" />
