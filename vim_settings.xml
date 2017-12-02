@@ -81,10 +81,11 @@
         <mark key="." line="178" column="23" />
         <mark key="^" line="177" column="38" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/cpu.yml" timestamp="1512173486922">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/cpu.yml" timestamp="1512180156598">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/Dockerfile" timestamp="1510252358092">
         <mark key="[" line="11" column="0" />
@@ -227,9 +228,6 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
-      </file>
-      <file name="/Python Console" timestamp="1512172653059">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/cowlock/domain/user.py" timestamp="1497585651804">
         <mark key="[" line="0" column="10" />
@@ -525,6 +523,11 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/gpu.yml" timestamp="1512180192273">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/src/python/docs-server/src/host/stash/api.py" timestamp="1508169571524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -607,6 +610,7 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/tmp.yml" timestamp="1512180039050" />
       <file name="$USER_HOME$/src/python/vision/ps04/ps4_test.py" timestamp="1508130167483">
         <mark key="[" line="309" column="15" />
         <mark key="]" line="309" column="15" />
@@ -672,41 +676,41 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGZlYXRoZXItZm9ybWF0PT0wLjQuMAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/mind/wheels/releases/download/tf1.4-cpu/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl</text>
       </register>
       <register name="-" type="4">
-        <text>hidden3</text>
+        <text>https://github.com/mind/wheels/releases/download/tf1.4-cpu/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGZlYXRoZXItZm9ybWF0PT0wLjQuMAo=</text>
+        <text encoding="base64">ICAtIHRlbnNvcmZsb3c9PTEuNC4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnZfNCA9IGNvbnZfbGF5ZXIoY29udl8zLCAxOTIsIDIsICdoaWRkZW40JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJlZml4OiAvaG9tZS9jb3dtb28vLmFuYWNvbmRhL2VudnMvY25uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAtIHdlcmt6ZXVnPT0wLjEyLjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHhfZXh0cmEgPW5wLmFycmF5KGV4dHJhX2RhdGFbJ2ltYWdlJ10udG9saXN0KCkpCiAgICB5X2V4dHJhID1vbmVfaG90KGV4dHJhX2RhdGFbJ2xhYmVsJ10pCg==</text>
+        <text encoding="base64">ICAtIHRlbnNvcmZsb3ctdGVuc29yYm9hcmQ9PTAuNC4wcmMzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsLmV2YWx1YXRlKHhfdHJhaW4sIHlfdHJhaW4pKQo=</text>
+        <text encoding="base64">ICAtIHByb3RvYnVmPT0zLjUuMC5wb3N0MQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsLm1ldHJpY3NfbmFtZXMpCg==</text>
+        <text encoding="base64">ICAtIG1hcmtkb3duPT0yLjYuOQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGh0bWw1bGliPT0wLjk5OTk5OTkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGVudW0zND09MS4xLjYK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
