@@ -611,10 +611,10 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512252566812">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512254121074">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -664,11 +664,8 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>array(
-            [True if labels[sample,digit] == for sample in range(labels.shape[0])],
-            dtype=np.bool
-        )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBucC5leWUoTlVNX0NMQVNTRVMpW10K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -676,37 +673,37 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBucC5leWUoTlVNX0NMQVNTRVMpW10K</text>
+      </register>
+      <register name="2" type="4">
         <text>array(
             [True if labels[sample,digit] == for sample in range(labels.shape[0])],
             dtype=np.bool
         )</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBkZWYgcm93X2Z1bmMoeDogbnAuYXJyYXkpIC0+IG5wLmFycmF5OgogICAgICAgIHogPSBucC56ZXJvcygoTlVNX0RJR0lUUywgTlVNX0NMQVNTRVMpLCBkdHlwZT1ucC5ib29sKQogICAgICAgIGZvciBpbmQsIHZhbCBpbiBucC5uZGVudW1lcmF0ZSh4KToKICAgICAgICAgICAgeltpbmRbMF0sIHZhbF0gPSBUcnVlCiAgICAgICAgcmV0dXJuIHoK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHlfdHJhaW4gPSBucC5hcnJheShsYWJlbHMuYXBwbHkocm93X2Z1bmMpLnRvbGlzdCgpKQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlfdHJhaW4gPSBucC5hcnJheShsYWJlbHMuYXBwbHkocm93X2Z1bmMpLnRvbGlzdCgpKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>NUM_CHANNELS = 3
 NUM_CLASSES = 11
 DIGIT_LENGTH = 6</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGV2YWx1YXRlKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c2NvcmVzID0gbW9kZWwuZXZhbHVhdGUoCiAgICAgICAgeD1ucC5hcnJheSh0ZXN0X2RhdGFbJ2ltYWdlJ10udG9saXN0KCkpLAogICAgICAgIHk9b25lX2hvdCh0ZXN0X2RhdGFbJ2xhYmVsJ10pCiAgICApCg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHByaW50KCdcbicuam9pbihbCiAgICAgICAgJ3tuYW1lfToge3Njb3JlfScuZm9ybWF0KG5hbWU9bmFtZSwgc2NvcmU9c2NvcmUpCiAgICAgICAgZm9yIG5hbWUsIHNjb3JlIGluIHppcChtb2RlbC5tZXRyaWNzX25hbWVzLCBzY29yZXMpCiAgICBdKSk=</text>
+        <text encoding="base64">c2NvcmVzID0gbW9kZWwuZXZhbHVhdGUoCiAgICAgICAgeD1ucC5hcnJheSh0ZXN0X2RhdGFbJ2ltYWdlJ10udG9saXN0KCkpLAogICAgICAgIHk9b25lX2hvdCh0ZXN0X2RhdGFbJ2xhYmVsJ10pCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
