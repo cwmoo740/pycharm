@@ -229,7 +229,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512186255174">
+      <file name="/Python Console" timestamp="1512190882282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512102869136">
@@ -289,11 +289,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512185512440">
-        <mark key="[" line="95" column="55" />
-        <mark key="]" line="95" column="54" />
-        <mark key="^" line="95" column="54" />
-        <mark key="." line="95" column="54" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512190657521">
+        <mark key="[" line="120" column="24" />
+        <mark key="]" line="120" column="24" />
+        <mark key="^" line="116" column="29" />
+        <mark key="." line="120" column="24" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -611,10 +611,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512181034107">
-        <mark key="[" line="111" column="37" />
-        <mark key="]" line="111" column="37" />
-        <mark key="." line="111" column="37" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512190873009">
+        <mark key="[" line="110" column="6" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -664,49 +665,41 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIGh0dHBzOi8vZ2l0aHViLmNvbS9taW5kL3doZWVscy9yZWxlYXNlcy9kb3dubG9hZC90ZjEuNC1ncHUtY3VkYTktZ2VuZXJpYy90ZW5zCg==</text>
+      <register name="&quot;" type="4">
+        <text>digit_length</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>digit_length</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGh0dHBzOi8vZ2l0aHViLmNvbS9taW5kL3doZWVscy9yZWxlYXNlcy9kb3dubG9hZC90ZjEuNC1ncHUtY3VkYTktZ2VuZXJpYy90ZW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0X2RhdGE6IHBkLkRhdGFGcmFtZSwK</text>
+        <text encoding="base64">ICAgIGxlbmd0aCA9IGxhYmVscy5hcHBseShsZW4pLm1heCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhYmVsczogTGlzdFtucC5hcnJheV0gPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGV2YWx1YXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>scores = model.evaluate(
-        x=np.array(test_data['image'].tolist()),
-        y=one_hot(test_data['label'])
-    )
-    print('\n'.join([
-        '{name}: {score}'.format(name=name, score=score)
-        for name, score in zip(model.metrics_names, scores)
-    ]))</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluZGljZXM6IExpc3RbaW50XSA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZXMuYXBwZW5kKG5hbWUpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Returns:
-        Path: path to the created file</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5hbWVzOiBMaXN0W3N0cl0gPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQVRBX1BBVEgubWtkaXIocGFyZW50cz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlczogTGlzdFtucC5hcnJheV0gPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
