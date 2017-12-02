@@ -289,7 +289,7 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512192181781">
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512225317131">
         <mark key="[" line="120" column="24" />
         <mark key="]" line="120" column="24" />
         <mark key="^" line="120" column="26" />
@@ -611,11 +611,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512190873009">
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512225612894">
+        <mark key="[" line="128" column="73" />
+        <mark key="]" line="113" column="15" />
+        <mark key="." line="113" column="15" />
+        <mark key="^" line="113" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
