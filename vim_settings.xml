@@ -289,11 +289,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512237836471">
-        <mark key="[" line="92" column="32" />
-        <mark key="]" line="94" column="23" />
-        <mark key="^" line="94" column="23" />
-        <mark key="." line="94" column="23" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512247031245">
+        <mark key="[" line="137" column="34" />
+        <mark key="]" line="137" column="33" />
+        <mark key="^" line="137" column="33" />
+        <mark key="." line="137" column="33" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -666,46 +666,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuYXBwZW5kKGg1LmdldCgnZGF0YScpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[0:NUM]</text>
+        <text>with pd.HDFStore(data_path) as h5:</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuYXBwZW5kKGg1LmdldCgnZGF0YScpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb2xkZXJfbmFtZTogCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaDUuZ2V0KCdkYXRhJykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICIiIgogICAgCiAgICA6cGFyYW0gZm9sZGVyX25hbWU6CiAgICA6cmV0dXJuOgogICAgIiIi</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpdGggcGQuSERGU3RvcmUodHJhaW5fZGF0YSkgYXMgaDU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwZC5EYXRhRnJhbWUK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX3BhdGggPSBEQVRBX1BBVEggLyAoZm9sZGVyX25hbWUgKyAnLmg1JykK</text>
       </register>
-      <register name="6" type="4">
-        <text>(
-        data={
-            'image': images,
-            'label': labels
-        },
-        index=np.array(indices, dtype=np.int)
-    )</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzW2ksIDosIDosIDpdID0gaW1nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaDUucHV0KCdkYXRhJywgZGF0YV9mcmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHBkLkhERlN0b3JlKGRhdGFfcGF0aCkgYXMgaDU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
