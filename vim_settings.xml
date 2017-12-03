@@ -229,10 +229,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512277321295">
+      <file name="/Python Console" timestamp="1512280470220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1512276838644">
+      <file name="/fragment.py" timestamp="1512280558474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -289,10 +289,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512160671078">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512280682336">
+        <mark key="[" line="107" column="16" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -583,7 +584,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512107870899">
+      <file name="/Dummy.txt" timestamp="1512280894578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -654,10 +655,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NUM_CLASSES * NUM_DIGITS * 10</text>
+        <text>image</text>
       </register>
       <register name="-" type="4">
-        <text>NUM_CLASSES * NUM_DIGITS * 10</text>
+        <text>image</text>
       </register>
       <register name="0" type="4">
         <text>filters=filters,
@@ -667,31 +668,31 @@
         padding='same'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgIyByZXNjYWxlIHRvIFstMSwgMV0KICAgICAgICBtYXhfY2hhbm5lbCA9IGNoYW5uZWwubWF4KCkKICAgICAgICBhID0gMiAvIChtYXhfY2hhbm5lbCAtIGNoYW5uZWwubWluKCkpCiAgICAgICAgYiA9IDEgLSBhICogbWF4X2NoYW5uZWwKICAgICAgICBjaGFubmVsID0gYSAqIGNoYW5uZWwgKyBi</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3dGYgPSBjaGFubmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCiAgICAgICAgY2hhbm5lbCA9IChjaGFubmVsIC0gbnAubWVhbihjaGFubmVsKSkgLyBucC5zdGQoY2hhbm5lbCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgIyByZXNjYWxlIHRvIFstMSwgMV0KICAgICAgICBtYXhfY2hhbm5lbCA9IGNoYW5uZWwubWF4KCkKICAgICAgICBhID0gMiAvIChtYXhfY2hhbm5lbCAtIGNoYW5uZWwubWluKCkpCiAgICAgICAgYiA9IDEgLSBhICogbWF4X2NoYW5uZWwKICAgICAgICBjaGFubmVsID0gYSAqIGNoYW5uZWwgKyBi</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3dGYgPSBjaGFubmVsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCiAgICAgICAgY2hhbm5lbCA9IChjaGFubmVsIC0gbnAubWVhbihjaGFubmVsKSkgLyBucC5zdGQoY2hhbm5lbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGlvbj0ncmVsdScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
