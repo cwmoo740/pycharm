@@ -135,9 +135,10 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/pytest-example/test/test_what.py" timestamp="1511894776513">
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/src/python/vision/cnn/results.txt" timestamp="1512314861013">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
         <mark key="[" line="561" column="26" />
@@ -394,6 +395,11 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512314983643">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
         <mark key="]" line="366" column="8" />
@@ -510,13 +516,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/pytest-example/test/conftest.py" timestamp="1511894766794">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/src/python/vision/cnn/gpu.yml" timestamp="1512184555086">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="7" column="11" />
@@ -550,6 +549,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512314948501" />
       <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509338493768">
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="19" />
@@ -665,57 +665,42 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>conv_1 = keras.layers.Conv2D(filters=filters, kernel_size=kernel_size, strides=strides)
-    conv_2 = keras.layers.Conv2D(filters=filters,kernel_size=kernel_size,strides=strides)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxheWVycyA9IGNvbnZfbGF5ZXIobGF5ZXJzLCBmaWx0ZXJzPTE5MikK</text>
       </register>
       <register name="-" type="4">
-        <text>, name=name)</text>
+        <text encoding="base64">IGxheWVycyA9IGNvbnZfbGF5ZXIobGF5ZXJzLCBmaWx0ZXJzPTY0KQ==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxheWVycyA9IGNvbnZfbGF5ZXIobGF5ZXJzLCBmaWx0ZXJzPTE5MikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxheWVycyA9IGNvbnZfbGF5ZXIobGF5ZXJzLCBmaWx0ZXJzPTEyOCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Xk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTTEzMDY4LzEzMDY4IFs9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dIC0gNHMgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Xk1eTSBeTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NIF5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTTI1OTUyLzMzNDAyIFs9PT09PT09PT09PT09PT09PT09PT09Pi4uLi4uLi5dIC0gRVRBOiBeSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5IXkheSF5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk0zMzQwMi8zMzQwMiBbPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XSAtIDEycyAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dHJhaW4gZXZhbHVhdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Xk1eTSBeTV5NXk0gXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTTMzNDAyLzMzNDAyIFs9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dIC0gNnMgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Xk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk1eTV5NXk0xMjk2MC8xMzA2OCBbPT09PT09PT09PT09PT09PT09PT09PT09PT09PT4uXSAtIEVUQTogMHNsb3NzOiAyNS43MzI0NjMwMTA1NjA4NTYK</text>
+      </register>
+      <register name="8" type="4">
         <text>conv_1 = keras.layers.Conv2D(filters=filters, kernel_size=kernel_size, strides=strides)
     conv_2 = keras.layers.Conv2D(filters=filters,kernel_size=kernel_size,strides=strides)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBzdHIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzIC09IG5wLm1lYW4oaW1hZ2VzLCBheGlzPTApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIG5vcm1hbGl6ZV8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gaW1nIC0gbnAubWVhbihpbWcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5Db252MkQK</text>
-      </register>
-      <register name="7" type="4">
-        <text>(
-        filters=filters,
-        kernel_size=kernel_size,
-        activation='relu',
-        name='conv2d_{}'.format(name)
-    )(layers)
-    layers = keras.layers.BatchNormalization()(layers)
-    layers = keras.layers.Activation('relu')(layers)
-    layers = keras.layers.MaxPooling2D(
-        pool_size=2,
-        strides=strides,
-        name='maxpool2d_{}'.format(name)
-    )(layers)
-    layers = keras.layers.Dropout(0.2)(layers)
-    return layers</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBzdHIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
