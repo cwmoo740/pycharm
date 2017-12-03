@@ -613,11 +613,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512317641603">
-        <mark key="[" line="37" column="62" />
-        <mark key="]" line="40" column="3" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="40" column="3" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512322606001">
+        <mark key="[" line="76" column="58" />
+        <mark key="]" line="76" column="84" />
+        <mark key="." line="76" column="84" />
+        <mark key="^" line="76" column="84" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -667,8 +667,8 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data.labels</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vZGVsID0gY3VzdG9tKCkK</text>
       </register>
       <register name="-" type="4">
         <text>data.labels</text>
@@ -677,27 +677,27 @@
         <text encoding="base64">ICAgIGNvbnZfMjAgPSBrZXJhcy5sYXllcnMuQ29udjJEKGZpbHRlcnM9MjU2LCBrZXJuZWxfc2l6ZT01LCBwYWRkaW5nPSdzYW1lJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgYWxsX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gY3VzdG9tKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgYWxsX2RhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9jaHM9MjAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlcG9jaHM9MjAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlcG9jaHM9MjAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhOiBJbWFnZURhdGEsCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>y_train = one_hot(data.labels)
     model.fit(data.images, y_train, epochs=epochs)
     return model</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
