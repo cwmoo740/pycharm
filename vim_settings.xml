@@ -604,12 +604,6 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512287138396">
-        <mark key="[" line="133" column="3" />
-        <mark key="]" line="133" column="2" />
-        <mark key="^" line="133" column="2" />
-        <mark key="." line="133" column="2" />
-      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
