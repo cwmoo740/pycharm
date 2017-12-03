@@ -231,7 +231,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512324072298">
+      <file name="/Python Console" timestamp="1512329560183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512272132485">
@@ -401,11 +401,10 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512317098840">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="46" />
-        <mark key="^" line="33" column="46" />
-        <mark key="." line="33" column="46" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512329170797">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
@@ -556,11 +555,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512324253029">
-        <mark key="[" line="41" column="66" />
-        <mark key="]" line="41" column="81" />
-        <mark key="." line="41" column="81" />
-        <mark key="^" line="41" column="81" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512329004877">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509338493768">
         <mark key="[" line="137" column="15" />
@@ -623,11 +621,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512326862735">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512329745137">
+        <mark key="[" line="122" column="32" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -678,40 +676,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RyYWluaW5nIG1vZGVsOiAnLCBtb2RlbF9mbi5fX25hbWVfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>y_train</text>
+        <text encoding="base64">c2h2biA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnZfMjAgPSBrZXJhcy5sYXllcnMuQ29udjJEKGZpbHRlcnM9MjU2LCBrZXJuZWxfc2l6ZT01LCBwYWRkaW5nPSdzYW1lJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RyYWluaW5nIG1vZGVsOiAnLCBtb2RlbF9mbi5fX25hbWVfXykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0YXR0cihnb29kZmVsbG93LCAnX19uYW1lX18nLCAnZ29vZGZlbGxvdycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0YXR0cihjdXN0b20sICdfX25hbWVfXycsICdjdXN0b20nKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuSU5GTyhtb2RlbC5zdW1tYXJ5KCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0YXR0cihjb2x1bW5hcmRkLCAnX19uYW1lX18nLCAnY29sdW1uYXInKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLm5hbWUgPSAnY3VzdG9tJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHlfdHJhaW4gPSBvbmVfaG90KGRhdGEubGFiZWxzKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpkZWYgdHJhaW5fY3VzdG9tKCk6CiAgICB0cmFpbl9kYXRhID0gbG9hZF9kYXRhKCd0cmFpbicpCiAgICBleHRyYV9kYXRhID0gbG9hZF9kYXRhKCdleHRyYScpCiAgICB0cmFpbl9pbWdzID0gbnAuY29uY2F0ZW5hdGUoKHRyYWluX2RhdGEuaW1hZ2VzLCBleHRyYV9kYXRhLmltYWdlcykpCiAgICB0cmFpbl9sYWJlbHMgPSBucC5jb25jYXRlbmF0ZSgodHJhaW5fZGF0YS5sYWJlbHMsIGV4dHJhX2RhdGEubGFiZWxzKSkKICAgIGFsbF9kYXRhID0gSW1hZ2VEYXRhKG5wLmFycmF5KFtdKSwgbnAuYXJyYXkoW10pKQoKICAgIGRlbCB0cmFpbl9kYXRhCiAgICBkZWwgZXh0cmFfZGF0YQoKICAgIGxlbmd0aCA9IHRyYWluX2xhYmVscy5zaGFwZVswXQogICAgbW9kZWwgPSBjdXN0b20oKQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgIHByaW50KCd0cmFpbiBjaHVuayB7fScuZm9ybWF0KGkpKQogICAgICAgIGxvd2VyX2JvdW5kID0gaW50KGkgKiBsZW5ndGggLyAxMCkKICAgICAgICB1cHBlcl9ib3VuZCA9IGludCgoaSArIDEpICogbGVuZ3RoIC8gMTApCiAgICAgICAgYWxsX2RhdGEgPSBub3JtYWxpemUoSW1hZ2VEYXRhKHRyYWluX2ltZ3NbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdLCB0cmFpbl9sYWJlbHNbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdKSkKICAgICAgICBnYy5jb2xsZWN0KCkKICAgICAgICB0cmFpbihtb2RlbCwgYWxsX2RhdGEpCiAgICAgICAgZ2MuY29sbGVjdCgpCgogICAgZGVsIGFsbF9kYXRhCiAgICBkZWwgdHJhaW5faW1ncwogICAgZGVsIHRyYWluX2xhYmVscwogICAgZ2MuY29sbGVjdCgpCiAgICBwcmludCgndHJhaW4gZXZhbHVhdGlvbicpCiAgICBldmFsdWF0ZShtb2RlbCwgbm9ybWFsaXplKGxvYWRfZGF0YSgndHJhaW4nKSkpCiAgICBwcmludCgndGVzdCBldmFsdWF0aW9uJykKICAgIGV2YWx1YXRlKG1vZGVsLCBub3JtYWxpemUobG9hZF9kYXRhKCd0ZXN0JykpKQogICAgbW9kZWwuc2F2ZV93ZWlnaHRzKGZpbGVwYXRoPURBVEFfUEFUSCAvICdjdXN0b21fbW9kZWwuaDUnLCBvdmVyd3JpdGU9VHJ1ZSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKG1vZGVsLnN1bW1hcnkoKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
