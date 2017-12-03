@@ -33,7 +33,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/main.py" timestamp="1512317150585" />
       <file name="$USER_HOME$/src/python/cowlock/main.py" timestamp="1497489514528">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="4" column="10" />
@@ -301,7 +300,6 @@
         <mark key="]" line="153" column="54" />
         <mark key="." line="153" column="54" />
       </file>
-      <file name="/usr/lib/python3.6/site-packages/tensorflow/python/keras/_impl/keras/losses.py" timestamp="1512260162074" />
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="22" />
@@ -401,10 +399,10 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512329170797">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512334318561">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
@@ -676,7 +674,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c2h2biA=</text>
@@ -685,31 +683,31 @@
         <text encoding="base64">ICAgIGNvbnZfMjAgPSBrZXJhcy5sYXllcnMuQ29udjJEKGZpbHRlcnM9MjU2LCBrZXJuZWxfc2l6ZT01LCBwYWRkaW5nPSdzYW1lJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuSU5GTyhtb2RlbC5zdW1tYXJ5KCkpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuSU5GTyhtb2RlbC5zdW1tYXJ5KCkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKG1vZGVsLnN1bW1hcnkoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKG1vZGVsLnN1bW1hcnkoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
