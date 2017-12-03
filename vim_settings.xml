@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512341257443">
+      <file name="/a.dummy" timestamp="1512342313429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/__init__.py" timestamp="1510250249553">
@@ -51,11 +51,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512342285808">
-        <mark key="[" line="65" column="63" />
-        <mark key="]" line="65" column="68" />
-        <mark key="^" line="65" column="68" />
-        <mark key="." line="65" column="68" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512344545187">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="169" column="2" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -402,7 +402,7 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512341294269">
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512343726029">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="2" column="74" />
         <mark key="^" line="2" column="74" />
@@ -667,44 +667,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>input_tensor</text>
+        <text encoding="base64">CiAgICAjIGxvYWQgd2VpZ2h0cwogICAgaWYgd2VpZ2h0cyA9PSAnaW1hZ2VuZXQnOgogICAgICAgIHdlaWdodHNfcGF0aCA9IHV0aWxzLmdldF9maWxlKAogICAgICAgICAgICAncmVzbmV0NTBfd2VpZ2h0c190Zl9kaW1fb3JkZXJpbmdfdGZfa2VybmVsc19ub3RvcC5oNScsCiAgICAgICAgICAgIFdFSUdIVFNfUEFUSCwKICAgICAgICAgICAgY2FjaGVfc3ViZGlyPSdtb2RlbHMnLAogICAgICAgICAgICBtZDVfaGFzaD0nYTI2OGViODU1Nzc4YjNkZjNjNzUwNjYzOTU0MmE2YWYnCiAgICAgICAgKQogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyh3ZWlnaHRzX3BhdGgp</text>
       </register>
       <register name="-" type="4">
-        <text>input_tensor</text>
+        <text encoding="base64">aW5jbHVkZV90b3A9VHJ1ZSwg</text>
       </register>
       <register name="0" type="4">
-        <text>filters=filters,
-        kernel_size=kernel_size,
-        strides=strides,
-        activation='relu',
-        padding='same'</text>
+        <text>model = res_net_50(weights='imagenet')
+
+    img_path = 'elephant.jpg'
+    img = image.load_img(img_path, target_size=(224, 224))
+    x = image.img_to_array(img)
+    x = np.expand_dims(x, axis=0)
+    x = preprocess_input(x)
+    print('Input image shape:', x.shape)
+
+    preds = model.predict(x)
+    print('Predicted:', decode_predictions(preds))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAjIGxvYWQgd2VpZ2h0cwogICAgaWYgd2VpZ2h0cyA9PSAnaW1hZ2VuZXQnOgogICAgICAgIHdlaWdodHNfcGF0aCA9IHV0aWxzLmdldF9maWxlKAogICAgICAgICAgICAncmVzbmV0NTBfd2VpZ2h0c190Zl9kaW1fb3JkZXJpbmdfdGZfa2VybmVsc19ub3RvcC5oNScsCiAgICAgICAgICAgIFdFSUdIVFNfUEFUSCwKICAgICAgICAgICAgY2FjaGVfc3ViZGlyPSdtb2RlbHMnLAogICAgICAgICAgICBtZDVfaGFzaD0nYTI2OGViODU1Nzc4YjNkZjNjNzUwNjYzOTU0MmE2YWYnCiAgICAgICAgKQogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyh3ZWlnaHRzX3BhdGgp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJuX25hbWVfYmFzZSA9ICdibicgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aW5wdXRfdGVuc29yOiBvcHRpb25hbCBLZXJhcyB0ZW5zb3IgKGkuZS4gb3V0cHV0IG9mIGBsYXllcnMuSW5wdXQoKWApCiAgICAgICAgICAgIHRvIHVzZSBhcyBpbWFnZSBpbnB1dCBmb3IgdGhlIG1vZGVsLgogICAgICAgIGlucHV0X3NoYXBlOiBvcHRpb25hbCBzaGFwZSB0dXBsZSwgb25seSB0byBiZSBzcGVjaWZpZWQKICAgICAgICAgICAgaWYgYGluY2x1ZGVfdG9wYCBpcyBGYWxzZSAob3RoZXJ3aXNlIHRoZSBpbnB1dCBzaGFwZQogICAgICAgICAgICBoYXMgdG8gYmUgYCgyMjQsIDIyNCwgMylgICh3aXRoIGBjaGFubmVsc19sYXN0YCBkYXRhIGZvcm1hdCkKICAgICAgICAgICAgb3IgYCgzLCAyMjQsIDI0NClgICh3aXRoIGBjaGFubmVsc19maXJzdGAgZGF0YSBmb3JtYXQpLgogICAgICAgICAgICBJdCBzaG91bGQgaGF2ZSBleGFjdGx5IDMgaW5wdXRzIGNoYW5uZWxzLAogICAgICAgICAgICBhbmQgd2lkdGggYW5kIGhlaWdodCBzaG91bGQgYmUgbm8gc21hbGxlciB0aGFuIDE5Ny4KICAgICAgICAgICAgRS5nLiBgKDIwMCwgMjAwLCAzKWAgd291bGQgYmUgb25lIHZhbGlkIHZhbHVlLgogICAgICAgIHBvb2xpbmc6IE9wdGlvbmFsIHBvb2xpbmcgbW9kZSBmb3IgZmVhdHVyZSBleHRyYWN0aW9uCiAgICAgICAgICAgIHdoZW4gYGluY2x1ZGVfdG9wYCBpcyBgRmFsc2VgLgogICAgICAgICAgICAtIGBOb25lYCBtZWFucyB0aGF0IHRoZSBvdXRwdXQgb2YgdGhlIG1vZGVsIHdpbGwgYmUKICAgICAgICAgICAgICAgIHRoZSA0RCB0ZW5zb3Igb3V0cHV0IG9mIHRoZQogICAgICAgICAgICAgICAgbGFzdCBjb252b2x1dGlvbmFsIGxheWVyLgogICAgICAgICAgICAtIGBhdmdgIG1lYW5zIHRoYXQgZ2xvYmFsIGF2ZXJhZ2UgcG9vbGluZwogICAgICAgICAgICAgICAgd2lsbCBiZSBhcHBsaWVkIHRvIHRoZSBvdXRwdXQgb2YgdGhlCiAgICAgICAgICAgICAgICBsYXN0IGNvbnZvbHV0aW9uYWwgbGF5ZXIsIGFuZCB0aHVzCiAgICAgICAgICAgICAgICB0aGUgb3V0cHV0IG9mIHRoZSBtb2RlbCB3aWxsIGJlIGEgMkQgdGVuc29yLgogICAgICAgICAgICAtIGBtYXhgIG1lYW5zIHRoYXQgZ2xvYmFsIG1heCBwb29saW5nIHdpbGwKICAgICAgICAgICAgICAgIGJlIGFwcGxpZWQuCiAgICAgICAgY2xhc3Nlczogb3B0aW9uYWwgbnVtYmVyIG9mIGNsYXNzZXMgdG8gY2xhc3NpZnkgaW1hZ2VzCiAgICAgICAgICAgIGludG8sIG9ubHkgdG8gYmUgc3BlY2lmaWVkIGlmIGBpbmNsdWRlX3RvcGAgaXMgVHJ1ZSwgYW5kCiAgICAgICAgICAgIGlmIG5vIGB3ZWlnaHRzYCBhcmd1bWVudCBpcyBzcGVjaWZpZWQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnZfbmFtZV9iYXNlID0gJ3JlcycgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
+        <text encoding="base64">ICAgIGlucHV0cyA9IGltZ19pbnB1dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIEsuaW1hZ2VfZGF0YV9mb3JtYXQoKSA9PSAnY2hhbm5lbHNfbGFzdCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2VzPTEwMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb29saW5nPU5vbmUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBibl9heGlzID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9zaGFwZT1Ob25lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBibG9jazogJ2EnLCdiJy4uLiwgY3VycmVudCBibG9jayBsYWJlbCwgdXNlZCBmb3IgZ2VuZXJhdGluZyBsYXllciBuYW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF90ZW5zb3I9Tm9uZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZTogaW50ZWdlciwgY3VycmVudCBzdGFnZSBsYWJlbCwgdXNlZCBmb3IgZ2VuZXJhdGluZyBsYXllciBuYW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlX3RvcD1UcnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJuX25hbWVfYmFzZSA9ICdibicgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
+        <text encoding="base64">V0VJR0hUU19QQVRIID0gJ2h0dHBzOi8vZ2l0aHViLmNvbS9mY2hvbGxldC9kZWVwLWxlYXJuaW5nLW1vZGVscy9yZWxlYXNlcy9kb3dubG9hZC92MC4yL3Jlc25ldDUwX3dlaWdodHNfdGZfZGltX29yZGVyaW5nX3RmX2tlcm5lbHMuaDUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
