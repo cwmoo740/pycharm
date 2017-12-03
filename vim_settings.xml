@@ -264,11 +264,10 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/__init__.py" timestamp="1512323949924">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/__init__.py" timestamp="1512326207164">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps01/.gitignore" timestamp="1504422400592">
         <mark key="[" line="3" column="5" />
@@ -624,11 +623,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512324080312">
-        <mark key="[" line="111" column="56" />
-        <mark key="]" line="111" column="37" />
-        <mark key="." line="111" column="37" />
-        <mark key="^" line="111" column="37" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512326862735">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -679,7 +678,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLm5hbWUgPSAnY3VzdG9tJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RyYWluaW5nIG1vZGVsOiAnLCBtb2RlbF9mbi5fX25hbWVfXykK</text>
       </register>
       <register name="-" type="4">
         <text>y_train</text>
@@ -688,60 +687,31 @@
         <text encoding="base64">ICAgIGNvbnZfMjAgPSBrZXJhcy5sYXllcnMuQ29udjJEKGZpbHRlcnM9MjU2LCBrZXJuZWxfc2l6ZT01LCBwYWRkaW5nPSdzYW1lJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLm5hbWUgPSAnY3VzdG9tJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RyYWluaW5nIG1vZGVsOiAnLCBtb2RlbF9mbi5fX25hbWVfXykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlfdHJhaW4gPSBvbmVfaG90KGRhdGEubGFiZWxzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0YXR0cihnb29kZmVsbG93LCAnX19uYW1lX18nLCAnZ29vZGZlbGxvdycpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpkZWYgdHJhaW5fY3VzdG9tKCk6CiAgICB0cmFpbl9kYXRhID0gbG9hZF9kYXRhKCd0cmFpbicpCiAgICBleHRyYV9kYXRhID0gbG9hZF9kYXRhKCdleHRyYScpCiAgICB0cmFpbl9pbWdzID0gbnAuY29uY2F0ZW5hdGUoKHRyYWluX2RhdGEuaW1hZ2VzLCBleHRyYV9kYXRhLmltYWdlcykpCiAgICB0cmFpbl9sYWJlbHMgPSBucC5jb25jYXRlbmF0ZSgodHJhaW5fZGF0YS5sYWJlbHMsIGV4dHJhX2RhdGEubGFiZWxzKSkKICAgIGFsbF9kYXRhID0gSW1hZ2VEYXRhKG5wLmFycmF5KFtdKSwgbnAuYXJyYXkoW10pKQoKICAgIGRlbCB0cmFpbl9kYXRhCiAgICBkZWwgZXh0cmFfZGF0YQoKICAgIGxlbmd0aCA9IHRyYWluX2xhYmVscy5zaGFwZVswXQogICAgbW9kZWwgPSBjdXN0b20oKQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgIHByaW50KCd0cmFpbiBjaHVuayB7fScuZm9ybWF0KGkpKQogICAgICAgIGxvd2VyX2JvdW5kID0gaW50KGkgKiBsZW5ndGggLyAxMCkKICAgICAgICB1cHBlcl9ib3VuZCA9IGludCgoaSArIDEpICogbGVuZ3RoIC8gMTApCiAgICAgICAgYWxsX2RhdGEgPSBub3JtYWxpemUoSW1hZ2VEYXRhKHRyYWluX2ltZ3NbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdLCB0cmFpbl9sYWJlbHNbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdKSkKICAgICAgICBnYy5jb2xsZWN0KCkKICAgICAgICB0cmFpbihtb2RlbCwgYWxsX2RhdGEpCiAgICAgICAgZ2MuY29sbGVjdCgpCgogICAgZGVsIGFsbF9kYXRhCiAgICBkZWwgdHJhaW5faW1ncwogICAgZGVsIHRyYWluX2xhYmVscwogICAgZ2MuY29sbGVjdCgpCiAgICBwcmludCgndHJhaW4gZXZhbHVhdGlvbicpCiAgICBldmFsdWF0ZShtb2RlbCwgbm9ybWFsaXplKGxvYWRfZGF0YSgndHJhaW4nKSkpCiAgICBwcmludCgndGVzdCBldmFsdWF0aW9uJykKICAgIGV2YWx1YXRlKG1vZGVsLCBub3JtYWxpemUobG9hZF9kYXRhKCd0ZXN0JykpKQogICAgbW9kZWwuc2F2ZV93ZWlnaHRzKGZpbGVwYXRoPURBVEFfUEFUSCAvICdjdXN0b21fbW9kZWwuaDUnLCBvdmVyd3JpdGU9VHJ1ZSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2V0YXR0cihjdXN0b20sICdfX25hbWVfXycsICdjdXN0b20nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0YXR0cihjb2x1bW5hcmRkLCAnX19uYW1lX18nLCAnY29sdW1uYXInKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLm5hbWUgPSAnY3VzdG9tJwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHlfdHJhaW4gPSBvbmVfaG90KGRhdGEubGFiZWxzKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def train_goodfellow():
-    train_data = load_data('train')
-    extra_data = load_data('extra')
-    train_imgs = np.concatenate((train_data.images, extra_data.images))
-    train_labels = np.concatenate((train_data.labels, extra_data.labels))
-    all_data = ImageData(np.array([]), np.array([]))
-
-    del train_data
-    del extra_data
-
-    length = train_labels.shape[0]
-    model = goodfellow()
-    for i in range(10):
-        print('train chunk {}'.format(i))
-        lower_bound = int(i * length / 10)
-        upper_bound = int((i + 1) * length / 10)
-        all_data = normalize(ImageData(train_imgs[lower_bound:upper_bound], train_labels[lower_bound:upper_bound]))
-        gc.collect()
-        train(model, all_data)
-        gc.collect()
-
-    del all_data
-    del train_imgs
-    del train_labels
-    gc.collect()
-    print('train evaluation')
-    evaluate(model, normalize(load_data('train')))
-    print('test evaluation')
-    evaluate(model, normalize(load_data('test')))
-    model.save_weights(filepath=DATA_PATH / 'goodfellow_model.h5', overwrite=True)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29sdW1uYXIuX19uYW1lX18gPT0gJ2NvbHVtbmFyJwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpkZWYgdHJhaW5fY3VzdG9tKCk6CiAgICB0cmFpbl9kYXRhID0gbG9hZF9kYXRhKCd0cmFpbicpCiAgICBleHRyYV9kYXRhID0gbG9hZF9kYXRhKCdleHRyYScpCiAgICB0cmFpbl9pbWdzID0gbnAuY29uY2F0ZW5hdGUoKHRyYWluX2RhdGEuaW1hZ2VzLCBleHRyYV9kYXRhLmltYWdlcykpCiAgICB0cmFpbl9sYWJlbHMgPSBucC5jb25jYXRlbmF0ZSgodHJhaW5fZGF0YS5sYWJlbHMsIGV4dHJhX2RhdGEubGFiZWxzKSkKICAgIGFsbF9kYXRhID0gSW1hZ2VEYXRhKG5wLmFycmF5KFtdKSwgbnAuYXJyYXkoW10pKQoKICAgIGRlbCB0cmFpbl9kYXRhCiAgICBkZWwgZXh0cmFfZGF0YQoKICAgIGxlbmd0aCA9IHRyYWluX2xhYmVscy5zaGFwZVswXQogICAgbW9kZWwgPSBjdXN0b20oKQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgIHByaW50KCd0cmFpbiBjaHVuayB7fScuZm9ybWF0KGkpKQogICAgICAgIGxvd2VyX2JvdW5kID0gaW50KGkgKiBsZW5ndGggLyAxMCkKICAgICAgICB1cHBlcl9ib3VuZCA9IGludCgoaSArIDEpICogbGVuZ3RoIC8gMTApCiAgICAgICAgYWxsX2RhdGEgPSBub3JtYWxpemUoSW1hZ2VEYXRhKHRyYWluX2ltZ3NbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdLCB0cmFpbl9sYWJlbHNbbG93ZXJfYm91bmQ6dXBwZXJfYm91bmRdKSkKICAgICAgICBnYy5jb2xsZWN0KCkKICAgICAgICB0cmFpbihtb2RlbCwgYWxsX2RhdGEpCiAgICAgICAgZ2MuY29sbGVjdCgpCgogICAgZGVsIGFsbF9kYXRhCiAgICBkZWwgdHJhaW5faW1ncwogICAgZGVsIHRyYWluX2xhYmVscwogICAgZ2MuY29sbGVjdCgpCiAgICBwcmludCgndHJhaW4gZXZhbHVhdGlvbicpCiAgICBldmFsdWF0ZShtb2RlbCwgbm9ybWFsaXplKGxvYWRfZGF0YSgndHJhaW4nKSkpCiAgICBwcmludCgndGVzdCBldmFsdWF0aW9uJykKICAgIGV2YWx1YXRlKG1vZGVsLCBub3JtYWxpemUobG9hZF9kYXRhKCd0ZXN0JykpKQogICAgbW9kZWwuc2F2ZV93ZWlnaHRzKGZpbGVwYXRoPURBVEFfUEFUSCAvICdjdXN0b21fbW9kZWwuaDUnLCBvdmVyd3JpdGU9VHJ1ZSk=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
