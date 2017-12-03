@@ -399,10 +399,11 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512334318561">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512334475751">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="39" column="51" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
@@ -553,7 +554,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512329004877">
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512334429784">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -677,7 +678,7 @@
         <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2h2biA=</text>
+        <text>MaxPool2D(pool_size=(4, 4), padding='same')(layers)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnZfMjAgPSBrZXJhcy5sYXllcnMuQ29udjJEKGZpbHRlcnM9MjU2LCBrZXJuZWxfc2l6ZT01LCBwYWRkaW5nPSdzYW1lJykK</text>
@@ -686,28 +687,28 @@
         <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5CYXRjaE5vcm1hbGl6YXRpb24oKShsYXllcnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuSU5GTyhtb2RlbC5zdW1tYXJ5KCkpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuSU5GTyhtb2RlbC5zdW1tYXJ5KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKG1vZGVsLnN1bW1hcnkoKSkK</text>
+        <text encoding="base64">TE9HR0VSID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
