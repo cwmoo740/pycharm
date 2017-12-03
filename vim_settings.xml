@@ -289,10 +289,10 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512266640017">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512269926296">
+        <mark key="[" line="153" column="54" />
+        <mark key="]" line="153" column="54" />
+        <mark key="." line="153" column="54" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/tensorflow/python/keras/_impl/keras/losses.py" timestamp="1512260162074" />
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
@@ -665,25 +665,28 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIG5vcm1hbGl6ZV8K</text>
+      <register name="&quot;" type="4">
+        <text>.astype(np.float32) / 255.</text>
       </register>
       <register name="-" type="4">
-        <text>Convolution2D</text>
+        <text>.astype(np.float32) / 255.</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIG5vcm1hbGl6ZV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzIC09IG5wLm1lYW4oaW1hZ2VzLCBheGlzPTApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gaW1nIC0gbnAubWVhbihpbWcpCg==</text>
+        <text encoding="base64">ZGVmIG5vcm1hbGl6ZV8K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gaW1nIC0gbnAubWVhbihpbWcpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxheWVycyA9IGtlcmFzLmxheWVycy5Db252MkQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(
         filters=filters,
         kernel_size=kernel_size,
@@ -700,20 +703,17 @@
     layers = keras.layers.Dropout(0.2)(layers)
     return layers</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ZGVmIGN1c3RvbV9sb3NzKHlfdHJ1ZTogdGYuVGVuc29yLCB5X3ByZWQ6IHRmLlRlbnNvcikgLT4gdGYuVGVuc29yOgogICAgcmV0dXJuIGtlcmFzLmxvc3Nlcy5jYXRlZ29yaWNhbF9jcm9zc2VudHJvcHkoeV90cnVlLCB5X3ByZWQpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5rZXJhcy5iYWNrZW5kIGFzIEsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHlfdHJhaW4gPSBucC56ZXJvcygobGFiZWxzLnNoYXBlWzBdLCBOVU1fQ0xBU1NFUyksIGR0eXBlPW5wLmJvb2wpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5rZXJhcy5iYWNrZW5kIGFzIEsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
