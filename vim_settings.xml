@@ -229,7 +229,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/fragment.py" timestamp="1512102869136">
+      <file name="/Python Console" timestamp="1512277321295">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1512276838644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -287,9 +290,9 @@
         <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512160671078">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -601,11 +604,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512162783654">
-        <mark key="[" line="77" column="43" />
-        <mark key="]" line="77" column="43" />
-        <mark key="." line="77" column="43" />
-        <mark key="^" line="77" column="43" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512277795095">
+        <mark key="[" line="108" column="25" />
+        <mark key="]" line="108" column="53" />
+        <mark key="." line="108" column="53" />
+        <mark key="^" line="108" column="53" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -655,55 +658,45 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnZfNCA9IGNvbnZfbGF5ZXIoY29udl8zLCAxOTIsIDIsICdoaWRkZW40JykK</text>
+      <register name="&quot;" type="4">
+        <text>NUM_CLASSES * NUM_DIGITS * 10</text>
       </register>
       <register name="-" type="4">
-        <text>hidden3</text>
+        <text>NUM_CLASSES * NUM_DIGITS * 10</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICB0cmFpbl9kaXIgPSBEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0KICAgIG5hbWVzID0gW10KICAgIGltYWdlcyA9IFtdCiAgICBsYWJlbHMgPSBbXQogICAgaW5kaWNlcyA9IFtdCiAgICB3aXRoIGg1cHkuRmlsZSh0cmFpbl9kaXIgLyAnZGlnaXRTdHJ1Y3QubWF0JykgYXMgaDU6CiAgICAgICAgbmFtZV9zdHJ1Y3QgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddCiAgICAgICAgYmIgPSBoNVsnZGlnaXRTdHJ1Y3QnXVsnYmJveCddCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihoNVsnZGlnaXRTdHJ1Y3QnXVsnbmFtZSddKSk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKICAgICAgICAgICAgaW5kZXggPSBpbnQocmUuc2VhcmNoKHInKFxkKylcLnBuZycsIG5hbWUpLmdyb3VwKDEpKQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKHN0cihEQVRBX1BBVEggLyBGT0xERVJfTkFNRVNbMF0gLyBuYW1lKSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBsYWJlbCA9IGdldF9hdHRyaWJ1dGUoaDUsIGg1W2JiW2ldLml0ZW0oKV1bJ2xhYmVsJ10pCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIExBQkVMU19MRU5HVEggLSBsZW4obGFiZWwpKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9LTEpCiAgICAgICAgICAgIGxhYmVsID0gbGFiZWwuYXN0eXBlKG5wLmludCkKCiAgICAgICAgICAgIG5hbWVzLmFwcGVuZChuYW1lKQogICAgICAgICAgICBpbWFnZXMuYXBwZW5kKGltZykKICAgICAgICAgICAgbGFiZWxzLmFwcGVuZChsYWJlbCkKICAgICAgICAgICAgaW5kaWNlcy5hcHBlbmQoaW5kZXgpCgogICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgKICAgICAgICBkYXRhPXsKICAgICAgICAgICAgJ2ltYWdlJzogaW1hZ2VzLAogICAgICAgICAgICAnbGFiZWwnOiBsYWJlbHMKICAgICAgICB9LAogICAgICAgIGluZGV4PW5wLmFycmF5KGluZGljZXMsIGR0eXBlPW5wLmludCkKICAgICkK</text>
+        <text>filters=filters,
+        kernel_size=kernel_size,
+        strides=strides,
+        activation='relu',
+        padding='same'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnZfNCA9IGNvbnZfbGF5ZXIoY29udl8zLCAxOTIsIDIsICdoaWRkZW40JykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHhfZXh0cmEgPW5wLmFycmF5KGV4dHJhX2RhdGFbJ2ltYWdlJ10udG9saXN0KCkpCiAgICB5X2V4dHJhID1vbmVfaG90KGV4dHJhX2RhdGFbJ2xhYmVsJ10pCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgIyByZXNjYWxlIHRvIFstMSwgMV0KICAgICAgICBtYXhfY2hhbm5lbCA9IGNoYW5uZWwubWF4KCkKICAgICAgICBhID0gMiAvIChtYXhfY2hhbm5lbCAtIGNoYW5uZWwubWluKCkpCiAgICAgICAgYiA9IDEgLSBhICogbWF4X2NoYW5uZWwKICAgICAgICBjaGFubmVsID0gYSAqIGNoYW5uZWwgKyBi</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsLmV2YWx1YXRlKHhfdHJhaW4sIHlfdHJhaW4pKQo=</text>
+        <text encoding="base64">ICAgICAgICB3dGYgPSBjaGFubmVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsLm1ldHJpY3NfbmFtZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCiAgICAgICAgY2hhbm5lbCA9IChjaGFubmVsIC0gbnAubWVhbihjaGFubmVsKSkgLyBucC5zdGQoY2hhbm5lbCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBhbmQgY2VudGVyIGFyb3VuZCAwCiAgICAgICAgY2hhbm5lbCA9IChjaGFubmVsIC0gbnAubWVhbihjaGFubmVsKSkgLyBucC5zdGQoY2hhbm5lbCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>what = [
-    1.8797289161908828,
-    0.5577394442924889,
-    0.74775415248167343,
-    0.4784031098802306,
-    0.094183918696395849,
-    0.0015081979261243684,
-    0.00014008877089157683,
-    0.82824381772475819,
-    0.75908628224784058,
-    0.85683492004325323,
-    0.97676785821208312,
-    0.99976049338362971,
-    0.99997006167295377
-]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGlvbj0ncmVsdScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
