@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/src/python/cds-data-fetcher/README.md" timestamp="1501256239085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511933697704">
+      <file name="/a.dummy" timestamp="1512341257443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/__init__.py" timestamp="1510250249553">
@@ -50,6 +50,12 @@
         <mark key="]" line="4" column="16" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512342285808">
+        <mark key="[" line="65" column="63" />
+        <mark key="]" line="65" column="68" />
+        <mark key="^" line="65" column="68" />
+        <mark key="." line="65" column="68" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
@@ -134,10 +140,6 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/python/pytest-example/test/test_what.py" timestamp="1511894776513">
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
         <mark key="[" line="561" column="26" />
@@ -400,6 +402,12 @@
         <mark key="." line="762" column="48" />
         <mark key="^" line="762" column="67" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/columnar.py" timestamp="1512341294269">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="74" />
+        <mark key="^" line="2" column="74" />
+        <mark key="." line="2" column="74" />
+      </file>
       <file name="$USER_HOME$/src/python/ai/hw3/probability_solution.py" timestamp="1498458003912">
         <mark key="[" line="363" column="75" />
         <mark key="]" line="366" column="8" />
@@ -528,6 +536,12 @@
         <mark key="^" line="145" column="15" />
         <mark key="." line="145" column="15" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/lenet.py" timestamp="1512340813896">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/utils/data_processing.py" timestamp="1510248043575">
         <mark key="[" line="61" column="118" />
         <mark key="]" line="62" column="7" />
@@ -653,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e.mes)</text>
+        <text>input_tensor</text>
       </register>
       <register name="-" type="4">
-        <text>e.mes)</text>
+        <text>input_tensor</text>
       </register>
       <register name="0" type="4">
         <text>filters=filters,
@@ -666,31 +680,31 @@
         padding='same'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoJ3d0ZicsIF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJuX25hbWVfYmFzZSA9ICdibicgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbnRpYWwgPSBzZXF1ZW50aWFsKGlucHV0cykK</text>
+        <text encoding="base64">ICAgIGNvbnZfbmFtZV9iYXNlID0gJ3JlcycgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIEsuaW1hZ2VfZGF0YV9mb3JtYXQoKSA9PSAnY2hhbm5lbHNfbGFzdCc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlucHV0cyA9IGtlcmFzLmxheWVycy5JbnB1dCgoKklNR19TSEFQRSwgTlVNX0NIQU5ORUxTKSkK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlucHV0cwo=</text>
+        <text encoding="base64">ICAgICAgICBibl9heGlzID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbnRpYWwgPSBrZXJhcy5tb2RlbHMuU2VxdWVudGlhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBibG9jazogJ2EnLCdiJy4uLiwgY3VycmVudCBibG9jayBsYWJlbCwgdXNlZCBmb3IgZ2VuZXJhdGluZyBsYXllciBuYW1lcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZTogaW50ZWdlciwgY3VycmVudCBzdGFnZSBsYWJlbCwgdXNlZCBmb3IgZ2VuZXJhdGluZyBsYXllciBuYW1lcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGJuX25hbWVfYmFzZSA9ICdibicgKyBzdHIoc3RhZ2UpICsgYmxvY2sgKyAnX2JyYW5jaCcK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
