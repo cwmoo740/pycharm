@@ -226,10 +226,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512349129602">
+      <file name="/Python Console" timestamp="1512356899460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1512285242982">
+      <file name="/fragment.py" timestamp="1512353088881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -292,11 +292,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512349681550">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="104" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512357211849">
+        <mark key="[" line="132" column="23" />
+        <mark key="]" line="132" column="23" />
+        <mark key="." line="132" column="23" />
+        <mark key="^" line="132" column="18" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -391,11 +391,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/goodfellow.py" timestamp="1512286687942">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="44" column="67" />
-        <mark key="^" line="44" column="67" />
-        <mark key="." line="44" column="67" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/goodfellow.py" timestamp="1512355768022">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="32" />
+        <mark key="^" line="49" column="32" />
+        <mark key="." line="49" column="32" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission.py" timestamp="1501736319840">
         <mark key="[" line="762" column="48" />
@@ -598,7 +598,7 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512281504098">
+      <file name="/Dummy.txt" timestamp="1512353094856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/__init__.py" timestamp="1507925689270">
@@ -606,6 +606,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="38" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/data.py" timestamp="1512355891190">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="106" column="36" />
       </file>
       <file name="$USER_HOME$/src/python/centermark-data-science-jobs/src/service.py" timestamp="1512146211041">
         <mark key="[" line="7" column="12" />
@@ -619,11 +623,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512349654076">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="82" column="12" />
-        <mark key="^" line="82" column="20" />
-        <mark key="." line="82" column="12" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512356896194">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -674,23 +678,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>224</text>
+        <text>: List[Path] = []</text>
       </register>
       <register name="-" type="4">
-        <text>224</text>
+        <text>: List[Path] = []</text>
       </register>
       <register name="0" type="4">
-        <text>model = res_net_50(weights='imagenet')
-
-    img_path = 'elephant.jpg'
-    img = image.load_img(img_path, target_size=(224, 224))
-    x = image.img_to_array(img)
-    x = np.expand_dims(x, axis=0)
-    x = preprocess_input(x)
-    print('Input image shape:', x.shape)
-
-    preds = model.predict(x)
-    print('Predicted:', decode_predictions(preds))</text>
+        <text encoding="base64">ZGVmIG1ha2VfZGF0YShmb2xkZXJfbmFtZTogc3RyID0gRk9MREVSX05BTUVTWzBdKSAtPiBJbWFnZURhdGE6CiAgICAiIiIKICAgIHJlYWRzIGRhdGEgZnJvbSBkaWdpdFN0cnVjdC5tYXQgZmlsZXMKICAgIFJldHVybnM6IChpbWFnZXMsIGxhYmVscykKCiAgICAiIiIKICAgIGlmIGZvbGRlcl9uYW1lIG5vdCBpbiBGT0xERVJfTkFNRVM6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignY2Fubm90IGxvYWQgZGF0YSBmb3IgZm9sZGVyOiB7fScuZm9ybWF0KGZvbGRlcl9uYW1lKSkKCiAgICBkYXRhX2RpciA9IERBVEFfUEFUSCAvIGZvbGRlcl9uYW1lCgogICAgcHJpbnQoJ3JlYWRpbmcgZGF0YSBmaWxlIHt9Jy5mb3JtYXQoZm9sZGVyX25hbWUpKQoKICAgIHdpdGggaDVweS5GaWxlKGRhdGFfZGlyIC8gJ2RpZ2l0U3RydWN0Lm1hdCcpIGFzIGg1OgogICAgICAgIG5hbWVfc3RydWN0ID0gaDVbJ2RpZ2l0U3RydWN0J11bJ25hbWUnXQogICAgICAgIGJiID0gaDVbJ2RpZ2l0U3RydWN0J11bJ2Jib3gnXQoKICAgICAgICBsZW5ndGggPSBsZW4obmFtZV9zdHJ1Y3QpCgogICAgICAgIGltYWdlcyA9IG5wLnplcm9zKChsZW5ndGgsICpJTUdfU0hBUEUsIE5VTV9DSEFOTkVMUyksIGR0eXBlPW5wLnVpbnQ4KQoKICAgICAgICAjIGVhY2ggcm93IGlzIGFuIGFycmF5IHRoYXQgY29udGFpbnMgdGhlIGNsYXNzZXMgaW4gb3JkZXI6IDM1IC0+IFsgMyA1IDEwIDEwIDEwIF0KICAgICAgICBsYWJlbHMgPSBucC56ZXJvcygobGVuZ3RoLCBOVU1fRElHSVRTKSwgZHR5cGU9bnAudWludDgpCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKCiAgICAgICAgICAgIGltZyA9IGN2Mi5yZXNpemUoY3YyLmltcmVhZChzdHIoREFUQV9QQVRIIC8gZm9sZGVyX25hbWUgLyBuYW1lKSksIElNR19TSEFQRSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBpbWFnZXNbaSwgOiwgOiwgOl0gPSBpbWcKCiAgICAgICAgICAgIGxhYmVsID0gbnAuYXJyYXkoZ2V0X2F0dHJpYnV0ZShoNSwgaDVbYmJbaV0uaXRlbSgpXVsnbGFiZWwnXSksIGR0eXBlPW5wLnVpbnQ4KVswOk5VTV9ESUdJVFNdCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIE5VTV9ESUdJVFMgLSBsYWJlbC5zaXplKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9MTApCgogICAgICAgICAgICBsYWJlbHNbaSwgOl0gPSBsYWJlbAoKICAgIHJldHVybiBJbWFnZURhdGEoaW1hZ2VzLCBsYWJlbHMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -699,33 +693,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0VJR0hUU19QQVRIID0gJ2h0dHBzOi8vZ2l0aHViLmNvbS9mY2hvbGxldC9kZWVwLWxlYXJuaW5nLW1vZGVscy9yZWxlYXNlcy9kb3dubG9hZC92MC4yL3Jlc25ldDUwX3dlaWdodHNfdGZfZGltX29yZGVyaW5nX3RmX2tlcm5lbHNfbm90b3AuaDUnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG1ha2VfbGFiZWxzX2ZpbGUocGF0aDpQYXRoKToK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAjIEFyZ3VtZW50cwogICAgICAgIGluY2x1ZGVfdG9wOiB3aGV0aGVyIHRvIGluY2x1ZGUgdGhlIGZ1bGx5LWNvbm5lY3RlZAogICAgICAgICAgICBsYXllciBhdCB0aGUgdG9wIG9mIHRoZSBuZXR3b3JrLgogICAgICAgIHdlaWdodHM6IG9uZSBvZiBgTm9uZWAgKHJhbmRvbSBpbml0aWFsaXphdGlvbikKICAgICAgICAgICAgb3IgImltYWdlbmV0IiAocHJlLXRyYWluaW5nIG9uIEltYWdlTmV0KS4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gcmVzX25ldF81MCh3ZWlnaHRzPSdpbWFnZW5ldCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>img_path = 'elephant.jpg'
-    img = image.load_img(img_path, target_size=(224, 224))
-    x = image.img_to_array(img)
-    x = np.expand_dims(x, axis=0)
-    x = preprocess_input(x)
-    print('Input image shape:', x.shape)
-
-    preds = model.predict(x)
-    print('Predicted:', decode_predictions(preds))</text>
+        <text>model.fit_generator(
+        generator=train_generator(),
+        steps_per_epoch=get_steps_per_epoch(),
+        epochs=20,
+        verbose=2
+    )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdXSEFUIFRIRSBIRUNLJykK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBpbWdfcGF0aCA9ICdlbGVwaGFudC5qcGcnCiAgICBpbWcgPSBpbWFnZS5sb2FkX2ltZyhpbWdfcGF0aCwgdGFyZ2V0X3NpemU9KDIyNCwgMjI0KSkKICAgIHggPSBpbWFnZS5pbWdfdG9fYXJyYXkoaW1nKQogICAgeCA9IG5wLmV4cGFuZF9kaW1zKHgsIGF4aXM9MCkKICAgIHggPSBwcmVwcm9jZXNzX2lucHV0KHgpCiAgICBwcmludCgnSW5wdXQgaW1hZ2Ugc2hhcGU6JywgeC5zaGFwZSkKCiAgICBwcmVkcyA9IG1vZGVsLnByZWRpY3QoeCkKICAgIHByaW50KCdQcmVkaWN0ZWQ6JywgZGVjb2RlX3ByZWRpY3Rpb25zKHByZWRzKSkK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGV2YWxfZGF0YSA9IG5vcm1hbGl6ZShkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
