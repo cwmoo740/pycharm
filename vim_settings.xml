@@ -51,7 +51,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512372339135" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -136,7 +135,6 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/results.txt" timestamp="1512373589536" />
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
         <mark key="[" line="561" column="26" />
         <mark key="]" line="561" column="26" />
@@ -560,7 +558,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512372594582">
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/custom.py" timestamp="1512376376166">
         <mark key="[" line="43" column="16" />
       </file>
       <file name="$USER_HOME$/src/python/vision/ps05/ps5_tests.py" timestamp="1509338493768">
