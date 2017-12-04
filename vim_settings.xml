@@ -51,12 +51,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512347639564">
-        <mark key="[" line="144" column="4" />
-        <mark key="]" line="144" column="4" />
-        <mark key="^" line="144" column="4" />
-        <mark key="." line="144" column="4" />
-      </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/resnet.py" timestamp="1512349717143" />
       <file name="$USER_HOME$/src/python/anomaly-detection-models/datafetcher/__init__.py" timestamp="1502298524918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -231,7 +226,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512347496608">
+      <file name="/Python Console" timestamp="1512349129602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512285242982">
@@ -264,6 +259,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/models/__init__.py" timestamp="1512349531158">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+      </file>
       <file name="$USER_HOME$/src/python/vision/ps01/.gitignore" timestamp="1504422400592">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="4" column="8" />
@@ -291,8 +292,8 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512286788951">
-        <mark key="[" line="167" column="0" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512349681550">
+        <mark key="[" line="21" column="15" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
         <mark key="^" line="104" column="0" />
@@ -618,6 +619,12 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512349654076">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="^" line="82" column="20" />
+        <mark key="." line="82" column="12" />
+      </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
@@ -667,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGF5ZXJzIA==</text>
+        <text>224</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF5ZXJzIA==</text>
+        <text>224</text>
       </register>
       <register name="0" type="4">
         <text>model = res_net_50(weights='imagenet')
