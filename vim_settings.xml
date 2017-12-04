@@ -309,6 +309,12 @@
         <mark key="^" line="1" column="64" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/run_v3.py" timestamp="1512367214790">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/src/python/vision/ps03/ps3.py" timestamp="1506915625223">
         <mark key="[" line="90" column="12" />
         <mark key="]" line="91" column="29" />
@@ -458,11 +464,6 @@
         <mark key="]" line="168" column="35" />
         <mark key="." line="168" column="35" />
         <mark key="^" line="168" column="35" />
-      </file>
-      <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512066338220">
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/src/python/ai/hw5/mixture_models.py" timestamp="1501328465731">
         <mark key="[" line="245" column="35" />
