@@ -136,6 +136,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/src/python/vision/cnn/results.txt" timestamp="1512357868753" />
       <file name="$USER_HOME$/src/python/ai/hw6/hmm_submission_tests.py" timestamp="1501736217470">
         <mark key="[" line="561" column="26" />
         <mark key="]" line="561" column="26" />
@@ -226,10 +227,10 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1512356899460">
+      <file name="/Python Console" timestamp="1512359568927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1512353088881">
+      <file name="/fragment.py" timestamp="1512359420598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -292,11 +293,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512357211849">
-        <mark key="[" line="132" column="23" />
-        <mark key="]" line="132" column="23" />
-        <mark key="." line="132" column="23" />
-        <mark key="^" line="132" column="18" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/data.py" timestamp="1512360295170">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/src/markdown/docs-server/src/host/stash/project.py" timestamp="1507925655468">
         <mark key="[" line="21" column="38" />
@@ -623,11 +624,11 @@
         <mark key="^" line="309" column="15" />
         <mark key="." line="309" column="15" />
       </file>
-      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512356896194">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="12" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/src/python/vision/cnn/src/train.py" timestamp="1512360237985">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/src/python/anomaly-detection-models/oracle/jobs/__init__.py" timestamp="1510250170828">
         <mark key="[" line="0" column="0" />
@@ -677,46 +678,41 @@
       <jump line="17" column="24" filename="$USER_HOME$/src/python/anomaly-detection-models/test/postprocessing/test_columns.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: List[Path] = []</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgbWFrZV9kYXRhKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>: List[Path] = []</text>
+        <text>64</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIG1ha2VfZGF0YShmb2xkZXJfbmFtZTogc3RyID0gRk9MREVSX05BTUVTWzBdKSAtPiBJbWFnZURhdGE6CiAgICAiIiIKICAgIHJlYWRzIGRhdGEgZnJvbSBkaWdpdFN0cnVjdC5tYXQgZmlsZXMKICAgIFJldHVybnM6IChpbWFnZXMsIGxhYmVscykKCiAgICAiIiIKICAgIGlmIGZvbGRlcl9uYW1lIG5vdCBpbiBGT0xERVJfTkFNRVM6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignY2Fubm90IGxvYWQgZGF0YSBmb3IgZm9sZGVyOiB7fScuZm9ybWF0KGZvbGRlcl9uYW1lKSkKCiAgICBkYXRhX2RpciA9IERBVEFfUEFUSCAvIGZvbGRlcl9uYW1lCgogICAgcHJpbnQoJ3JlYWRpbmcgZGF0YSBmaWxlIHt9Jy5mb3JtYXQoZm9sZGVyX25hbWUpKQoKICAgIHdpdGggaDVweS5GaWxlKGRhdGFfZGlyIC8gJ2RpZ2l0U3RydWN0Lm1hdCcpIGFzIGg1OgogICAgICAgIG5hbWVfc3RydWN0ID0gaDVbJ2RpZ2l0U3RydWN0J11bJ25hbWUnXQogICAgICAgIGJiID0gaDVbJ2RpZ2l0U3RydWN0J11bJ2Jib3gnXQoKICAgICAgICBsZW5ndGggPSBsZW4obmFtZV9zdHJ1Y3QpCgogICAgICAgIGltYWdlcyA9IG5wLnplcm9zKChsZW5ndGgsICpJTUdfU0hBUEUsIE5VTV9DSEFOTkVMUyksIGR0eXBlPW5wLnVpbnQ4KQoKICAgICAgICAjIGVhY2ggcm93IGlzIGFuIGFycmF5IHRoYXQgY29udGFpbnMgdGhlIGNsYXNzZXMgaW4gb3JkZXI6IDM1IC0+IFsgMyA1IDEwIDEwIDEwIF0KICAgICAgICBsYWJlbHMgPSBucC56ZXJvcygobGVuZ3RoLCBOVU1fRElHSVRTKSwgZHR5cGU9bnAudWludDgpCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbmd0aCk6CiAgICAgICAgICAgIG5hbWUgPSAnJy5qb2luKFtjaHIoY1swXSkgZm9yIGMgaW4gaDVbbmFtZV9zdHJ1Y3RbaV1bMF1dLnZhbHVlXSkKCiAgICAgICAgICAgIGltZyA9IGN2Mi5yZXNpemUoY3YyLmltcmVhZChzdHIoREFUQV9QQVRIIC8gZm9sZGVyX25hbWUgLyBuYW1lKSksIElNR19TSEFQRSkuYXN0eXBlKG5wLnVpbnQ4KQogICAgICAgICAgICBpbWFnZXNbaSwgOiwgOiwgOl0gPSBpbWcKCiAgICAgICAgICAgIGxhYmVsID0gbnAuYXJyYXkoZ2V0X2F0dHJpYnV0ZShoNSwgaDVbYmJbaV0uaXRlbSgpXVsnbGFiZWwnXSksIGR0eXBlPW5wLnVpbnQ4KVswOk5VTV9ESUdJVFNdCiAgICAgICAgICAgIGxhYmVsID0gbnAucGFkKGxhYmVsLCBwYWRfd2lkdGg9KDAsIE5VTV9ESUdJVFMgLSBsYWJlbC5zaXplKSwgbW9kZT0nY29uc3RhbnQnLCBjb25zdGFudF92YWx1ZXM9MTApCgogICAgICAgICAgICBsYWJlbHNbaSwgOl0gPSBsYWJlbAoKICAgIHJldHVybiBJbWFnZURhdGEoaW1hZ2VzLCBsYWJlbHMpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihkYXRhX2Rpcl90cmFpbiAvICduYW1lcy5wa2wnLCAncmInKSBhcyBwa2w6CiAgICAgICAgaW1hZ2VfbmFtZXNfdHJhaW4gPSBwaWNrbGUubG9hZChwa2wpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbWFrZV9kYXRhKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLnRyYWluX29uX2JhdGNoKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlPVRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfbGFiZWxzX2ZpbGUocGF0aDpQYXRoKToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>model.fit_generator(
-        generator=train_generator(),
-        steps_per_epoch=get_steps_per_epoch(),
-        epochs=20,
-        verbose=2
-    )</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltYWdlX25hbWVzX2V4dHJhID0gbnAubG9hZChkYXRhX2Rpcl9leHRyYSAvICduYW1lcy5ucHknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdXSEFUIFRIRSBIRUNLJykK</text>
+        <text encoding="base64">ICAgIGltYWdlX25hbWVzX3RyYWluID0gbnAubG9hZChkYXRhX2Rpcl90cmFpbiAvICduYW1lcy5ucHknKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2YWxfZGF0YSA9IG5vcm1hbGl6ZShkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlX25hbWVzID0gbnAubG9hZChkYXRhX2RpciAvICduYW1lcy5ucHknKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
