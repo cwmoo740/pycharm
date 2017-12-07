@@ -2,9 +2,41 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1512681709815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1512681232496">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512681775507">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="63" column="38" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
+        <mark key="[" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512682252710">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnYXNkZicK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>A boolean array,</text>
+      </register>
+      <register name="-" type="4">
+        <text>A boolean array,</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
