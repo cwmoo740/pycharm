@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512751464206">
+      <file name="/Dummy.txt" timestamp="1512755905354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512754540094">
@@ -15,6 +15,18 @@
       <file name="/Python Console" timestamp="1512751229699">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1512755825898">
+        <mark key="[" line="266" column="62" />
+        <mark key="]" line="266" column="67" />
+        <mark key="." line="266" column="67" />
+        <mark key="^" line="266" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512755794613">
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="88" />
+        <mark key="." line="12" column="88" />
+        <mark key="^" line="12" column="88" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -24,12 +36,24 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1512755695363">
+        <mark key="[" line="42" column="71" />
+        <mark key="]" line="42" column="76" />
+        <mark key="." line="42" column="76" />
+        <mark key="^" line="42" column="76" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1512755778246">
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="29" />
+        <mark key="^" line="138" column="29" />
+        <mark key="." line="138" column="29" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512754086939" />
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512754349118">
-        <mark key="[" line="30" column="46" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="32" column="4" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512755890233">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="12" />
       </file>
     </filemarks>
     <jumps />
@@ -38,7 +62,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>clients</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CkBweXRlc3QubWFyay51bml0CkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgKICAgICdyZXN1bHRzLGV4cGVjdGVkJywKICAgIFsKCiAgICBdCik=</text>
@@ -65,7 +89,7 @@
         <text encoding="base64">ZGVmIGV4cGVjdGVkX3RyZW5kKHNlcmllczogcGQuU2VyaWVzLCBmaWx0ZXI9bGFtYmRhIHg6IFRydWUpIC0+IFR1cGxlW2Zsb2F0LCBmbG9hdCwgYm9vbF06CiAgICAiIiIKICAgIERldGVybWluZSBpZiBwZXJjZW50YWdlIGNoYW5nZXMgb3ZlciB0aGUgcHJldmlvdXMgMyB3ZWVrcyBleGNlZWQgdGhlIGV4cGVjdGVkLCBzdGFuZGFyZCBkZXZpYXRpb24KICAgIG9mIHBlcmNlbnRhZ2UgY2hhbmdlLgoKICAgIFRoZSByYXcgZGF0YSBpcyB0cmFuc2Zvcm1lZCB0byBhIHBkLlNlcmllcyBvZiBhYnNvbHV0ZSBwZXJjZW50YWdlIGNoYW5nZXMsIGFmdGVyIHdoaWNoIGluZi9OYU5zIGFyZSBkcm9wcGVkLgogICAgRGV2aWF0aW9uIChhYnMoeCAtIG1lYW4pKSBpcyBjb21wYXJlZCBhZ2FpbnN0IHRoZSBzdGFuZGFyZCBkZXZpYXRpb24uCgogICAgQXJnczoKICAgICAgICBzZXJpZXM6IEVSUyByZXBvcnQgZGF0YSBmb3IgYSBwYXJ0aWN1bGFyIG93bmVyLCBzbHVnCiAgICAgICAgZmlsdGVyOiBBIGZ1bmN0aW9uIGFwcGxpZWQgdG8gdGhlIGlucHV0IHNlcmllcyBiZWZvcmUgY29tcHV0aW5nIHRyZW5kIHN0YXRpc3RpY3MKCiAgICBSZXR1cm5zOgogICAgICAgIHR1cGxlOiBUaGUgc3RhbmRhcmQgZGV2aWF0aW9uIG9mIHBlcmNlbnRhZ2UgY2hhbmdlLCBhbmQgd2hldGhlciB0aGUgdHJlbmRzCiAgICAgICAgICAgICAgIGNvbnNpc3RlbnRseSBleGNlZWRlZCBleHBlY3RhdGlvbgoKICAgICIiIgogICAgdmFsdWVzID0gc2VyaWVzLm1hcChsYW1iZGEgeDogeFsxXSkKICAgIHBjdF9jaGFuZ2VzID0gdmFsdWVzLnBjdF9jaGFuZ2UoKS5yZXBsYWNlKFtucC5pbmYsIC1ucC5pbmZdLCBucC5uYW4pLmRyb3BuYSgpCiAgICBhYnNfcGN0X2NoYW5nZXMgPSBwY3RfY2hhbmdlc1tmaWx0ZXIocGN0X2NoYW5nZXMpXS5tYXAobGFtYmRhIHg6IGFicyh4KSkKICAgIHN0ZCA9IGFic19wY3RfY2hhbmdlcy5zdGQoKQogICAgbWVhbiA9IGFic19wY3RfY2hhbmdlcy5tZWFuKCkKICAgIGFic19wY3RfY2hhbmdlcyA9IGFic19wY3RfY2hhbmdlcy5tYXAobGFtYmRhIHg6IGFicyh4IC0gbWVhbikgaWYgbnAuaXNmaW5pdGUoeCkgZWxzZSB4KQogICAgZXhjZWVkaW5nX3RyZW5kID0gYWJzX3BjdF9jaGFuZ2VzLnRhaWwoNCkuaGVhZCgzKVthYnNfcGN0X2NoYW5nZXMgPiBhYnNfcGN0X2NoYW5nZXMuc3RkKCldCgogICAgcmV0dXJuIG1lYW4sIHN0ZCwgbGVuKGV4Y2VlZGluZ190cmVuZCkgPT0gMwo=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>clients</text>
       </register>
     </registers>
     <search>
