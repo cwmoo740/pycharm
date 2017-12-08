@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1512756649896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512758244252">
-        <mark key="[" line="122" column="73" />
-        <mark key="]" line="122" column="76" />
-        <mark key="." line="122" column="76" />
-        <mark key="^" line="122" column="76" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1512765715068">
+        <mark key="[" line="133" column="79" />
+        <mark key="]" line="134" column="28" />
+        <mark key="." line="134" column="28" />
+        <mark key="^" line="134" column="28" />
       </file>
       <file name="/Python Console" timestamp="1512761211818">
         <mark key="[" line="0" column="0" />
@@ -45,7 +45,9 @@
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512760134813" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/output.py" timestamp="1512761336133">
         <mark key="[" line="74" column="28" />
         <mark key="]" line="74" column="27" />
@@ -65,37 +67,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpY3Rbc3RyLCBFUlNSZXN1bHRdCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpY3Rbc3RyLCBFUlNSZXN1bHRdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CkBweXRlc3QubWFyay51bml0CkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgKICAgICdyZXN1bHRzLGV4cGVjdGVkJywKICAgIFsKCiAgICBdCik=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CkBweXRlc3QubWFyay51bml0CkBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgKICAgICdyZXN1bHRzLGV4cGVjdGVkJywKICAgIFsKCiAgICBdCik=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVmIHNpZ19tb3ZlbWVudChzZXJpZXM6IHBkLlNlcmllcywgY2xmOiBNZWFuTW9kZWwpIC0+IFR1cGxlW25wLm5kYXJyYXksIFR1cGxlW2Zsb2F0LCBmbG9hdF1dOgogICAgIiIiCiAgICBBcmdzOgogICAgICAgIHNlcmllczogRVJTIHJlcG9ydCBkYXRhIGZvciBhIHBhcnRpY3VsYXIgb3duZXIsIHNsdWcKICAgICAgICBjbGY6IEEgY2xhc3NpZmllciBtb2RlbAoKICAgIFJldHVybnM6CiAgICAgICAgVHVwbGU6CiAgICAgICAgICAgIGZpcnN0IGVudHJ5IG5wLm5kYXJyYXkgd2hlcmUgZWFjaCBwZXJpb2Qgd2hpY2ggZXhoaWJpdGVkIGludGVyZXN0aW5nIG1vdmVtZW50IGFjY29yZGluZyB0byB0aGUgY2xhc3NpZmllcgogICAgICAgICAgICAgICAgbW9kZWwgaXMgVHJ1ZQogICAgICAgICAgICBzZWNvbmQgYSB0dXBsZSBvZiBtZWFuLCBzdGQKICAgICIiIgogICAgZGF0YSA9IG5wLmFycmF5KGxpc3QobWFwKGxhbWJkYSB4OiB4WzFdLCBzZXJpZXMudmFsdWVzKSkpCiAgICByZXR1cm4gY2xmLnByZWRpY3QoZGF0YSksIGNsZi5pbnNwZWN0KGRhdGEp</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIHNpZ19tb3ZlbWVudChzZXJpZXM6IHBkLlNlcmllcywgY2xmOiBNZWFuTW9kZWwpIC0+IFR1cGxlW25wLm5kYXJyYXksIFR1cGxlW2Zsb2F0LCBmbG9hdF1dOgogICAgIiIiCiAgICBBcmdzOgogICAgICAgIHNlcmllczogRVJTIHJlcG9ydCBkYXRhIGZvciBhIHBhcnRpY3VsYXIgb3duZXIsIHNsdWcKICAgICAgICBjbGY6IEEgY2xhc3NpZmllciBtb2RlbAoKICAgIFJldHVybnM6CiAgICAgICAgVHVwbGU6CiAgICAgICAgICAgIGZpcnN0IGVudHJ5IG5wLm5kYXJyYXkgd2hlcmUgZWFjaCBwZXJpb2Qgd2hpY2ggZXhoaWJpdGVkIGludGVyZXN0aW5nIG1vdmVtZW50IGFjY29yZGluZyB0byB0aGUgY2xhc3NpZmllcgogICAgICAgICAgICAgICAgbW9kZWwgaXMgVHJ1ZQogICAgICAgICAgICBzZWNvbmQgYSB0dXBsZSBvZiBtZWFuLCBzdGQKICAgICIiIgogICAgZGF0YSA9IG5wLmFycmF5KGxpc3QobWFwKGxhbWJkYSB4OiB4WzFdLCBzZXJpZXMudmFsdWVzKSkpCiAgICByZXR1cm4gY2xmLnByZWRpY3QoZGF0YSksIGNsZi5pbnNwZWN0KGRhdGEp</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Union[</text>
       </register>
     </registers>
     <search>
