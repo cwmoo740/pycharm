@@ -12,7 +12,7 @@
         <mark key="." line="122" column="76" />
         <mark key="^" line="122" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1512751229699">
+      <file name="/Python Console" timestamp="1512761211818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1512759017058">
@@ -46,11 +46,11 @@
         <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512760134813" />
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/output.py" timestamp="1512760173927">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1441" />
-        <mark key="^" line="0" column="1441" />
-        <mark key="." line="0" column="1441" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/output.py" timestamp="1512761336133">
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="27" />
+        <mark key="^" line="74" column="27" />
+        <mark key="." line="74" column="27" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512755794613">
         <mark key="[" line="12" column="83" />
@@ -68,7 +68,7 @@
         <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFVuaW9uCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">MSA=</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -95,7 +95,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MSA=</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
