@@ -15,26 +15,17 @@
       <file name="/Python Console" timestamp="1512751229699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1512758938648">
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1512759017058">
         <mark key="[" line="48" column="36" />
-        <mark key="]" line="271" column="67" />
-        <mark key="." line="271" column="67" />
-        <mark key="^" line="271" column="67" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512755794613">
-        <mark key="[" line="12" column="83" />
-        <mark key="]" line="12" column="88" />
-        <mark key="." line="12" column="88" />
-        <mark key="^" line="12" column="88" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="31" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="61" column="38" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
-        <mark key="[" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1512755695363">
         <mark key="[" line="42" column="71" />
@@ -48,12 +39,27 @@
         <mark key="^" line="138" column="29" />
         <mark key="." line="138" column="29" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1512754086939" />
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512758599459">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="28" column="64" />
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512760134813" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/output.py" timestamp="1512760173927">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1441" />
+        <mark key="^" line="0" column="1441" />
+        <mark key="." line="0" column="1441" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512755794613">
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="88" />
+        <mark key="." line="12" column="88" />
+        <mark key="^" line="12" column="88" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
+        <mark key="[" line="17" column="48" />
       </file>
     </filemarks>
     <jumps />
