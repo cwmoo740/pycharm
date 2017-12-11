@@ -6,20 +6,20 @@
       <file name="/Dummy.txt" timestamp="1513018219393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513034316769">
-        <mark key="[" line="251" column="77" />
-        <mark key="]" line="251" column="77" />
-        <mark key="." line="251" column="77" />
-        <mark key="^" line="251" column="77" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513034533554">
+        <mark key="[" line="90" column="13" />
+        <mark key="]" line="85" column="2" />
+        <mark key="." line="85" column="2" />
+        <mark key="^" line="85" column="2" />
       </file>
       <file name="/Python Console" timestamp="1513033474463">
         <mark key="'" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513034223975">
-        <mark key="[" line="273" column="36" />
-        <mark key="]" line="273" column="46" />
-        <mark key="^" line="307" column="7" />
-        <mark key="." line="273" column="46" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513035213265">
+        <mark key="[" line="273" column="85" />
+        <mark key="]" line="273" column="85" />
+        <mark key="^" line="284" column="63" />
+        <mark key="." line="273" column="85" />
       </file>
       <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
@@ -71,11 +71,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513033615090">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513035094124">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="22" />
+        <mark key="^" line="72" column="22" />
+        <mark key="." line="72" column="22" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -96,39 +96,37 @@
         <text encoding="base64">ICAgICAgICAneWMuZm1hLnt9Jy5mb3JtYXQoZm1hX2lkKTogbGlzdChvd25lcl9saXN0KSBmb3IgZm1hX2lkLCBvd25lcl9saXN0IGluIAogICAgICAgIG93bmVyX2RhdGFbfm93bmVyX2RhdGFbJ2ZtYV9pZCddLmlzbmEoKV0uZ3JvdXBieSgnZm1hX2lkJykuZ3JvdXBzLml0ZW1zKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAneWMuZm1hLnt9Jy5mb3JtYXQoZm1hX2lkKTogbGlzdChvd25lcl9saXN0KSBmb3IgZm1hX2lkLCBvd25lcl9saXN0IGluCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>.items()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBwcm9kdWN0X2luZm8uaXNfYWN0aXZlKG93bmVyLCAnU0VNJykK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGZtYV9vd25lcnM6IERpY3Rbc3RyLCBMaXN0W3N0cl1dID0gZGljdCgpCiAgICBub25fZm1hX293bmVyczogTGlzdFtzdHJdID0gbGlzdCgpCiAgICBmb3Igb3duZXIgaW4gYWxsX293bmVyczoKICAgICAgICAjICJGcmFuY2hpc2UiIG1lYW5zIHRoYXQgdGhpcyBvd25lciBiZWxvbmdzIHRvIGEgRk1BCiAgICAgICAgaWYgaXNfb3duZXJfZm1hKG93bmVyLCBhbGxfb3duZXJzKToKICAgICAgICAgICAgZm1hX2lkOiBzdHIgPSAieWMuZm1hLnt9Ii5mb3JtYXQoYWxsX293bmVyc1tvd25lcl1bJ2ZtYV9pZCddKQogICAgICAgICAgICAjIEZpcnN0IGVsZW1lbnQgb2YgdGhlIGxpc3QKICAgICAgICAgICAgaWYgZm1hX2lkIG5vdCBpbiBmbWFfb3duZXJzOgogICAgICAgICAgICAgICAgZm1hX293bmVyc1tmbWFfaWRdID0gbGlzdCgpCiAgICAgICAgICAgIGZtYV9vd25lcnNbZm1hX2lkXS5hcHBlbmQob3duZXIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbm9uX2ZtYV9vd25lcnMuYXBwZW5kKG93bmVyKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGdyb3VwaW5ncyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3duZXJzPVtvd25lciBmb3Igb3duZXIgaW4gY3VycmVudF9mbWFfb3duZXJzIGlmCiAgICAgICAgICAgICAgICAgICAgb3duZXIgaW4gYnVsa19yZXN1bHRzIGFuZCBvd25lciBpbiBmbWFfcHJvZHVjdF9pbmZvLm93bmVyX3Byb2R1Y3RzXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYW5fcHBsOiBQUEwgZm9yIGEgbmV0d29yayBvciBzZWdtZW50Lgo=</text>
+        <text encoding="base64">ICAgIG5iX2tleXdvcmRzX2xhc3RfbW9udGg6IGludCA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgIG5iX2tleXdvcmRzX2xhc3Rfd2VlazogaW50ID0gMAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-            key: value for key, value in all_owners.items() if key in current_fma_owners
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGtleXdvcmRzX2xhc3RfbW9udGg6IERpY3Rbc3RyLCBVbmlvbltmbG9hdCwgaW50XV0gPSBkaWN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbCBub19mbWFfbWFzawo=</text>
+        <text encoding="base64">ICAgIGtleXdvcmRzX2xhc3Rfd2VlazogRGljdFtzdHIsIFVuaW9uW2Zsb2F0LCBpbnRdXSA9IGRpY3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>.items()</text>
       </register>
     </registers>
     <search>
