@@ -12,14 +12,20 @@
       <file name="/Dummy.txt" timestamp="1513018219393">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513032459207">
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="80" column="64" />
+        <mark key="." line="80" column="64" />
+        <mark key="^" line="80" column="64" />
+      </file>
       <file name="/Python Console" timestamp="1513027188899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513031139230">
-        <mark key="[" line="278" column="61" />
-        <mark key="]" line="278" column="60" />
-        <mark key="." line="278" column="60" />
-        <mark key="^" line="278" column="60" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513031422532">
+        <mark key="[" line="282" column="44" />
+        <mark key="]" line="282" column="50" />
+        <mark key="." line="282" column="50" />
+        <mark key="^" line="282" column="50" />
       </file>
       <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
@@ -27,11 +33,10 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
         <mark key="^" line="61" column="38" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1512755695363">
-        <mark key="[" line="42" column="71" />
-        <mark key="]" line="42" column="76" />
-        <mark key="." line="42" column="76" />
-        <mark key="^" line="42" column="76" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513032343395">
+        <mark key="[" line="69" column="82" />
+        <mark key="]" line="69" column="82" />
+        <mark key="." line="69" column="82" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1512755778246">
         <mark key="[" line="138" column="24" />
@@ -97,40 +102,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>str</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KAogICAgICAgIGRhdGFfZGlyPURBVEFfRElSLAogICAgICAgIGZpbGU9J293bmVyX2RhdGEuanNvbicgaWYgbm90IGRlYnVnIGVsc2UgJ293bmVyX2RhdGFfc3Vic2V0Lmpzb24nCiAgICApCiAgICB3aXRoIG9wZW4ob3duZXJfZGF0YV9wYXRoKSBhcyBvd25lcl9qc29uOgogICAgICAgICMgRk1BIGFuZCBub24gRk1BIG93bmVycwogICAgICAgIGFsbF9vd25lcnMgPSBqc29uLmxvYWQob3duZXJfanNvbikKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBwcm9kdWN0X2luZm8uaXNfYWN0aXZlKG93bmVyLCAnU0VNJykK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHdpdGggb3Blbihvd25lcl9kYXRhX3BhdGgpIGFzIG93bmVyX2pzb246CiAgICAgICAgIyBGTUEgYW5kIG5vbiBGTUEgb3duZXJzCiAgICAgICAgYWxsX293bmVycyA9IGpzb24ubG9hZChvd25lcl9qc29uKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KGRhdGFfZGlyPURBVEFfRElSLCBmaWxlPSdvd25lcl9kYXRhLmpzb24nIGlmIG5vdCBkZWJ1ZyBlbHNlICdvd25lcl9kYXRhX3N1YnNldC5qc29uJykK</text>
+        <text encoding="base64">ICAgIGdyb3VwaW5ncyA9IFtdCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-            owner_data['yc.client.{}'.format(owner_id)][col_name]
-            for owner_id in
-            owner_ids
-        ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgcHJvZHVjdF9pbmZvID0gUHJvZHVjdEluZm8ob3duZXJzPW93bmVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>'channel', 
-        'fma_id', 'name', 'business_segment', 'leadtargetmin', 'leadtargetmax', 'last_billdate', 'billdate',
-         'budget', 'balance'])</text>
+        <text encoding="base64">Zm1hX293bmVyczogRGljdFtzdHIsIExpc3Rbc3RyXV0gPSBkaWN0KCkKICAgIG5vbl9mbWFfb3duZXJzOiBMaXN0W3N0cl0gPSBsaXN0KCkKICAgIGZvciBvd25lciBpbiBhbGxfb3duZXJzOgogICAgICAgICMgIkZyYW5jaGlzZSIgbWVhbnMgdGhhdCB0aGlzIG93bmVyIGJlbG9uZ3MgdG8gYSBGTUEKICAgICAgICBpZiBpc19vd25lcl9mbWEob3duZXIsIGFsbF9vd25lcnMpOgogICAgICAgICAgICBmbWFfaWQ6IHN0ciA9ICJ5Yy5mbWEue30iLmZvcm1hdChhbGxfb3duZXJzW293bmVyXVsnZm1hX2lkJ10pCiAgICAgICAgICAgICMgRmlyc3QgZWxlbWVudCBvZiB0aGUgbGlzdAogICAgICAgICAgICBpZiBmbWFfaWQgbm90IGluIGZtYV9vd25lcnM6CiAgICAgICAgICAgICAgICBmbWFfb3duZXJzW2ZtYV9pZF0gPSBsaXN0KCkKICAgICAgICAgICAgZm1hX293bmVyc1tmbWFfaWRdLmFwcGVuZChvd25lcikKICAgICAgICBlbHNlOgogICAgICAgICAgICBub25fZm1hX293bmVycy5hcHBlbmQob3duZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KAogICAgICAgIGRhdGFfZGlyPURBVEFfRElSLAogICAgICAgIGZpbGU9J293bmVyX2RhdGEuanNvbicgaWYgbm90IGRlYnVnIGVsc2UgJ293bmVyX2RhdGFfc3Vic2V0Lmpzb24nCiAgICApCiAgICB3aXRoIG9wZW4ob3duZXJfZGF0YV9wYXRoKSBhcyBvd25lcl9qc29uOgogICAgICAgICMgRk1BIGFuZCBub24gRk1BIG93bmVycwogICAgICAgIGFsbF9vd25lcnMgPSBqc29uLmxvYWQob3duZXJfanNvbikKICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>str</text>
       </register>
     </registers>
     <search>
