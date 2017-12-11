@@ -3,25 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513016238299">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513019142777">
+        <mark key="[" line="49" column="56" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
+        <mark key="^" line="49" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513015986409">
+      <file name="/Dummy.txt" timestamp="1513018219393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513015925677">
+      <file name="/Python Console" timestamp="1513018188051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513011791079">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-      </file>
-      <file name="/fragment.py" timestamp="1513016092222">
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513011791079" />
+      <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
@@ -45,10 +40,11 @@
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513015810235">
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
@@ -67,41 +63,51 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/preprocessing/conftest.py" timestamp="1513019273361">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG93bmVyc1snY2hhbm5lbCddID0gb3duZXJzCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgIGxhc3RfYmlsbGRhdGUgIGxlYWR0YXJnZXRtYXggIGxlYWR0YXJnZXRtaW4gIFwKMTAwMDY1ICAgIDIwMTctMTItMDEgICAgICAgICAgICAgIDAgICAgICAgICAgICAgIDAgICAKMTAwMTQ3ICAgIDIwMTctMTItMDUgICAgICAgICAgICAgIDAgICAgICAgICAgICAgIDAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">X19wYWNrYWdlX18K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X19wYWNrYWdlX18K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG93bmVyc1snYnVzaW5lc3Nfc2VnbWVudCddID0gb3duZXJzWydidXNpbmVzc19zZWdtZW50J10uYXN0eXBlKCdjYXRlZ29yeScpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG93bmVyc1snYmlsbGRhdGUnXSA9IHBkLnRvX2RhdGV0aW1lKG93bmVyc1snYmlsbGRhdGUnXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbF9uYW1lcyA9IGxpc3QobmV4dChvd25lcnMudmFsdWVzKCkpLmtleXMoKSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmNsYXNzIE91dHB1dChwZC5EYXRhRnJhbWUpOgogICAgQHByb3BlcnR5CiAgICBkZWYgX2NvbnN0cnVjdG9yKHNlbGYpOgogICAgICAgIHJldHVybiBPdXRwdXQKCiAgICBkZWYgX19pbml0X18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKSAtPiBOb25lOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQoKICAgIGRlZiBfX3NldGl0ZW1fXyhzZWxmLCBrZXksIHZhbHVlKToKICAgICAgICBpZiBrZXkgbm90IGluIERBVEFfRklFTERTOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcignaW52YWxpZCBrZXkge30nLmZvcm1hdChrZXkpKQogICAgICAgIHN1cGVyKCkuX19zZXRpdGVtX18oa2V5LCB2YWx1ZSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE9XTkVSX0lEID0gcmUuY29tcGlsZSgnXnljXC5cdytcLihcZCspJCcpCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>DATE_FIELDS = {'billdate', 'last_billdate'}
+CATEGORICAL_FIELDS = {'business_segment', 'channel'}
+OWNER_ID = re.compile('^yc\.\w+\.(\d+)$')</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSBEQVRBX0RJUi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">REFUQV9ESVIgPSAoUGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKSAvICcuLicgLyAnZGF0YScpLnJlc29sdmUoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5kYXRhX2ZyYW1lID0gcGQuRGF0YUZyYW1lKHt9KQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZnJhbWU6IHBkLkRhdGFGcmFtZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBvd25lcl9kYXRhKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
     </registers>
     <search>
