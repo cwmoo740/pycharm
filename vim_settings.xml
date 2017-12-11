@@ -12,20 +12,17 @@
       <file name="/Dummy.txt" timestamp="1513018219393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513032459207">
-        <mark key="[" line="80" column="52" />
-        <mark key="]" line="80" column="64" />
-        <mark key="." line="80" column="64" />
-        <mark key="^" line="80" column="64" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513032580107">
+        <mark key="[" line="257" column="22" />
+        <mark key="]" line="257" column="33" />
+        <mark key="." line="257" column="33" />
+        <mark key="^" line="257" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1513027188899">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513031422532">
-        <mark key="[" line="282" column="44" />
-        <mark key="]" line="282" column="50" />
-        <mark key="." line="282" column="50" />
-        <mark key="^" line="282" column="50" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513032959692">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="295" column="16" />
+        <mark key="." line="295" column="16" />
+        <mark key="^" line="295" column="16" />
       </file>
       <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
@@ -76,11 +73,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1512755794613">
-        <mark key="[" line="12" column="83" />
-        <mark key="]" line="12" column="88" />
-        <mark key="." line="12" column="88" />
-        <mark key="^" line="12" column="88" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513033224425">
+        <mark key="[" line="61" column="55" />
+        <mark key="]" line="61" column="68" />
+        <mark key="." line="61" column="68" />
+        <mark key="^" line="61" column="68" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -99,37 +96,39 @@
         <text encoding="base64">ICAgICAgIGxhc3RfYmlsbGRhdGUgIGxlYWR0YXJnZXRtYXggIGxlYWR0YXJnZXRtaW4gIFwKMTAwMDY1ICAgIDIwMTctMTItMDEgICAgICAgICAgICAgIDAgICAgICAgICAgICAgIDAgICAKMTAwMTQ3ICAgIDIwMTctMTItMDUgICAgICAgICAgICAgIDAgICAgICAgICAgICAgIDAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYW5fcHBsOiBQUEwgZm9yIGEgbmV0d29yayBvciBzZWdtZW50Lgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>owner_info</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBwcm9kdWN0X2luZm8uaXNfYWN0aXZlKG93bmVyLCAnU0VNJykK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{
+            key: value for key, value in all_owners.items() if key in current_fma_owners
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyb3VwaW5ncyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGRlbCBub19mbWFfbWFzawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJvZHVjdF9pbmZvID0gUHJvZHVjdEluZm8ob3duZXJzPW93bmVycykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Zm1hX293bmVyczogRGljdFtzdHIsIExpc3Rbc3RyXV0gPSBkaWN0KCkKICAgIG5vbl9mbWFfb3duZXJzOiBMaXN0W3N0cl0gPSBsaXN0KCkKICAgIGZvciBvd25lciBpbiBhbGxfb3duZXJzOgogICAgICAgICMgIkZyYW5jaGlzZSIgbWVhbnMgdGhhdCB0aGlzIG93bmVyIGJlbG9uZ3MgdG8gYSBGTUEKICAgICAgICBpZiBpc19vd25lcl9mbWEob3duZXIsIGFsbF9vd25lcnMpOgogICAgICAgICAgICBmbWFfaWQ6IHN0ciA9ICJ5Yy5mbWEue30iLmZvcm1hdChhbGxfb3duZXJzW293bmVyXVsnZm1hX2lkJ10pCiAgICAgICAgICAgICMgRmlyc3QgZWxlbWVudCBvZiB0aGUgbGlzdAogICAgICAgICAgICBpZiBmbWFfaWQgbm90IGluIGZtYV9vd25lcnM6CiAgICAgICAgICAgICAgICBmbWFfb3duZXJzW2ZtYV9pZF0gPSBsaXN0KCkKICAgICAgICAgICAgZm1hX293bmVyc1tmbWFfaWRdLmFwcGVuZChvd25lcikKICAgICAgICBlbHNlOgogICAgICAgICAgICBub25fZm1hX293bmVycy5hcHBlbmQob3duZXIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KAogICAgICAgIGRhdGFfZGlyPURBVEFfRElSLAogICAgICAgIGZpbGU9J293bmVyX2RhdGEuanNvbicgaWYgbm90IGRlYnVnIGVsc2UgJ293bmVyX2RhdGFfc3Vic2V0Lmpzb24nCiAgICApCiAgICB3aXRoIG9wZW4ob3duZXJfZGF0YV9wYXRoKSBhcyBvd25lcl9qc29uOgogICAgICAgICMgRk1BIGFuZCBub24gRk1BIG93bmVycwogICAgICAgIGFsbF9vd25lcnMgPSBqc29uLmxvYWQob3duZXJfanNvbikKICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBwcm9kdWN0X2luZm8uaXNfYWN0aXZlKG93bmVyLCAnU0VNJykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGdyb3VwaW5ncyA9IFtdCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgcHJvZHVjdF9pbmZvID0gUHJvZHVjdEluZm8ob3duZXJzPW93bmVycykK</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>owner_info</text>
       </register>
     </registers>
     <search>
