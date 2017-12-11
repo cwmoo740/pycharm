@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513014473846">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513016238299">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513014211734">
+      <file name="/Dummy.txt" timestamp="1513015986409">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513013732733">
+      <file name="/Python Console" timestamp="1513015925677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513011791079">
@@ -21,7 +21,7 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="/fragment.py" timestamp="1513014188653">
+      <file name="/fragment.py" timestamp="1513016092222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
@@ -44,6 +44,11 @@
         <mark key="]" line="28" column="64" />
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513015810235">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
@@ -68,8 +73,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIG93bmVyc1snY2hhbm5lbCddID0gb3duZXJzCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG93bmVyc1snY2hhbm5lbCddID0gb3duZXJzCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIG93bmVyc1snYnVzaW5lc3Nfc2VnbWVudCddID0gb3duZXJzWydidXNpbmVzc19zZWdtZW50J10uYXN0eXBlKCdjYXRlZ29yeScpCg==</text>
@@ -96,7 +101,7 @@
         <text encoding="base64">ICAgIGRhdGFfZnJhbWU6IHBkLkRhdGFGcmFtZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
