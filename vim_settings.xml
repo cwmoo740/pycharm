@@ -3,29 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513035686171">
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="39" />
-        <mark key="." line="57" column="39" />
-        <mark key="^" line="57" column="39" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513036263196">
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+        <mark key="^" line="57" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1513018219393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513033474463">
+      <file name="/Python Console" timestamp="1513036333311">
         <mark key="'" line="0" column="25" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513036135718">
-        <mark key="[" line="273" column="11" />
-        <mark key="]" line="273" column="14" />
-        <mark key="." line="273" column="14" />
-        <mark key="^" line="273" column="14" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513036852175">
+        <mark key="[" line="300" column="23" />
+        <mark key="]" line="300" column="36" />
+        <mark key="^" line="300" column="36" />
+        <mark key="." line="300" column="36" />
       </file>
       <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1512753951844">
-        <mark key="^" line="61" column="38" />
+      <file name="/a.dummy" timestamp="1513036864655">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513034271076">
         <mark key="]" line="9" column="50" />
@@ -70,11 +71,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513035957475">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513036879169">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -98,34 +99,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>is_owner_fma(owner, all_owners):</text>
+        <text>Dict[str, Any]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+            key: value for key, value in all_owners.items() if key in current_fma_owners
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBwcm9kdWN0X2luZm8uaXNfYWN0aXZlKG93bmVyLCAnU0VNJykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmRlZiBpc19vd25lcl9mbWEob3duZXI6IHN0ciwgOiBEaWN0W3N0ciwgRGljdFtzdHIsIHN0cl1dKSAtPiBib29sOgogICAgIiIiCiAgICBEZXRlcm1pbmUgaWYgb3duZXIgaXMgYW4gRk1BCiAgICAgICAgb3duZXI6IG93bmVyIGlkLCB3aXRoIHRoZSBmb3JtYXQgInljLm93bmVyLnh4eHgiCiAgICAgICAgYWxsX293bmVyczogQWxsIG93bmVycyByZWFkIGZyb20gdGhlIGNvbmZpZyBmaWxlCiAgICBSZXR1cm5zOgogICAgICAgIFRydWUgaWYgdGhlIG93bmVyIGlzIGFuIEZNQSwgRmFsc2Ugb3RoZXJ3aXNlCiAgICAiIiIKICAgIGlmIG93bmVyIGluIGFsbF9vd25lcnM6CiAgICAgICAgaWYgImNoYW5uZWwiIGluIGFsbF9vd25lcnNbb3duZXJdOgogICAgICAgICAgICByZXR1cm4gYWxsX293bmVyc1tvd25lcl1bJ2NoYW5uZWwnXSA9PSAiRnJhbmNoaXNlIgoKICAgIHJldHVybiBGYWxzZQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdyb3VwaW5ncyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG93bmVycy5zZXRfaW5kZXgob3duZXJzLmluZGV4Lm1hcChfbWFwX2luZGV4KS5hc3R5cGUoJ2ludCcpLCBpbnBsYWNlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICMgcHJvZHVjdF9pbmZvID0gUHJvZHVjdEluZm8ob3duZXJzPW93bmVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T1dORVJfSUQgPSByZS5jb21waWxlKCdeeWNcLlx3K1wuKFxkKykkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGZtYV9vd25lcnM6IERpY3Rbc3RyLCBMaXN0W3N0cl1dID0gZGljdCgpCiAgICBub25fZm1hX293bmVyczogTGlzdFtzdHJdID0gbGlzdCgpCiAgICBmb3Igb3duZXIgaW4gb3duZXJzOgogICAgICAgICMgIkZyYW5jaGlzZSIgbWVhbnMgdGhhdCB0aGlzIG93bmVyIGJlbG9uZ3MgdG8gYSBGTUEKICAgICAgICBpZiBub3Qgb3duZXJfZGF0YS5sb2Nbb3duZXJdWydmbWFfaWQnXS5pc25hKCk6CiAgICAgICAgICAgIGZtYV9pZDogc3RyID0gb3duZXJfZGF0YS5sb2Nbb3duZXJdWydmbWFfaWQnXQogICAgICAgICAgICAjIEZpcnN0IGVsZW1lbnQgb2YgdGhlIGxpc3QKICAgICAgICAgICAgaWYgZm1hX2lkIG5vdCBpbiBmbWFfb3duZXJzOgogICAgICAgICAgICAgICAgZm1hX293bmVyc1tmbWFfaWRdID0gbGlzdCgpCiAgICAgICAgICAgIGZtYV9vd25lcnNbZm1hX2lkXS5hcHBlbmQob3duZXIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbm9uX2ZtYV9vd25lcnMuYXBwZW5kKG93bmVyKQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>is_owner_fma(owner, all_owners):</text>
+        <text>Dict[str, Any]</text>
       </register>
     </registers>
     <search>
