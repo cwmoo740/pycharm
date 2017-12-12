@@ -16,14 +16,13 @@
         <mark key="'" line="0" column="25" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513050846577">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="100" />
-        <mark key="^" line="51" column="100" />
-        <mark key="." line="51" column="100" />
-      </file>
       <file name="/fragment.py" timestamp="1513018249782">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/data_processing.py" timestamp="1513052052086">
+        <mark key="]" line="37" column="15" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1513036864655">
         <mark key="[" line="0" column="0" />
@@ -101,38 +100,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAneWMuZm1hLnt9Jy5mb3JtYXQoZm1hX2lkKTogbGlzdChvd25lcl9saXN0KSBmb3IgZm1hX2lkLCBvd25lcl9saXN0IGluIAogICAgICAgIG93bmVyX2RhdGFbfm93bmVyX2RhdGFbJ2ZtYV9pZCddLmlzbmEoKV0uZ3JvdXBieSgnZm1hX2lkJykuZ3JvdXBzLml0ZW1zKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KAogICAgICAgIGRhdGFfZGlyPURBVEFfRElSLAogICAgICAgIGZpbGU9J293bmVyX2RhdGEuanNvbicgaWYgbm90IGRlYnVnIGVsc2UgJ293bmVyX2RhdGFfc3Vic2V0Lmpzb24nCiAgICApCiAgICB3aXRoIG9wZW4ob3duZXJfZGF0YV9wYXRoKSBhcyBvd25lcl9qc29uOgogICAgICAgICMgRk1BIGFuZCBub24gRk1BIG93bmVycwogICAgICAgIGFsbF9vd25lcnMgPSBqc29uLmxvYWQob3duZXJfanNvbik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZpZWxkbmFtZXMgPSBbJ0NoYW5uZWwnLCAnQ2xpZW50IE5hbWUnLCAnQ2xpZW50IElEJywgJ1NlZ21lbnQnLCAnRm1hIE5hbWUnLCAnRm1hIElkJywgJ1N0YXR1cycsICpoZWFkZXJzXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIG93bmVyX2RhdGFfcGF0aCA9ICd7ZGF0YV9kaXJ9L3tmaWxlfScuZm9ybWF0KAogICAgICAgIGRhdGFfZGlyPURBVEFfRElSLAogICAgICAgIGZpbGU9J293bmVyX2RhdGEuanNvbicgaWYgbm90IGRlYnVnIGVsc2UgJ293bmVyX2RhdGFfc3Vic2V0Lmpzb24nCiAgICApCiAgICB3aXRoIG9wZW4ob3duZXJfZGF0YV9wYXRoKSBhcyBvd25lcl9qc29uOgogICAgICAgICMgRk1BIGFuZCBub24gRk1BIG93bmVycwogICAgICAgIGFsbF9vd25lcnMgPSBqc29uLmxvYWQob3duZXJfanNvbik=</text>
+        <text>owners</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfb3duZXJzOiBBbGwgb3duZXJzIG9uIHdoaWNoIHRoZSByZXBvcnQgaXMgcnVuIChGTUFzIGFuZCBub24gRk1BcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG93bmVyIGluIGJ1bGtfcmVzdWx0cyBhbmQgb3duZXIgaW4gb3duZXJzX3Byb2R1Y3RfaW5mby5vd25lcl9wcm9kdWN0c10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd1snRm1hIE5hbWUnXSA9ICJOL0EiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvd25lcnM9W293bmVyIGZvciBvd25lciBpbiBub25fZm1hX293bmVycyBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd1snRm1hIElkJ10gPSAiTi9BIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBvd25lcnNfaW5mbyA9IHsKICAgICAgICBrZXk6IHZhbHVlIGZvciBrZXksIHZhbHVlIGluIGFsbF9vd25lcnMuaXRlbXMoKSBpZiBrZXkgaW4gbm9uX2ZtYV9vd25lcnMKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvd25lciBpbiBidWxrX3Jlc3VsdHMgYW5kIG93bmVyIGluIGZtYV9wcm9kdWN0X2luZm8ub3duZXJfcHJvZHVjdHNdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG93bmVyX2RhdGEubG9jW293bmVyXVsnZm1hX2lkJ10uaXNuYSgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3duZXJzPVtvd25lciBmb3Igb3duZXIgaW4gY3VycmVudF9mbWFfb3duZXJzIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtYV9pZDogc3RyID0gb3duZXJfZGF0YS5sb2Nbb3duZXJdWydmbWFfaWQnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG93bmVyczogTGlzdFtzdHJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd1snRm1hIElkJ10gPSBmbWFfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9wYWdlX2tleXdvcmRzX2xhc3RfbW9udGg6IGludCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdjaGFubmVsJywgJ0NoYW5uZWwnKSwgKCduYW1lJywgJ0NsaWVudCBOYW1lJyksICgnYnVzaW5lc3Nfc2VnbWVudCcsICdTZWdtZW50JyksICgnZm1hX2lkJywpKToK</text>
       </register>
       <register name="-" type="4">
-        <text>All owners on which the report is run (FMAs and non FMAs)</text>
+        <text>owners</text>
       </register>
     </registers>
     <search>
