@@ -3,20 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513183309539">
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="83" />
-        <mark key="." line="35" column="83" />
-        <mark key="^" line="35" column="83" />
-      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513103999513">
         <mark key="[" line="231" column="70" />
         <mark key="]" line="231" column="114" />
         <mark key="^" line="231" column="114" />
         <mark key="." line="231" column="114" />
       </file>
-      <file name="/Python Console" timestamp="1513183645728">
-        <mark key="'" line="0" column="25" />
+      <file name="/Python Console" timestamp="1513191581379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513183509833">
@@ -27,11 +20,11 @@
       <file name="/a.dummy" timestamp="1513036864655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1513050098957">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/conftest.py" timestamp="1513191498762">
+        <mark key="[" line="90" column="56" />
+        <mark key="]" line="91" column="63" />
+        <mark key="." line="91" column="63" />
+        <mark key="^" line="91" column="63" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
@@ -75,7 +68,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513183747172">
+      <file name="/Dummy.txt" timestamp="1513190591626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513183832985">
@@ -126,37 +119,44 @@
         <text encoding="base64">ICAgICAgICAneWMuZm1hLnt9Jy5mb3JtYXQoZm1hX2lkKTogbGlzdChvd25lcl9saXN0KSBmb3IgZm1hX2lkLCBvd25lcl9saXN0IGluIAogICAgICAgIG93bmVyX2RhdGFbfm93bmVyX2RhdGFbJ2ZtYV9pZCddLmlzbmEoKV0uZ3JvdXBieSgnZm1hX2lkJykuZ3JvdXBzLml0ZW1zKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY29udmVydF9kYXRlcyc6IGRhdGVfZmllbGRzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>x hours remaining</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnY29udmVydF9kYXRlcyc6IGRhdGVfZmllbGRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBpbmYK</text>
+        <text encoding="base64">ICAgICAgICBvd246IGxpc3Qgb2Ygb3duZXJzIHRvIHVzZSBpbiB0aGUgZ3JvdXBpbmcK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YW55KChyZXF1ZXN0Lm5hbWUgPT0gJ1NFTScgZm9yIHJlcXVlc3QgaW4gcmVxdWVzdHMpKQo=</text>
+      <register name="3" type="4">
+        <text>orient='index',
+            dtype={
+                'balance': 'float',
+                'budget': 'float',
+                'leadtargetmax': 'int',
+                'leadtargetmin': 'int'
+            },
+            convert_dates=date_fields</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93WydGbWEgSWQnXSA9IG93Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmbWFfaWQnOiAnaW50JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFsdGhfY2hlY2tzWydVbnBhaWQgTGVhZCBEcm9wJ10gPSAnTi9BJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3duZXJzPW93bmVycywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBpbmYK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YW55KChyZXF1ZXN0Lm5hbWUgPT0gJ1NFTScgZm9yIHJlcXVlc3QgaW4gcmVxdWVzdHMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>x hours remaining</text>
+        <text>owners</text>
       </register>
     </registers>
     <search>
