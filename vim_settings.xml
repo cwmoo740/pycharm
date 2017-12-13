@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513194210137">
-        <mark key="[" line="275" column="80" />
-        <mark key="]" line="273" column="28" />
-        <mark key="^" line="273" column="28" />
-        <mark key="." line="273" column="28" />
+        <mark key="[" line="266" column="80" />
+        <mark key="]" line="264" column="28" />
+        <mark key="^" line="264" column="28" />
+        <mark key="." line="264" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1513190591626">
         <mark key="[" line="0" column="0" />
@@ -15,12 +15,10 @@
       <file name="/Python Console" timestamp="1513199043832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513194744856">
-        <mark key="'" line="23" column="50" />
-        <mark key="[" line="434" column="60" />
-        <mark key="]" line="434" column="60" />
-        <mark key="^" line="304" column="96" />
-        <mark key="." line="434" column="60" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513200250996">
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513183509833">
         <mark key="[" line="0" column="0" />
@@ -30,10 +28,10 @@
       <file name="/a.dummy" timestamp="1513036864655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513105319260">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513200333138">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1512755778246">
         <mark key="[" line="138" column="24" />
@@ -55,12 +53,6 @@
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/product_info.py" timestamp="1513096580600">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="12" />
-        <mark key="^" line="217" column="12" />
-        <mark key="." line="221" column="12" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/preprocessing/test_owner_data.py" timestamp="1513035901959">
         <mark key="[" line="23" column="31" />
@@ -113,15 +105,21 @@
         <text encoding="base64">ICAgICAgICAneWMuZm1hLnt9Jy5mb3JtYXQoZm1hX2lkKTogbGlzdChvd25lcl9saXN0KSBmb3IgZm1hX2lkLCBvd25lcl9saXN0IGluIAogICAgICAgIG93bmVyX2RhdGFbfm93bmVyX2RhdGFbJ2ZtYV9pZCddLmlzbmEoKV0uZ3JvdXBieSgnZm1hX2lkJykuZ3JvdXBzLml0ZW1zKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY29udmVydF9kYXRlcyc6IGRhdGVfZmllbGRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>debug=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGJ1bGtfcmVzdWx0cyA9IGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKGZ1dHVyZSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnY29udmVydF9kYXRlcyc6IGRhdGVfZmllbGRzCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBvd246IGxpc3Qgb2Ygb3duZXJzIHRvIHVzZSBpbiB0aGUgZ3JvdXBpbmcK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>orient='index',
             dtype={
                 'balance': 'float',
@@ -131,23 +129,17 @@
             },
             convert_dates=date_fields</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdmbWFfaWQnOiAnaW50JywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3duZXJzPW93bmVycywK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBpbmYK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YW55KChyZXF1ZXN0Lm5hbWUgPT0gJ1NFTScgZm9yIHJlcXVlc3QgaW4gcmVxdWVzdHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>debug=True</text>
