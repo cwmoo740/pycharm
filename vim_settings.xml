@@ -54,6 +54,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/src/yodle/centermark-data-science-jobs/environment.yml" timestamp="1513189696778">
+        <mark key="[" line="10" column="78" />
+        <mark key="]" line="10" column="85" />
+        <mark key="^" line="10" column="85" />
+        <mark key="." line="10" column="85" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513188130307">
         <mark key="[" line="58" column="115" />
         <mark key="]" line="58" column="66" />
@@ -102,8 +108,14 @@
         <mark key="^" line="217" column="12" />
         <mark key="." line="221" column="12" />
       </file>
+      <file name="$USER_HOME$/src/yodle/centermark-data-science-jobs/src/service.py" timestamp="1513189221788">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/owner_data_subset.json" timestamp="1513182754756" />
-      <file name="$USER_HOME$/src/yodle/centermark-data-science-jobs/src/jobs/location_activity.py" timestamp="1513188208300" />
+      <file name="$USER_HOME$/src/yodle/centermark-data-science-jobs/src/jobs/location_activity.py" timestamp="1513189200038" />
     </filemarks>
     <jumps>
       <jump line="0" column="25" filename="/Python Console" />
