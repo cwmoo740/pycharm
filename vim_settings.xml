@@ -87,11 +87,11 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513184113243">
-        <mark key="[" line="58" column="63" />
-        <mark key="]" line="58" column="62" />
-        <mark key="." line="58" column="62" />
-        <mark key="^" line="58" column="62" />
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513185033361">
+        <mark key="[" line="58" column="115" />
+        <mark key="]" line="58" column="114" />
+        <mark key="." line="58" column="114" />
+        <mark key="^" line="58" column="114" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -116,7 +116,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>x hours remaining</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBpbmYK</text>
@@ -143,7 +143,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>x hours remaining</text>
       </register>
     </registers>
     <search>
