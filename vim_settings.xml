@@ -61,6 +61,12 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/cache.py" timestamp="1513203034230">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="47" column="7" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/preprocessing/test_owner_data.py" timestamp="1513035901959">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
