@@ -113,11 +113,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1513223812345">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1513224891533">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/yodle/centermark-data-science-jobs/src/service.py" timestamp="1513189221788">
         <mark key="[" line="25" column="49" />
@@ -151,7 +151,7 @@
         <text encoding="base64">ZGF0YS9yYXcvKgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Path(__file__).parent / '..' / 'data' / 'raw'</text>
+        <text>pytorch</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGdldCgndHJhaW4uY3N2Jywgc2hhMT0nZWEwOGI0ODM3OTBjMmE3YmM5Yjk1YjBmOTIzNTI2ZjhlNjBlYWU0NCcpCg==</text>
@@ -178,7 +178,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Path(__file__).parent / '..' / 'data' / 'raw'</text>
+        <text>pytorch</text>
       </register>
     </registers>
     <search>
