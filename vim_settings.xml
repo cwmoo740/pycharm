@@ -15,7 +15,7 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1513264882788">
+      <file name="/Python Console" timestamp="1513622350655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513183509833">
@@ -104,7 +104,11 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare.py" timestamp="1513623721118" />
       <file name="/Dummy.txt" timestamp="1513190591626">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1513622871070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
@@ -160,11 +164,10 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513621680526">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513623548532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1513221666356">
         <mark key="[" line="81" column="0" />
@@ -182,35 +185,35 @@
       <register name="0" type="4">
         <text>https://www.kaggle.com/account/login?ReturnUrl=/c/titanic/download/</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoKZGVmIGxvYWRfZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHBhdGggPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50LnBhcmVudCAvICdkYXRhJyAvICdyYXcnIC8gJ2NhbGxzLmNzdicKICAgIHJldCA9IHBkLnJlYWRfY3N2KHBhdGgsIGluZGV4X2NvbD0nbGVhZF9pZCcpLmZpbGxuYSgnJykKICAgIHJldC5yZXNwb25zZSA9IFtldmFsKHMpIGZvciBzIGluIHJldC5yZXNwb25zZV0KICAgIHJldC5iaW5hcnlfcmVzcG9uc2UgPSBbZXZhbChzKSBmb3IgcyBpbiByZXQuYmluYXJ5X3Jlc3BvbnNlXQogICAgcmV0dXJuIHJldAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSAucHJlcGFyZSBpbXBvcnQgbG9hZF9kYXRhCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgoKZGVmIGxvYWRfZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHBhdGggPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50LnBhcmVudCAvICdkYXRhJyAvICdyYXcnIC8gJ2NhbGxzLmNzdicKICAgIHJldCA9IHBkLnJlYWRfY3N2KHBhdGgsIGluZGV4X2NvbD0nbGVhZF9pZCcpLmZpbGxuYSgnJykKICAgIHJldC5yZXNwb25zZSA9IFtldmFsKHMpIGZvciBzIGluIHJldC5yZXNwb25zZV0KICAgIHJldC5iaW5hcnlfcmVzcG9uc2UgPSBbZXZhbChzKSBmb3IgcyBpbiByZXQuYmluYXJ5X3Jlc3BvbnNlXQogICAgcmV0dXJuIHJldAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAucHJlcGFyZSBpbXBvcnQgbG9hZF9kYXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAucHJlcGFyZSBpbXBvcnQgbG9hZF9kYXRhCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKZGVmIGxvYWRfZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHBhdGggPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50LnBhcmVudCAvICdkYXRhJyAvICdyYXcnIC8gJ2NhbGxzLmNzdicKICAgIHJldCA9IHBkLnJlYWRfY3N2KHBhdGgsIGluZGV4X2NvbD0nbGVhZF9pZCcpLmZpbGxuYSgnJykKICAgIHJldC5yZXNwb25zZSA9IFtldmFsKHMpIGZvciBzIGluIHJldC5yZXNwb25zZV0KICAgIHJldC5iaW5hcnlfcmVzcG9uc2UgPSBbZXZhbChzKSBmb3IgcyBpbiByZXQuYmluYXJ5X3Jlc3BvbnNlXQogICAgcmV0dXJuIHJldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvYWRfZGF0YSgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdvb2RfcmVnZXggPSByZS5jb21waWxlKCdOT1RfR09PRCcpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvYWRfZGF0YSgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
+        <text encoding="base64">ICAgIGdvb2RfcmVnZXggPSByZS5jb21waWxlKCdOT1RfR09PRCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVuc29yZmxvdz09MS40LjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVuc29yZmxvdz09MS40LjEK</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="-" type="4">
         <text>.text</text>
