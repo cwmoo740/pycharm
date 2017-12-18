@@ -53,6 +53,12 @@
         <mark key="^" line="10" column="85" />
         <mark key="." line="10" column="85" />
       </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/.gitignore" timestamp="1513612953198">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" timestamp="1513193494671">
         <mark key="'" line="65" column="15" />
         <mark key="[" line="133" column="40" />
@@ -131,6 +137,9 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/test_spark.py" timestamp="1513612925460">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1513221666356">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="85" column="27" />
@@ -148,34 +157,34 @@
         <text>https://www.kaggle.com/account/login?ReturnUrl=/c/titanic/download/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YS9yYXcvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pytorch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCgndHJhaW4uY3N2Jywgc2hhMT0nZWEwOGI0ODM3OTBjMmE3YmM5Yjk1YjBmOTIzNTI2ZjhlNjBlYWU0NCcpCg==</text>
+        <text encoding="base64">ZGF0YS9yYXcvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldCgndGVzdC5jc3YnLCBzaGExPSdhYjZjOWQzMDhmN2MzMWYyY2YzNzA2NmFhYjZhMDU1MWY4NjczNTY0JykK</text>
+        <text encoding="base64">ICAgIGdldCgndHJhaW4uY3N2Jywgc2hhMT0nZWEwOGI0ODM3OTBjMmE3YmM5Yjk1YjBmOTIzNTI2ZjhlNjBlYWU0NCcpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGdldCgndGVzdC5jc3YnLCBzaGExPSdhYjZjOWQzMDhmN2MzMWYyY2YzNzA2NmFhYjZhMDU1MWY4NjczNTY0JykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiB7fQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgpkZWYgZG93bmxvYWQoZmlsZV9uYW1lOiBzdHIsICkgLT4gUGF0aDoKICAgIHJldHVybiBnZXQoCiAgICAgICAgZmlsZV9uYW1lLAogICAgICAgIHNoYTE9J2VhMDhiNDgzNzkwYzJhN2JjOWI5NWIwZjkyMzUyNmY4ZTYwZWFlNDQnCiAgICApCgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxvYWRfZG90ZW52KGZpbmRfZG90ZW52KCksIG92ZXJyaWRlPVRydWUpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXRoIC8gZmlsZV9uYW1lLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQgLyAnLi4nIC8gJ2RhdGEnIC8gJ3JhdycK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGggPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQgLyAnLi4nIC8gJ2RhdGEnIC8gJ3JhdycK</text>
       </register>
       <register name="-" type="4">
         <text>pytorch</text>
