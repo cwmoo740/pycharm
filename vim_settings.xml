@@ -23,11 +23,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/requirements.txt" timestamp="1513614482374">
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="114" />
-        <mark key="." line="41" column="114" />
-        <mark key="^" line="41" column="114" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/requirements.txt" timestamp="1513615559343">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1513036864655">
         <mark key="[" line="0" column="0" />
@@ -174,35 +173,35 @@
       <register name="1" type="2">
         <text encoding="base64">dGVuc29yZmxvdz09MS40LjEK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://github.com/mind/wheels/releases/download/tf1.4-cpu/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVuc29yZmxvdz09MS40LjEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVuc29yZmxvdz09MS40LjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YS9yYXcvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCgndHJhaW4uY3N2Jywgc2hhMT0nZWEwOGI0ODM3OTBjMmE3YmM5Yjk1YjBmOTIzNTI2ZjhlNjBlYWU0NCcpCg==</text>
+        <text encoding="base64">ZGF0YS9yYXcvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldCgndGVzdC5jc3YnLCBzaGExPSdhYjZjOWQzMDhmN2MzMWYyY2YzNzA2NmFhYjZhMDU1MWY4NjczNTY0JykK</text>
+        <text encoding="base64">ICAgIGdldCgndHJhaW4uY3N2Jywgc2hhMT0nZWEwOGI0ODM3OTBjMmE3YmM5Yjk1YjBmOTIzNTI2ZjhlNjBlYWU0NCcpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGdldCgndGVzdC5jc3YnLCBzaGExPSdhYjZjOWQzMDhmN2MzMWYyY2YzNzA2NmFhYjZhMDU1MWY4NjczNTY0JykK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiB7fQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgpkZWYgZG93bmxvYWQoZmlsZV9uYW1lOiBzdHIsICkgLT4gUGF0aDoKICAgIHJldHVybiBnZXQoCiAgICAgICAgZmlsZV9uYW1lLAogICAgICAgIHNoYTE9J2VhMDhiNDgzNzkwYzJhN2JjOWI5NWIwZjkyMzUyNmY4ZTYwZWFlNDQnCiAgICApCgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGxvYWRfZG90ZW52KGZpbmRfZG90ZW52KCksIG92ZXJyaWRlPVRydWUpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoIC8gZmlsZV9uYW1lLAo=</text>
-      </register>
       <register name="-" type="4">
-        <text>https://github.com/mind/wheels/releases/download/tf1.4-cpu/tensorflow-1.4.0-cp36-cp36m-linux_x86_64.whl</text>
+        <text>1.4.1</text>
       </register>
     </registers>
     <search>
