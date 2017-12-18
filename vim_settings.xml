@@ -15,10 +15,10 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1513629271721">
+      <file name="/Python Console" timestamp="1513630540914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513183509833">
+      <file name="/fragment.py" timestamp="1513630376883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,16 +97,16 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare.py" timestamp="1513629356248">
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="22" column="4" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare.py" timestamp="1513630676412">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513190591626">
+      <file name="/Dummy.txt" timestamp="1513629827886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1513626986109">
+      <file name="/code.py" timestamp="1513629431674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="0" column="29" />
@@ -188,37 +188,37 @@
         <text>https://www.kaggle.com/account/login?ReturnUrl=/c/titanic/download/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>750m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFs1LCAyMCwgMywgMCwgNF0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpkZWYgZmlsdGVyX3N0b3B3b3Jkcyh2YWx1ZTogc3RyKSAtPiBzdHI6CiAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9y</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgIGVuY29kZXIgPSBPbmVIb3RFbmNvZGVyKG5fdmFsdWVzPWxlbihrZXl3b3JkcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IE9uZUhvdEVuY29kZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbWzAsIDAsIDAsCg==</text>
+        <text encoding="base64">ICAgIGxvbmdlc3RfdHJhbnNjcmlwdCA9IG1heCh0cmFuc2NyaXB0cy5tYXAobGFtYmRhIHJvdzogbGVuKHJvdy5zcGxpdCgpKSkubWF4KCksIDEwMDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zY3JpcHRfaW5kaWNlcyA9IHRyYW5zY3JpcHRzLm1hcChsYW1iZGEgcm93OiBba2V5d29yZHNfaW5kaWNlc1t3b3JkXSBmb3Igd29yZCBpbiByb3cuc3BsaXQoKV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gW2tleXdvcmRzX2luZGljZXNbd29yZF0gZm9yIHdvcmQgaW4gdHJhbnNjcmlwdC5zcGxpdCgpXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzW2ksIF0K</text>
+        <text encoding="base64">ICAgICAgICAjIFs1LCAyMCwgMywgMCwgNF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjID0gcHlzcGFyay5TcGFya0NvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>750m</text>
+        <text>encoder.fit_transform(transcript)</text>
       </register>
     </registers>
     <search>
