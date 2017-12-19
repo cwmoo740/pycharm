@@ -15,13 +15,16 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1513637514352">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1513637940324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare_v2.py" timestamp="1513654999002">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/requirements.txt" timestamp="1513617888932">
         <mark key="[" line="1" column="12" />
@@ -70,11 +73,11 @@
         <mark key="^" line="10" column="85" />
         <mark key="." line="10" column="85" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/.gitignore" timestamp="1513618660633">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/.gitignore" timestamp="1513638165530">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -97,11 +100,11 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare.py" timestamp="1513637670827">
-        <mark key="[" line="65" column="73" />
-        <mark key="]" line="65" column="73" />
-        <mark key="." line="65" column="73" />
-        <mark key="^" line="53" column="26" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/prepare.py" timestamp="1513697799290">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="3" />
+        <mark key="." line="56" column="3" />
+        <mark key="^" line="56" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1513629827886">
         <mark key="[" line="0" column="0" />
@@ -180,7 +183,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/data/what.csv" timestamp="1513638029700" />
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513634707491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -203,38 +205,38 @@
       <register name="0" type="4">
         <text>https://www.kaggle.com/account/login?ReturnUrl=/c/titanic/download/</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRlZiB3b3JkX2NvdW50X3NwYXJrKHRyYW5zY3JpcHRzOiBwZC5TZXJpZXMpIC0+IExpc3RbVHVwbGVbc3RyLCBpbnRdXToKICAgIHdvcmRzID0gc2MucGFyYWxsZWxpemUodHJhbnNjcmlwdHMpCiAgICBjb3VudHMgPSB3b3JkcyBcCiAgICAgICAgLmZsYXRNYXAobGFtYmRhIHo6IHouc3BsaXQoKSkgXAogICAgICAgIC5tYXAobGFtYmRhIHo6ICh6LCAxKSkgXAogICAgICAgIC5yZWR1Y2VCeUtleShhZGQpIFwKICAgICAgICAuc29ydEJ5KGxhbWJkYSB6OiB6WzFdKQogICAgcmV0dXJuIGNvdW50cy5jb2xsZWN0KCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RhdGEgPSBvbmVfaG90X2VuY29kZSh4Wyd0ZXh0J10sIGtleXdvcmRzPXdvcmRzKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RhdGEgPSBvbmVfaG90X2VuY29kZSh4Wyd0ZXh0J10sIGtleXdvcmRzPXdvcmRzKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpkZWYgcmVtb3ZlX3N0b3Bfd29yZHNfZnJvbV9jYWxscyhjYWxsczogTGlzdFtzdHJdKSAtPiBMaXN0W3N0cl06CiAgICBzdHJpcHBlZF9jYWxscyA9IFtdCiAgICBmb3IgY2FsbCBpbiBjYWxsczoKICAgICAgICBmaWx0ZXJlZF90cmFuc2NyaXB0ID0gX2ZpbHRlcl93b3Jkc19pbl9jYWxsKGNhbGwpCiAgICAgICAgc3RyaXBwZWRfY2FsbHMuYXBwZW5kKGZpbHRlcmVkX3RyYW5zY3JpcHQpCiAgICByZXR1cm4gc3RyaXBwZWRfY2FsbHM=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CgpkZWYgX2ZpbHRlcl93b3Jkc19pbl9jYWxsKGNhbGw6IHN0cikgLT4gc3RyOgogICAgbGlzdF9vZl93b3JkcyA9IFtdCiAgICBlbmdsaXNoX3N0b3Bfd29yZHMgPSBzdG9wd29yZHMud29yZHMoJ2VuZ2xpc2gnKQojICAgICBlbmdsaXNoX3N0b3Bfd29yZHMudXBkYXRlKFsnLicsICcsJywgJyInLCAiJyIsICc/JywgJyEnLCAnOicsICc7JywgJygnLCAnKScsICdbJywgJ10nLCAneycsICd9J10pCiAgICBmb3Igd29yZCBpbiBjYWxsLnNwbGl0KCcgJyk6CiAgICAgICAgd29yZCA9IHdvcmQubG93ZXIoKQogICAgICAgIGlmIHdvcmQgbm90IGluIGVuZ2xpc2hfc3RvcF93b3JkczoKICAgICAgICAgICAgbGlzdF9vZl93b3Jkcy5hcHBlbmQod29yZCkKICAgIHJldHVybiAnICcuam9pbihsaXN0X29mX3dvcmRzKQ==</text>
+        <text encoding="base64">ZGVmIG9uZV9ob3RfZW5jb2RlKHRyYW5zY3JpcHRzOiBwZC5TZXJpZXMsIGtleXdvcmRzOiBTZXRbc3RyXSkgLT4gbnAubmRhcnJheToKICAgIGtleXdvcmRzX2luZGljZXMgPSB7d29yZDogaSBmb3IgaSwgd29yZCBpbiBlbnVtZXJhdGUoa2V5d29yZHMpfQogICAgdHJhbnNjcmlwdF9pbmRpY2VzID0gdHJhbnNjcmlwdHMubWFwKAogICAgICAgIGxhbWJkYSByb3c6IFtrZXl3b3Jkc19pbmRpY2VzLmdldCh3b3JkLCBsZW4oa2V5d29yZHMpKSBmb3Igd29yZCBpbiByb3cuc3BsaXQoKV0KICAgICkKICAgIG51bV93b3Jkc19wZXJfdHJhbnNjcmlwdCA9IG1pbih0cmFuc2NyaXB0X2luZGljZXMubWFwKGxhbWJkYSByb3c6IGxlbihyb3cpKS5tYXgoKSwgMTAwMCkKICAgIHJlc3VsdHMgPSBucC56ZXJvcygKICAgICAgICAobGVuKHRyYW5zY3JpcHRzKSwgbnVtX3dvcmRzX3Blcl90cmFuc2NyaXB0LCBsZW4oa2V5d29yZHMpICsgMSksCiAgICAgICAgZHR5cGU9bnAuYm9vbAogICAgKQogICAgZm9yIGksIHRyYW5zY3JpcHQgaW4gZW51bWVyYXRlKHRyYW5zY3JpcHRfaW5kaWNlcyk6CiAgICAgICAgZm9yIGosIHZhbCBpbiBlbnVtZXJhdGUodHJhbnNjcmlwdFs6bnVtX3dvcmRzX3Blcl90cmFuc2NyaXB0XSk6CiAgICAgICAgICAgIHJlc3VsdHNbaSwgaiwgdmFsXSA9IFRydWUKCiAgICByZXR1cm4gcmVzdWx0cw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2MgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYyA9IHB5c3BhcmsuU3BhcmtDb250ZXh0KCkK</text>
+        <text encoding="base64">ICAgIHRvcF93b3JkcyA9IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHNjIGlzIE5vbmU6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmRlZiB3b3JkX2NvdW50X3NwYXJrKHRyYW5zY3JpcHRzOiBwZC5TZXJpZXMpIC0+IExpc3RbVHVwbGVbc3RyLCBpbnRdXToKICAgIHdvcmRzID0gc2MucGFyYWxsZWxpemUodHJhbnNjcmlwdHMpCiAgICBjb3VudHMgPSB3b3JkcyBcCiAgICAgICAgLmZsYXRNYXAobGFtYmRhIHo6IHouc3BsaXQoKSkgXAogICAgICAgIC5tYXAobGFtYmRhIHo6ICh6LCAxKSkgXAogICAgICAgIC5yZWR1Y2VCeUtleShhZGQpIFwKICAgICAgICAuc29ydEJ5KGxhbWJkYSB6OiB6WzFdKQogICAgcmV0dXJuIGNvdW50cy5jb2xsZWN0KCk=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
     </registers>
     <search>

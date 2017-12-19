@@ -5,6 +5,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern="typecheck" type="Bash" />
