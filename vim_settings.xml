@@ -15,7 +15,7 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1513711171113">
+      <file name="/Python Console" timestamp="1513714690805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513711213085">
@@ -137,11 +137,11 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/train.py" timestamp="1513713652694">
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="45" />
-        <mark key="." line="67" column="45" />
-        <mark key="^" line="30" column="45" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/train.py" timestamp="1513714676346">
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513200333138">
         <mark key="[" line="8" column="0" />
@@ -172,11 +172,11 @@
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/cnn_model.py" timestamp="1513713147286">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/cnn_model.py" timestamp="1513714625015">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/cache.py" timestamp="1513203034230">
         <mark key="[" line="4" column="0" />
@@ -246,7 +246,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>SEQ_LENGTH</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGVmIG1ha2UK</text>
@@ -273,7 +273,7 @@
         <text encoding="base64">ICAgICAgICAgICAgeF90cmFpbiwgeF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSB0cmFpbl90ZXN0X3NwbGl0KHgsIHksIHRlc3Rfc2l6ZT0wLjEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>SEQ_LENGTH</text>
       </register>
     </registers>
     <search>
