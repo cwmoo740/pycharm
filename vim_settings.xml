@@ -172,11 +172,11 @@
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/cnn_model.py" timestamp="1513724812656">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="27" column="36" />
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/cnn_model.py" timestamp="1513795433984">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/cache.py" timestamp="1513203034230">
         <mark key="[" line="4" column="0" />
