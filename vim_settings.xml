@@ -184,11 +184,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1513225583852">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514241353668">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -243,12 +243,15 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YocGF0aCkK</text>
+        <text encoding="base64">ZnJvbSBzcmMuZGF0YSBpbXBvcnQgZ2V0X3RyYWluX2RhdGEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>arange</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YocGF0aCkK</text>
+      </register>
+      <register name="3" type="4">
         <text>{
             'Survived': np.bool,
             'Pclass': 'category',
@@ -263,29 +266,26 @@
             'Embarked': 'category'
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMgbGF5ZXIgPSBEcm9wb3V0KHJhdGU9MC4yNSkobGF5ZXIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxheWVyID0gRHJvcG91dChyYXRlPTAuMjUpKGxheWVyKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxheWVyID0gQXZlcmFnZVBvb2xpbmcyRCgpKGxheWVyKQo=</text>
+        <text encoding="base64">ICAgIGxheWVyID0gRHJvcG91dChyYXRlPTAuMjUpKGxheWVyKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGxheWVyID0gQXZlcmFnZVBvb2xpbmcyRCgpKGxheWVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxheWVyID0gCg==</text>
+        <text encoding="base64">ICAgIGxheWVyID0gQXZlcmFnZVBvb2xpbmcyRCgpKGxheWVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxheWVyID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>arange</text>
       </register>
     </registers>
     <search>
