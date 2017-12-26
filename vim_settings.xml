@@ -154,11 +154,11 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514275134511">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514312887381">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
         <mark key="[" line="37" column="42" />
@@ -190,11 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514275200669">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514312932737">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -248,19 +248,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHlfdGVzdCA9IG5wLnNpbih4X3Rlc3QpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmRlZiBnZXRfdHJhaW5fZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHggPSBucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPW5wLnBpKjIsIG51bT01MDAsIGR0eXBlPW5wLmZsb2F0KQogICAgbnAucmFuZG9tLnNodWZmbGUoeCkKICAgIHkgPSBucC5zaW4oeCkKICAgIHJldHVybiBwZC5EYXRhRnJhbWUoeyd4JzogeCwgJ3knOiB5fSkKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nn.Sigmoid()</text>
+        <text encoding="base64">CmRlZiBnZXRfdHJhaW5fZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHggPSBucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPW5wLnBpKjIsIG51bT01MDAsIGR0eXBlPW5wLmZsb2F0KQogICAgbnAucmFuZG9tLnNodWZmbGUoeCkKICAgIHkgPSBucC5zaW4oeCkKICAgIHJldHVybiBwZC5EYXRhRnJhbWUoeyd4JzogeCwgJ3knOiB5fSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2guZnJvbV9udW1weShucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPTEsIG51bT01MCwgZHR5cGU9bnAuZmxvYXQpLnJlc2hhcGUoKC0xLCAxKSkpLmZsb2F0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ21vaWQgPSBubi5TaWdtb2lkKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZjMyA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xMCwgb3V0X2ZlYXR1cmVzPTEpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZjMiA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xMCwgb3V0X2ZlYXR1cmVzPTEwKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZjMSA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xLCBvdXRfZmVhdHVyZXM9MTApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHlfdGVzdCA9IG5wLnNpbih4X3Rlc3QpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9yY2guZnJvbV9udW1weShucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPTEsIG51bT01MCwgZHR5cGU9bnAuZmxvYXQpLnJlc2hhcGUoKC0xLCAxKSkpLmZsb2F0KCkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZpZywgKGF4MSwgYXgyKSA9IHBsdC5zdWJwbG90cygyLCAxCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>)
     ax1.plot(x.numpy().reshape(-1), y.numpy())
     ax2.plot(
@@ -268,23 +283,8 @@
         y_pred
     )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXQoYXV0b2dyYWQuVmFyaWFibGUoeCkpLmRhdGEubnVtcHkoKS5yZXNoYXBlKC0xKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoeC5udW1weSgpKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpKQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>nn.Sigmoid()</text>
+        <text>fc2</text>
       </register>
     </registers>
     <search>
