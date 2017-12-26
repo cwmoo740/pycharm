@@ -190,11 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514268485176">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514273043206">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="28" column="60" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -249,37 +249,42 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9yY2guZnJvbV9udW1weShucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPTEsIG51bT01MCwgZHR5cGU9bnAuZmxvYXQpLnJlc2hhcGUoKC0xLCAxKSkpLmZsb2F0KCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>50</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpCg==</text>
+        <text encoding="base64">ICAgIGZpZywgKGF4MSwgYXgyKSA9IHBsdC5zdWJwbG90cygyLCAxCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXQoYXV0b2dyYWQuVmFyaWFibGUoeCkpLmRhdGEubnVtcHkoKS5yZXNoYXBlKC0xKQo=</text>
+      <register name="3" type="4">
+        <text>)
+    ax1.plot(x.numpy().reshape(-1), y.numpy())
+    ax2.plot(
+        x.numpy().reshape(-1),
+        y_pred
+    )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoeC5udW1weSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpKQo=</text>
+        <text encoding="base64">ICAgIG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgubnVtcHkoKSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXQoYXV0b2dyYWQuVmFyaWFibGUoeCkpLmRhdGEubnVtcHkoKS5yZXNoYXBlKC0xKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHkubnVtcHkoKSkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoeC5udW1weSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvZ3JhZC5WYXJpYWJsZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4X3RyYWluICcsIHRyYWluX2RhdGFbJ3gnXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHgubnVtcHkoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmMyIA==</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
