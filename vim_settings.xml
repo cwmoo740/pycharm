@@ -15,7 +15,7 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1513958150365">
+      <file name="/Python Console" timestamp="1514267116671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513711213085">
@@ -154,11 +154,11 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514245878840">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514268440186">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
         <mark key="[" line="37" column="42" />
@@ -190,11 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514251191990">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="26" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514268485176">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -249,49 +249,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhfdHJhaW4gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>torch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
+        <text encoding="base64">ICAgIG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uIGFzIG5uCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXQoYXV0b2dyYWQuVmFyaWFibGUoeCkpLmRhdGEubnVtcHkoKS5yZXNoYXBlKC0xKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuZGF0YSBpbXBvcnQgZ2V0X3RyYWluX2RhdGEK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoeC5udW1weSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmID0gcGQucmVhZF9jc3YocGF0aCkK</text>
+        <text encoding="base64">ICAgIHByaW50KG5ldChhdXRvZ3JhZC5WYXJpYWJsZSh4KSkuZGF0YS5udW1weSgpLnJlc2hhcGUoLTEpKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            'Survived': np.bool,
-            'Pclass': 'category',
-            'Name': str,
-            'Sex': 'category',
-            'Age': np.int,
-            'SibSp': np.int,
-            'Parch': np.int,
-            'Ticket': str,
-            'Fare': np.float,
-            'Cabin': str,
-            'Embarked': 'category'
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHgubnVtcHkoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHkubnVtcHkoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbGF5ZXIgPSBEcm9wb3V0KHJhdGU9MC4yNSkobGF5ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRvZ3JhZC5WYXJpYWJsZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxheWVyID0gRHJvcG91dChyYXRlPTAuMjUpKGxheWVyKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd4X3RyYWluICcsIHRyYWluX2RhdGFbJ3gnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>torch</text>
+        <text encoding="base64">ZmMyIA==</text>
       </register>
     </registers>
     <search>
