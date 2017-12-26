@@ -190,10 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514246060861">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514251191990">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -250,8 +251,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHhfdHJhaW4gPSAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhfdHJhaW4gPSAK</text>
+      <register name="&quot;" type="4">
+        <text>torch</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
@@ -290,7 +291,7 @@
         <text encoding="base64">ICAgIGxheWVyID0gRHJvcG91dChyYXRlPTAuMjUpKGxheWVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>F.linear(</text>
+        <text>torch</text>
       </register>
     </registers>
     <search>
