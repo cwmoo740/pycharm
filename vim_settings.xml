@@ -15,10 +15,10 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1514267116671">
+      <file name="/Python Console" timestamp="1514436125535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513711213085">
+      <file name="/fragment.py" timestamp="1514434818969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -35,7 +35,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1513036864655">
+      <file name="/a.dummy" timestamp="1514432843187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
@@ -154,11 +154,11 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514312887381">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514434139093">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
         <mark key="[" line="37" column="42" />
@@ -190,11 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514422633904">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514436289324">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -232,11 +232,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1513826418495">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1514431980044">
+        <mark key="[" line="106" column="32" />
+        <mark key="]" line="94" column="49" />
+        <mark key="." line="94" column="49" />
+        <mark key="^" line="94" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -248,43 +248,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRlZiBnZXRfdHJhaW5fZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHggPSBucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPW5wLnBpKjIsIG51bT01MDAsIGR0eXBlPW5wLmZsb2F0KQogICAgbnAucmFuZG9tLnNodWZmbGUoeCkKICAgIHkgPSBucC5zaW4oeCkKICAgIHJldHVybiBwZC5EYXRhRnJhbWUoeyd4JzogeCwgJ3knOiB5fSkKCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pd.DataFrame:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ21vaWQgPSBubi5TaWdtb2lkKCkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuc3RlcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMyA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xMCwgb3V0X2ZlYXR1cmVzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnKioqKioqKioqKioqKioqKionKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMiA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xMCwgb3V0X2ZlYXR1cmVzPTEwKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">eV9wcmVkID0gbmV0KGF1dG9ncmFkLlZhcmlhYmxlKHRvcmNoLmZyb21fbnVtcHkoeF90ZXN0KS5mbG9hdCgpKSkKICAgIHByaW50KAogICAgICAgICdhY2MnLAogICAgICAgIG1ldHJpY3MuYWNjdXJhY3lfc2NvcmUoCiAgICAgICAgICAgIHlfdHJ1ZT15X3Rlc3QsCiAgICAgICAgICAgIHlfcHJlZD15X3ByZWQuZGF0YS5udW1weSgpID4gMC41CiAgICAgICAgKQogICAgKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZjMSA9IG5uLkxpbmVhcihpbl9mZWF0dXJlcz0xLCBvdXRfZmVhdHVyZXM9MTApCg==</text>
+        <text encoding="base64">ICAgICAgICB5X3RyYWluID0gYXV0b2dyYWQuVmFyaWFibGUoeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlfdGVzdCA9IG5wLnNpbih4X3Rlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICB4X3RyYWluID0gYXV0b2dyYWQuVmFyaWFibGUoeCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2guZnJvbV9udW1weShucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPTEsIG51bT01MCwgZHR5cGU9bnAuZmxvYXQpLnJlc2hhcGUoKC0xLCAxKSkpLmZsb2F0KCkK</text>
+        <text encoding="base64">ICAgIHkgPSB0b3JjaC5mcm9tX251bXB5KHkpLmZsb2F0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZywgKGF4MSwgYXgyKSA9IHBsdC5zdWJwbG90cygyLCAxCg==</text>
+        <text encoding="base64">ICAgIHggPSB0b3JjaC5mcm9tX251bXB5KHgpLmZsb2F0KCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-    ax1.plot(x.numpy().reshape(-1), y.numpy())
-    ax2.plot(
-        x.numpy().reshape(-1),
-        y_pred
-    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHkgPSB0b3JjaC5mcm9tX251bXB5KHkpLmZsb2F0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>pd.DataFrame:</text>
+        <text>y_train.data.numpy(),</text>
       </register>
     </registers>
     <search>
