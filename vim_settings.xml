@@ -190,11 +190,11 @@
         <mark key="^" line="47" column="7" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514312932737">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/src/kaggle/titanic/src/train.py" timestamp="1514422633904">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
@@ -252,7 +252,7 @@
         <text encoding="base64">CmRlZiBnZXRfdHJhaW5fZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHggPSBucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPW5wLnBpKjIsIG51bT01MDAsIGR0eXBlPW5wLmZsb2F0KQogICAgbnAucmFuZG9tLnNodWZmbGUoeCkKICAgIHkgPSBucC5zaW4oeCkKICAgIHJldHVybiBwZC5EYXRhRnJhbWUoeyd4JzogeCwgJ3knOiB5fSkKCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmRlZiBnZXRfdHJhaW5fZGF0YSgpIC0+IHBkLkRhdGFGcmFtZToKICAgIHggPSBucC5saW5zcGFjZShzdGFydD0wLCBzdG9wPW5wLnBpKjIsIG51bT01MDAsIGR0eXBlPW5wLmZsb2F0KQogICAgbnAucmFuZG9tLnNodWZmbGUoeCkKICAgIHkgPSBucC5zaW4oeCkKICAgIHJldHVybiBwZC5EYXRhRnJhbWUoeyd4JzogeCwgJ3knOiB5fSkKCg==</text>
+        <text>pd.DataFrame:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNpZ21vaWQgPSBubi5TaWdtb2lkKCkK</text>
@@ -284,7 +284,7 @@
     )</text>
       </register>
       <register name="-" type="4">
-        <text>fc2</text>
+        <text>pd.DataFrame:</text>
       </register>
     </registers>
     <search>
