@@ -15,7 +15,7 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1514442789544">
+      <file name="/Python Console" timestamp="1515269566824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1514442598169">
@@ -196,6 +196,12 @@
         <mark key="." line="76" column="26" />
         <mark key="^" line="76" column="26" />
       </file>
+      <file name="$USER_HOME$/src/kaggle/toxic/src/data.py" timestamp="1515269474517">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="10" />
+        <mark key="." line="58" column="10" />
+        <mark key="^" line="58" column="10" />
+      </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/loading.py" timestamp="1513722109402">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="24" />
@@ -248,38 +254,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5kcm9wb3V0KHgpCg==</text>
+      <register name="1" type="4">
+        <text>'https://www.kaggle.com/account/login?ReturnUrl=/c/jigsaw-toxic-comment-classification-challenge/download/' +
+        file_name +
+        '.zip'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10000</text>
+        <text>'https://www.kaggle.com/account/login?ReturnUrl=/c/jigsaw-toxic-comment-classification-challenge/download/' +
+        file_name +
+        '.zip'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5kcm9wb3V0KHgpCg==</text>
+        <text encoding="base64">ICAgICAgICBodHRwczogLy8gd3d3LmthZ2dsZS5jb20gLyBjIC8gamlnc2F3IC0gdG94aWMgLSBjb21tZW50IC0gY2xhc3NpZmljYXRpb24gLSBjaGFsbGVuZ2UgLyBkb3dubG9hZCAvIHRyYWluLmNzdi56aXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3BvdXQgPSBubi5Ecm9wb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5kcm9wb3V0KHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3BvdXQgPSBubi5Ecm9wb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5kcm9wb3V0KHgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmWydwY2xhc3MnXSA9IGRmWydwY2xhc3MnXS5jYXQuY29kZXMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3BvdXQgPSBubi5Ecm9wb3V0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmWydhZ2UnXSA9IGRmWydhZ2UnXSAvIGRmWydhZ2UnXS5tYXgoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3BvdXQgPSBubi5Ecm9wb3V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRmWydmYXJlJ10K</text>
+        <text encoding="base64">ICAgIGRmWydwY2xhc3MnXSA9IGRmWydwY2xhc3MnXS5jYXQuY29kZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHg9X3Byb2Nlc3NfeCh0ZXN0X2RhdGEpCg==</text>
+        <text encoding="base64">ICAgIGRmWydhZ2UnXSA9IGRmWydhZ2UnXSAvIGRmWydhZ2UnXS5tYXgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHk9dGVzdF9kYXRhWydzdXJ2aXZlZCddCg==</text>
+        <text encoding="base64">ICAgIGRmWydmYXJlJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
+        <text>, sha1='ab6c9d308f7c31f2cf37066aab6a0551f8673564'</text>
       </register>
     </registers>
     <search>
