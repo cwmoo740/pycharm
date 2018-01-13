@@ -18,11 +18,11 @@
       <file name="/Python Console" timestamp="1515813989420">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515813987732">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="39" column="20" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="39" column="20" />
+      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515815526470">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1515814228536">
         <mark key="[" line="0" column="0" />
@@ -278,37 +278,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuc2F2ZSgnJykK</text>
+        <text encoding="base64">aW1wb3J0IGNhaXJvc3ZnCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuc2F2ZSgnJykK</text>
+        <text encoding="base64">aW1wb3J0IGNhaXJvc3ZnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuc2MK</text>
+        <text encoding="base64">ICAgICAgICBzdmcuc2F2ZSgnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0ge2tleTogaW50KHZhbCkgZm9yIGtleSwgdmFsIGluIHN2Zy5nZXRfc2l6ZSgpLml0ZW1zKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdmcuc2MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0ge2tleTogaW50KHZhbCkgZm9yIGtleSwgdmFsIGluIHN2Zy5nZXRfc2l6ZSgpLml0ZW1zKCl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRnei5leHRyYWN0YWxsKG1lbWJlcnM9bWVtYmVycykK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbZl0K</text>
+        <text encoding="base64">ICAgIHRnei5leHRyYWN0YWxsKG1lbWJlcnM9bWVtYmVycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1lbWJlcnMpCg==</text>
+        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbZl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN2Z3V0aWxzLnRyYW5zZm9ybS5mcm9tZmlsZSgnJykK</text>
+        <text encoding="base64">ICAgIHByaW50KG1lbWJlcnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">ICAgIHN2Z3V0aWxzLnRyYW5zZm9ybS5mcm9tZmlsZSgnJykK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>svgutils</text>
       </register>
     </registers>
     <search>
