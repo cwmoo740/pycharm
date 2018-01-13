@@ -18,6 +18,11 @@
       <file name="/Python Console" timestamp="1515269566824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515807381539">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1514442598169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -95,7 +100,6 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/environment.yml" timestamp="1515523867935" />
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
@@ -273,39 +277,40 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eWFybD09MC4xNy4wCg==</text>
+        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbZl0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">eWFybD09MC4xNy4wCg==</text>
+        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbZl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c21tYXAyPT0yLjAuMwo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1lbWJlcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHljYXJlcz09Mi4zLjAK</text>
+        <text encoding="base64">ICAgIHN2Z3V0aWxzLnRyYW5zZm9ybS5mcm9tZmlsZSgnJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXVsdGlkaWN0PT0zLjMuMgo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWRuYT09Mi42Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2l0ZGIyPT0yLjAuMwo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2hhcmRldD09My4wLjQK</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;&quot;
+    downloads material icons and extracts the production/*.svg files
+    :return:
+    &quot;&quot;&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMtdGltZW91dD09Mi4wLjAK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RzLnIK</text>
       </register>
-      <register name="9" type="4">
-        <text>'https://www.kaggle.com/account/login?ReturnUrl=/c/jigsaw-toxic-comment-classification-challenge/download/' +
-        file_name +
-        '.zip'</text>
+      <register name="9" type="2">
+        <text encoding="base64">eWFybD09MC4xNy4wCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, sha1='ab6c9d308f7c31f2cf37066aab6a0551f8673564'</text>
+        <text>print(tgz.getmembers())</text>
       </register>
     </registers>
     <search>
