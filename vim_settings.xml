@@ -18,11 +18,11 @@
       <file name="/Python Console" timestamp="1515807466853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515811460807">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="34" />
+      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515812590536">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="/fragment.py" timestamp="1514442598169">
         <mark key="[" line="0" column="0" />
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TGZ_FILE</text>
+        <text>List</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHRnei5leHRyYWN0YWxsKG1lbWJlcnM9bWVtYmVycykK</text>
@@ -311,7 +311,7 @@
     &quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TGZ_FILE</text>
+        <text>List</text>
       </register>
     </registers>
     <search>
