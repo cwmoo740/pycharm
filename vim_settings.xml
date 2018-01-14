@@ -3,26 +3,119 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513202031300">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers.py" timestamp="1513201965528">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="130" column="11" />
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1515813989420">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515815526470">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1514432843187">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw1/hotels.py" timestamp="1515969047778">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="30" />
+        <mark key="^" line="58" column="13" />
+        <mark key="." line="69" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
+        <mark key="[" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/kaggle/titanic/Makefile" timestamp="1513220196984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/preprocessing/conftest.py" timestamp="1513192689436">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/loading.py" timestamp="1513704347556">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw1/yuckdonalds.py" timestamp="1515969276944">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1515524424058">
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="401" column="7" />
+        <mark key="." line="401" column="7" />
+        <mark key="^" line="401" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/train.py" timestamp="1513724844477">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="48" />
+        <mark key="^" line="46" column="48" />
+        <mark key="." line="46" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/__init__.py" timestamp="1513707781850">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="1" column="52" />
+        <mark key="^" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+      </file>
+      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514441545891">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/docs-server/requirements.txt" timestamp="1515524357898">
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1512755778246">
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="29" />
+        <mark key="^" line="138" column="29" />
+        <mark key="." line="138" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513202031300">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="/Python Console" timestamp="1515813989420">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1515814228536">
         <mark key="[" line="0" column="0" />
@@ -41,30 +134,17 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1514432843187">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/yodle/docs-server/.gitignore" timestamp="1515523926969">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw1/hotels.py" timestamp="1515943221212">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="37" column="22" />
-        <mark key="^" line="67" column="49" />
-        <mark key="." line="37" column="22" />
-      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
-        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/README.md" timestamp="1513618411883">
         <mark key="[" line="4" column="18" />
@@ -108,38 +188,11 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
-        <mark key="[" line="17" column="48" />
-      </file>
       <file name="$USER_HOME$/src/kaggle/titanic/makefile" timestamp="1513220374226">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/Makefile" timestamp="1513220196984">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/preprocessing/conftest.py" timestamp="1513192689436">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="60" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="6" column="60" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/loading.py" timestamp="1513704347556">
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="32" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1515524424058">
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="65" column="26" />
-        <mark key="^" line="65" column="26" />
-        <mark key="." line="65" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1514442607603">
         <mark key="[" line="0" column="0" />
@@ -150,57 +203,16 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="401" column="7" />
-        <mark key="." line="401" column="7" />
-        <mark key="^" line="401" column="7" />
-      </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/main.py" timestamp="1513704001416">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/train.py" timestamp="1513724844477">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="48" />
-        <mark key="^" line="46" column="48" />
-        <mark key="." line="46" column="48" />
-      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/datafetcher/ers_dao.py" timestamp="1513200333138">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/model/__init__.py" timestamp="1513707781850">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="1" column="52" />
-        <mark key="^" line="1" column="52" />
-        <mark key="." line="1" column="52" />
-      </file>
-      <file name="$USER_HOME$/src/kaggle/titanic/src/model.py" timestamp="1514441545891">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/requirements.txt" timestamp="1515524357898">
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/experiments/outlier_locations_by_week.py" timestamp="1512755778246">
-        <mark key="[" line="138" column="24" />
-        <mark key="]" line="138" column="29" />
-        <mark key="^" line="138" column="29" />
-        <mark key="." line="138" column="29" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512758599459">
         <mark key="[" line="27" column="86" />
@@ -262,12 +274,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1514442085866">
         <mark key="[" line="106" column="17" />
         <mark key="]" line="106" column="62" />
@@ -286,37 +292,39 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IDMwMCwgNDAw</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluX2Nvc3QgPSBtaW4oY29zdCwgbWluX2Nvc3QpCg==</text>
+      <register name="2" type="4">
+        <text>if hotels[0] != 0:
+        hotels.insert(0, 0)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgMCAgICAgICAgICAgIDEgICAgICAgICAgICAyCiAgICAwICAgY29zdCgwLT4wKSAgIGNvc3QoKSAgIGNvc3QoMC0+MikKCiAgICAxICAgY29zdCgxLT4wKSAgIGNvc3QoMS0+MSkgICBjb3N0KDEtPjIpCgogICAgMiAgIGNvc3QoMi0+MCkgICBjb3N0KDItPjEpICAgY29zdCgyLT4yKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlc3RfcHJpb3IgPSAwCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAzCiAgICA0</text>
+        <text>min_cost = inf
+        b</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SE9URUxTOiBMaXN0W2ludF0gPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX2Nvc3QgPSBtaW4oY29zdCwgbWluX2Nvc3QpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgMCAgICAgICAgICAgIDEgICAgICAgICAgICAyCiAgICAwICAgY29zdCgwLT4wKSAgIGNvc3QoKSAgIGNvc3QoMC0+MikKCiAgICAxICAgY29zdCgxLT4wKSAgIGNvc3QoMS0+MSkgICBjb3N0KDEtPjIpCgogICAgMiAgIGNvc3QoMi0+MCkgICBjb3N0KDItPjEpICAgY29zdCgyLT4yKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAzCiAgICA0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IDMwMCwgNDAw</text>
       </register>
     </registers>
     <search>
