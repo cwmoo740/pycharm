@@ -50,6 +50,13 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw1/hotels.py" timestamp="1515943221212">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="67" column="49" />
+        <mark key="." line="37" column="22" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="6" column="2" />
@@ -272,43 +279,44 @@
       <jump line="0" column="25" filename="/Python Console" />
       <jump line="23" column="50" filename="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" />
       <jump line="65" column="15" filename="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/postprocessing/columns.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/src/gtech/alg/hw1/hotels.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhaXJvc3ZnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhaXJvc3ZnCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuc2F2ZSgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX2Nvc3QgPSBtaW4oY29zdCwgbWluX2Nvc3QpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdmcuc2MK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgMCAgICAgICAgICAgIDEgICAgICAgICAgICAyCiAgICAwICAgY29zdCgwLT4wKSAgIGNvc3QoKSAgIGNvc3QoMC0+MikKCiAgICAxICAgY29zdCgxLT4wKSAgIGNvc3QoMS0+MSkgICBjb3N0KDEtPjIpCgogICAgMiAgIGNvc3QoMi0+MCkgICBjb3N0KDItPjEpICAgY29zdCgyLT4yKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0ge2tleTogaW50KHZhbCkgZm9yIGtleSwgdmFsIGluIHN2Zy5nZXRfc2l6ZSgpLml0ZW1zKCl9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAzCiAgICA0</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRnei5leHRyYWN0YWxsKG1lbWJlcnM9bWVtYmVycykK</text>
+        <text encoding="base64">SE9URUxTOiBMaXN0W2ludF0gPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbZl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1lbWJlcnMpCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN2Z3V0aWxzLnRyYW5zZm9ybS5mcm9tZmlsZSgnJykK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>svgutils</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
