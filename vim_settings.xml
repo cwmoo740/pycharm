@@ -49,11 +49,11 @@
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw1/yuckdonalds.py" timestamp="1515977734879">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/gtech/alg/hw1/yuckdonalds.py" timestamp="1515988442058">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="12" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="44" column="12" />
       </file>
       <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1515524424058">
         <mark key="[" line="62" column="28" />
@@ -114,7 +114,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1515813989420">
+      <file name="/Python Console" timestamp="1515987962600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1515814228536">
@@ -291,40 +291,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aiA9IDAKICAgICAgICB3aGlsZSBtW2ldIC0gbVtqXSA+PSBrOgogICAgICAgICAgICBpZiBwW2ldICsgcmVzdWx0W2pdID4gcmVzdWx0W2pdOgogICAgICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXSArIHJlc3VsdFtqXQogICAgICAgICAgICBqICs9IDEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDMwMCwgNDAw</text>
+        <text>y</text>
       </register>
-      <register name="2" type="4">
-        <text>if hotels[0] != 0:
-        hotels.insert(0, 0)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdFswXSA9IHBbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlc3RfcHJpb3IgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uc1tpXSA9IFRydWUK</text>
       </register>
-      <register name="4" type="4">
-        <text>min_cost = inf
-        b</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvY2F0aW9ucyA9IFtGYWxzZV0gKiBsZW4obSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBsb2NhdGlvbnNbbWF4X2pdID0gVHJ1ZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluX2Nvc3QgPSBtaW4oY29zdCwgbWluX2Nvc3QpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Zm9yIGogaW4gcmFuZ2UoaSk6CiAgICAgICAgICAgIHRlbXAgPSByZXN1bHRbal0KICAgICAgICAgICAgaWYgYWJzKG1baV0gLSBtW2pdKSA+PSBrOgogICAgICAgICAgICAgICAgdGVtcCArPSBwW2pdCiAgICAgICAgICAgIGlmIHRlbXAgPiBtYXhfdGVtcDoKICAgICAgICAgICAgICAgIG1heF90ZW1wID0gdGVtcAogICAgICAgICAgICAgICAgbWF4X2ogPSBqCgogICAgICAgIGlmIHBbaV0gPiBtYXhfdGVtcDoKICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXQogICAgICAgICAgICBsb2NhdGlvbnNbaV0gPSBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0W2ldID0gbWF4X3RlbXAKICAgICAgICAg</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgMCAgICAgICAgICAgIDEgICAgICAgICAgICAyCiAgICAwICAgY29zdCgwLT4wKSAgIGNvc3QoKSAgIGNvc3QoMC0+MikKCiAgICAxICAgY29zdCgxLT4wKSAgIGNvc3QoMS0+MSkgICBjb3N0KDEtPjIpCgogICAgMiAgIGNvc3QoMi0+MCkgICBjb3N0KDItPjEpICAgY29zdCgyLT4yKQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYXhfaiA9IDAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAzCiAgICA0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtYXhfdGVtcCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRbaV0gPSBtYXgocFtpXSwgbWF4X3RlbXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDMwMCwgNDAw</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
