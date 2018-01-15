@@ -9,11 +9,11 @@
         <mark key="^" line="130" column="11" />
         <mark key="." line="130" column="11" />
       </file>
-      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1515815526470">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/src/yodle/svg-utils/main.py" timestamp="1516032133965">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="36" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1514432843187">
         <mark key="[" line="0" column="0" />
@@ -27,6 +27,12 @@
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/yodle/svg-utils/.gitignore" timestamp="1516032175342">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
@@ -102,6 +108,9 @@
         <mark key="^" line="138" column="29" />
         <mark key="." line="138" column="29" />
       </file>
+      <file name="$USER_HOME$/src/yodle/svg-utils/what_small.svg" timestamp="1516031175578">
+        <mark key="[" line="1" column="49" />
+      </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="1" column="21" />
@@ -114,10 +123,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1515987962600">
+      <file name="/Python Console" timestamp="1516030874079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1515814228536">
+      <file name="/fragment.py" timestamp="1516030778219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -194,6 +203,9 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/src/yodle/svg-utils/README.md" timestamp="1516032220061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1514442607603">
         <mark key="[" line="0" column="0" />
       </file>
@@ -250,6 +262,11 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/src/yodle/svg-utils/requirements.txt" timestamp="1516031779318">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1513629397263">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="8" />
@@ -291,38 +308,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aiA9IDAKICAgICAgICB3aGlsZSBtW2ldIC0gbVtqXSA+PSBrOgogICAgICAgICAgICBpZiBwW2ldICsgcmVzdWx0W2pdID4gcmVzdWx0W2pdOgogICAgICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXSArIHJlc3VsdFtqXQogICAgICAgICAgICBqICs9IDEK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFswXSA9IHBbMF0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlZiBvcHRpbWl6ZV9pY29uKHN2Z19wYXRoOiBQYXRoKS0+UGF0aDoKICAgIHNjb3VyCiAgICBwYXNz</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uc1tpXSA9IFRydWUK</text>
+        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9ucyA9IFtGYWxzZV0gKiBsZW4obSkK</text>
+        <text encoding="base64">Y2Fpcm9jZmZpPT0wLjguMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBsb2NhdGlvbnNbbWF4X2pdID0gVHJ1ZQo=</text>
+        <text encoding="base64">c3ZndXRpbHM9PTAuMy4wCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Zm9yIGogaW4gcmFuZ2UoaSk6CiAgICAgICAgICAgIHRlbXAgPSByZXN1bHRbal0KICAgICAgICAgICAgaWYgYWJzKG1baV0gLSBtW2pdKSA+PSBrOgogICAgICAgICAgICAgICAgdGVtcCArPSBwW2pdCiAgICAgICAgICAgIGlmIHRlbXAgPiBtYXhfdGVtcDoKICAgICAgICAgICAgICAgIG1heF90ZW1wID0gdGVtcAogICAgICAgICAgICAgICAgbWF4X2ogPSBqCgogICAgICAgIGlmIHBbaV0gPiBtYXhfdGVtcDoKICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXQogICAgICAgICAgICBsb2NhdGlvbnNbaV0gPSBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0W2ldID0gbWF4X3RlbXAKICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">bHhtbD09NC4xLjEK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfaiA9IDAK</text>
+      <register name="7" type="4">
+        <text>for icon_path in download_material_icons():
+        with icon_path.open('r+') as icon_file:
+            icon_xml = xmltodict.parse(icon_file.read())
+            print(icon_xml)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfdGVtcCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaWNvbl94bWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbaV0gPSBtYXgocFtpXSwgbWF4X3RlbXApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>+</text>
       </register>
     </registers>
     <search>
