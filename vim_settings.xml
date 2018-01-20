@@ -70,11 +70,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/gtech/gt-algorithms/hw2/sequences.py" timestamp="1516483388734">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
+      <file name="$USER_HOME$/src/gtech/gt-algorithms/hw2/sequences.py" timestamp="1516484965666">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
@@ -905,40 +905,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max(dim_x)</text>
+        <text>max((max(x) for x in t))</text>
       </register>
       <register name="-" type="4">
-        <text>max(dim_x)</text>
+        <text>max((max(x) for x in t))</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aiA9IDAKICAgICAgICB3aGlsZSBtW2ldIC0gbVtqXSA+PSBrOgogICAgICAgICAgICBpZiBwW2ldICsgcmVzdWx0W2pdID4gcmVzdWx0W2pdOgogICAgICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXSArIHJlc3VsdFtqXQogICAgICAgICAgICBqICs9IDEK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAgY2hhcnMgPT0gMDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFswXSA9IHBbMF0K</text>
+        <text encoding="base64">ICAgIGxlbj0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uc1tpXSA9IFRydWUK</text>
+        <text encoding="base64">ICAgIGRpbSA9IG1heChkaW1feCwgZGltX3kpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9ucyA9IFtGYWxzZV0gKiBsZW4obSkK</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBsb2NhdGlvbnNbbWF4X2pdID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Zm9yIGogaW4gcmFuZ2UoaSk6CiAgICAgICAgICAgIHRlbXAgPSByZXN1bHRbal0KICAgICAgICAgICAgaWYgYWJzKG1baV0gLSBtW2pdKSA+PSBrOgogICAgICAgICAgICAgICAgdGVtcCArPSBwW2pdCiAgICAgICAgICAgIGlmIHRlbXAgPiBtYXhfdGVtcDoKICAgICAgICAgICAgICAgIG1heF90ZW1wID0gdGVtcAogICAgICAgICAgICAgICAgbWF4X2ogPSBqCgogICAgICAgIGlmIHBbaV0gPiBtYXhfdGVtcDoKICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXQogICAgICAgICAgICBsb2NhdGlvbnNbaV0gPSBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0W2ldID0gbWF4X3RlbXAKICAgICAgICAg</text>
+        <text encoding="base64">aiA9IDAKICAgICAgICB3aGlsZSBtW2ldIC0gbVtqXSA+PSBrOgogICAgICAgICAgICBpZiBwW2ldICsgcmVzdWx0W2pdID4gcmVzdWx0W2pdOgogICAgICAgICAgICAgICAgcmVzdWx0W2ldID0gcFtpXSArIHJlc3VsdFtqXQogICAgICAgICAgICBqICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfaiA9IDAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdFswXSA9IHBbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfdGVtcCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uc1tpXSA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
