@@ -117,10 +117,11 @@
       <file name="$USER_HOME$/src/yodle/svg-utils/what_small.svg" timestamp="1516031175578">
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516564967263">
+      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516573680143">
         <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/src/gtech/alg/hw2/coin_changing_v2.py" timestamp="1516559264963">
         <mark key="[" line="49" column="62" />
