@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/src/yodle/svg-utils/what_small.svg" timestamp="1516031175578">
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516511447399">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516549896882">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="26" column="22" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
         <mark key="[" line="0" column="22" />
@@ -323,8 +323,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>len(z)</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CmRlZiBiYWNrdHJhY2tfc3ViX3N0cmluZyh0OiBMaXN0W0xpc3RbaW50XV0sIHg6IExpc3Rbc3RyXSwgeTogTGlzdFtzdHJdKSAtPiBMaXN0W3N0cl06CiAgICBtYXhfeCA9IFttYXgoeikgZm9yIHogaW4gdF0KICAgIGNoYXJzX3JlbWFpbmluZyA9IG1heChtYXhfeCkKICAgIHJlc3VsdCA9IFsnJ10gKiBjaGFyc19yZW1haW5pbmcKICAgIGlfeCA9IG1heF94LmluZGV4KGNoYXJzX3JlbWFpbmluZykKICAgIGlfeSA9IHRbaV94XS5pbmRleChjaGFyc19yZW1haW5pbmcpCiAgICB3aGlsZSBjaGFyc19yZW1haW5pbmcgPiAwOgogICAgICAgIGlmIHhbaV94IC0gMV0gIT0geVtpX3kgLSAxXToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd3dGYnKQogICAgICAgIHJlc3VsdFtjaGFyc19yZW1haW5pbmcgLSAxXSA9IHhbaV94IC0gMV0KICAgICAgICBpX3ggLT0gMQogICAgICAgIGlfeSAtPSAxCiAgICAgICAgY2hhcnNfcmVtYWluaW5nIC09IDEKICAgIHJldHVybiByZXN1bHQ=</text>
@@ -351,7 +351,7 @@
         <text encoding="base64">ICAgIHByaW50KHkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>len(z)</text>
       </register>
     </registers>
     <search>
