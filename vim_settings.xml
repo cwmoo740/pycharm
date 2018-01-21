@@ -37,6 +37,12 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw2/sequences.py" timestamp="1516500270051">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="30" />
+      </file>
       <file name="$USER_HOME$/src/kaggle/titanic/Makefile" timestamp="1513220196984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="21" />
@@ -123,7 +129,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1516030874079">
+      <file name="/Python Console" timestamp="1516498461358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516030778219">
@@ -309,40 +315,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyc19yZW1haW5pbmcgLT0gMQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyc19yZW1haW5pbmcgLT0gMQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmRlZiBvcHRpbWl6ZV9pY29uKHN2Z19wYXRoOiBQYXRoKS0+UGF0aDoKICAgIHNjb3VyCiAgICBwYXNz</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNoYXJzX3JlbWFpbmluZyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXJsbGliMz09MS4yMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2Fpcm9jZmZpPT0wLjguMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ZndXRpbHM9PTAuMy4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0W2lfeF1baV95XT0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bHhtbD09NC4xLjEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlfeCA9PSAxIG9yIGlfeSA9PSAxOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>for icon_path in download_material_icons():
-        with icon_path.open('r+') as icon_file:
-            icon_xml = xmltodict.parse(icon_file.read())
-            print(icon_xml)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaWNvbl94bWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaV94IC09IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2hhdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>-1</text>
       </register>
     </registers>
     <search>
