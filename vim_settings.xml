@@ -117,11 +117,16 @@
       <file name="$USER_HOME$/src/yodle/svg-utils/what_small.svg" timestamp="1516031175578">
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516549896882">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/src/gtech/alg/hw2/max_product.py" timestamp="1516555345485">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw2/coin_changing_v2.py" timestamp="1516559264963">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
         <mark key="[" line="0" column="22" />
@@ -135,10 +140,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1516510859693">
+      <file name="/Python Console" timestamp="1516558681835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1516030778219">
+      <file name="/fragment.py" timestamp="1516557791567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -321,37 +326,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaiBpbiB4WzppXToK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>len(z)</text>
+        <text>any((j - z == z for z in x[:i]))</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmRlZiBiYWNrdHJhY2tfc3ViX3N0cmluZyh0OiBMaXN0W0xpc3RbaW50XV0sIHg6IExpc3Rbc3RyXSwgeTogTGlzdFtzdHJdKSAtPiBMaXN0W3N0cl06CiAgICBtYXhfeCA9IFttYXgoeikgZm9yIHogaW4gdF0KICAgIGNoYXJzX3JlbWFpbmluZyA9IG1heChtYXhfeCkKICAgIHJlc3VsdCA9IFsnJ10gKiBjaGFyc19yZW1haW5pbmcKICAgIGlfeCA9IG1heF94LmluZGV4KGNoYXJzX3JlbWFpbmluZykKICAgIGlfeSA9IHRbaV94XS5pbmRleChjaGFyc19yZW1haW5pbmcpCiAgICB3aGlsZSBjaGFyc19yZW1haW5pbmcgPiAwOgogICAgICAgIGlmIHhbaV94IC0gMV0gIT0geVtpX3kgLSAxXToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCd3dGYnKQogICAgICAgIHJlc3VsdFtjaGFyc19yZW1haW5pbmcgLSAxXSA9IHhbaV94IC0gMV0KICAgICAgICBpX3ggLT0gMQogICAgICAgIGlfeSAtPSAxCiAgICAgICAgY2hhcnNfcmVtYWluaW5nIC09IDEKICAgIHJldHVybiByZXN1bHQ=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRbaV1bal0gPSBbRmFsc2UsICpbVHJ1ZV0qa10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyc19yZW1haW5pbmcgLT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMyBhbmQgaiA9PSAyNjoKICAgICAgICAgICAgICAgICAgICBwcmludChrLCB0dXBsZSgoeiwgdFtpXVtqIC0gel1bayAtIDFdKSBmb3IgeiBpbiB4WzppXSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXJzX3JlbWFpbmluZyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHVzZSBzYW1lIGRlbm9taW5hdGlvbnMgdG8gbWFrZSAoaiAtIHhfaSkgYW1vdW50IHdpdGggZmV3ZXIgY29pbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGksaix4LHpbeDppXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0W2lfeF1baV95XT0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRbaV1bal0gPSBtYXgodFtpXVtqXSwgdFtpXVtqIC0gMV0gKiBpbnQoelt4OmldKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlfeCA9PSAxIG9yIGlfeSA9PSAxOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdFtpXVtrXSA9IG1heCh0W2ldW2ogLSAxXSAqIGludCh6W3g6aV0pIGZvciB4IGluIHJhbmdlKGkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>len(z)</text>
+        <text>any((j - z == z for z in x[:i]))</text>
       </register>
     </registers>
     <search>
