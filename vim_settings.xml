@@ -67,11 +67,11 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516680503895">
-        <mark key="[" line="179" column="45" />
-        <mark key="]" line="151" column="54" />
-        <mark key="^" line="151" column="54" />
-        <mark key="." line="151" column="54" />
+      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516681795015">
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="108" column="25" />
+        <mark key="^" line="108" column="25" />
+        <mark key="." line="108" column="25" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
         <mark key="[" line="400" column="0" />
@@ -147,7 +147,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1516558681835">
+      <file name="/Python Console" timestamp="1516681841740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516557791567">
@@ -338,40 +338,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNsYXNzIFN0YXNoUGFyZW50KFR5cGVkRGljdCk6CiAgICBpZDogc3RyCiAgICBkaXNwbGF5SWQ6IHN0cgoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjYXN0KFN0YXNoQ29tbWl0LCBqc29uWyd2YWx1ZXMnXSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>commit = await repo.commits()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmVudHM6IExpc3RbU3Rhc2hQYXJlbnRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24gPSBhd2FpdCByZXNwb25zZS5qc29uKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzLmR1bXBzKGpzb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMgd2l0aCBzZXNzaW9uLmdldCgne30/bGltaXQ9e30nLmZvcm1hdChzZWxmLnJvdXRlKGFwaV9wYXRoKSwgbGltaXQpKSBhcyByZXNwb25zZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIGFpb2h0dHAuQ2xpZW50U2Vzc2lvbihoZWFkZXJzPXNlbGYuaG9zdC5hdXRoX2hlYWRlcikgYXMgc2Vzc2lvbjoK</text>
       </register>
-      <register name="5" type="4">
-        <text>id: str
-    displayId: str
-    author:</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvbW1pdCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmNsYXNzIFN0YXNoUGFyZW50KFR5cGVkRGljdCk6CiAgICBpZDogc3RyCiAgICBkaXNwbGF5SWQ6IHN0cgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyd2YWx1ZXMnOiBbeydpZCc6ICczNGMzMmU3N2YzYzk1OWEyYjdmNmI3YzlkZWVjMGQwOWY5YzIwNTBlJywgJ2Rpc3BsYXlJZCc6ICczNGMzMmU3N2YzYycsICdhdXRob3InOiB7J25hbWUnOiAnU2VhbiBIYXJuZXR0JywgJ2VtYWlsQWRkcmVzcyc6ICdzcmhhcm5ldHRAZ21haWwuY29tJ30sICdhdXRob3JUaW1lc3RhbXAnOiAxNDI1MzI2NTA4MDAwLCAnbWVzc2FnZSc6ICdhZGRlZCBsaW5rIHRvIGxpdmUgSVB5dGhvbiBub3RlYm9vayBzZXJ2ZXInLCAncGFyZW50cyc6IFt7J2lkJzogJzIwZDkxOTI3YjU4MmU3Zjg3ZDE5MjNjOTY3ZDdhMTEwYjBjMjk1ZjAnLCAnZGlzcGxheUlkJzogJzIwZDkxOTI3YjU4J31dfV0sICdzaXplJzogMSwgJ2lzTGFzdFBhZ2UnOiBGYWxzZSwgJ3N0YXJ0JzogMCwgJ2xpbWl0JzogMSwgJ25leHRQYWdlU3RhcnQnOiAxfQo=</text>
+        <text encoding="base64">ICAgIHBhcmVudHM6IExpc3RbU3Rhc2hQYXJlbnRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzLmR1bXBzKGpzb24pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>commit = await repo.commits()</text>
       </register>
     </registers>
     <search>
