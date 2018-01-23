@@ -67,11 +67,11 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516658038883">
-        <mark key="[" line="134" column="39" />
-        <mark key="]" line="137" column="42" />
-        <mark key="." line="137" column="42" />
-        <mark key="^" line="137" column="42" />
+      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516680503895">
+        <mark key="[" line="179" column="45" />
+        <mark key="]" line="151" column="54" />
+        <mark key="^" line="151" column="54" />
+        <mark key="." line="151" column="54" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
         <mark key="[" line="400" column="0" />
@@ -338,38 +338,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmhvc3Qucm91dGUoJy97fS9yZXBvcy97fS9jb21taXRzJy5mb3JtYXQoc2VsZi5wcm9qZWN0LnVybCwgc2VsZi5zbHVnKSkpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIFN0YXNoUGFyZW50KFR5cGVkRGljdCk6CiAgICBpZDogc3RyCiAgICBkaXNwbGF5SWQ6IHN0cgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, limit</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkICd3aGF0Jwo=</text>
+        <text encoding="base64">ICAgIHBhcmVudHM6IExpc3RbU3Rhc2hQYXJlbnRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzLmR1bXBzKGpzb24pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>id: str
+    displayId: str
+    author:</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIG1haW4oKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">c3Rhc2hfaG9zdCA9IFN0YXNoSG9zdChob3N0X3VybD0naHR0cHM6Ly9naXQueW9kbGUuY29tJykKICAgIGFzeW5jIGZvciBwcm9qZWN0IGluIHN0YXNoX2hvc3QucHJvamVjdHMoKToKICAgICAgICBhc3luYyBmb3IgcmVwbyBpbiBwcm9qZWN0LnJlcG9zaXRvcmllcygpOgogICAgICAgICAgICByZXBvLmNsb25lKCkKICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">eyd2YWx1ZXMnOiBbeydpZCc6ICczNGMzMmU3N2YzYzk1OWEyYjdmNmI3YzlkZWVjMGQwOWY5YzIwNTBlJywgJ2Rpc3BsYXlJZCc6ICczNGMzMmU3N2YzYycsICdhdXRob3InOiB7J25hbWUnOiAnU2VhbiBIYXJuZXR0JywgJ2VtYWlsQWRkcmVzcyc6ICdzcmhhcm5ldHRAZ21haWwuY29tJ30sICdhdXRob3JUaW1lc3RhbXAnOiAxNDI1MzI2NTA4MDAwLCAnbWVzc2FnZSc6ICdhZGRlZCBsaW5rIHRvIGxpdmUgSVB5dGhvbiBub3RlYm9vayBzZXJ2ZXInLCAncGFyZW50cyc6IFt7J2lkJzogJzIwZDkxOTI3YjU4MmU3Zjg3ZDE5MjNjOTY3ZDdhMTEwYjBjMjk1ZjAnLCAnZGlzcGxheUlkJzogJzIwZDkxOTI3YjU4J31dfV0sICdzaXplJzogMSwgJ2lzTGFzdFBhZ2UnOiBGYWxzZSwgJ3N0YXJ0JzogMCwgJ2xpbWl0JzogMSwgJ25leHRQYWdlU3RhcnQnOiAxfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">S0FGS0FfUFJPRFVDRVIgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
-        <text>, limit</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
