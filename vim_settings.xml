@@ -67,23 +67,16 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516720569890">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="5" column="61" />
-        <mark key="." line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/jobs/activity_by_location.py" timestamp="1513201884676">
         <mark key="[" line="400" column="0" />
         <mark key="]" line="401" column="7" />
         <mark key="." line="401" column="7" />
         <mark key="^" line="401" column="7" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/kafka/producer.py" timestamp="1516656540973">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/src/yodle/docs-server/src/kafka/producer.py" timestamp="1516722287342">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/train.py" timestamp="1513724844477">
         <mark key="[" line="46" column="47" />
@@ -339,22 +332,22 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1Rlc3QgTG9zczoge30sIFRlc3QgQWNjdXJhY3k6IHt9Jy5mb3JtYXQobG9zcywgYWNjKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tbWl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tbWl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tbWl0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChqc29uLmR1bXBzKGNvbW1pdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzeW5jIGZvciBjb21taXQgaW4gcmVwby5jb21taXRzKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChqc29uLmR1bXBzKGNvbW1pdCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzeW5jIGZvciBjb21taXQgaW4gcmVwby5jb21taXRzKCk6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,14 +355,14 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CmNsYXNzIEF1dGhvcihUeXBlZERpY3QpOgogICAgbmFtZTogc3RyCiAgICBlbWFpbEFkZHJlc3M6IHN0cgoKCmNsYXNzIFN0YXNoQ29tbWl0KFR5cGVkRGljdCk6CiAgICBpZDogc3RyCiAgICBkaXNwbGF5SWQ6IHN0cgogICAgYXV0aG9yOiBBdXRob3IKICAgIGF1dGhvclRpbWVzdGFtcDogaW50CiAgICBtZXNzYWdlOiBzdHIKCiAgICBkZWYgX19yZXByX18oc2VsZikgLT4gc3RyOgogICAgICAgIHJldHVybiBzdHIoc2VsZikKCiAgICBkZWYgX19zdHJfXyhzZWxmKSAtPiBzdHI6CiAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoc2VsZik=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjYXN0KFN0YXNoQ29tbWl0LCBqc29uWyd2YWx1ZXMnXSkK</text>
-      </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>break</text>
       </register>
     </registers>
     <search>
