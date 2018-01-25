@@ -25,6 +25,12 @@
         <mark key="^" line="58" column="13" />
         <mark key="." line="69" column="30" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw2/punctuation.py" timestamp="1516844622446">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
       </file>
@@ -120,6 +126,12 @@
         <mark key="^" line="138" column="29" />
         <mark key="." line="138" column="29" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/requirements.txt" timestamp="1516844524934">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/src/yodle/svg-utils/what_small.svg" timestamp="1516031175578">
         <mark key="[" line="1" column="49" />
       </file>
@@ -129,6 +141,7 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/what.txt" timestamp="1516844520032" />
       <file name="$USER_HOME$/src/gtech/alg/hw2/coin_changing_v2.py" timestamp="1516581388708">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="22" />
@@ -147,7 +160,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1516728783067">
+      <file name="/Python Console" timestamp="1516843898565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516557791567">
@@ -339,37 +352,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
+      <register name="&quot;" type="4">
+        <text>'Hello. I am a dog. Dogs are really cool'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlY29uc3RydWN0KHkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFsc2Ugb3RoZXJ3aXNlIC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGljdCh3KSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYgdyBpcyBhIHZhbGlkIHdvcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">dHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgU3RvcEFzeW5jSXRlcmF0aW9uOgo=</text>
+        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,KafkaError</text>
+        <text>'Hello. I am a dog. Dogs are really cool'</text>
       </register>
     </registers>
     <search>
