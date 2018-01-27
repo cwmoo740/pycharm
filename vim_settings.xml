@@ -141,11 +141,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw3/polynomial_fft.py" timestamp="1517022640534">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/src/gtech/alg/hw3/polynomial_fft.py" timestamp="1517084900641">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513202031300">
         <mark key="[" line="5" column="20" />
@@ -153,7 +153,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1516843898565">
+      <file name="/Python Console" timestamp="1517082268829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516557791567">
@@ -345,37 +345,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y21hdGgK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cmath.</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGEgPSBbMCwgMywgNV0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBweXRlc3QubWFpbihbX19maWxlX19dKQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlZ2FsX3BhdHRlcm5zKDIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfeW9sbygpOgogICAgYXNzZXJ0IFRydWUgPT0gRmFsc2UK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmRlZiBwYXJ0X2IocF9vbmU6IExpc3RbaW50XSwgcF90d286IExpc3RbaW50XSkgLT4gTGlzdFtpbnRdOgogICAgcmV0dXJuIFtd</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ni42LiBMZXQgdXMgZGVmaW5lIGEgbXVsdGlwbGljYXRpb24gb3BlcmF0aW9uIG9uIHRocmVlIHN5bWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Q2FsbCB0d28gcGF0dGVybnMgY29tcGF0aWJsZSBpZiB0aGV5IGNhbiBiZSBwbGFjZWQgb24gYWRqYWNlbnQgY29sdW1ucyB0byBmb3JtIGEgbGVnYWwgcGxhY2VtZW50LgpMZXQgdXMgY29uc2lkZXIgc3VicHJvYmxlbXMgY29uc2lzdGluZyBvZiB0aGUgZmlyc3QgayBjb2x1bW5zIDEg4omkIGsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBweXRlc3QubWFpbihbX19maWxlX19dKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pytest.main()</text>
+        <text>cmath.</text>
       </register>
     </registers>
     <search>
