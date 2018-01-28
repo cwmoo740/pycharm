@@ -135,10 +135,11 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw3/stock_picking.py" timestamp="1517167907895">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
+      <file name="$USER_HOME$/src/gtech/alg/hw3/stock_picking.py" timestamp="1517172064472">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="26" />
       </file>
       <file name="$USER_HOME$/src/gtech/alg/hw2/coin_changing_v2.py" timestamp="1516581388708">
         <mark key="[" line="51" column="22" />
@@ -356,37 +357,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pick_extreme(a[len(a) // 2:], max) - pick_extreme(a[:len(a) // 2], min)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBweXRlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsaWYgdXBwZXIgPT0gbG93ZXI6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsaWYgYXJyW2xvd2VyXSA+IHg6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmRlZiBwaWNrX2V4dHJlbWUoYTogTGlzdFtpbnRdLCBmOiBDYWxsYWJsZVtbSXRlcmFibGVbaW50XV0sIGludF0pIC0+IGludDoKICAgIHJldHVybiBmKGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lZGlhbiA9IChsb3dlciArIHVwcGVyKSAvLyAyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXgobWF4KCkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBweXRlc3QK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dHJ5OgogICAgICAgIHJldHVybiBuZXh0KAogICAgICAgICAgICB2YWwgZm9yIHZhbCBpbiBpdGVyKChiaW5hcnlfc2VhcmNoKGFyciwgbG93ZXIsIG1lZGlhbiwgeCksIGJpbmFyeV9zZWFyY2goYXJyLCBtZWRpYW4sIHVwcGVyLCB4KSkpCiAgICAgICAgICAgIGlmIHZhbCBpcyBub3QgTm9uZQogICAgICAgICkKICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgICAgIHJldHVybiBOb25lCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>pick_extreme(a[len(a) // 2:], max) - pick_extreme(a[:len(a) // 2], min)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
