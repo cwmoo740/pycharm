@@ -141,11 +141,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw3/polynomial_fft.py" timestamp="1517086280906">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="48" column="52" />
-        <mark key="." line="48" column="52" />
-        <mark key="^" line="48" column="52" />
+      <file name="$USER_HOME$/src/gtech/alg/hw3/polynomial_fft.py" timestamp="1517099234987">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="56" column="21" />
+        <mark key="." line="56" column="21" />
+        <mark key="^" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/preprocessing/owner_data.py" timestamp="1513202031300">
         <mark key="[" line="5" column="20" />
@@ -345,37 +345,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3X2ogPSB3KipqCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(w ** j) * fft_a_odd[j]</text>
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3X2pfb2RkID0gdwo=</text>
+        <text encoding="base64">ICAgIHByaW50KG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y21hdGgK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgPSBbMCwgMywgNV0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3ICoqIDIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbWF0aC5yZWN0KDEsIDIgKiBjbWF0aC5waSAvIG4pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKioqKioqJykK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiBwYXJ0X2IocF9vbmU6IExpc3RbaW50XSwgcF90d286IExpc3RbaW50XSkgLT4gTGlzdFtpbnRdOgogICAgcmV0dXJuIFtd</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxlbl9hLCBuLCBtYXRoLmxvZzIobGVuX2EpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(w ** j) * fft_a_odd[j]</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
