@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw3/find_in_array.py" timestamp="1517164349093">
-        <mark key="[" line="49" column="20" />
-        <mark key="]" line="48" column="63" />
-        <mark key="." line="48" column="63" />
-        <mark key="^" line="48" column="63" />
+      <file name="$USER_HOME$/src/gtech/alg/hw3/find_in_array.py" timestamp="1517165897550">
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="12" />
       </file>
       <file name="$USER_HOME$/src/yodle/svg-utils/.gitignore" timestamp="1516032175342">
         <mark key="[" line="3" column="5" />
@@ -135,6 +135,11 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/hw3/stock_picking.py" timestamp="1517166815738">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/src/gtech/alg/hw2/coin_changing_v2.py" timestamp="1516581388708">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="22" />
@@ -159,7 +164,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517163584684">
+      <file name="/Python Console" timestamp="1517165903020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1516557791567">
@@ -351,37 +356,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBwZXIgPSAodXBwZXIgKyBsb3dlcikgLy8gMgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBwZXIgPSAodXBwZXIgKyBsb3dlcikgLy8gMgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBweXRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoK</text>
+        <text encoding="base64">ICAgIGVsaWYgdXBwZXIgPT0gbG93ZXI6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgYXJyW2xvd2VyXSA+IHg6CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoK</text>
+        <text encoding="base64">ICAgIG1lZGlhbiA9IChsb3dlciArIHVwcGVyKSAvLyAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1cHBlciA9PSBsb3dlciAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvdW5kID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="9" type="4">
+        <text encoding="base64">dHJ5OgogICAgICAgIHJldHVybiBuZXh0KAogICAgICAgICAgICB2YWwgZm9yIHZhbCBpbiBpdGVyKChiaW5hcnlfc2VhcmNoKGFyciwgbG93ZXIsIG1lZGlhbiwgeCksIGJpbmFyeV9zZWFyY2goYXJyLCBtZWRpYW4sIHVwcGVyLCB4KSkpCiAgICAgICAgICAgIGlmIHZhbCBpcyBub3QgTm9uZQogICAgICAgICkKICAgIGV4Y2VwdCBTdG9wSXRlcmF0aW9uOgogICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>pass</text>
       </register>
     </registers>
     <search>
