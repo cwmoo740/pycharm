@@ -203,11 +203,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517284445540">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="54" column="36" />
-        <mark key="^" line="54" column="36" />
-        <mark key="." line="54" column="36" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517286040876">
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="28" />
+        <mark key="." line="76" column="28" />
+        <mark key="^" line="76" column="28" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
@@ -272,7 +272,7 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517274497778">
+      <file name="/Dummy.txt" timestamp="1517286074669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1513708330589">
@@ -374,20 +374,20 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ClQgPSBUeXBlVmFyKCdUJywgaW50LCBib29sKQoKCmNsYXNzIEdyaWQoR2VuZXJpY1tUXSk6CiAgICBjb2x1bW5zOiBMaXN0W0xpc3RbVF1dCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX3Jvd19sZWdhbChjbHM6IFR5cGVbJ0dyaWQnXSwgcm93OiBMaXN0W2ludF0pIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHJvdyBhbmQgbm90IGFueShyb3dbaV0gKyAxID09IHJvd1tpICsgMV0gZm9yIGkgaW4gcmFuZ2UobGVuKHJvdykgLSAxKSkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfbGVnYWxfcGF0dGVybnMoY2xzOiBUeXBlWydHcmlkJ10sIHJvd19sZW5ndGg6IGludCA9IDQpIC0+IExpc3RbTGlzdFtpbnRdXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBsaXN0KHgpCiAgICAgICAgICAgIGZvciBsIGluIHJhbmdlKHJvd19sZW5ndGgpCiAgICAgICAgICAgIGZvciB4IGluIGl0ZXJ0b29scy5jb21iaW5hdGlvbnMocmFuZ2Uocm93X2xlbmd0aCksIGwpCiAgICAgICAgICAgIGlmIGNscy5fcm93X2xlZ2FsKHgpCiAgICAgICAgXQoKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY29sdW1uczogT3B0aW9uYWxbTGlzdFtMaXN0W1RdXV0pOgogICAgICAgIHNlbGYuY29sdW1ucyA9IGNvbHVtbnMKICAgICAgICBzZWxmLnBhdHRlcm5zID0gc2VsZi5fbGVnYWxfcGF0dGVybnMoKQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyOiBVbmlvblsnR3JpZFtUXScsIExpc3RbVF1dKSAtPiAnR3JpZFtUXSc6CiAgICAgICAgaWYgaXNpbnN0YW5jZShvdGhlciwgR3JpZCk6CiAgICAgICAgICAgIHJldHVybiBHcmlkW1RdKHNlbGYuY29sdW1ucyArIG90aGVyLmNvbHVtbnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEdyaWRbVF0oc2VsZi5jb2x1bW5zICsgb3RoZXIpCgogICAgZGVmIGlzX3ZhbGlkKHNlbGYsIGNvbDogTGlzdFtUXSkgLT4gYm9vbDoKICAgICAgICBsYXN0X2NvbCA9IHNlbGYuY29sdW1uc1stMV0KICAgICAgICByZXR1cm4gVHJ1ZQog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>_legal_combos(_legal_patterns(4))</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ClQgPSBUeXBlVmFyKCdUJywgaW50LCBib29sKQoKCmNsYXNzIEdyaWQoR2VuZXJpY1tUXSk6CiAgICBjb2x1bW5zOiBMaXN0W0xpc3RbVF1dCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX3Jvd19sZWdhbChjbHM6IFR5cGVbJ0dyaWQnXSwgcm93OiBMaXN0W2ludF0pIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHJvdyBhbmQgbm90IGFueShyb3dbaV0gKyAxID09IHJvd1tpICsgMV0gZm9yIGkgaW4gcmFuZ2UobGVuKHJvdykgLSAxKSkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfbGVnYWxfcGF0dGVybnMoY2xzOiBUeXBlWydHcmlkJ10sIHJvd19sZW5ndGg6IGludCA9IDQpIC0+IExpc3RbTGlzdFtpbnRdXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBsaXN0KHgpCiAgICAgICAgICAgIGZvciBsIGluIHJhbmdlKHJvd19sZW5ndGgpCiAgICAgICAgICAgIGZvciB4IGluIGl0ZXJ0b29scy5jb21iaW5hdGlvbnMocmFuZ2Uocm93X2xlbmd0aCksIGwpCiAgICAgICAgICAgIGlmIGNscy5fcm93X2xlZ2FsKHgpCiAgICAgICAgXQoKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY29sdW1uczogT3B0aW9uYWxbTGlzdFtMaXN0W1RdXV0pOgogICAgICAgIHNlbGYuY29sdW1ucyA9IGNvbHVtbnMKICAgICAgICBzZWxmLnBhdHRlcm5zID0gc2VsZi5fbGVnYWxfcGF0dGVybnMoKQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyOiBVbmlvblsnR3JpZFtUXScsIExpc3RbVF1dKSAtPiAnR3JpZFtUXSc6CiAgICAgICAgaWYgaXNpbnN0YW5jZShvdGhlciwgR3JpZCk6CiAgICAgICAgICAgIHJldHVybiBHcmlkW1RdKHNlbGYuY29sdW1ucyArIG90aGVyLmNvbHVtbnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEdyaWRbVF0oc2VsZi5jb2x1bW5zICsgb3RoZXIpCgogICAgZGVmIGlzX3ZhbGlkKHNlbGYsIGNvbDogTGlzdFtUXSkgLT4gYm9vbDoKICAgICAgICBsYXN0X2NvbCA9IHNlbGYuY29sdW1uc1stMV0KICAgICAgICByZXR1cm4gVHJ1ZQog</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9sZWdhbF9tYXAoc2VsZiwgKTo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,14 +398,14 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHJvd19sZWdhbChyb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgIHJldHVybiByb3cgYW5kIG5vdCBhbnkocm93W2ldICsgMSA9PSByb3dbaSArIDFdIGZvciBpIGluIHJhbmdlKGxlbihyb3cpIC0gMSkpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGxlZ2FsX3BhdHRlcm5zKHJvd19sZW5ndGg6IGludCkgLT4gR3JpZE51bToKICAgICIiIgogICAgY29tcHV0ZXMgYWxsIGxlZ2FsIHBhdHRlcm5zCiAgICBBcmdzOgogICAgICAgIHJvd19sZW5ndGgKCiAgICBSZXR1cm5zOgogICAgICAgIGFsbCBwb3NzaWJsZSBwYXR0ZXJucwogICAgICAgIFtbMF0sIFsxXSwgWzJdLCBbMCwgMl0uLi5dCgogICAgIiIiCiAgICByZXR1cm4gW2xpc3QoeCkgZm9yIGwgaW4gcmFuZ2Uocm93X2xlbmd0aCkgZm9yIHggaW4gaXRlcnRvb2xzLmNvbWJpbmF0aW9ucyhyYW5nZShyb3dfbGVuZ3RoKSwgbCkgaWYgcm93X2xlZ2FsKHgpXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>_legal_combos(_legal_patterns(4))</text>
       </register>
     </registers>
     <search>
