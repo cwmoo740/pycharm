@@ -183,7 +183,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517338015564">
+      <file name="/Python Console" timestamp="1517345771725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517274552051">
@@ -298,11 +298,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/sabre/job.py" timestamp="1517334866330">
-        <mark key="[" line="32" column="117" />
-        <mark key="]" line="32" column="114" />
-        <mark key="." line="32" column="114" />
-        <mark key="^" line="32" column="114" />
+      <file name="$USER_HOME$/src/yodle/docs-server/src/sabre/job.py" timestamp="1517345992357">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="37" column="71" />
+        <mark key="." line="37" column="71" />
+        <mark key="^" line="37" column="71" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/main.py" timestamp="1513704001416">
         <mark key="[" line="4" column="0" />
@@ -404,21 +404,40 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IApkZWYgY3JlYXRlX2Nyb25fam9iX2NvbmZpZ3VyYXRpb24oc2FicmVfam9iLCBqb2JfbmFtZTogc3RyLCBhcHBfbmFtZTogc3RyLCBjcm9uX3RyaWdnZXIsIG1heF9mYWlsdXJlczppbnQsbWF4X2V4ZWN1dGlvbl90aW1lX3NlY29uZHM6aW50LHJldHJ5X2ludGVydmFsX3NlY29uZHM6aW50LG5vdGlmaWNhdGlvbl9lbWFpbDpzdHIpOgogICAgam9iX2RlZmluaXRpb24gPSBKb2JEZWZpbml0aW9uKAogICAgICAgIG5hbWU9am9iX25hbWUsCiAgICAgICAgCiAgICAp</text>
+        <text>&quot;&quot;&quot;
+
+        :param should_continue_execution:
+        :param instance_key:
+        :param instance_id:
+        :param attempt:
+        :param last_successful_instance_key:
+        :return:
+        &quot;&quot;&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>selfself</text>
+        <text>&quot;&quot;&quot;
+
+        :param should_continue_execution:
+        :param instance_key:
+        :param instance_id:
+        :param attempt:
+        :param last_successful_instance_key:
+        :return:
+        &quot;&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcmMucwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IApkZWYgY3JlYXRlX2Nyb25fam9iX2NvbmZpZ3VyYXRpb24oc2FicmVfam9iLCBqb2JfbmFtZTogc3RyLCBhcHBfbmFtZTogc3RyLCBjcm9uX3RyaWdnZXIsIG1heF9mYWlsdXJlczppbnQsbWF4X2V4ZWN1dGlvbl90aW1lX3NlY29uZHM6aW50LHJldHJ5X2ludGVydmFsX3NlY29uZHM6aW50LG5vdGlmaWNhdGlvbl9lbWFpbDpzdHIpOgogICAgam9iX2RlZmluaXRpb24gPSBKb2JEZWZpbml0aW9uKAogICAgICAgIG5hbWU9am9iX25hbWUsCiAgICAgICAgCiAgICAp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdrYXpvby5jbGllbnQnKS5zZXRMZXZlbCgnJykK</text>
+        <text encoding="base64">ZnJvbSBzcmMucwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdrYXpvby5jbGllbnQnKS5zZXRMZXZlbCgnJykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdwaWthJykuc2V0TGV2ZWwoJ0VSUk9SJykK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
               'max_tries': 10,
                 'max_delay': 10
@@ -427,17 +446,14 @@
                 'max_tries'
             }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0cnlfbWF4X2RlbGF5PTEK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4X3JldHJpZXM9MTAsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0LnlvZGxlLmNvbS9zY20vbGliL2Z5Z2h0ZXItcHlsb3QuZ2l0QDEuNC4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X3JldHJpZXM9MTAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>selfself</text>
