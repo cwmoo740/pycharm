@@ -108,6 +108,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/src/yodle/docs-server/requirements.txt" timestamp="1517328928975">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="9" column="41" />
+      </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/munging.py" timestamp="1513724281722">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="16" column="32" />
@@ -177,7 +183,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517324587903">
+      <file name="/Python Console" timestamp="1517329091094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517274552051">
@@ -356,6 +362,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/src/yodle/docs-server/src/config/zookeeper_config.py" timestamp="1517329552360">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/src/kaggle/titanic/src/data.py" timestamp="1514442085866">
         <mark key="[" line="106" column="17" />
         <mark key="]" line="106" column="62" />
@@ -374,37 +386,37 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqJykK</text>
+        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0LnlvZGxlLmNvbS9zY20vbGliL2Z5Z2h0ZXItcHlsb3QuZ2l0QDEuNC4wCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqJykK</text>
+      <register name="&quot;" type="4">
+        <text>'dev-zk{}.dev.yodle.com:2181')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdwbGFjZW1lbnQnLCBwbGFjZW1lbnQpCg==</text>
+        <text encoding="base64">emVrZT09MC4yLjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBsYWNlbWVudCkK</text>
+        <text encoding="base64">eWFybD09MC4xNy4wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkWzBdKQo=</text>
+        <text encoding="base64">V2Vya3pldWc9PTAuMTQuMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRhYmxlKQo=</text>
+        <text encoding="base64">dG9ybmFkbz09NC41LjEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKicpCiAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">c21tYXAyPT0yLjAuMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2l4PT0xLjExLjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R3JpZEJvb2wgPSBMaXN0W0xpc3RbYm9vbF1dCg==</text>
+        <text encoding="base64">UHlZQU1MPT0zLjEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R3JpZE51bSA9IExpc3RbTGlzdFtpbnRdXQo=</text>
+        <text encoding="base64">cHl0aG9uLWRvdGVudj09MC43LjEK</text>
       </register>
       <register name="-" type="4">
-        <text>[y == z for y in range(len(grid[0])) for z in x] for x in placement</text>
+        <text>'dev-zk{}.dev.yodle.com:2181')</text>
       </register>
     </registers>
     <search>
