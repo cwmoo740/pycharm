@@ -177,7 +177,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517275049192">
+      <file name="/Python Console" timestamp="1517289277841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517274552051">
@@ -203,11 +203,10 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517287900936">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="75" column="4" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517290742893">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
@@ -375,37 +374,37 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKicpCiAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqJykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKicpCiAgICBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdwbGFjZW1lbnQnLCBwbGFjZW1lbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R3JpZEJvb2wgPSBMaXN0W0xpc3RbYm9vbF1dCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBsYWNlbWVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R3JpZE51bSA9IExpc3RbTGlzdFtpbnRdXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkWzBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRhYmxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKicpCiAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmRlZiBwbGFjZW1lbnRfdmFsaWQoZ3JpZDogR3JpZEJvb2wpIC0+IGJvb2w6CiAgICBmb3IgaSBpbiByYW5nZSgxLCBsZW4oZ3JpZCkgLSAxKToKICAgICAgICBsZW5ndGggPSBsZW4oZ3JpZFtpXSkKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW5ndGgpOgogICAgICAgICAgICBpZiBncmlkW2ldW2pdIGlzIEZhbHNlOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZWxpZiBncmlkW2kgLSAxXVtqXSBvciBncmlkW2kgKyAxXVtqXToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICBlbGlmIGogPiAwIGFuZCBncmlkW2ldW2ogLSAxXToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICBlbGlmIGogPCBsZW5ndGggLSAxIGFuZCBncmlkW2ldW2ogKyAxXToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIFRydWUKCgpAcHl0ZXN0Lm1hcmsucGFyYW1ldHJpemUoJ2dyaWQsZXhwZWN0ZWQnLCBbCiAgICAoCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgIFtUcnVlLCBGYWxzZV0sCiAgICAgICAgICAgICAgICBbRmFsc2UsIFRydWVdLAogICAgICAgICAgICAgICAgW1RydWUsIEZhbHNlXSwKICAgICAgICAgICAgICAgIFtGYWxzZSwgVHJ1ZV0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgVHJ1ZQogICAgKSwKICAgICgKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgW0ZhbHNlLCBGYWxzZV0sCiAgICAgICAgICAgICAgICBbRmFsc2UsIEZhbHNlXSwKICAgICAgICAgICAgICAgIFtGYWxzZSwgRmFsc2VdLAogICAgICAgICAgICAgICAgW0ZhbHNlLCBGYWxzZV0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgVHJ1ZQogICAgKSwKICAgICgKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgW1RydWUsIEZhbHNlXSwKICAgICAgICAgICAgICAgIFtGYWxzZSwgVHJ1ZV0sCiAgICAgICAgICAgICAgICBbRmFsc2UsIFRydWVdLAogICAgICAgICAgICAgICAgW1RydWUsIEZhbHNlXQogICAgICAgICAgICBdLAogICAgICAgICAgICBGYWxzZQogICAgKQpdKQpkZWYgdGVzdF9wbGFjZW1lbnRfdmFsaWQoZ3JpZDogR3JpZEJvb2wsIGV4cGVjdGVkOiBib29sKToKICAgIHJlc3VsdCA9IHBsYWNlbWVudF92YWxpZChncmlkKQogICAgYXNzZXJ0IGV4cGVjdGVkID09IHJlc3VsdA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">R3JpZEJvb2wgPSBMaXN0W0xpc3RbYm9vbF1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">R3JpZE51bSA9IExpc3RbTGlzdFtpbnRdXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0, 2, 3, 4, 5</text>
+        <text>[y == z for y in range(len(grid[0])) for z in x] for x in placement</text>
       </register>
     </registers>
     <search>
