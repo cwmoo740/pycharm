@@ -66,6 +66,9 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="44" column="12" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/stock_picking.py" timestamp="1517269654221">
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516728770157">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="86" />
@@ -135,7 +138,7 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/hw3/stock_picking.py" timestamp="1517192726477">
+      <file name="$USER_HOME$/src/gtech/alg/hw3/stock_picking.py" timestamp="1517269660727">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -146,6 +149,12 @@
         <mark key="]" line="51" column="22" />
         <mark key="." line="51" column="22" />
         <mark key="^" line="49" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/counting_heads.py" timestamp="1517271075068">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
         <mark key="[" line="0" column="22" />
@@ -190,6 +199,12 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517269505409">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="18" />
+        <mark key="." line="93" column="18" />
+        <mark key="^" line="93" column="18" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
@@ -357,37 +372,37 @@
         <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCduJywgbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCduJywgbikK</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmZnRfb25lJywgZmZ0X29uZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmZnRfdHdvJywgZmZ0X3R3bykK</text>
+        <text encoding="base64">VCA9IFR5cGVWYXIoJ1QnLCBpbnQsIGJvb2wpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
+        <text encoding="base64">R3JpZFtUXSA9IExpc3RbTGlzdFtUXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCduJywgbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdmZnRfb25lJywgZmZ0X29uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdmZnRfdHdvJywgZmZ0X3R3bykK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmRlZiBwaWNrX2V4dHJlbWUoYTogTGlzdFtpbnRdLCBmOiBDYWxsYWJsZVtbSXRlcmFibGVbaW50XV0sIGludF0pIC0+IGludDoKICAgIHJldHVybiBmKGEpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pass</text>
       </register>
     </registers>
     <search>
