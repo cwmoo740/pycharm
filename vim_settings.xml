@@ -15,7 +15,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1517330597235">
+      <file name="/a.dummy" timestamp="1517333859776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
@@ -298,11 +298,11 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/src/yodle/docs-server/src/sabre/job.py" timestamp="1517331885134">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="77" />
-        <mark key="^" line="13" column="77" />
-        <mark key="." line="13" column="77" />
+      <file name="$USER_HOME$/src/yodle/docs-server/src/sabre/job.py" timestamp="1517334866330">
+        <mark key="[" line="32" column="117" />
+        <mark key="]" line="32" column="114" />
+        <mark key="." line="32" column="114" />
+        <mark key="^" line="32" column="114" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/main.py" timestamp="1513704001416">
         <mark key="[" line="4" column="0" />
@@ -403,19 +403,22 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzcmMucwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IApkZWYgY3JlYXRlX2Nyb25fam9iX2NvbmZpZ3VyYXRpb24oc2FicmVfam9iLCBqb2JfbmFtZTogc3RyLCBhcHBfbmFtZTogc3RyLCBjcm9uX3RyaWdnZXIsIG1heF9mYWlsdXJlczppbnQsbWF4X2V4ZWN1dGlvbl90aW1lX3NlY29uZHM6aW50LHJldHJ5X2ludGVydmFsX3NlY29uZHM6aW50LG5vdGlmaWNhdGlvbl9lbWFpbDpzdHIpOgogICAgam9iX2RlZmluaXRpb24gPSBKb2JEZWZpbml0aW9uKAogICAgICAgIG5hbWU9am9iX25hbWUsCiAgICAgICAgCiAgICAp</text>
       </register>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>selfself</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdrYXpvby5jbGllbnQnKS5zZXRMZXZlbCgnJykK</text>
+        <text encoding="base64">ZnJvbSBzcmMucwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdrYXpvby5jbGllbnQnKS5zZXRMZXZlbCgnJykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCdwaWthJykuc2V0TGV2ZWwoJ0VSUk9SJykK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
               'max_tries': 10,
                 'max_delay': 10
@@ -424,23 +427,20 @@
                 'max_tries'
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0cnlfbWF4X2RlbGF5PTEK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWF4X3JldHJpZXM9MTAsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0LnlvZGxlLmNvbS9zY20vbGliL2Z5Z2h0ZXItcHlsb3QuZ2l0QDEuNC4wCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">emVrZT09MC4yLjIK</text>
-      </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>selfself</text>
       </register>
     </registers>
     <search>
