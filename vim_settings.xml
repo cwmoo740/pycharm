@@ -15,7 +15,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1514432843187">
+      <file name="/a.dummy" timestamp="1517275549924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/data/output/2017-11-27_2017-12-03_location_activity.csv" timestamp="1512765513513">
@@ -66,8 +66,11 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/stock_picking.py" timestamp="1517269654221">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/stock_picking.py" timestamp="1517273794444">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/src/yodle/docs-server/src/host/stash/classes.py" timestamp="1516728770157">
         <mark key="[" line="187" column="0" />
@@ -152,9 +155,9 @@
       </file>
       <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/counting_heads.py" timestamp="1517271075068">
         <mark key="[" line="15" column="4" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/src/yodle/call-quality-neural-net/src/data/__init__.py" timestamp="1513706465860">
         <mark key="[" line="0" column="22" />
@@ -174,10 +177,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517165903020">
+      <file name="/Python Console" timestamp="1517275049192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1516557791567">
+      <file name="/fragment.py" timestamp="1517274552051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -200,11 +203,11 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517269505409">
-        <mark key="[" line="93" column="31" />
-        <mark key="]" line="93" column="18" />
-        <mark key="." line="93" column="18" />
-        <mark key="^" line="93" column="18" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/pebbles.py" timestamp="1517284445540">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="54" column="36" />
+        <mark key="^" line="54" column="36" />
+        <mark key="." line="54" column="36" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/environment.yml" timestamp="1513018650016">
         <mark key="[" line="5" column="12" />
@@ -269,7 +272,7 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516924937519">
+      <file name="/Dummy.txt" timestamp="1517274497778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1513708330589">
@@ -368,38 +371,38 @@
       <jump line="21" column="12" filename="$USER_HOME$/src/gtech/alg/hw1/hotels.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKG1haW4oKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ClQgPSBUeXBlVmFyKCdUJywgaW50LCBib29sKQoKCmNsYXNzIEdyaWQoR2VuZXJpY1tUXSk6CiAgICBjb2x1bW5zOiBMaXN0W0xpc3RbVF1dCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX3Jvd19sZWdhbChjbHM6IFR5cGVbJ0dyaWQnXSwgcm93OiBMaXN0W2ludF0pIC0+IGJvb2w6CiAgICAgICAgcmV0dXJuIHJvdyBhbmQgbm90IGFueShyb3dbaV0gKyAxID09IHJvd1tpICsgMV0gZm9yIGkgaW4gcmFuZ2UobGVuKHJvdykgLSAxKSkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfbGVnYWxfcGF0dGVybnMoY2xzOiBUeXBlWydHcmlkJ10sIHJvd19sZW5ndGg6IGludCA9IDQpIC0+IExpc3RbTGlzdFtpbnRdXToKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBsaXN0KHgpCiAgICAgICAgICAgIGZvciBsIGluIHJhbmdlKHJvd19sZW5ndGgpCiAgICAgICAgICAgIGZvciB4IGluIGl0ZXJ0b29scy5jb21iaW5hdGlvbnMocmFuZ2Uocm93X2xlbmd0aCksIGwpCiAgICAgICAgICAgIGlmIGNscy5fcm93X2xlZ2FsKHgpCiAgICAgICAgXQoKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY29sdW1uczogT3B0aW9uYWxbTGlzdFtMaXN0W1RdXV0pOgogICAgICAgIHNlbGYuY29sdW1ucyA9IGNvbHVtbnMKICAgICAgICBzZWxmLnBhdHRlcm5zID0gc2VsZi5fbGVnYWxfcGF0dGVybnMoKQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyOiBVbmlvblsnR3JpZFtUXScsIExpc3RbVF1dKSAtPiAnR3JpZFtUXSc6CiAgICAgICAgaWYgaXNpbnN0YW5jZShvdGhlciwgR3JpZCk6CiAgICAgICAgICAgIHJldHVybiBHcmlkW1RdKHNlbGYuY29sdW1ucyArIG90aGVyLmNvbHVtbnMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIEdyaWRbVF0oc2VsZi5jb2x1bW5zICsgb3RoZXIpCgogICAgZGVmIGlzX3ZhbGlkKHNlbGYsIGNvbDogTGlzdFtUXSkgLT4gYm9vbDoKICAgICAgICBsYXN0X2NvbCA9IHNlbGYuY29sdW1uc1stMV0KICAgICAgICByZXR1cm4gVHJ1ZQog</text>
       </register>
       <register name="&quot;" type="4">
         <text>pass</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIF9sZWdhbF9tYXAoc2VsZiwgKTo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VCA9IFR5cGVWYXIoJ1QnLCBpbnQsIGJvb2wpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R3JpZFtUXSA9IExpc3RbTGlzdFtUXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCduJywgbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmZnRfb25lJywgZmZ0X29uZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmZnRfdHdvJywgZmZ0X3R3bykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqKioqKicpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIHJvd19sZWdhbChyb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgIHJldHVybiByb3cgYW5kIG5vdCBhbnkocm93W2ldICsgMSA9PSByb3dbaSArIDFdIGZvciBpIGluIHJhbmdlKGxlbihyb3cpIC0gMSkpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIGxlZ2FsX3BhdHRlcm5zKHJvd19sZW5ndGg6IGludCkgLT4gR3JpZE51bToKICAgICIiIgogICAgY29tcHV0ZXMgYWxsIGxlZ2FsIHBhdHRlcm5zCiAgICBBcmdzOgogICAgICAgIHJvd19sZW5ndGgKCiAgICBSZXR1cm5zOgogICAgICAgIGFsbCBwb3NzaWJsZSBwYXR0ZXJucwogICAgICAgIFtbMF0sIFsxXSwgWzJdLCBbMCwgMl0uLi5dCgogICAgIiIiCiAgICByZXR1cm4gW2xpc3QoeCkgZm9yIGwgaW4gcmFuZ2Uocm93X2xlbmd0aCkgZm9yIHggaW4gaXRlcnRvb2xzLmNvbWJpbmF0aW9ucyhyYW5nZShyb3dfbGVuZ3RoKSwgbCkgaWYgcm93X2xlZ2FsKHgpXQ==</text>
       </register>
       <register name="-" type="4">
         <text>pass</text>
