@@ -36,6 +36,12 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/divide_conquer/binary_multiplication.py" timestamp="1517680791795">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/src/gtech/alg/hw2/sequences.py" timestamp="1516511110045">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="61" />
@@ -183,7 +189,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517447220300">
+      <file name="/Python Console" timestamp="1517680435165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1517447285185">
@@ -403,46 +409,41 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0X3N0cmluZyh4OnN0ciktPmludDoKICAgIHBhc3MKZGVmIGJpbmFyeV9jb252ZXJ0X251bSh4OmludCktPnN0cjoKICAgIHJldHVybiBiaW4oeCk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>[2:]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYmxlWzFdWzBdID0gMSAtIHBbMF0K</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhYmxlWzJdWzBdID0gKDEgLSBwWzBdKSAqICgxIC0gcFsxXSkK</text>
+        <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0KHg6c3RyKS0+aW50Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhYmxlWzNdWzBdID0gKDEgLSBwWzBdKSAqICgxIC0gcFsxXSkgKiAoMSAtIHBbMl0pCg==</text>
+        <text encoding="base64">QG92ZXJsb2FkCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaiA+IDA6Cg==</text>
+      <register name="5" type="4">
+        <text>if isinstance(x, str):
+       return 5
+    else:
+        return</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZVtpXVswXQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYmxlWzFdWzFdID0gcFswXQo=</text>
+        <text encoding="base64">eHkgPSAoMl5uLzIgeF9MICsgeF9SICkoMl5uLzIgeV9MICsgeV9SICkgPSAyXm4geF9MIHlfTCArIDJebi8yICh4X0wgeV9SICsgeF9SIHlfTCApICsgeF9SIHlfUgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;&quot;
-
-        :param should_continue_execution:
-        :param instance_key:
-        :param instance_id:
-        :param attempt:
-        :param last_successful_instance_key:
-        :return:
-        &quot;&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRhYmxlWzFdWzBdID0gMSAtIHBbMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>[2:]</text>
       </register>
     </registers>
     <search>
