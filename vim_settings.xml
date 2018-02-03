@@ -345,6 +345,12 @@
         <mark key="." line="76" column="26" />
         <mark key="^" line="76" column="26" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/divide_conquer/mergesort.py" timestamp="1517696799901">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/src/kaggle/toxic/src/data.py" timestamp="1515269474517">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="10" />
@@ -412,8 +418,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgbWVyZ2UoeFsxOl0sIHkp</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqJykK</text>
@@ -440,7 +446,7 @@
         <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0X3N0cmluZyh4OnN0ciktPmludDoKICAgIHBhc3MKZGVmIGJpbmFyeV9jb252ZXJ0X251bSh4OmludCktPnN0cjoKICAgIHJldHVybiBiaW4oeCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">ICsgbWVyZ2UoeFsxOl0sIHkp</text>
       </register>
     </registers>
     <search>
