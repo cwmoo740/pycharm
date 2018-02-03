@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/oracle/models/mean.py" timestamp="1512681551573">
         <mark key="[" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/divide_conquer/binary_multiplication.py" timestamp="1517683124317">
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="30" column="25" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="30" column="25" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/divide_conquer/binary_multiplication.py" timestamp="1517685601141">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="58" column="59" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/gtech/alg/hw2/sequences.py" timestamp="1516511110045">
         <mark key="[" line="7" column="61" />
@@ -189,10 +189,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517680435165">
+      <file name="/Python Console" timestamp="1517684758389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1517447285185">
+      <file name="/fragment.py" timestamp="1517684635397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,40 +410,37 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhtaWQgPSBsZW4oeCkvMgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0X3N0cmluZyh4OnN0ciktPmludDoKICAgIHBhc3MKZGVmIGJpbmFyeV9jb252ZXJ0X251bSh4OmludCktPnN0cjoKICAgIHJldHVybiBiaW4oeCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdiaW5fbXVsdGlwbHknLCB4LCB5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0KHg6c3RyKS0+aW50Ogo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdwYWRkZWQnLCB3aGF0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG92ZXJsb2FkCg==</text>
+        <text encoding="base64">ICAgIHdoYXQ9JzAnICogKG4gLSBsZW4oeCkpICsgeAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>if isinstance(x, str):
-       return 5
-    else:
-        return</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIFAxIMOXIDJebiArIChQMyDiiJIgUDEg4oiSIFAyICkgw5cgMl5uLzIgKyBQMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eHkgPSAoMl5uLzIgeF9MICsgeF9SICkoMl5uLzIgeV9MICsgeV9SICkgPSAyXm4geF9MIHlfTCArIDJebi8yICh4X0wgeV9SICsgeF9SIHlfTCApICsgeF9SIHlfUgo=</text>
+        <text encoding="base64">ICAgIHhtaWQgPSBsZW4oeCkvMgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZGVmIGJpbmFyeV9jb252ZXJ0X3N0cmluZyh4OnN0ciktPmludDoKICAgIHBhc3MKZGVmIGJpbmFyeV9jb252ZXJ0X251bSh4OmludCktPnN0cjoKICAgIHJldHVybiBiaW4oeCk=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
     </registers>
     <search>
