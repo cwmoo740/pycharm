@@ -406,11 +406,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/coin_changing.py" timestamp="1517776120352">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="39" column="38" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/coin_changing.py" timestamp="1517777282005">
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="67" column="1" />
+        <mark key="." line="67" column="1" />
+        <mark key="^" line="67" column="1" />
       </file>
       <file name="$USER_HOME$/src/yodle/docs-server/src/config/zookeeper_config.py" timestamp="1517330467309">
         <mark key="[" line="21" column="29" />
@@ -438,35 +438,35 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text encoding="base64">dFtpXSA9IGFueSh0W2kgLSB6XSBmb3IgeiBpbiB4IGlmIGkgPj0geik=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">YW55KAogICAgICAgICAgICB0W2kteF9pXSBmb3IgeF9qIGluIHggZ2l2ZW4gaSA+PSB4X2oKICAgICAgICAp</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmRlZiBwYWxpbmRyb21lX3N1YnN0cmluZyh4OiBzdHIpIC0+IGludDoKICAgICIiIgogICAgdGFibGU6IExpc3RbTGlzdFtpbnRdXQogICAgICAgIHRhYmxlW2ldW2pdID0gbG9uZ2VzdCBwYWxpbmRyb21pYyBzdWJzdHJpbmcgaW4geCBmcm9tIGkgdG8gagogICAgICAgIGJhc2UgY2FzZTogdGFibGVbaV1bal0gPSAxIGlmIGkgPT0gagogICAgQXJnczoKICAgICAgICB4OiBhIHN0cgoKICAgIFJldHVybnM6CiAgICAgICAgdGhlIGxvbmdlc3QgcGFsaW5kcm9taWMgc3Vic3RyaW5nCiAgICAiIiIKICAgIHRhYmxlOkxpc3RbTGlzdFtpbnRdXSA9IFtbMF0qbGVuKHgpIGZvciBpIGluIHJhbmdlKGxlbih4KSldCiAgICBmb3IgaSBpbiByYW5nZShsZW4oeCkpOgogICAgICAgIHRhYmxlW2ldW2ldPTEKICAgIGZvciBpIGluIHJldmVyc2VkKHJhbmdlKGxlbih4KSkpOgogICAgICAgIGZvciBqIGluIHJhbmdlKGkrMSwgbGVuKHgpKToK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0YWJsZVtpXVtpXSA9IDEK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFibGVbaV1bal0gPSAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbigpKSAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHkgPSByYW5nZSgxMCkK</text>
-      </register>
       <register name="-" type="4">
-        <text>or i in x</text>
+        <text encoding="base64">dFtpXSA9IGFueSh0W2kgLSB6XSBmb3IgeiBpbiB4IGlmIGkgPj0geik=</text>
       </register>
     </registers>
     <search>
