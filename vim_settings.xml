@@ -330,6 +330,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/palindrome.py" timestamp="1517759743300">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="32" />
+      </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512758599459">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="28" column="64" />
@@ -428,7 +434,7 @@
         <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiB5Cg==</text>
@@ -455,7 +461,7 @@
         <text encoding="base64">ICAgIHByaW50KCdwYWRkZWQnLCB3aGF0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
