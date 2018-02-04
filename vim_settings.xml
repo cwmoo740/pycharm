@@ -195,10 +195,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1517684758389">
+      <file name="/Python Console" timestamp="1517762569402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1517684635397">
+      <file name="/fragment.py" timestamp="1517762644286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,11 +330,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/palindrome.py" timestamp="1517759743300">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/src/gtech/alg/exam1/dynamic_programming/palindrome.py" timestamp="1517762841376">
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="56" column="40" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="56" column="40" />
       </file>
       <file name="$USER_HOME$/src/yodle/anomaly-detection-models/test/postprocessing/test_data_processing.py" timestamp="1512758599459">
         <mark key="[" line="27" column="86" />
@@ -431,37 +431,37 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZVtpXVtpXSA9IDEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>subsequence</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVbaV1bal0gPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHkgPSByYW5nZSgxMCkK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbigpKSAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">OiBTZXF1ZW5jZVtpbnRdID0gJ2FiYycK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2VydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJldHVybiB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
+        <text encoding="base64">ICAgIHkgPSByYW5nZSgxMCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcqKioqKioqKioqKioqKioqKioqJykK</text>
+      <register name="7" type="4">
+        <text encoding="base64">OiBTZXF1ZW5jZVtpbnRdID0gJ2FiYycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdiaW5fbXVsdGlwbHknLCB4LCB5KQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdwYWRkZWQnLCB3aGF0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdoYWxmJywgeCwgbGVuKHgpIC8vIDIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>subsequence</text>
       </register>
     </registers>
     <search>
