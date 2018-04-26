@@ -27,11 +27,11 @@
         <mark key="." line="78" column="12" />
         <mark key="^" line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/src/gtech/gt-algorithms/final-practice-python/all_pairs_shortest_path.py" timestamp="1524779957930">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="56" />
+      <file name="$USER_HOME$/src/gtech/gt-algorithms/final-practice-python/all_pairs_shortest_path.py" timestamp="1524781035063">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/yodle/svg-utils/.gitignore" timestamp="1516032175342">
         <mark key="[" line="3" column="5" />
@@ -448,34 +448,34 @@
         <text encoding="base64">ICAgIGRlZiBfcm93X2xlZ2FsKGNsczogVHlwZVsnR3JpZCddLCByb3c6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXR1cm4gcm93IGFuZCBub3QgYW55KHJvd1tpXSArIDEgPT0gcm93W2kgKyAxXSBmb3IgaSBpbiByYW5nZShsZW4ocm93KSAtIDEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Graph</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MjMlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTAlCg==</text>
+        <text encoding="base64">MjMlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">MTAlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NCUK</text>
+        <text encoding="base64">MTAlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OCUK</text>
+        <text encoding="base64">NCUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NDAlCg==</text>
+        <text encoding="base64">OCUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">NSUK</text>
+        <text encoding="base64">NDAlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRbMF1bMF0gPSBUcnVlCg==</text>
+        <text encoding="base64">NSUK</text>
       </register>
       <register name="-" type="4">
         <text>Graph</text>
