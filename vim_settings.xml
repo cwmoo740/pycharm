@@ -27,11 +27,11 @@
         <mark key="." line="78" column="12" />
         <mark key="^" line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/src/gtech/gt-algorithms/final-practice-python/all_pairs_shortest_path.py" timestamp="1524792408224">
-        <mark key="[" line="32" column="98" />
-        <mark key="]" line="32" column="99" />
-        <mark key="^" line="32" column="99" />
-        <mark key="." line="32" column="99" />
+      <file name="$USER_HOME$/src/gtech/gt-algorithms/final-practice-python/all_pairs_shortest_path.py" timestamp="1524797034787">
+        <mark key="[" line="48" column="62" />
+        <mark key="]" line="48" column="72" />
+        <mark key="^" line="48" column="72" />
+        <mark key="." line="48" column="72" />
       </file>
       <file name="$USER_HOME$/src/yodle/svg-utils/.gitignore" timestamp="1516032175342">
         <mark key="[" line="3" column="5" />
@@ -207,10 +207,10 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="/Python Console" timestamp="1524789609174">
+      <file name="/Python Console" timestamp="1524797044847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1517779931274">
+      <file name="/fragment.py" timestamp="1524796750737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -451,7 +451,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgZGVzdCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, cost</text>
+        <text>inf</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGZvciB2ZXJ0ZXggaW4gcmFuZ2UobGVuKGdyYXBoKSk6Cg==</text>
@@ -478,7 +478,7 @@
         <text encoding="base64">MTAlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, cost</text>
+        <text>inf</text>
       </register>
     </registers>
     <search>
